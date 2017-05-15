@@ -10,9 +10,9 @@ ssh-add ~/.ssh/id_rsa
 # Copy SSH config
 cp .travis/ssh_config ~/.ssh/config
 # Set Git config
-git config --global user.name "Hexo Bot"
-git config --global user.email bot@hexo.io
+git config --global user.name "ian"
+git config --global user.email ian@gmagon.com
 # Clone the repository
-git clone git@github.com:hexojs/hexojs.github.io.git .deploy_git
+git clone git@github.com:Gmagon/src.gmagon.com.git .deploy_git  
 # Deploy to GitHub
 npm run deploy

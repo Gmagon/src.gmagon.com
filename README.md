@@ -10,7 +10,7 @@ Install dependencies:
 
 ``` bash
 $ git clone https://github.com/Gmagon/src.gmagon.com.git
-$ cd site
+$ cd src.gmagon.com
 $ npm install
 ```
 

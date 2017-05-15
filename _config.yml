@@ -20,6 +20,7 @@ theme: navy
 deploy:
   type: git
   repo: git@github.com:Gmagon/gmagon.com.git
+  branch: master
 
 disqus_shortname: gmagon
 google_analytics: UA-4910098-10
