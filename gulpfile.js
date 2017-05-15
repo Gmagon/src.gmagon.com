@@ -31,7 +31,7 @@ gulp.task('useref', ['screenshot'], function(){
 });
 
 gulp.task('screenshot:rev', function(){
-  return gulp.src('public/themes/screenshots/*.png')
+  return gulp.src('public/products/screenshots/*.png')
     .pipe($.rev())
     .pipe(gulp.dest(dirs.screenshots))
     .pipe($.rev.manifest())
@@ -62,7 +62,7 @@ gulp.task('screenshot:revreplace', ['screenshot:rev'], function(){
     .pipe($.revCollector({
       replaceReved: true,
       dirReplacements: {
-        '/themes/screenshots': '/build/screenshots'
+        '/products/screenshots': '/build/screenshots'
       }
     }))
     .pipe(gulp.dest('public/themes'));
