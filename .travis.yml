@@ -24,9 +24,9 @@ addons:
 script:
   - npm run build
 
-deploy:
-  provider: script
-  script: .travis/deploy.sh
-  skip_cleanup: true
-  on:
-    branch: master
+# deploy:
+#   provider: script
+#   script: .travis/deploy.sh
+#   skip_cleanup: true
+#   on:
+#     branch: master
