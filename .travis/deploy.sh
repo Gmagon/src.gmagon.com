@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hi, Gmagon!'
+npm --version
