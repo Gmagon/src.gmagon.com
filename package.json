@@ -6,11 +6,12 @@
     "version": "3.3.5"
   },
   "scripts": {
-    "build": "hexo generate && gulp",
+    "build": "hexo clean && hexo generate && gulp",
     "deploy": "hexo deploy"
   },
   "dependencies": {
     "cheerio": "^0.20.0",
+    "gulp-rev-collector": "^1.2.1",
     "hexo": "^3.2.2",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.4",
