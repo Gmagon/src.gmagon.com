@@ -21,7 +21,7 @@ deploy:
   type: git
   repo: git@github.com:Gmagon/gmagon.com.git
   branch: master
-  
+
 stylus:
   compress: false
   sourcemaps:
@@ -29,7 +29,7 @@ stylus:
     inline: true
 
 disqus_shortname: gmagon
-google_analytics: UA-4910098-10
+google_analytics: UA-99314951-1
 fb_admins: 100000247608790
 algolia:
   en:
