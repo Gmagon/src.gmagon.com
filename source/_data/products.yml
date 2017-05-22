@@ -1,0 +1,22 @@
+- name: Multimedia
+  description: Multimedia tools
+  list:
+    - name: TryToMP3
+      appID: com.romanysoft.app.macos.TryToMp3
+      description: It's easy to convert other formats to MP3
+      link: /products/store/trytomp3/
+      preview: /products/store/trytomp3/
+      tags:
+        - MP3
+        - Convert
+        - Audio
+
+    - name: TryToAAC
+      appID: com.romanysoft.app.macos.TryToAAC
+      description: It's easy to convert other formats to AAC
+      link: /products/store/trytoaac/
+      preview: /products/store/trytoaac/
+      tags:
+        - AAC
+        - Convert
+        - Audio
