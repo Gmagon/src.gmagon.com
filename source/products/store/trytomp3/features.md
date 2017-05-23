@@ -14,7 +14,7 @@ comments: false
 
 Format                      |        Support
 ----------------------------|------------------------------
-8SVX fibonacci |
+8SVX fibonacci | 
 AAC+ |
 AAC |
 AC-3s |
