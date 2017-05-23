@@ -12,7 +12,7 @@
     var scrollTop = document.scrollingElement.scrollTop;
 
     if (scrollTop > headerHeight){
-      toc.classList.add('fixed');
+      //toc.classList.add('fixed');
     } else {
       toc.classList.remove('fixed');
     }

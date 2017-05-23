@@ -14,10 +14,11 @@
         <a href="./download.html" class="main-nav-link">Download</a>
         <a href="./buy.html" class="main-nav-link">Buy</a>
         <a href="./docs.html" class="main-nav-link">Manuals</a>
+        <a href="./changelog.html" class="main-nav-link">Release Notes</a>
         <a href="./faq.html" class="main-nav-link">FAQ</a>
-        <a href="https://gitter.im/Gmagon/support" target="_blank" class="main-nav-link">On-line Support</a>
+        <a href="https://gitter.im/Gmagon/support" target="_blank" class="main-nav-link">Support</a>
       </nav>
-    </div>
+    </div>    
   </div>
 </header>
 

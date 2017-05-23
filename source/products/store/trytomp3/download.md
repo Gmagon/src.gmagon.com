@@ -20,4 +20,4 @@ for macOS 64-bit OS | fileSize
 ---
 
 #### Older releases
-Older releases are available [here](./old-download).
+Older releases are available [here](./old-download.html).
