@@ -2,7 +2,7 @@ layout: app
 title: TryToMP3
 subtitle: TryToMP3
 comments: false
-isIndexPage: true
+current: index
 ---
 
 

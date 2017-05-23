@@ -3,4 +3,5 @@ title: Manuals | TryToMP3
 subtitle: Documentation
 comments: false
 product: TryToMP3
+current: docs
 ---

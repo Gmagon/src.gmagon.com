@@ -2,6 +2,7 @@ layout: app
 title: Release Notes | TryToMP3
 subtitle: Release Notes
 comments: false
+current: changelog
 ---
 
 
