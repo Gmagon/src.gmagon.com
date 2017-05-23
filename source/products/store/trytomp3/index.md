@@ -16,7 +16,7 @@ Learn more [about TryToMP3](./features.html).
 <a href="./download.html"> Download </a>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/s2_664x374_op.png)voice
+![](./images/screens/s2_664x374_op.png)
 
 
 
@@ -31,7 +31,9 @@ TryToMP3 delivers high-quality MP3 format designed for every kind of Mac users. 
 ![](./images/screens/movie_664x374.png)
 <br>
 
-1. **Voice Fetish**: Deep and low-pitched voices are always attracting, especially for girls. Do you feel a chill up and down your spine when you hear the voice of Benedict Cumberbatch? If yes, our product is definitely designed for you.  
+1. **Voice Fetish**: Deep and low-pitched voices are always attracting, especially for girls. Do you feel a chill up and down your spine when you hear the voice of Benedict Cumberbatch? If yes, our product is definitely designed for you. <br> 
 ![](./images/screens/A-Voice.jpg)
+<br>
 
-1. **Foreign Language Learners**: Recited a large amount of vocabularies, but still cannot understand a word when foreigners talking to you. You need to change the way of study. Keep on listening is crucial for learning a language. TryToMP3 may help you save a lot of money from language institutions.    
+1. **Foreign Language Learners**: Recited a large amount of vocabularies, but still cannot understand a word when foreigners talking to you. You need to change the way of study. Keep on listening is crucial for learning a language. TryToMP3 may help you save a lot of money from language institutions.  <br>  
+![](./images/screens/language.jpg)

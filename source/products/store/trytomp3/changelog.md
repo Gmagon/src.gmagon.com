@@ -7,14 +7,14 @@ current: changelog
 
 
 ## v4.0
-<sub> release this 13 days ago.
+<sub> released this 13 days ago.
 
 ### Fixed
 
-- 修复不能多次转换的问题
+- Fixed the multiple conversion problem.
 
 ### Update
 
-- 更新UI界面，代码重新编写
+- UI update and code rewriting.
 
 ## Downloads
