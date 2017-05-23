@@ -6,13 +6,13 @@ product: TryToMP3
 current: download
 ---
 
-## <strong>Download</strong>
+## <strong>DOWNLOAD</strong>
 
 #### <b>The current stable version is: 4.0</b>
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 
-for macOS 64-bit OS | fileSize
+for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
 [Download TryToMP3-v4.0.zip](http://www.filefactory.com/file/1qdp23p1d8bn/TryToMP3-4.0.zip)    | (~16.2MiB)
 [Download TryToMP3-v4.0.dmg](http://www.filefactory.com/file/1xer72rbm2dr/TryToMP3-4.0.dmg)    | (~16.7MiB)
@@ -20,5 +20,5 @@ for macOS 64-bit OS | fileSize
 
 ---
 
-#### Older releases
+#### Older Releases
 Older releases are available [here](./old-download.html).

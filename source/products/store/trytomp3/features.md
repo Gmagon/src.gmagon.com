@@ -5,7 +5,7 @@ comments: false
 current: features
 ---
 
-## Features
+## FEATURES
 
 - Built for Mac users only
 - Super-quick transformation
