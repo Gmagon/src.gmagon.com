@@ -2,6 +2,7 @@ layout: app
 title: Frequently asked questions (FAQ) | TryToMP3
 subtitle: Frequently asked questions (FAQ)
 comments: false
+current: faq
 ---
 
 

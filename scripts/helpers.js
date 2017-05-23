@@ -23,6 +23,14 @@ hexo.extend.helper.register('products_count', function(categoryList){
   return result;
 });
 
+hexo.extend.helper.register('nav_link_active', function(current, compare){
+  if (current === compare) {
+    return 'main-nav-link-active';
+  }
+
+  return '';
+});
+
 hexo.extend.helper.register('page_nav', function(){
   var type = this.page.canonical_path.split('/')[0];
   var sidebar = this.site.data.sidebar[type];

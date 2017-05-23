@@ -2,6 +2,7 @@ layout: app
 title: Features | TryToMP3
 subtitle: Features
 comments: false
+current: features
 ---
 
 ## Features
