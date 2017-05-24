@@ -12,8 +12,8 @@ current: old-download
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 
-for macOS 64-bit OS | fileSize
+for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download TryToMP3-v4.0.zip]()    | (~12.6MiB)
-[Download TryToMP3-v4.0.dmg]()    | (~12.7MiB)
-[Download TryToMP3-v4.0.pkg]()    | (~12.7MiB)
+[Download TryToMP3-v4.0.zip](http://www.filefactory.com/file/1qdp23p1d8bn/TryToMP3-4.0.zip)    | (~16.2MiB)
+[Download TryToMP3-v4.0.dmg](http://www.filefactory.com/file/1xer72rbm2dr/TryToMP3-4.0.dmg)    | (~16.7MiB)
+[Download TryToMP3-v4.0.pkg](http://www.filefactory.com/file/3f5ftdfqfci5/TryToMP3-4.0.pkg.zip)    | (~16MiB)
