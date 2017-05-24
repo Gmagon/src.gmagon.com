@@ -22,4 +22,4 @@ Promotion Code | Expiry Date
 ---
 
 ### Buy From The Apple App Store
-<div class="cls-banner-start-link"> <i class="fa fa-apple fa-3x" aria-hidden="true"></i> <span> Buy Online from the Apple App Store </span><i class="fa fa-angle-double-right"></i></div>
+<a href="https://itunes.apple.com/us/app/trytomp3/id849023081?l=zh&ls=1&mt=12" target="_blank"><span class="cls-banner-start-link"> <i class="fa fa-apple fa-3x" aria-hidden="true"></i> <span> Buy Online from the Apple App Store </span><i class="fa fa-angle-double-right"></i></span> </a>

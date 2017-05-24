@@ -17,7 +17,7 @@ current: changelog
 
 ## v4.0
 <script>
-  var releaseDate = '2017-05-18';
+  var releaseDate = '2017-05-24';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
 
@@ -29,4 +29,12 @@ current: changelog
 
 - UI update and code rewriting.
 
-## Downloads
+### Downloads
+
+for macOS 64-bit OS | FileSize
+------------------------------ | -------------------------
+[Download TryToMP3-v4.0.zip](http://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip)    | (~16.2MiB)
+[Download TryToMP3-v4.0.dmg](http://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg)    | (~16.7MiB)
+[Download TryToMP3-v4.0.pkg](http://www.filefactory.com/file/5qmrduv0im5r/TryToMP3-4.0.pkg.zip)    | (~16MiB)
+
+---
