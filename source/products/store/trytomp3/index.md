@@ -9,7 +9,7 @@ current: index
 ## OVERVIEW
 
 
-**TryToMP3** is an audio converter which runs on Mac. It aims to convert various audio formats to MP3 for users. The software can intelligently recognize most audio formats and transfer it to MP3 quickly. Without landing or registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. Just try it!
+**TryToMP3** is an audio converter which runs on Mac. It aims to convert various audio formats to MP3 for users. The software can intelligently recognize most audio formats and transfer it to MP3 quickly. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. Just try it!
 
 Learn more [about TryToMP3](./features.html).
 
