@@ -13,7 +13,7 @@ current: index
 
 Learn more [about TryToMP3](./features.html).
 
-<div class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"> <i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></div>
+<a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
