@@ -13,7 +13,7 @@
         <a href="./features.html" class="main-nav-link {{ nav_link_active(page.current, 'features') }} ">FEATURES</a>
         <a href="./download.html" class="main-nav-link {{ nav_link_active(page.current, 'download') }} ">DOWNLOAD</a>
         <a href="./buy.html" class="main-nav-link {{ nav_link_active(page.current, 'buy') }} ">BUY ONLINE</a>
-        <a href="./docs.html" class="main-nav-link {{ nav_link_active(page.current, 'docs') }} ">MANUALS</a>
+        <a href="./docs.html" class="main-nav-link {{ nav_link_active(page.current, 'docs') }} ">MANUAL</a>
         <a href="./changelog.html" class="main-nav-link {{ nav_link_active(page.current, 'changelog') }} ">RELEASE NOTES</a>
         <a href="./faq.html" class="main-nav-link {{ nav_link_active(page.current, 'faq') }} ">FAQ</a>
         <a href="https://gitter.im/Gmagon/support" target="_blank" class="main-nav-link">SUPPORT</a>
