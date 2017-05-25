@@ -29,6 +29,20 @@ Version 4.0
 A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could dissapointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority. 
 
 
-TryToMP3 is an audio converter tool which aims to convert various audio formats to the MP3 format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToMP3 and trasfered as MP3 format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and    
+TryToMP3 is an audio converter tool which aims to convert various audio formats to the MP3 format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToMP3 and transfered as MP3 format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToMP3, you are able to join our community and get our excellent after-sale services.  
 
-TryToMP3 is an audio converter which runs on Mac. It aims to convert various audio formats to MP3 for users. The software can intelligently recognize most audio formats and transfer it to MP3 quickly. Without landing or registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere.
+<br>
+### **Installation**:
+TryToMP3 runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+
+There are three kind of install package in "DOWNLOAD" page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+
+The trial version for users is also avaliable in [DOWNLOAD](./download.html), and combined with the install package. You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
+
+![](.\images\screens\trial version_640x400.png) 
+
+
+If you encounter any problems during or after installing TryToMP3 please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
+
+
+
