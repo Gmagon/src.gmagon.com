@@ -36,4 +36,10 @@ TryToMP3 is an audio converter tool which aims to convert various audio formats 
 TryToMP3 runs on Mac only, MacOSX 10.7 Mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in DOWNLOAD. 
 
 The trial version for users is avaliable in DOWNLOAD, and combined with the install package. You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
-![]()
+
+![](.\images\screens\trial version_1440x900.png) 
+
+If you encounter any problems during or after installing TryToMP3 please refer to Frequently Asked Questions (FAQ) first.
+
+
+
