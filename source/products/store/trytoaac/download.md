@@ -1,8 +1,8 @@
 layout: app
-title: Download | TryToMP3
+title: Download | TryToAAC
 subtitle: Download
 comments: false
-product: TryToMP3
+product: TryToAAC
 current: download
 ---
 
@@ -14,9 +14,9 @@ For detailed info on what's new, read the [release notes](./changelog.html).
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download TryToMP3-v4.0.zip](http://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip)    | (~16.2MiB)
-[Download TryToMP3-v4.0.dmg](http://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg)    | (~16.7MiB)
-[Download TryToMP3-v4.0.pkg](http://www.filefactory.com/file/5qmrduv0im5r/TryToMP3-4.0.pkg.zip)    | (~16MiB)
+[Download TryToAAC-v4.0.zip](http://www.filefactory.com/file/c4z8ppop6r5/TryToAAC-4.0.zip)    | (~16.0MiB)
+[Download TryToAAC-v4.0.dmg](http://www.filefactory.com/file/5vrdbybrnf3l/TryToAAC-4.0.dmg)    | (~16.3MiB)
+[Download TryToAAC-v4.0.pkg](http://www.filefactory.com/file/8vihd2l1ond/TryToAAC-4.0.pkg.zip)    | (~15.7MiB)
 
 ---
 
