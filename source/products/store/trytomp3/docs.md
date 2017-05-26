@@ -22,11 +22,12 @@ Version 4.0
 
 >Have you got into trouble when you put other audio formats into your player?
 
-  If you answered "yes" to at least one of these questions, then TryToMP3 is definitely designed for you. If you are interedsted to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience by our company.
+  If you answered "yes" to at least one of these questions, then TryToMP3 is definitely designed for you. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience by our company.
 
 <br>
  ### **Introduction**:
-A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could dissapointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority. 
+A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could disappointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority. It always fit with most popular players.
+
 
 
 TryToMP3 is an audio converter tool which aims to convert various audio formats to the MP3 format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToMP3 and transfered as MP3 format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToMP3, you are able to join our community and get our excellent after-sale services.  
@@ -53,6 +54,8 @@ First of all, you need to open the file and run it, the window of TryToMP3 will 
 
 ![](.\images\screens\coupon code_640x374.png) 
 <br>
-In addition, after you finished the purchasing process of the product, you can get the active code from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
+In addition, after you finished the purchasing process of the product, you can get the active code from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation. Now, you can feel free to use TryToMP3 in your computer anytime and ererywhere.
 
 ![](.\images\screens\license key_640x374.png)
+
+Hope the TryToMP3 will help you enjoy a high-quality listening experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in [support center](./support) and join our community. we will strive to provide the best services we can offer with our customers. 
