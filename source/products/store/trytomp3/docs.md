@@ -26,7 +26,7 @@ Version 4.0
 
 <br>
  ### **Introduction**:
-A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could disappointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority. It always fit with most popular players.
+A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could disappointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority, because it always fit with most popular players.
 
 
 
