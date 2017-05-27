@@ -8,13 +8,9 @@ comment: true
 
 
 {% raw %}
-
-<link href="https://cdn.jsdelivr.net/mediaelement/4.1.0/mediaelementplayer-legacy.min.css" rel="stylesheet">
-<script src="https://cdn.jsdelivr.net/mediaelement/4.1.0/mediaelement-and-player.min.js"></script>
 <audio id="player2" preload="none" controls style="max-width: 100%">
   <source src="http://www.largesound.com/ashborytour/sound/AshboryBYU.mp3" type="audio/mp3">
 </audio>
-
 {% endraw %}
 
 
