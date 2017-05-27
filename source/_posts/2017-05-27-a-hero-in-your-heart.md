@@ -12,7 +12,7 @@ title: A Hero In Your Heart
 
 ** Headphones in my ears with a beautiful song Hero… **
 
-*I enjoy the melody and the lyrics:* 
+I enjoy the melody and the lyrics:
 
 *“There’s a hero, if you look inside your heart,* 
 
