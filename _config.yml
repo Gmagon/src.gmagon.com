@@ -1,21 +1,35 @@
 title: Gmagon Software Official Website - Fast, simple & powerful solutions for everyone.
 subtitle: "Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support."
 description: "Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support."
-author: Gmagon
+author: Gmagon Inc
 language: en
 timezone: UTC
+
+# 配置网址
 url: https://gmagon.com
 root: /
-permalink: news/:year/:month/:day/:title/
-archive_dir: news
-code_dir: downloads/code
+
+# 配置创建文章的形式
+permalink: blog/:year/:month/:day/:title/
 new_post_name: :year-:month-:day-:title.md # File name of new posts
-post_asset_folder: true
+
+# 配置目录
+archive_dir: blog  # 归档文件夹
+category_dir: blog/category
+code_dir: downloads/code
+
+# 针对文章的特殊处理
+default_layout: post  # 预设布局
+post_asset_folder: true #启动 Asset 文件夹
+filename_case: 1 # 把文件名称转换为 (1) 小写或 (2) 大写	0
+
 highlight:
   enable: true
-  line_number: false
+  line_number: true
 per_page: 0
 
+
+# 集成主题样式处理
 theme: navy
 deploy:
   type: git
@@ -28,21 +42,22 @@ stylus:
     comment: true
     inline: true
 
+# 集成第三方评论系统
 disqus_shortname: gmagon
+
+# 集成Google分析系统
 google_analytics: UA-99314951-1
-fb_admins: 100000247608790
+
+# Gmagon官方FaceBook账号主页 https://www.facebook.com/432634277117208/photos/432654660448503/
+fb_admins: 432634277117208
+
+# 集成全文搜索功能第三方系统
 algolia:
   en:
-    api_key: c3d5d4c995b5e0c2ffb5623900279a66
-    index_name: hexo
-  zh-tw:
-    api_key: c83d2ec3440f40aec6d0e695ecec7ef3
-    index_name: hexo_zh-tw
-  zh-cn:
-    api_key: cdea7d4e47d84f6145b77e7f68689f35
-    index_name: hexo_zh-cn
+    api_key: 7a75d3ee07f1e82ea4271e0c58c114c3
+    index_name: gmagon
 
-
+# 链接到社交媒体站点
 weibo: gmagon
 github: gmagon
 twitter: gmagonshare
