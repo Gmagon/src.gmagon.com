@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.7"
+    "version": "3.3.5"
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
@@ -12,7 +12,7 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "gulp-rev-collector": "^1.2.2",
-    "hexo": "^3.3.7",
+    "hexo": "3.3.5",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.1.0",
