@@ -1,44 +1,42 @@
 ---
-title: Tape Rewind
+title: A Hero In Your Heart
 ---
 
+![](https://68.media.tumblr.com/b558339bf2e8a74548075bb4ac55bd47/tumblr_inline_oqdwxuhPEC1um1hre_540.jpg)
 
-![](https://68.media.tumblr.com/6850a1450256dbad6d0a0eb9881523b7/tumblr_inline_oqgbku5CfS1um1hre_540.jpg)
 
 {% raw %}
-<audio id="player2" preload="none" controls style="max-width: 100%">
-  <source src="Colbie Caillat - Try.mp3" type="audio/mp3">
-</audio>
+<audio id="audio-player" src="Hero - Mariah Carey (Lyrics).mp3" type="audio/mp3" controls="controls" autoplay="autoplay"></audio>
 {% endraw %}
 
-**On rainy day**
-**Finding a  quiet place.**
-**With  A cop of coffee; A book; A song  **
-**Recalling the past, thinking about the future.**
-**Yesterday, Today, Tomorrow.** 
-**Day after day.**
-**A history of recurrent after another.**
+** Headphones in my ears with a beautiful song Hero… **
 
+I enjoy the melody and the lyrics:
 
-I am the one who like recalling, one of my friends said when you began to recall, it means you are old…Maybe, ha ha…
+*“There’s a hero, if you look inside your heart,*
 
-When it comes to memory, you may notice that I have mentioned Walk Man in my previous essay,  but can’t find it for a long time, then began to search in internet , find an interesting video “KIDS REACT TO WALKMAN (Portable Cassette Players)” 
+*you don’t have to be afraid of what you are.*
+
+*There’s an answer. If you reach into your soul.*
+
+*And the sorrow that you know, will melt away…"*
+
+** I once saw a saying in a blog “you may not fancy a certain singer, but you must like listening music, because some melodies or lyrics show things for the occasion you like, or both of the two.” **
+
+I enjoy wearing my headphone and listening music in my sad or happy time. Even when I am running, walking, reading, or sleeping in bed, I indulge myself in a musical world and cannot take my headphone off. Do you have a moment that a lot of memories appear in your mind, you just want to spend time with your favorite music.
+
+** Everyone has a dream, and has been working hard to realize this dream. **
+
+After graduation from my university, I left my hometown to a strange city in the first time, and lived in unfamiliar environment, because I just wanted to achieve career success. While facing the pressure of work, I only wanted to go home, even gave up. ** On such occasion, I always took out my tiny Walk Man, put headphones in my ears and enjoyed my favorite song-Hero by Mariah Carey. ** The song always has the magic power that helps me go through troubled water. Finally, I insisted on the work, and witnessed my growth.
+
+The Hero is a powerful song that can go into your heart, even go into your soul, you can get the answer, all the doubts are gone, a strong hero will stand out. With no fear, I believe that I can insist. When I feel with no hope, get into my deep heart, be strong, be powerful. Finally, you will find you are the hero.
+
+** We all know that it is very difficult in the process of realizing a dream, but no one can crush your own dream, don’t give up, tomorrow you will find your way. **
+
+I have special emotion to all the songs in my Sony Walk Man. Hero is just one of them.
+
+When I am sad, play the happy songs, when I am thinking, play the soft ones, ** just enjoy… **
 
 {% raw %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk_vV-JRZ6E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0IA3ZvCkRkQ?list=RD0IA3ZvCkRkQ" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
-
-**Below the video , I notice some interesting comments ：**
-
-*1.Considering most of children in the video were born in the 2000’s, they should’ve seen VCRs and VHS tapes and cassette players.﻿ What a sad thing it is .*
-
-*2.I’m only 12, but I think old technology is so cool. Without it, there would be no iPhones, iPads, laptops, or anything like that. All of these things like cassette tapes started all of this. I think more people need to appreciate things like this. I’m not hating, I’m just saying people need to appreciate this.﻿*
-
-*3.Don’t feel sorry for us growing up in the 90’s ( Also for me in 80’s ). I feel sorry for kids growing up now, everything is to easy today. I still prefer my old NES with the original Super Mario and Zelda over today’s ps3/4 and those new call of duty games… Growing up in the 90’s was one of the greatest thing I can imagine!﻿*
-
-After seeing these , my memory turns back to the time when I am in school, I remember that every classmate carried Walk Man in their backpack everyday,  every night we have to charge the batteries,(or it will be power off) ,then next day equipped Walk Man with them, put a tape which has nice songs into Walk Man , listened the songs , if you want to listen the song twice , you can rewind the tape; Years later we had MP3 , it is more convenient, we can charge the MP3 directly,  download music in the Internet ,and can listen to a song recycling many times …
-
-In this rainy day, listening the song “Try "again and again…
-I love the feelings that headphone in my ears with beautiful sounds. **Just enjoy…**
-
-
