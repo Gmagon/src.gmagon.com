@@ -23,7 +23,7 @@ I am the one who like recalling, one of my friends said when you began to recall
 When it comes to memory, you may notice that I have mentioned Walk Man in my previous essay,  but can’t find it for a long time, then began to search in internet , find an interesting video “KIDS REACT TO WALKMAN (Portable Cassette Players)”
 
 {% raw %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk_vV-JRZ6E" frameborder="0" allowfullscreen></iframe>
+<iframe class="post-item-video" width="560" height="315" src="https://www.youtube.com/embed/Uk_vV-JRZ6E" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
 
 **Below the video , I notice some interesting comments ：**

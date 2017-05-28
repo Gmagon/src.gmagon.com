@@ -38,5 +38,5 @@ I have special emotion to all the songs in my Sony Walk Man. Hero is just one of
 When I am sad, play the happy songs, when I am thinking, play the soft ones, ** just enjoy… **
 
 {% raw %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0IA3ZvCkRkQ?list=RD0IA3ZvCkRkQ" frameborder="0" allowfullscreen></iframe>
+<iframe class="post-item-video" width="560" height="315" src="https://www.youtube.com/embed/0IA3ZvCkRkQ?list=RD0IA3ZvCkRkQ" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
