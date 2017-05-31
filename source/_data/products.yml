@@ -11,12 +11,12 @@
         - Convert
         - Audio
 
-    # - name: TryToAAC
-    #   appID: com.romanysoft.app.macos.TryToAAC
-    #   description: It's easy to convert other formats to AAC
-    #   link: /products/store/trytoaac/
-    #   preview: /products/store/trytoaac/
-    #   tags:
-    #     - AAC
-    #     - Convert
-    #     - Audio
+    - name: TryToAAC
+      appID: com.romanysoft.app.macos.TryToAAC
+      description: It's easy to convert other formats to AAC
+      link: /products/store/trytoaac/
+      preview: /products/store/trytoaac/
+      tags:
+        - AAC
+        - Convert
+        - Audio
