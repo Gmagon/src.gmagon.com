@@ -27,14 +27,14 @@ Version 4.0
 
 <br>
  ### **Introduction**:
-AAC, which stands for Advanced Audio Coding, is a type of digital audio file and has been promoted as the successor to the MP3. AAC generally offers higher-quality sound than an MP3 while using the same amount of disk space, or less. AAC has been spreadly 
+AAC, which stands for Advanced Audio Coding, is a type of digital audio file and has been promoted as the successor to the MP3. AAC generally offers higher-quality sound than an MP3 while using the same amount of disk space, or less. AAC has been widely used in Apple products for a long time, then a range of non-Apple devices, including Sony Walkman, Amazon Music, Unlimited, Nintento, Deezer, and mobile phones running Google's Android OS, etc. What's more, it is also popular in broadcasting and streaming TV. 
 
 
-TryToMP3 is an audio converter tool which aims to convert various audio formats to the MP3 format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToMP3 and transfered as MP3 format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToMP3, you are able to join our community and get our excellent after-sale services.  
+TryToAAC is an audio converter tool which aims to convert various audio formats to the AAC format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToAAC and transfered as AAC format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToAAC, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-TryToMP3 runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+TryToAAC runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 There are three kind of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
@@ -43,14 +43,14 @@ There are three kind of install package in DOWNLOAD page, you need to choose one
 ![](.\images\screens\trial version_640x400.png) 
 
 
-If you encounter any problems during or after installing TryToMP3 please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
+If you encounter any problems during or after installing TryToAAC please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
 
 <br>
 ### **User Guide**:
-This section describes daily use guide to the TryToMP3 client. It instructs you how to use the software in details after the installation finished.
+This section describes daily use guide to the TryToAAC client. It instructs you how to use the software in details after the installation finished.
  
-First of all, you need to open the file and run it, the window of TryToMP3 will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html). In the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. In the store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
+First of all, you need to open the file and run it, the window of TryToAAC will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html). In the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. In the store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
 
 ![](.\images\screens\coupon code_640x374.png) 
 <br>

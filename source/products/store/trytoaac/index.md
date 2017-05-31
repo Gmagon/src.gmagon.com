@@ -1,6 +1,6 @@
 layout: app
-title: TryToMP3
-subtitle: TryToMP3
+title: TryToAAC
+subtitle: TryToAAC
 comments: false
 current: index
 ---
@@ -17,25 +17,24 @@ Learn more [about TryToAAC](./features.html).
 <br>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/s2_664x374_op.png)
+![](./images/screens/AAC_1440X834.png)
 
-
+<br>
 
 ## USE CASES: BUILT FOR YOU
 TryToAAC aims to satisfy various requirements for different users. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
 
 1. **Apple Fans**: Apple has long been the main supporter of AAC format. AAC has been used by iTunes store since its inception, and is currently used by Apple Music. It is also the native file format for iTunes. Compared to MP3, AAC is generally slightly smaller, and sounds slightly better. It is compatible with iPad, iPhone, Macbooks and of course, tiny iPod. It is undoubted that a true Apple fan favor AAC for their digital music.
 <br>
-![](./images/screens/Listening-to-music.small_-664x374.jpg)
+![](images/screens/apple addict_840x493.png)
 <br>
-
+<br>
 1. **Users for Non-Apple Devices**: In fact, AAC was not created by Apple and is not a proprietary Apple format. While AAC is slightly less widely supported than MP3, virtually any modern media device can use it. For example, Sony Walkman, Amazon Music, Unlimited, Nintento, Deezer, Microsoft Zune, and mobile phones running Google's Android OS, etc. 
 <br>
-![](./images/screens/movie_664x374.png)
+![](images/screens/non-apple_840x493.jpg)
 <br>
-
-1. **Users for Streaming TV or Radio Broadcast**: AAC is the hottest format and was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.
+1. **Users for Streaming TV or Radio Broadcast**: AAC is the hottest format whichs was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.
 <br>
-<img src='./images/screens/A-Voice.jpg' style='width: 664px'>
+![](images/screens/radio%20stations_840x493.jpg)
 <br>
 

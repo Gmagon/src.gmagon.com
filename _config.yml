@@ -53,6 +53,10 @@ fb_admins: 432634277117208
 
 # 集成全文搜索功能第三方系统
 algolia:
+  applicationID: 0N1JDE4A9C
+  apiKey: 7a75d3ee07f1e82ea4271e0c58c114c3
+  adminApiKey: 25fcd2d032c6e3d139090a5252259c91
+  indexName: gmagon
   en:
     api_key: 7a75d3ee07f1e82ea4271e0c58c114c3
     index_name: gmagon
