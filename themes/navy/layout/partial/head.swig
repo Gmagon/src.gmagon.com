@@ -45,6 +45,15 @@
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
+
+  <!-- ForPostLayout -->
+  {% if page.layout == 'post' %}
+    {# {{ css('css/common_audio') }} #}
+    {# {{ css('js/mediaelement/mediaelementplayer.min') }} #}
+    {# {{ js('js/mediaelement/mediaelement-and-player.min') }} #}
+  {% endif %}
+  <!-- endForPostLayout -->
+
   {# <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css"> #}
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
@@ -57,6 +66,8 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
+  <!-- jQuery -->
+  {{ partial('jquery') }}
   <!-- Github Button -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
