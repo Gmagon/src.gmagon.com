@@ -9,9 +9,9 @@ current: index
 ## OVERVIEW
 
 
-**TryToMP3** is an audio converter which runs on Mac. It aims to convert various audio formats to MP3 for users. The software can intelligently recognize most audio formats and transfer it to MP3 quickly. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. Just try it!
+**TryToAAC** is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
-Learn more [about TryToMP3](./features.html).
+Learn more [about TryToAAC](./features.html).
 
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
@@ -22,19 +22,20 @@ Learn more [about TryToMP3](./features.html).
 
 
 ## USE CASES: BUILT FOR YOU
-TryToMP3 delivers high-quality MP3 format designed for every kind of Mac users. Users for MP3-players are able to keep their devices without concerns. Avid movie goers get a well-content tool to aftertaste memorable movie lines. As a voice fetish, you can easily get your favorite voice from TryToMP3. Listening is a key to learn foreign languages, TryToMP3 will be a good helper for you to learn a new language.
+TryToAAC aims to satisfy various requirements for different users. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
 
-1. **MP3-player Users**: Heard the recent stories that MP3 has been killed? Wondered whether throw away the MP3-player you just bought last month or not? Please show mercy! Maybe it’s time for you to try this software to save MP3. At least, your MP3-player is not dead at all.<br>
+1. **Apple Fans**: Apple has long been the main supporter of AAC format. AAC has been used by iTunes store since its inception, and is currently used by Apple Music. It is also the native file format for iTunes. Compared to MP3, AAC is generally slightly smaller, and sounds slightly better. It is compatible with iPad, iPhone, Macbooks and of course, tiny iPod. It is undoubted that a true Apple fan favor AAC for their digital music.
+<br>
 ![](./images/screens/Listening-to-music.small_-664x374.jpg)
 <br>
 
-1. **Avid Movie Goers**: Can’t help to hear wonderful music in movies again? The dialogue is so interesting or profound that revolves in your hand? Why not try to convert such videos to MP3 format, so that you can listen freely your favorite part whenever you want.<br>
+1. **Users for Non-Apple Devices**: In fact, AAC was not created by Apple and is not a proprietary Apple format. While AAC is slightly less widely supported than MP3, virtually any modern media device can use it. For example, Sony Walkman, Amazon Music, Unlimited, Nintento, Deezer, Microsoft Zune, and mobile phones running Google's Android OS, etc. 
+<br>
 ![](./images/screens/movie_664x374.png)
 <br>
 
-1. **Voice Fetish**: Deep and low-pitched voices are always attracting, especially for girls. Do you feel a chill up and down your spine when you hear the voice of Benedict Cumberbatch? If yes, our product is definitely designed for you. <br>
+1. **Users for Streaming TV or Radio Broadcast**: AAC is the hottest format and was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.
+<br>
 <img src='./images/screens/A-Voice.jpg' style='width: 664px'>
 <br>
 
-1. **Foreign Language Learners**: Recited a large amount of vocabularies, but still cannot understand a word when foreigners talking to you. You need to change the way of study. Keep on listening is crucial for learning a language. TryToMP3 may help you save a lot of money from language institutions.  <br>  
-<img src='./images/screens/language.jpg' style='width: 664px'>
