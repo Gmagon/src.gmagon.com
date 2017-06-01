@@ -21,12 +21,12 @@
         - Convert
         - Audio
 
-    - name: TryToWMA
-      appID: com.romanysoft.app.macos.TryToWMA
-      description: It's easy to convert other formats to WMA(.wma)
-      link: /products/store/trytowma/
-      preview: /products/store/trytowma/
-      tags:
-        - WMA
-        - Convert
-        - Audio
+    # - name: TryToWMA
+    #   appID: com.romanysoft.app.macos.TryToWMA
+    #   description: It's easy to convert other formats to WMA(.wma)
+    #   link: /products/store/trytowma/
+    #   preview: /products/store/trytowma/
+    #   tags:
+    #     - WMA
+    #     - Convert
+    #     - Audio

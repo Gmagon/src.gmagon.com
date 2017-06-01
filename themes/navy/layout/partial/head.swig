@@ -46,17 +46,27 @@
   {{ css('css/navy') }}
   <!-- endbuild -->
 
+  <!-- jQuery -->
+  {{ partial('jquery') }}
+
+  {# <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css"> #}
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+
   <!-- ForPostLayout -->
-  {% if page.layout == 'post' %}
-    {# {{ css('css/common_audio') }} #}
+  {% if page.layout == 'post' or page.layout == 'app' %}
+    {{ js('jssocials-1.4.0/jssocials.min.js') }}
+    {{ css('jssocials-1.4.0/jssocials.css') }}
+    {{ css('jssocials-1.4.0/jssocials-theme-flat.css') }}
+
     {# {{ css('js/mediaelement/mediaelementplayer.min') }} #}
     {# {{ js('js/mediaelement/mediaelement-and-player.min') }} #}
+
   {% endif %}
   <!-- endForPostLayout -->
 
-  {# <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css"> #}
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
   <!-- Open Graph -->
@@ -66,8 +76,6 @@
   }) }}
   <!-- Google Analytics -->
   {{ partial('google_analytics') }}
-  <!-- jQuery -->
-  {{ partial('jquery') }}
   <!-- Github Button -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>

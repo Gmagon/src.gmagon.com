@@ -12,12 +12,12 @@
     <Product_UIN>APP-01151886376</Product_UIN>
     <Search_String>TryToMP3</Search_String>
     <Publish_on_CD>FALSE</Publish_on_CD>
+    <Press_Release_Search_String>TryToMP3</Press_Release_Search_String>
+    <NewsFeed_Search_String>TryToMP3</NewsFeed_Search_String>
+    <Search_Engine_Search_String>TryToMP3</Search_Engine_Search_String>
+    <Web_Directories_Search_String>TryToMP3</Web_Directories_Search_String>
+    <Search_String_Unique>TryToMP3</Search_String_Unique>
     <RSProductType></RSProductType>
-    <Press_Release_Search_String></Press_Release_Search_String>
-    <NewsFeed_Search_String></NewsFeed_Search_String>
-    <Search_Engine_Search_String></Search_Engine_Search_String>
-    <Web_Directories_Search_String></Web_Directories_Search_String>
-    <Search_String_Unique></Search_String_Unique>
     <Comments_For_Reviewer></Comments_For_Reviewer>
     <Backlink></Backlink>
   </RoboSoft>
@@ -33,15 +33,15 @@
     <Contact_Info>
       <Contact_First_Name>Ian</Contact_First_Name>
       <Contact_Last_Name>Sun</Contact_Last_Name>
-      <Contact_Email>ian@gmagon.com</Contact_Email>
+      <Contact_Email>support@gmagon.com</Contact_Email>
       <Author_First_Name>Ian</Author_First_Name>
       <Author_Last_Name>Sun</Author_Last_Name>
-      <Author_Email>ian@gmagon.com</Author_Email>
+      <Author_Email>support@gmagon.com</Author_Email>
     </Contact_Info>
     <Support_Info>
-      <Sales_Email>ian@gmagon.com</Sales_Email>
-      <Support_Email>ian@gmagon.com</Support_Email>
-      <General_Email>ian@gmagon.com</General_Email>
+      <Sales_Email>support@gmagon.com</Sales_Email>
+      <Support_Email>support@gmagon.com</Support_Email>
+      <General_Email>support@gmagon.com</General_Email>
       <Sales_Phone></Sales_Phone>
       <Support_Phone></Support_Phone>
       <General_Phone></General_Phone>
@@ -49,9 +49,9 @@
     </Support_Info>
     <GooglePlusPage></GooglePlusPage>
     <LinkedinPage></LinkedinPage>
-    <TwitterCompanyPage>https://twitter.com/</TwitterCompanyPage>
-    <FacebookCompanyPage></FacebookCompanyPage>
-    <CompanyStorePage></CompanyStorePage>
+    <TwitterCompanyPage>https://twitter.com/gmagonshare</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/gmagonshare</FacebookCompanyPage>
+    <CompanyStorePage>https://gmagon.com/</CompanyStorePage>
   </Company_Info>
   <NewsFeed>
     <NewsFeed_FORM>Y</NewsFeed_FORM>
@@ -61,7 +61,7 @@
     <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
     <NewsFeed_Language>English</NewsFeed_Language>
     <NewsFeed_Purpose>News</NewsFeed_Purpose>
-    <NewsFeed_Author_Email>ian@gmagon.com</NewsFeed_Author_Email>
+    <NewsFeed_Author_Email>support@gmagon.com</NewsFeed_Author_Email>
     <NewsFeed_Author_First_Name>Ian</NewsFeed_Author_First_Name>
     <NewsFeed_Author_Last_Name>Sun</NewsFeed_Author_Last_Name>
     <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
@@ -76,7 +76,7 @@
     <Site_VERSION>1.0</Site_VERSION>
     <Site_URL>http://Submit-Everywhere.com/extensions/Site.htm</Site_URL>
     <Site_DESCRIPTION>This PAD extension allows you to add your site info into your PAD file. This info can be used by site submission software or by web directories themselves.</Site_DESCRIPTION>
-    <Site_Contact_Email>ian@gmagon.com</Site_Contact_Email>
+    <Site_Contact_Email>support@gmagon.com</Site_Contact_Email>
     <Site_Contact_First_Name>Ian</Site_Contact_First_Name>
     <Site_Contact_Last_Name>Sun</Site_Contact_Last_Name>
     <Site_Description_100>TryToMP3 is an audio converter which runs on Mac OS X/ macOS. It aims to convert</Site_Description_100>
@@ -102,7 +102,7 @@
   </Dynamic_PAD>
   <Program_Info>
     <File_Info>
-      <Automatically_Detect_File_Size>N</Automatically_Detect_File_Size>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
       <File_Size_Bytes>16674308</File_Size_Bytes>
       <File_Size_K>16283</File_Size_K>
       <File_Size_MB>15.90</File_Size_MB>
@@ -123,6 +123,12 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac OS X 10.6,Mac OS X 10.7,Mac OS X 10.8,Mac OS X 10.9</Program_OS_Support>
     <Program_Language>English</Program_Language>
+    <Program_Change_Info>Fixed
+
+Fixed the multiple conversion problem.
+Update
+
+UI update and code rewriting.</Program_Change_Info>
     <Program_System_Requirements>1.MacOSX 10.7 mac OS (64-bit) or newer is required. 2.Admin privileges for the Installation</Program_System_Requirements>
     <Program_Category_Class>Audio &amp; Multimedia::Rippers &amp; Converters</Program_Category_Class>
     <Expire_Info>
@@ -135,7 +141,6 @@
       <Expire_Year></Expire_Year>
     </Expire_Info>
     <Program_Categories>MP3 Rippers &amp; Converters,Rippers,Converters,Audio,Multimedia</Program_Categories>
-    <Program_Change_Info>update the file version</Program_Change_Info>
     <Limitations>1.MacOSX 10.7 mac OS (64-bit) or newer is required. 2.Admin privileges for the Installation</Limitations>
     <Program_Cost_Other_Code></Program_Cost_Other_Code>
     <Program_Cost_Other></Program_Cost_Other>
@@ -147,18 +152,21 @@
     <FacebookProductPage></FacebookProductPage>
     <GooglePlusProductPage></GooglePlusProductPage>
   </Program_Info>
+  <Allmyapps>
+    <Allmyapps_Terms_And_Conditions>N</Allmyapps_Terms_And_Conditions>
+  </Allmyapps>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://gmagon.com/products/store/trytomp3/index.html</Application_Info_URL>
       <Application_Order_URL>https://gmagon.com/products/store/trytomp3/buy.html</Application_Order_URL>
-      <Application_Screenshot_URL>http://gmagon.com/products/store/trytomp3/images/screens/trytomp3_screen_1_800x500.png</Application_Screenshot_URL>
-      <Application_Icon_URL>http://gmagon.com/products/store/trytomp3/images/logo/logo_32x32.png</Application_Icon_URL>
-      <Application_XML_File_URL>http://hosted.dynamicpad.org/info/app-01151886376/TryToMP3_pad.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://gmagon.com/products/store/trytomp3/images/screens/trytomp3_screen_1_800x500.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://gmagon.com/products/store/trytomp3/images/logo/logo_32x32.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://gmagon.com/products/store/trytomp3/pads/trytomp3_mac_pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg</Primary_Download_URL>
-      <Secondary_Download_URL>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Additional_Download_URL_1>
+      <Primary_Download_URL>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Primary_Download_URL>
+      <Secondary_Download_URL>https://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://www.filefactory.com/file/5qmrduv0im5r/TryToMP3-4.0.pkg.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
@@ -166,9 +174,6 @@
     <Distribution_Permissions>https://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg</Distribution_Permissions>
     <EULA>http://gmagon.com/end-user-license-agreement.html</EULA>
   </Permissions>
-  <Allmyapps>
-    <Allmyapps_Terms_And_Conditions>N</Allmyapps_Terms_And_Conditions>
-  </Allmyapps>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>

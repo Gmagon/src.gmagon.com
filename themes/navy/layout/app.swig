@@ -36,6 +36,7 @@
                   <time class="article-footer-updated" datetime="{{ date_xml(page.updated) }}" itemprop="dateModified">{{ __('page.last_updated', date(page.updated)) }}</time>
                   {{ page_nav() }}
                 </footer>
+                {{ partial('partial/share') }}
                 {{ partial('partial/comment') }}
               </div>
             </div>
@@ -49,7 +50,6 @@
           </div>
         </article>
         {{ partial('partial/sidebar') }}
-
       </div>
     </div>
 </div>
