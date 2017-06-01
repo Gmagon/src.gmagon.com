@@ -12,12 +12,12 @@
     <Product_UIN>APP-01151886376</Product_UIN>
     <Search_String>TryToMP3</Search_String>
     <Publish_on_CD>FALSE</Publish_on_CD>
+    <Press_Release_Search_String>TryToMP3</Press_Release_Search_String>
+    <NewsFeed_Search_String>TryToMP3</NewsFeed_Search_String>
+    <Search_Engine_Search_String>TryToMP3</Search_Engine_Search_String>
+    <Web_Directories_Search_String>TryToMP3</Web_Directories_Search_String>
+    <Search_String_Unique>TryToMP3</Search_String_Unique>
     <RSProductType></RSProductType>
-    <Press_Release_Search_String></Press_Release_Search_String>
-    <NewsFeed_Search_String></NewsFeed_Search_String>
-    <Search_Engine_Search_String></Search_Engine_Search_String>
-    <Web_Directories_Search_String></Web_Directories_Search_String>
-    <Search_String_Unique></Search_String_Unique>
     <Comments_For_Reviewer></Comments_For_Reviewer>
     <Backlink></Backlink>
   </RoboSoft>
@@ -49,9 +49,9 @@
     </Support_Info>
     <GooglePlusPage></GooglePlusPage>
     <LinkedinPage></LinkedinPage>
-    <TwitterCompanyPage>https://twitter.com/</TwitterCompanyPage>
-    <FacebookCompanyPage></FacebookCompanyPage>
-    <CompanyStorePage></CompanyStorePage>
+    <TwitterCompanyPage>https://twitter.com/gmagonshare</TwitterCompanyPage>
+    <FacebookCompanyPage>https://www.facebook.com/gmagonshare</FacebookCompanyPage>
+    <CompanyStorePage>https://gmagon.com/</CompanyStorePage>
   </Company_Info>
   <NewsFeed>
     <NewsFeed_FORM>Y</NewsFeed_FORM>
@@ -102,7 +102,7 @@
   </Dynamic_PAD>
   <Program_Info>
     <File_Info>
-      <Automatically_Detect_File_Size>N</Automatically_Detect_File_Size>
+      <Automatically_Detect_File_Size>Y</Automatically_Detect_File_Size>
       <File_Size_Bytes>16674308</File_Size_Bytes>
       <File_Size_K>16283</File_Size_K>
       <File_Size_MB>15.90</File_Size_MB>
@@ -123,7 +123,12 @@
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
     <Program_OS_Support>Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac OS X 10.6,Mac OS X 10.7,Mac OS X 10.8,Mac OS X 10.9</Program_OS_Support>
     <Program_Language>English</Program_Language>
-    <Program_Change_Info>update the file version</Program_Change_Info>
+    <Program_Change_Info>Fixed
+
+Fixed the multiple conversion problem.
+Update
+
+UI update and code rewriting.</Program_Change_Info>
     <Program_System_Requirements>1.MacOSX 10.7 mac OS (64-bit) or newer is required. 2.Admin privileges for the Installation</Program_System_Requirements>
     <Program_Category_Class>Audio &amp; Multimedia::Rippers &amp; Converters</Program_Category_Class>
     <Expire_Info>
@@ -154,14 +159,14 @@
     <Application_URLs>
       <Application_Info_URL>https://gmagon.com/products/store/trytomp3/index.html</Application_Info_URL>
       <Application_Order_URL>https://gmagon.com/products/store/trytomp3/buy.html</Application_Order_URL>
-      <Application_Screenshot_URL>http://gmagon.com/products/store/trytomp3/images/screens/trytomp3_screen_1_800x500.png</Application_Screenshot_URL>
-      <Application_Icon_URL>http://gmagon.com/products/store/trytomp3/images/logo/logo_32x32.png</Application_Icon_URL>
-      <Application_XML_File_URL>http://hosted.dynamicpad.org/info/app-01151886376/TryToMP3_pad.xml</Application_XML_File_URL>
+      <Application_Screenshot_URL>https://gmagon.com/products/store/trytomp3/images/screens/trytomp3_screen_1_800x500.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://gmagon.com/products/store/trytomp3/images/logo/logo_32x32.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://gmagon.com/products/store/trytomp3/pads/trytomp3_mac_pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg</Primary_Download_URL>
-      <Secondary_Download_URL>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Additional_Download_URL_1>
+      <Primary_Download_URL>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Primary_Download_URL>
+      <Secondary_Download_URL>https://www.filefactory.com/file/3qwu6u3p09mz/TryToMP3-4.0.dmg</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://www.filefactory.com/file/5qmrduv0im5r/TryToMP3-4.0.pkg.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2>https://www.filefactory.com/file/34if5zmfkj2d/TryToMP3-4.0.zip</Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
