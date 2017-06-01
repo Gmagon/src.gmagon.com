@@ -50,12 +50,12 @@
   {{ partial('jquery') }}
 
   {# <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css"> #}
-  
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
 
   <!-- ForPostLayout -->
-  {% if page.layout == 'post' %}
+  {% if page.layout == 'post' or page.layout == 'app' %}
     {{ js('jssocials-1.4.0/jssocials.min.js') }}
     {{ css('jssocials-1.4.0/jssocials.css') }}
     {{ css('jssocials-1.4.0/jssocials-theme-flat.css') }}
