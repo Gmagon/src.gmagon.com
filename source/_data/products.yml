@@ -11,22 +11,22 @@
         - Convert
         - Audio
 
-    - name: TryToAAC
-      appID: com.romanysoft.app.macos.TryToAAC
-      description: It's easy to convert other formats to AAC(.aac)
-      link: /products/store/trytoaac/
-      preview: /products/store/trytoaac/
-      tags:
-        - AAC
-        - Convert
-        - Audio
-
-    - name: TryToWMA
-      appID: com.romanysoft.app.macos.TryToWMA
-      description: It's easy to convert other formats to WMA(.wma)
-      link: /products/store/trytowma/
-      preview: /products/store/trytowma/
-      tags:
-        - WMA
-        - Convert
-        - Audio
+    # - name: TryToAAC
+    #   appID: com.romanysoft.app.macos.TryToAAC
+    #   description: It's easy to convert other formats to AAC(.aac)
+    #   link: /products/store/trytoaac/
+    #   preview: /products/store/trytoaac/
+    #   tags:
+    #     - AAC
+    #     - Convert
+    #     - Audio
+    #
+    # - name: TryToWMA
+    #   appID: com.romanysoft.app.macos.TryToWMA
+    #   description: It's easy to convert other formats to WMA(.wma)
+    #   link: /products/store/trytowma/
+    #   preview: /products/store/trytowma/
+    #   tags:
+    #     - WMA
+    #     - Convert
+    #     - Audio
