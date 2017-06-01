@@ -14,7 +14,7 @@ If you buy from the official purchase link, we will offer you after-sales servic
 <a href="https://shopper.mycommerce.com/checkout/cart/add/55399-10" target="_blank"><span class="cls-banner-start-link"> <i class="fa fa-shopping-bag fa-3x" aria-hidden="true"></i> <span> Buy Now </span> <i class="fa fa-angle-double-right"></i> </span></a>
 
 
-Promotion Code | Expiry Date
+Coupon Code | Expiry Date
 ------ | -------
 **YISW-SV4H-DFDF** | ~ 2017.8.31
 

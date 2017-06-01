@@ -50,12 +50,18 @@ If you encounter any problems during or after installing TryToMP3 please refer t
 ### **User Guide**:
 This section describes daily use guide to the TryToMP3 client. It instructs you how to use the software in details after the installation finished.
  
-First of all, you need to open the file and run it, the window of TryToMP3 will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html). In the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. In the store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
-
+1. First of all, you need to open the file and run it, the window of TryToMP3 will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html). 
+<br>
+2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
+<br>
+![](.\images\screens\coupon_640x374.png)
+<br>
+3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
+<br>
 ![](.\images\screens\coupon code_640x374.png) 
 <br>
-In addition, after you finished the purchasing process of the product, you can get the active code from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation. Now, you can feel free to use TryToMP3 in your computer anytime and ererywhere.
-
+4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation. Now, you can feel free to use TryToMP3 in your computer anytime and ererywhere.
+<br>
 ![](.\images\screens\license key_640x374.png)
-
-Hope the TryToMP3 will help you enjoy a high-quality listening experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in [support center](./support) and join our community. we will strive to provide the best services we can offer with our customers. 
+<br>
+Hope the TryToMP3 will help you enjoy a high-quality listening experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in [Support Center](./support) and join our community. We will strive to provide the best services we can offer with our customers. 
