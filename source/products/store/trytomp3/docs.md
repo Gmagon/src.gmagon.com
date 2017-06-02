@@ -16,7 +16,7 @@ Version 4.0
 
  ### **Preface**:
 
->Do you have a MP3 player or more?
+>Do you have an MP3 player or more?
 
 >Do you enjoy listening music or any other audio?
 
@@ -60,7 +60,7 @@ This section describes daily use guide to the TryToMP3 client. It instructs you 
 <br>
 ![](.\images\screens\coupon code_640x374.png) 
 <br>
-4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation. Now, you can feel free to use TryToMP3 in your computer anytime and ererywhere.
+4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation. Now, you can feel free to use TryToMP3 in your computer anytime and everywhere.
 <br>
 ![](.\images\screens\license key_640x374.png)
 <br>

@@ -24,19 +24,17 @@ Learn more [about TryToWMA](./features.html).
 ## USE CASES: BUILT FOR YOU
 TryToWMA delivers high-quality WMA format and is designed for every kind of Mac users. WMA fitS Mac devices and most popular media players. Users for MP3-players are able to use WMA to save much more room than MP3 format with similar audio quality. Apple users also can use WMA format freely in their iTunes. Other users are able to convert other formats to WMA file so as to save much room while maintaining unchanged audio quality. 
 
-1. **MP3-player Users**: Most users for tiny, portable MP3-players are likely to face a dilemma that the storage space is so limited that you cannot store enough audio files as you wish. As a conceived competitor to the popular MP3, WMA enjoys its superiority. For WMA could produce files that were half the size of equivalent-quality MP3 files, it is also praised as "near CD-quality" audio. In short, WMA was intended to address perceived deficiencies in the MP3 standard. So users can use smaller WMA file to replace MP3.
+1. **MP3-player Users**: Most users for tiny, portable MP3-players are likely to face a dilemma that the storage space is so limited that you cannot store enough audio files as you wish. As a conceived competitor to the popular MP3, WMA enjoys its superiority. For WMA could produce files that were half the size of equivalent-quality MP3 files, it is also praised as "near CD-quality" audio. In short, WMA was intended to address perceived deficiencies in the MP3 standard. So users can use smaller WMA file to replace MP3 file.
 <br>
 ![](./images/screens/Listening-to-music.small_-664x374.jpg)
 <br>
 
-1. **Apple Users**: Though WMA is a proprietary technology that is designed by Microsoft and forms part of the Windows Media framework, it can also be used in Apple devices. Because Apple has been supported WMA for a long time, and makes it as popular as MP3 format. So Apple users including 
+1. **Apple Users**: Though WMA is a proprietary technology that is designed by Microsoft and forms part of the Windows Media framework, it can also be used in Apple devices. Because iTunes of Apple has been supported WMA for a long time, and makes it as popular as MP3 format. So Apple devices including iPhone, iPad, iPod, and Macbook all support WMA file and Apple users can feel free to convert other formats to WMA format.
 <br>
 ![](./images/screens/movie_664x374.png)
 <br>
 
-1. **Voice Fetish**: Deep and low-pitched voices are always attracting, especially for girls. Do you feel a chill up and down your spine when you hear the voice of Benedict Cumberbatch? If yes, our product is definitely designed for you. <br>
+1. **Network Streaming and Mobile Devices**: Audio files that are produced by WMA account for half the size of MP3 at the premise of equivalent audio quality. It means that the number of stored audio files doubled with the same storage space, and it will not damage the audio quality. Therefore, WMA files is suitable for network media players and mobile devices. For example, ALLPlayer, VLC media player, Media Player Classic, MPlayer, RealPlayer, Winamp Zune Software, etc. <br>
 <img src='./images/screens/A-Voice.jpg' style='width: 664px'>
 <br>
 
-1. **Foreign Language Learners**: Recited a large amount of vocabularies, but still cannot understand a word when foreigners talking to you. You need to change the way of study. Keep on listening is crucial for learning a language. TryToWMA may help you save a lot of money from language institutions.  <br>  
-<img src='./images/screens/language.jpg' style='width: 664px'>
