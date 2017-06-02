@@ -2,7 +2,7 @@
 title: A Hero In Your Heart
 ---
 
-![](https://68.media.tumblr.com/b558339bf2e8a74548075bb4ac55bd47/tumblr_inline_oqdwxuhPEC1um1hre_540.jpg)
+![](tumblr_inline_oqdwxuhPEC1um1hre_540.jpg)
 
 
 {% raw %}
