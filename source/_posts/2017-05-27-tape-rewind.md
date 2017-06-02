@@ -3,7 +3,7 @@ title: Tape Rewind
 ---
 
 
-![](https://68.media.tumblr.com/6850a1450256dbad6d0a0eb9881523b7/tumblr_inline_oqgbku5CfS1um1hre_540.jpg)
+![](tumblr_inline_oqgbku5CfS1um1hre_540.jpg)
 
 {% raw %}
 <audio id="audio-player" src="https://res.cloudinary.com/gmagonshare/video/upload/v1496219810/Colbie_Caillat_-_Try_v0sobx.mp3" type="audio/mp3" controls="controls" autoplay="autoplay"></audio>
