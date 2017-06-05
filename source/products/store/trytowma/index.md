@@ -16,25 +16,23 @@ Learn more [about TryToWMA](./features.html).
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-<!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/s2_664x374_op.png)
+![](./images/screens/trytowma_screen_1_1440x900.png)
 
 
-
+<br>
 ## USE CASES: BUILT FOR YOU
-TryToWMA delivers high-quality WMA format and is designed for every kind of Mac users. WMA fitS Mac devices and most popular media players. Users for MP3-players are able to use WMA to save much more room than MP3 format with similar audio quality. Apple users also can use WMA format freely in their iTunes. Other users are able to convert other formats to WMA file so as to save much room while maintaining unchanged audio quality. 
+TryToWMA delivers high-quality WMA format and is designed for every kind of Mac users. WMA fits Mac devices and most popular media players. Users for MP3-players are able to use WMA to save much more room than MP3 format with similar audio quality. Apple users also can use WMA format freely in their iTunes. Other users are able to convert other formats to WMA file so as to save much room while maintaining unchanged audio quality. 
 
-1. **MP3-player Users**: Most users for tiny, portable MP3-players are likely to face a dilemma that the storage space is so limited that you cannot store enough audio files as you wish. As a conceived competitor to the popular MP3, WMA enjoys its superiority. For WMA could produce files that were half the size of equivalent-quality MP3 files, it is also praised as "near CD-quality" audio. In short, WMA was intended to address perceived deficiencies in the MP3 standard. So users can use smaller WMA file to replace MP3 file.
+1. **MP3-player Users**: Most users for tiny, portable MP3-players are likely to face a dilemma that the storage space is so limited that you cannot store enough audio files as you wish. As a conceived competitor to the popular MP3, WMA enjoys its superiority. For WMA could produce files that were half the size of equivalent-quality MP3 files, it is also praised as "near CD-quality" audio. In short, WMA was intended to address perceived deficiencies in the MP3 standard. So users can use smaller WMA files to replace MP3 files.
 <br>
-![](./images/screens/Listening-to-music.small_-664x374.jpg)
+![](./images/screens/trytowma_mp3_850x480.jpg)
 <br>
-
 1. **Apple Users**: Though WMA is a proprietary technology that is designed by Microsoft and forms part of the Windows Media framework, it can also be used in Apple devices. Because iTunes of Apple has been supported WMA for a long time, and makes it as popular as MP3 format. So Apple devices including iPhone, iPad, iPod, and Macbook all support WMA file and Apple users can feel free to convert other formats to WMA format.
 <br>
-![](./images/screens/movie_664x374.png)
+![](./images/screens/trytowma_apple_850x480.jpg)
 <br>
 
 1. **Network Streaming and Mobile Devices**: Audio files that are produced by WMA account for half the size of MP3 at the premise of equivalent audio quality. It means that the number of stored audio files doubled with the same storage space, and it will not damage the audio quality. Therefore, WMA files is suitable for network media players and mobile devices. For example, ALLPlayer, VLC media player, Media Player Classic, MPlayer, RealPlayer, Winamp Zune Software, etc. <br>
-<img src='./images/screens/A-Voice.jpg' style='width: 664px'>
 <br>
-
+![](./images/screens/trytowma_network_850x480.png)
+<br>

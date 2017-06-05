@@ -43,7 +43,7 @@ There are three kind of install package in DOWNLOAD page, you need to choose one
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](images/screens/trail%20version_800x500.png) 
+![](./images/screens/trytoaac_trail%20version_800x500.png) 
 
 If you encounter any problems during or after installing TryToAAC please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -61,7 +61,7 @@ This section describes daily use guide to the TryToAAC client. It instructs you 
 <br>
 ![](.\images\screens\coupon_800x450.png) 
 <br>
-4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the softwdare, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
+4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
 ![](.\images\screens\license key_800x450.png)  
 <br>
