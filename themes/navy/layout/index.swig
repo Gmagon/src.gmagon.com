@@ -15,9 +15,9 @@
         {{ page.content }}
       </div>
 
-      {# <div id="intro-get-started-wrap">
-        <a href="docs/" id="intro-get-started-link">{{ __('index.get_started') }}</a>
-      </div> #}
+      <div class="intro-sub-content-wrap">
+
+      </div>
     </div>
   </div>
 </div>
