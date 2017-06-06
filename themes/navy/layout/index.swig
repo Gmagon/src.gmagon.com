@@ -1,10 +1,12 @@
 <header id="banner" class="wrapper">
   <div class="inner">
-    <h2 id="banner-title">{{ __('commondata.solutions_description') }}</h2>
-    <div id="banner-start">
-      <a id="banner-start-link" href="products/">Find more about solutions</a>
+    <div class="inner-wrap">
+      <h2 id="banner-title">{{ __('commondata.solutions_description') }}</h2>
+      <div id="banner-start">
+        <a id="banner-start-link" href="products/">Find more about solutions</a>
+      </div>
+      {# <div id="banner-share">{{ partial('partial/share') }}</div> #}
     </div>
-    {# <div id="banner-share">{{ partial('partial/share') }}</div> #}
   </div>
 </header>
 <div id="content-wrap">

@@ -10,7 +10,7 @@ lang-select-height = 40px
   width: mobile-nav-width
   left: @width * -1
   height: 100%
-  background: color-navy
+  background: color-mobile-nav-background
   transition: transition-duration
   font-family: font-title
   .mobile-nav-on &
@@ -43,7 +43,7 @@ lang-select-height = 40px
     display: none
 
 .mobile-nav-toggle-bar
-  background: #fff
+  background: color-mobile-nav-font
   position: absolute
   left: 0
   width: 100%
@@ -65,7 +65,7 @@ lang-select-height = 40px
       transform: rotate(-45deg)
 
 .mobile-nav-link
-  color: #fff
+  color: color-mobile-nav-font
   text-decoration: none
   display: block
   padding: 10px 15px
@@ -91,12 +91,12 @@ lang-select-height = 40px
   bottom: 0
   left: 0
   width: 100%
-  background: color-navy
+  background: color-mobile-nav-background
   border-top: 1px solid #444
 
 #mobile-lang-select-label
   line-height: lang-select-height
-  color: #fff
+  color: color-mobile-nav-font
   padding: 10px 15px
   i
     opacity: 0.7

@@ -1,23 +1,25 @@
 <header id="banner" class="wrapper">
   <div class="inner">
-    <img src="./images/logo/logo_128x128.png">
-    <h2 id="banner-app-title">{{ page.subtitle }}</h2>
-    {# <div id="banner-start">
-      {% if !page.isIndexPage %}
-        <a id="banner-start-link" href="./index.html"><i class="fa fa-arrow-left"></i></a><span id="banner-start-description">Back to Overview</span>
-      {% endif %}
-    </div> #}
-    <div class="banner-menu app-menus">
-      <nav>
-        <a href="./index.html" class="main-nav-link {{ nav_link_active(page.current, 'index') }} ">OVERVIEW</a>
-        <a href="./features.html" class="main-nav-link {{ nav_link_active(page.current, 'features') }} ">FEATURES</a>
-        <a href="./download.html" class="main-nav-link {{ nav_link_active(page.current, 'download') }} ">DOWNLOAD</a>
-        <a href="./buy.html" class="main-nav-link {{ nav_link_active(page.current, 'buy') }} ">BUY ONLINE</a>
-        <a href="./docs.html" class="main-nav-link {{ nav_link_active(page.current, 'docs') }} ">MANUAL</a>
-        <a href="./changelog.html" class="main-nav-link {{ nav_link_active(page.current, 'changelog') }} ">RELEASE NOTES</a>
-        <a href="./faq.html" class="main-nav-link {{ nav_link_active(page.current, 'faq') }} ">FAQ</a>
-        <a href="https://gitter.im/Gmagon/support" target="_blank" class="main-nav-link">SUPPORT</a>
-      </nav>
+    <div class="inner-wrap">
+      <img class="app-logo" src="./images/logo/logo_128x128.png">
+      <h2 id="banner-app-title">{{ page.subtitle }}</h2>
+      {# <div id="banner-start">
+        {% if !page.isIndexPage %}
+          <a id="banner-start-link" href="./index.html"><i class="fa fa-arrow-left"></i></a><span id="banner-start-description">Back to Overview</span>
+        {% endif %}
+      </div> #}
+      <div class="banner-menu app-menus">
+        <nav>
+          <a href="./index.html" class="main-nav-link {{ nav_link_active(page.current, 'index') }} ">OVERVIEW</a>
+          <a href="./features.html" class="main-nav-link {{ nav_link_active(page.current, 'features') }} ">FEATURES</a>
+          <a href="./download.html" class="main-nav-link {{ nav_link_active(page.current, 'download') }} ">DOWNLOAD</a>
+          <a href="./buy.html" class="main-nav-link {{ nav_link_active(page.current, 'buy') }} ">BUY ONLINE</a>
+          <a href="./docs.html" class="main-nav-link {{ nav_link_active(page.current, 'docs') }} ">MANUAL</a>
+          <a href="./changelog.html" class="main-nav-link {{ nav_link_active(page.current, 'changelog') }} ">RELEASE NOTES</a>
+          <a href="./faq.html" class="main-nav-link {{ nav_link_active(page.current, 'faq') }} ">FAQ</a>
+          <a href="https://gitter.im/Gmagon/support" target="_blank" class="main-nav-link">SUPPORT</a>
+        </nav>
+      </div>
     </div>
   </div>
 </header>

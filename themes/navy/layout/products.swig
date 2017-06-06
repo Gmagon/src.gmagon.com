@@ -1,9 +1,11 @@
 <header id="banner" class="wrapper">
   <div class="inner">
-    <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>
-    <div id="banner-start">
-    </div>
-    {# <div id="banner-share">{{ partial('partial/share') }}</div> #}
+    <div class="inner-wrap">
+      <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>
+      <div id="banner-start">
+      </div>
+      {# <div id="banner-share">{{ partial('partial/share') }}</div> #}
+    </div>  
   </div>
 </header>
 
