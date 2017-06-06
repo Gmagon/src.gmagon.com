@@ -21,7 +21,7 @@ Learn more [about TryToWMA](./features.html).
 
 <br>
 ## USE CASES: BUILT FOR YOU
-TryToWMA delivers high-quality WMA format and is designed for every kind of Mac users. WMA fits Mac devices and most popular media players. Users for MP3-players are able to use WMA to save much more room than MP3 format with similar audio quality. Apple users also can use WMA format freely in their iTunes. Other users are able to convert other formats to WMA file so as to save much room while maintaining unchanged audio quality. 
+TryToWMA delivers high-quality WMA format and is designed for every kind of Mac users. WMA fits Mac devices and most popular media players. Users for MP3-players are able to use WMA to save much more room than MP3 format with similar audio quality. Apple users also can use WMA format freely in their iTunes. Other users are able to convert other formats to WMA file so as to save much more room while maintaining unchanged audio quality. 
 
 1. **MP3-player Users**: Most users for tiny, portable MP3-players are likely to face a dilemma which the storage space is so limited that you cannot store enough audio files as you wish. As a conceived competitor to the popular MP3, WMA enjoys its superiority. For WMA could produce files that were half the size of equivalent-quality MP3 files, it is also praised as "near CD-quality" audio. In short, WMA was intended to address perceived deficiencies in the MP3 standard. So users can use smaller WMA files to replace MP3 files.
 <br>
