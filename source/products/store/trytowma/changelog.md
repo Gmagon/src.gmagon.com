@@ -33,8 +33,9 @@ current: changelog
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download TryToAAC-v4.0.zip](http://www.filefactory.com/file/c4z8ppop6r5/TryToAAC-4.0.zip)    | (~16.0MiB)
-[Download TryToAAC-v4.0.dmg](http://www.filefactory.com/file/5vrdbybrnf3l/TryToAAC-4.0.dmg)    | (~16.3MiB)
-[Download TryToAAC-v4.0.pkg](http://www.filefactory.com/file/8vihd2l1ond/TryToAAC-4.0.pkg.zip)    | (~15.7MiB)
+[Download TryToWMA-v4.0.zip](http://www.filefactory.com/file/4xi5ifkrdho7/TryToWMA-4.0.zip)    | (~16.0MiB)
+[Download TryToWMA-v4.0.dmg](http://www.filefactory.com/file/70h5n9ox4h1l/TryToWMA-4.0.dmg)    | (~16.3MiB)
+[Download TryToWMA-v4.0.pkg](http://www.filefactory.com/file/6ixb152bme71/TryToWMA-4.0.pkg.zip)    | (~16.7MiB)
+
 
 ---
