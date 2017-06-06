@@ -7,7 +7,7 @@
         <a id="banner-start-link" href="./index.html"><i class="fa fa-arrow-left"></i></a><span id="banner-start-description">Back to Overview</span>
       {% endif %}
     </div> #}
-    <div class="banner-menu">
+    <div class="banner-menu app-menus">
       <nav>
         <a href="./index.html" class="main-nav-link {{ nav_link_active(page.current, 'index') }} ">OVERVIEW</a>
         <a href="./features.html" class="main-nav-link {{ nav_link_active(page.current, 'features') }} ">FEATURES</a>
