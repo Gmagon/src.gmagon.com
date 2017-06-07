@@ -30,3 +30,14 @@
         - WMA
         - Convert
         - Audio
+
+    - name: TryToFLAC
+      appID: com.romanysoft.app.macos.TryToFLAC
+      description: It's easy to convert other formats to FLAC(.flac)
+      link: /products/store/trytoflac/
+      preview: /products/store/trytoflac/
+      tags:
+        - FLAC
+        - Convert
+        - Audio
+        - Lossless Audio
