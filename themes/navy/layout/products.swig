@@ -1,15 +1,15 @@
-<header id="banner" class="wrapper">
+<div class="class-content-wrap">
   <div class="inner">
     <div class="inner-wrap">
       <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>
       <div id="banner-start">
+        <a id="banner-start-link" href="https://gitter.im/Gmagon/support" target="_blank">We're here to help.</a>
       </div>
-      {# <div id="banner-share">{{ partial('partial/share') }}</div> #}
-    </div>  
+    </div>
   </div>
-</header>
+</div>
 
-<div id="content-wrap">
+<div class="class-content-wrap">
   <div class="wrapper">
     <div class="inner">
       <header id="product-list-header">
@@ -31,4 +31,14 @@
     </div>
   </div>
 </div>
+
+<div class="class-content-wrap">
+  <div class="inner">
+    <div class="inner-wrap">
+      <div class="intro-sub-content-wrap">
+      </div>
+    </div>
+  </div>
+</div>
+
 <script>window.SEARCH_INDEX = {{ lunr_index(site.data[page.data], 'products') }}</script>

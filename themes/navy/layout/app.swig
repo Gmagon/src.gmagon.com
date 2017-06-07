@@ -1,4 +1,4 @@
-<header id="banner" class="wrapper">
+<div class="class-content-wrap">
   <div class="inner">
     <div class="inner-wrap">
       <img class="app-logo" src="./images/logo/logo_128x128.png">
@@ -22,9 +22,9 @@
       </div>
     </div>
   </div>
-</header>
+</div>
 
-<div id="content-wrap">
+<div class="class-content-wrap">
   <div class="wrapper">
     <div class="inner">
         <article class="article-container" itemscope itemtype="http://schema.org/Article">
