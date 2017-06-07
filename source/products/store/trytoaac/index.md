@@ -33,7 +33,7 @@ TryToAAC aims to satisfy various requirements for different users. Fans of Apple
 <br>
 ![](images/screens/non-apple_840x493.jpg)
 <br>
-1. **Users for Streaming TV or Radio Broadcast**: AAC is the hottest format whichs was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.
+1. **Users for Streaming TV or Radio Broadcast**: AAC is the hottest format which was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.
 <br>
 ![](images/screens/radio%20stations_840x493.jpg)
 <br>
