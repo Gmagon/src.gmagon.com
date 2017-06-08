@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | TryToAAC
+title: Release Notes | TryToFLAC
 subtitle: Release Notes
 comments: false
 current: changelog
@@ -33,8 +33,9 @@ current: changelog
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download TryToAAC-v4.0.zip](http://www.filefactory.com/file/c4z8ppop6r5/TryToAAC-4.0.zip)    | (~16.0MiB)
-[Download TryToAAC-v4.0.dmg](http://www.filefactory.com/file/5vrdbybrnf3l/TryToAAC-4.0.dmg)    | (~16.3MiB)
-[Download TryToAAC-v4.0.pkg](http://www.filefactory.com/file/8vihd2l1ond/TryToAAC-4.0.pkg.zip)    | (~15.7MiB)
+[Download TryToFLAC-v4.0.zip](http://www.filefactory.com/file/6o92m8tyzott/TryToFLAC-4.0.zip)    | (~15.9MiB)
+[Download TryToFLAC-v4.0.dmg](http://www.filefactory.com/file/3nmz0js5vn9d/TryToFLAC-4.0.dmg)    | (~15.8MiB)
+[Download TryToFLAC-v4.0.pkg](http://www.filefactory.com/file/72z7dj94i6qp/TryToFLAC-4.0.pkg.zip)    | (~16.0MiB)
+
 
 ---

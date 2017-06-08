@@ -42,7 +42,7 @@ There are three kind of install package in DOWNLOAD page, you need to choose one
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/trytoFLAC_trail%20version_800x500.png) 
+![](./images/screens/trytoflac_trail%20version_1440x900.png) 
 
 If you encounter any problems during or after installing TryToFLAC please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -54,14 +54,14 @@ This section describes daily use guide to the TryToFLAC client. It instructs you
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
 <br>
-![](.\images\screens\buy online_800x450.png) 
+![](./images/screens/trytoflac_onlinestore_800x500.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and then finish the whole purchase process.
 <br>
-![](.\images\screens\coupon_800x450.png) 
+![](./images/screens/trytoflac_couponcode_800x500.png) 
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
-![](.\images\screens\license key_800x450.png)  
+![](./images/screens/trytoflac_lisencekey_1440x900.png)  
 <br>
 Hope the TryToFLAC will help you enjoy a high-quality listening experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 

@@ -16,11 +16,8 @@ Learn more [about TryToFLAC](./features.html).
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-<!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/trytoflac_1440x900.png)
-
+![](./images/screens/trytoflac_overview_1440x900.png)
 <br>
-
 ## USE CASES: BUILT FOR YOU
 TryToFLAC aims to satisfy various requirements for different users. FLAC is a free lossless compressed audio format that offers bit-perfect copies of CDs but at half the size. It is similar to MP3, but possesses much higher audio quality. For music buffs, music sound quality is of great importance. As a lossless audio codec, FLAC is able to provide you a better listening experience. For home stereo users, many brands and devices support the FLAC format. For people who like enjoying music in their cars, FLAC also is supported by some car audios. Portable devices, such as MP3-players, MP4-players, mobile phones have adopted FLAC audio format. This converter lets you also easily extract audio from video files in high quality.
 

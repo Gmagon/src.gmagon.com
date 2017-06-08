@@ -1,5 +1,5 @@
 layout: app
-title: Features | TryToMP3
+title: Features | TryToFLAC
 subtitle: Features
 comments: false
 current: features
