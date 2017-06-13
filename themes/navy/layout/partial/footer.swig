@@ -6,7 +6,7 @@
         <a href="/end-user-license-agreement.html" class="footer-doc-link" >License Agreement</a>
     </div>
     <div id="footer-copyright">
-      Copyright &copy; {{ moment(Date.now()).year() }} {{ config.author }}. All rights reserved.
+       <a href="" > Copyright &copy; {{ moment(Date.now()).year() }} {{ config.author }}. All rights reserved. </a>
     </div>
     <div id="footer-links">
       {# <a href="http://weibo.com/{{ config.weibo }}" class="footer-link" target="_blank"><i class="fa fa-weibo"></i></a> #}
