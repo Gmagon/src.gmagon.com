@@ -16,7 +16,7 @@ If you buy from the official purchase link, we will offer you after-sales servic
 
 Coupon Code | Expiry Date
 ------ | -------
-**GMAG-4LAQ-DHAH** | ~ 2017.10.01
+**GMAG-D3TI-PYGB** | ~ 2017.10.14
 
 ---
 

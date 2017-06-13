@@ -1,12 +1,11 @@
 layout: app
-title: Features | TryToFLAC
+title: Features | TryToAAC
 subtitle: Features
 comments: false
 current: features
 ---
 
 ## FEATURES
-
 - Built for Mac users only
 - Super-quick transformation
 - Fool-style operation

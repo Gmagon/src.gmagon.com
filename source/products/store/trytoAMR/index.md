@@ -17,10 +17,9 @@ Learn more [about TryToAMR](./features.html).
 <br>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/AMR_1440X834.png)
+![](./images/screens/trytoamr_screen_overview_1440x900.png)
 
 <br>
-
 ## USE CASES: BUILT FOR YOU
 TryToAMR aims to satisfy various requirements for different users. 
 
@@ -28,15 +27,16 @@ Through this converter, users are able to convert any other audio files to AMR f
 
 1. **Users Who Willing to Store Spoken Audios**: If users have to store some important spoken audios or records, AMR codec would be an excellent choice for you. Besides, many modern mobile telephone handsets can store short audio recordings in the AMR format, and both free and proprietary programs exist to convert between this and other formats.
 <br>
-![](images/screens/apple addict_840x493.png)
+![](./images/screens/trytoamr_spoken%20audio_600x350.jpg)
 <br>
 <br>
 1. **MMS Users**: The AMR audio files is much smaller than most audio formats. Therefore, AMR format is suitable to be used as multimedia message service (MMS). What's more, you can record your own voice and use it directly as a multimedia message and ringtones. Because AMR is the only audio format that can load human voices in MMS.
 <br>
-![](images/screens/non-apple_840x493.jpg)
+![](./images/screens/trytoamr_mms_600x350.jpg)
 <br>
 1. **Users for mobile devices**: Most multimedias in mobile devices, especially audio and video players, are all support AMR. For example: windows media player, realone, AMR Player, StormPlayer, etc. 
 <br>
-![](images/screens/radio%20stations_840x493.jpg)
+![](./images/screens/trytoamr_mobile%20device_600x350.jpg)
 <br>
 
+  

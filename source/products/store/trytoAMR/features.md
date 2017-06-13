@@ -1,5 +1,5 @@
 layout: app
-title: Features | TryToFLAC
+title: Features | TryToAMR
 subtitle: Features
 comments: false
 current: features
@@ -78,7 +78,7 @@ DSP Group TrueSpeech | <i class="fa fa-check" style="color: green" aria-hidden="
 DV audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
 Enhanced AC-3 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
 EVRC (Enhanced Variable Rate Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-FLAC (Free Lossless Audio Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
+AMR (Free Lossless Audio Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
 G.723.1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
 G.729 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
 GSM | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>

@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | TryToAAC
+title: Release Notes | TryToAMR
 subtitle: Release Notes
 comments: false
 current: changelog
@@ -33,8 +33,8 @@ current: changelog
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download TryToAAC-v4.0.zip](http://www.filefactory.com/file/c4z8ppop6r5/TryToAAC-4.0.zip)    | (~16.0MiB)
-[Download TryToAAC-v4.0.dmg](http://www.filefactory.com/file/5vrdbybrnf3l/TryToAAC-4.0.dmg)    | (~16.3MiB)
-[Download TryToAAC-v4.0.pkg](http://www.filefactory.com/file/8vihd2l1ond/TryToAAC-4.0.pkg.zip)    | (~15.7MiB)
+[Download TryToAMR-v4.0.zip](http://www.filefactory.com/file/1i53t00y5ulz/TryToAMR-4.0.zip)    | (~16.1MiB)
+[Download TryToAMR-v4.0.dmg](http://www.filefactory.com/file/58ghpc5npmfn/TryToAMR-4.0.dmg)    | (~16.7MiB)
+[Download TryToAMR-v4.0.pkg](http://www.filefactory.com/file/57caxkxwm8gd/TryToAMR-4.0.pkg.zip)    | (~16.9MiB)
 
 ---
