@@ -42,12 +42,12 @@
         - Audio
         - Lossless Audio
  
-    - name: TryToAMR
-      appID: com.romanysoft.app.macos.TryToAMR
-      description: It's easy to convert other formats to AMR(.amr)
-      link: /products/store/trytoamr/
-      preview: /products/store/trytoamr/
-      tags:
-        - AMR
-        - Convert
-        - Audio
+    # - name: TryToAMR
+    #   appID: com.romanysoft.app.macos.TryToAMR
+    #   description: It's easy to convert other formats to AMR(.amr)
+    #   link: /products/store/trytoamr/
+    #   preview: /products/store/trytoamr/
+    #   tags:
+    #     - AMR
+    #     - Convert
+    #     - Audio
