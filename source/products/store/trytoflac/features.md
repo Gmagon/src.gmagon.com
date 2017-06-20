@@ -8,7 +8,7 @@ current: features
 ## FEATURES
 
 - Built for Mac users only
-- Super-quick transformation
+- Super-quick conversion
 - Fool-style operation
 - Support most popular audio format
 

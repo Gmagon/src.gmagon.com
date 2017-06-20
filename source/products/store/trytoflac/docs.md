@@ -35,7 +35,7 @@ TryToFLAC is an audio converter tool which aims to convert various audio formats
 ### **Installation**:
 TryToFLAC runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
-There are three kind of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+There are three kinds of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 **The trial version** for users is also available in [DOWNLOAD](./download.html), and combined with the install package.
 

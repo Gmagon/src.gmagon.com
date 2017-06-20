@@ -35,7 +35,7 @@ Windows Media Audio (WMA) is the name of a series of audio codes and their corre
 ### **Installation**:
 TryToWMA runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
-There are three kind of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+There are three kinds of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 **The trial version** for users is also available in [DOWNLOAD](./download.html), and combined with the install package. You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
