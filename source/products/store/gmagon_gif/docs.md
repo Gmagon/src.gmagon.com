@@ -43,18 +43,18 @@ If you encounter any problems during or after installing Gmagon Gif please refer
 ### **User Guide**:
 This section describes daily use guide to the Gmagon Gif client. It instructs you how to use the software in details after the installation finished.
 1. Firstly, you need to open the file and run it, the window of Gmagon Gif will pop up in the desktop. You can find the "Convert" in the "General" directory at the left side of the interface. Click the "Convert" button to enter the convertion interface, there are four steps to guide you how to use it.
-![](./images/screens/gmagongif_screens1_1440x900.png) 
+![](./images/screens/gmagongif_manuals1_1440x900.png) 
 <br>
-2. Secondly, users need to import GIF(.gif) files or directory in two ways. You can import GIF files or directory by clicking the imported button to open your files, or you can just drag the file or directory from your folder to the interface
+2. Secondly, users need to import GIF(.gif) files or directory in two ways. You can import GIF files or directory by clicking the imported button to open your files, or you can just drag the file or directory from your folder to the interface.
 <br>
-![](.\images\screens\buy online_800x450.png) 
+![](./images/screens/gmagongif_manuals2_1440x900.png) 
 <br>
 3. Thirdly, before the conversion begin, users need to set their target output directory by clicking "output directory", so as to save the conversion result.
 <br>
-![](.\images\screens\coupon_800x450.png) 
+![](./images/screens/gmagongif_manuals3_1440x900.png) 
 <br>
-4. Finally, after you finish all the procedures above, you can click the "Convert" button to run it. When the conversion finished, you can also review your convert results to check it
+4. Finally, after you finish all the procedures above, you can click the "Convert" button to run it. When the conversion finished, you can also review your convert result to check its situation.
 <br>
-![](.\images\screens\license key_800x450.png)  
+![](./images/screens/gmagongif_manuals4_1440x900.png)  
 <br>
 Hope the Gmagon Gif will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 

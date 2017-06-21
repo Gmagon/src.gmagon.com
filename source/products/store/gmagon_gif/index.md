@@ -17,7 +17,7 @@ Learn more [about Gmagon Gif](./features.html).
 <br>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/AAC_1440X834.png)
+![](./images/screens/gmagongif_intro_1440x900.png)
 
 <br>
 
@@ -26,15 +26,15 @@ Learn more [about Gmagon Gif](./features.html).
 
 1. **Designers**: If a designer use GIF file in logo designing or else, he or she probably find that the GIF have rough edges and poor quality. It is far beyond what they supposed before. While APNG not only solve the rough edges problems, but also save much room for its smaller size. APNG is an obvious choice for designers who search for high quality and smaller size. 
 <br>
-![](images/screens/apple addict_840x493.png)
+![](./images/screens/下载.jpg)
 <br>
 <br>
 1. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This tool is able to make their memes more transparent and clear.                                            
 <br>
-![](images/screens/non-apple_840x493.jpg)
+![](./images/screens/giphy.gif)
 <br>
 1. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to hlp users to enjoy the quick conversion experience delivered by our tool.
 <br>
-![](images/screens/radio%20stations_840x493.jpg)
+![](./images/screens/animation_1280.gif)
 <br>
 

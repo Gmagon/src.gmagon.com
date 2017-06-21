@@ -51,3 +51,13 @@
         - AMR
         - Convert
         - Audio
+
+    - name: Gmagon Gif
+      appID: com.romanysoft.app.macos.Gmagon Gif
+      description: It's easy to convert Gif formats to APNG(.png)
+      link: /products/store/gmagon_gif/
+      preview: /products/store/gmagon_gif/
+      tags:
+        - Gif
+        - Convert
+        - Image
