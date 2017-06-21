@@ -26,7 +26,8 @@ Learn more [about Gmagon Gif](./features.html).
 
 1. **Designers**: If a designer use GIF file in logo designing or else, he or she probably find that the GIF have rough edges and poor quality. It is far beyond what they supposed before. While APNG not only solve the rough edges problems, but also save much room for its smaller size. APNG is an obvious choice for designers who search for high quality and smaller size. 
 <br>
-![](./images/screens/下载.jpg)
+![](./images/screens/16445KL0-3.gif)
+(The elephant in the left side is GIF format.)
 <br>
 <br>
 1. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This tool is able to make their memes more transparent and clear.                                            
