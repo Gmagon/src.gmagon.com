@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToAAC
+title: Download | Gmagon Gif
 subtitle: Download
 comments: false
 product: TryToAAC
@@ -8,7 +8,7 @@ current: download
 
 ## <strong>DOWNLOAD</strong>
 
-#### <b>The current stable version is: 4.0</b>
+#### <b>The current stable version is: 1.0</b>
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 
@@ -20,5 +20,3 @@ for macOS 64-bit OS | FileSize
 
 ---
 
-#### Older Releases
-Older releases are available [here](./old-download.html).

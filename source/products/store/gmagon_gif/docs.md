@@ -25,27 +25,30 @@ Gmagon Gif is the first version of a series products that we produced for the co
  ### **Introduction**:
 GIF, which stands for Graphics Interchange Format, it is a bitmap image format. Since its inception, it comes into widespread usage on the World Wide Web due to its wide support and portability. APNG is also called animated PNG, it refers to Animated Portable Network Graphics which presents an extension to the Portable Network Graphics (PNG) specification. It allows for animated PNG files that work similarly to animated GIF files, while supporting 24-bit images and 8-bit transparency not available for GIFs.
 
-Gmagon Gif is an image format converter tool which aims to convert GIFs to APNG format. The software is made for Mac users only (**MacOSX 10.11 mac OS (64-bit**) or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
+Gmagon Gif is an image format converter tool which aims to convert GIFs to APNG format. The software is made for Mac users only (**MacOS 10.11(64-bit)** or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-Gmagon Gif runs on Mac only, MacOSX 10.11 mac OS (64-bit) or newer is required. The new version 1.0 is released now in [DOWNLOAD](./download.html). The upcoming versions of Gmagon Gif is tend to complete other related services about GIFs. For it is a free product we offer for users, so users can free from to download the software in our download page of the official website.
+Gmagon Gif runs on Mac only, MacOS 10.11(64-bit) or newer is required. The new version 1.0 is released now in [DOWNLOAD](./download.html). The upcoming versions of Gmagon Gif is tend to complete other related services about GIFs. For it is a free product we offer for users, so users can free from to download the software in our download page of the official website.
 
 There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
-When you open and run the software, the product interface will pop up. Then you use this software freely
-![](./images/screens/Gmagon Gif_trail%20version_800x500.png) 
+When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it.
+<br>
+![](./images/screens/gmagongif_intro_1440x900.png) 
 
 If you encounter any problems during or after installing Gmagon Gif please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
 
 <br>
 ### **User Guide**:
-This section describes daily use guide to the Gmagon Gif client. It instructs you how to use the software in details after the installation finished.
-1. Firstly, you need to open the file and run it, the window of Gmagon Gif will pop up in the desktop. You can find the "Convert" in the "General" directory at the left side of the interface. Click the "Convert" button to enter the convertion interface, there are four steps to guide you how to use it.
-![](./images/screens/gmagongif_manuals1_1440x900.png) 
+This section describes daily use guide to the Gmagon Gif clients. It instructs you how to use the software in details after the installation finished.
+1. Firstly, you need to open the file and run it, the window of Gmagon Gif will pop up in the desktop. You can find the "Convert" in the "General" directory at the left side of the interface. Click the "Convert" button to enter the conversion interface, there are four steps to guide you how to use it.
 <br>
-2. Secondly, users need to import GIF(.gif) files or directory in two ways. You can import GIF files or directory by clicking the imported button to open your files, or you can just drag the file or directory from your folder to the interface.
+![](./images/screens/gmagongif_manuals1_1440x900.png) 
+
+<br>
+2. Secondly, we provide two ways for users to import their GIF files. On the one hand, you can import your GIF file once a time by clicking the first button on the left, or you can click the second button on the left to import a directory. On the other,you can directly drag a file or directory from your folder to the interface.
 <br>
 ![](./images/screens/gmagongif_manuals2_1440x900.png) 
 <br>

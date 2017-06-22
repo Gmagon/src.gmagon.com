@@ -15,9 +15,9 @@ current: changelog
   }
 </script>
 
-## v4.0
+## v1.0
 <script>
-  var releaseDate = '2017-05-24';
+  var releaseDate = '2017-06-20';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
 
