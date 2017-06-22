@@ -56,7 +56,7 @@
   description: processes support
   list:
     - name: Gmagon Gif
-      appID: com.romanysoft.app.macos.gmagongif
+      appID: com.gmagon.app.macos.gmagongif
       description: It is designed to convert the Gif image format to APNG(.png)
       link: /products/store/gmagon_gif/
       preview: /products/store/gmagon_gif/

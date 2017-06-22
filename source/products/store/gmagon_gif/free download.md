@@ -6,7 +6,7 @@ product: Gmagon Gif
 current: download
 ---
 
-## <strong>Free DOWNLOAD</strong>
+## <strong>FREE DOWNLOAD</strong>
 
 #### <b>The current stable version is: 1.0</b>
 
