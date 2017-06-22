@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## Gmagon Gif
-A GIF converter for Mac
+A GIF converter for **macOS**
 
 Version 1.0
 
@@ -25,7 +25,7 @@ Gmagon Gif is the first version of a series products that we produced for the co
  ### **Introduction**:
 GIF, which stands for Graphics Interchange Format, it is a bitmap image format. Since its inception, it comes into widespread usage on the World Wide Web due to its wide support and portability. APNG is also called animated PNG, it refers to Animated Portable Network Graphics which presents an extension to the Portable Network Graphics (PNG) specification. It allows for animated PNG files that work similarly to animated GIF files, while supporting 24-bit images and 8-bit transparency not available for GIFs.
 
-Gmagon Gif is an image format converter tool which aims to convert GIFs to APNG format. The software is made for Mac users only (**MacOS 10.11(64-bit)** or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
+Gmagon Gif is an image format converter tool which aims to convert GIFs to APNG format. The software is made for Mac users only (**macOS 10.11(64-bit)** or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
