@@ -1,12 +1,12 @@
 layout: app
-title: Download | Gmagon Gif
-subtitle: Download
+title: Free Download | Gmagon Gif
+subtitle: Free Download
 comments: false
-product: TryToAAC
+product: Gmagon Gif
 current: download
 ---
 
-## <strong>DOWNLOAD</strong>
+## <strong>Free DOWNLOAD</strong>
 
 #### <b>The current stable version is: 1.0</b>
 
