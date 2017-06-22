@@ -21,13 +21,6 @@ current: changelog
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
 
-### Fixed
-
-- Fixed the multiple conversion problem.
-
-### Update
-
-- UI update and code rewriting.
 
 ### Downloads
 

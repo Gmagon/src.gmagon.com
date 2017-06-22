@@ -1,10 +1,17 @@
 {
    "list":[
      {
-       "title": "Gmagon Gif Ver3.0 released",
-       "date": "2017-06-16",
-       "description":"Who saidMoore's Law was dead? Certainly not IBM or its chip partners Globalfoundries and Samsung. The trio has developed a transistor manufacturing process that should pave the way for5-nanometer chips. ",
-       "link": "https://gmagon.com/blog/2017/06/02/men-s-deep-voice/"
+       "title": "Gmagon Gif Ver1.0 released",
+       "date": "2017-06-22",
+       "description":"The GIF Format Is 30 Years Old and More Popular Than Ever",
+       "link": " https://motherboard.vice.com/en_us/article/the-gif-format-is-30-years-old-and-more-popular-than-ever"
+
+     },
+     {"title": "Gmagon Gif Ver1.0 released",
+       "date": "2017-06-22",
+       "description":"How to add animated png (apng) support to Google Chrome",
+       "link": " http://www.ghacks.net/2014/06/28/add-animated-png-apng-support-google-chrome/"
+
      }
    ]
 }
