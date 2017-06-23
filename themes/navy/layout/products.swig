@@ -19,7 +19,7 @@
       </header>
 
       <div id="product-list-show-area">
-      {% for category in _.sortBy(site.data[page.data], 'name') %}
+      {% for category in site.data[page.data] %}
         <h3 class="product-list-category"> {{ category.name }} </h3>
         <ul class="product-list">
           {% for product in category.list %}
