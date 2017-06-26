@@ -1,5 +1,5 @@
 - name: Utilities
-  description: processes support
+  description: Utilities support
   list:
     - name: Gmagon Gif
       appID: com.gmagon.app.macos.gmagongif
@@ -11,7 +11,20 @@
         - Convert
         - Image
         - APNG
-
+ 
+ 
+- name: Games
+  description: Games
+  list:
+    - name: SudokuMM
+      appID: com.romanysoft.app.macos.game.SudokuMM
+      description: Enjoy a clear, easy to read Sudoku board with visual guides that make glancing at the possibilities a breeze. 
+      link: /products/store/sudokumm/
+      preview: /products/store/sudokumm/
+      tags:
+        - Game
+        - Sudo
+        
 - name: Multimedia
   description: Multimedia tools
   list:
