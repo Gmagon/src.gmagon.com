@@ -6,8 +6,6 @@ title: An Overview of Garbage Collection in Java
 
 DZone's Guide to
 
-## An Overview of Garbage Collection in Java
-
 Here we examine the importance of proper garbage collection for Java apps, the components of GC, and the various patterns at your disposal.
 
 [Johnny Morgan](https://dzone.com/users/2746645/guideinfoways.html)
