@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | Gmagon Gif
+title: Release Notes |SudokuMM
 subtitle: Release Notes
 comments: false
 current: changelog
@@ -15,9 +15,9 @@ current: changelog
   }
 </script>
 
-## v1.0
+## v4.0
 <script>
-  var releaseDate = '2017-06-20';
+  var releaseDate = '2017-06-27';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
 
@@ -26,7 +26,7 @@ current: changelog
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download Gmagon Gif-v1.0.zip](http://www.filefactory.com/file/2uy70ivs0tgl/Gmagon_Gif.zip)    | (~4.5MiB)
-[Download Gmagon Gif-v1.0.dmg](http://www.filefactory.com/file/3i74uv52yad9/Gmagon-Gif-1.0.dmg)    | (~5.8MiB)
+[DownloadSudokuMM-v1.0.zip](http://www.filefactory.com/file/4ffr19r70fd3/SudokuMM-4.0.zip)    | (~4.9MiB)
+[DownloadSudokuMM-v4.0.dmg](http://www.filefactory.com/file/3xes7lxo1sa9/SudokuMM-4.0.dmg)    | (~3.3MiB)
 
 ---

@@ -11,12 +11,12 @@
     <Company_Description>Gmagon aims to provide amazing simple and powerful solutions for you.</Company_Description>
     <Product_UIN>APP-01160244277</Product_UIN>
     <Publish_on_CD>FALSE</Publish_on_CD>
-    <Search_String>Gmagon Gif</Search_String>
-    <Press_Release_Search_String>Gmagon Gif</Press_Release_Search_String>
-    <NewsFeed_Search_String>Gmagon Gif</NewsFeed_Search_String>
-    <Search_Engine_Search_String>Gmagon Gif</Search_Engine_Search_String>
-    <Web_Directories_Search_String>Gmagon Gif</Web_Directories_Search_String>
-    <Search_String_Unique>Gmagon Gif</Search_String_Unique>
+    <Search_String>SudokuMM</Search_String>
+    <Press_Release_Search_String>SudokuMM</Press_Release_Search_String>
+    <NewsFeed_Search_String>SudokuMM</NewsFeed_Search_String>
+    <Search_Engine_Search_String>SudokuMM</Search_Engine_Search_String>
+    <Web_Directories_Search_String>SudokuMM</Web_Directories_Search_String>
+    <Search_String_Unique>SudokuMM</Search_String_Unique>
     <RSProductType></RSProductType>
     <Comments_For_Reviewer></Comments_For_Reviewer>
     <Backlink></Backlink>
@@ -79,12 +79,12 @@
     <Site_Contact_Email>support@gmagon.com</Site_Contact_Email>
     <Site_Contact_First_Name>Ian</Site_Contact_First_Name>
     <Site_Contact_Last_Name>Sun</Site_Contact_Last_Name>
-    <Site_Description_100>Gmagon Gif can intelligently recognize and transform audio formats to AAC files</Site_Description_100>
-    <Site_Description_250>Gmagon Gif is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files</Site_Description_250>
-    <Site_Description_450>Gmagon Gif is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere.</Site_Description_450>
+    <Site_Description_100>SudokuMM can intelligently recognize and transform audio formats to AAC files</Site_Description_100>
+    <Site_Description_250>SudokuMM is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files</Site_Description_250>
+    <Site_Description_450>SudokuMM is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere.</Site_Description_450>
     <Site_Keywords>AAC, converter, audio converter, audio format, transformation,  AAC converter,</Site_Keywords>
-    <Site_Site_Title>Gmagon Gif</Site_Site_Title>
-    <Site_Site_URL>https://gmagon.com/products/store/Gmagon Gif/index.html</Site_Site_URL>
+    <Site_Site_Title>SudokuMM</Site_Site_Title>
+    <Site_Site_URL>https://gmagon.com/products/store/SudokuMM/index.html</Site_Site_URL>
   </Site>
   <PAD_Certification_Promotion>
     <Apply_For_Certification>N</Apply_For_Certification>
@@ -92,7 +92,7 @@
   <Dynamic_PAD>
     <Dynamic_Distributive>N</Dynamic_Distributive>
     <General>
-      <DP_Pad_Mask>Gmagon Gif_pad.xml</DP_Pad_Mask>
+      <DP_Pad_Mask>SudokuMM_pad.xml</DP_Pad_Mask>
       <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
       <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
       <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
@@ -113,7 +113,7 @@
     </File_Info>
     <Program_Target_Platform>OS X</Program_Target_Platform>
     <FacebookProductPage>https://www.facebook.com/gmagonshare</FacebookProductPage>
-    <Program_Name>Gmagon Gif</Program_Name>
+    <Program_Name>SudokuMM</Program_Name>
     <Program_Release_Month>05</Program_Release_Month>
     <Program_Release_Day>31</Program_Release_Day>
     <Program_Release_Year>2017</Program_Release_Year>
@@ -149,21 +149,21 @@
   </Program_Info>
   <Web_Info>
     <Application_URLs>
-      <Application_Info_URL>https://gmagon.com/products/store/Gmagon Gif/index.html</Application_Info_URL>
-      <Application_Order_URL>https://gmagon.com/products/store/Gmagon Gif/buy.html</Application_Order_URL>
-      <Application_Screenshot_URL>https://gmagon.com/products/store/Gmagon Gif/images/screens/trail version_800x500.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://gmagon.com/products/store/Gmagon Gif/images/logo/logo_32x32.png</Application_Icon_URL>
-      <Application_XML_File_URL>https://gmagon.com/products/store/Gmagon Gif/pads/Gmagon Gif_mac_pad.xml</Application_XML_File_URL>
+      <Application_Info_URL>https://gmagon.com/products/store/SudokuMM/index.html</Application_Info_URL>
+      <Application_Order_URL>https://gmagon.com/products/store/SudokuMM/buy.html</Application_Order_URL>
+      <Application_Screenshot_URL>https://gmagon.com/products/store/SudokuMM/images/screens/trail version_800x500.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://gmagon.com/products/store/SudokuMM/images/logo/logo_32x32.png</Application_Icon_URL>
+      <Application_XML_File_URL>https://gmagon.com/products/store/SudokuMM/pads/SudokuMM_mac_pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>https://www.filefactory.com/file/5vrdbybrnf3l/Gmagon Gif-4.0.dmg</Primary_Download_URL>
-      <Secondary_Download_URL>https://www.filefactory.com/file/c4z8ppop6r5/Gmagon Gif-4.0.zip</Secondary_Download_URL>
-      <Additional_Download_URL_1>https://www.filefactory.com/file/8vihd2l1ond/Gmagon Gif-4.0.pkg.zip</Additional_Download_URL_1>
+      <Primary_Download_URL>https://www.filefactory.com/file/5vrdbybrnf3l/SudokuMM-4.0.dmg</Primary_Download_URL>
+      <Secondary_Download_URL>https://www.filefactory.com/file/c4z8ppop6r5/SudokuMM-4.0.zip</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://www.filefactory.com/file/8vihd2l1ond/SudokuMM-4.0.pkg.zip</Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
   </Web_Info>
   <Permissions>
-    <Distribution_Permissions>https://www.filefactory.com/file/5vrdbybrnf3l/Gmagon Gif-4.0.dmg</Distribution_Permissions>
+    <Distribution_Permissions>https://www.filefactory.com/file/5vrdbybrnf3l/SudokuMM-4.0.dmg</Distribution_Permissions>
     <EULA>http://gmagon.com/end-user-license-agreement</EULA>
   </Permissions>
   <AppStore>
@@ -181,12 +181,12 @@
   </AppStore>
   <Program_Descriptions>
     <English>
-      <Keywords>Gmagon Gif is a converter</Keywords>
-      <Char_Desc_45>Gmagon Gif is a minimum and streamlined convert</Char_Desc_45>
-      <Char_Desc_80>Gmagon Gif can intelligently recognize and transform audio formats to AAC files</Char_Desc_80>
-      <Char_Desc_250>Gmagon Gif is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files</Char_Desc_250>
-      <Char_Desc_450>Gmagon Gif is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere.</Char_Desc_450>
-      <Char_Desc_2000>Gmagon Gif aims to satisfy various requirements for different users. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
+      <Keywords>SudokuMM is a converter</Keywords>
+      <Char_Desc_45>SudokuMM is a minimum and streamlined convert</Char_Desc_45>
+      <Char_Desc_80>SudokuMM can intelligently recognize and transform audio formats to AAC files</Char_Desc_80>
+      <Char_Desc_250>SudokuMM is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files</Char_Desc_250>
+      <Char_Desc_450>SudokuMM is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere.</Char_Desc_450>
+      <Char_Desc_2000>SudokuMM aims to satisfy various requirements for different users. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
 1.Apple Fans: Apple has long been the main supporter of AAC format. AAC has been used by iTunes store since its inception, and is currently used by Apple Music. It is also the native file format for iTunes. Compared to MP3, AAC is generally slightly smaller, and sounds slightly better. It is compatible with iPad, iPhone, Macbooks and of course, tiny iPod. It is undoubted that a true Apple fan favor AAC for their digital music.
 2.Users for Non-Apple Devices: In fact, AAC was not created by Apple and is not a proprietary Apple format. While AAC is slightly less widely supported than MP3, virtually any modern media device can use it. For example, Sony Walkman, Amazon Music, Unlimited, Nintento, Deezer, Microsoft Zune, and mobile phones running Google's Android OS, etc.
 3.Users for Streaming TV or Radio Broadcast: AAC is the hottest format whichs was widely applied in the streaming TV and also radio broadcast. As a more advanced audio file, AAC is actually much more efficient as it takes up even less bandwidth than the MP3 while doing less harm to the audio quality. For example, iHeartRadio, YouTube, etc.</Char_Desc_2000>

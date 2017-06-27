@@ -1,8 +1,8 @@
 layout: app
-title: Free Download | Gmagon Gif
+title: Free Download |SudokuMM
 subtitle: Free Download
 comments: false
-product: Gmagon Gif
+product: SudokuMM
 current: download
 ---
 
@@ -14,8 +14,8 @@ For detailed info on what's new, read the [release notes](./changelog.html).
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download Gmagon Gif-v1.0.zip](http://www.filefactory.com/file/1zgddm1poj9d/Gmagon%20Gif-1.0.zip)    | (~4.3MiB)
-[Download Gmagon Gif-v1.0.dmg](http://www.filefactory.com/file/7hhd1n3r265z/Gmagon-Gif-1.0.dmg)    | (~5.5MiB)
+[DownloadSudokuMM-v1.0.zip](http://www.filefactory.com/file/4ffr19r70fd3/SudokuMM-4.0.zip)    | (~4.9MiB)
+[DownloadSudokuMM-v4.0.dmg](http://www.filefactory.com/file/3xes7lxo1sa9/SudokuMM-4.0.dmg)    | (~3.3MiB)
 
 
 ---
