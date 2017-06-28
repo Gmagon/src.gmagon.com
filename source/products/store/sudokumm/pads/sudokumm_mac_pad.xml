@@ -123,7 +123,7 @@
     <Program_OS_Support>Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac OS X 10.6,Mac OS X 10.7,Mac OS X 10.8,Mac OS X 10.9</Program_OS_Support>
     <Program_Language>English</Program_Language>
     <Program_Change_Info>UI update and code rewriting.</Program_Change_Info>
-    <Program_System_Requirements>1.MacOSX 10.11 mac OS (64-bit) or newer is required； 2.Admin privileges for the Installation</Program_System_Requirements>
+    <Program_System_Requirements>1.MacOSX 10.7 mac OS (64-bit) or newer is required； 2.Admin privileges for the Installation</Program_System_Requirements>
     <Program_Category_Class>Audio &amp; Multimedia::Rippers &amp; Converters</Program_Category_Class>
     <Expire_Info>
       <Has_Expire_Info>N</Has_Expire_Info>

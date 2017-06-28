@@ -7,11 +7,10 @@ current: features
 
 ## FEATURES
 - Built for Mac users only
-- Super-quick conversion
 - Fool-style operation
-- Free charge
-- Support mouse drag-and-drop
-- Support convertion in bulk
+- Timekeeping
+- degrees of difficult
+- Support autofill pencil
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
