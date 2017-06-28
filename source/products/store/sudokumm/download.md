@@ -8,7 +8,7 @@ current: download
 
 ## <strong>FREE DOWNLOAD</strong>
 
-#### <b>The current stable version is: 1.0</b>
+#### <b>The current stable version is: 4.0</b>
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 

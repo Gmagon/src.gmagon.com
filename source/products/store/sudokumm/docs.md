@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## SudokuMM
-Anonline SUdoku game for **macOS**
+An online Sudoku game for **macOS**
 
 Version 4.0
 

@@ -18,7 +18,7 @@
   list:
     - name: SudokuMM
       appID: com.romanysoft.app.macos.game.SudokuMM
-      description: Enjoy a clear, easy to read Sudoku board with visual guides that make glancing at the possibilities a breeze. 
+      description: Enjoy a clear and classic Sudoku game online with your Mac anytime and everywhere.
       link: /products/store/sudokumm/
       preview: /products/store/sudokumm/
       tags:
