@@ -25,11 +25,11 @@ Version 4.0
  ### **Introduction**:
 SudokuMM is an online game for classic Sudoku on Mac. It is a good news for Sudoku lovers for its convenience and simple operation. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company.
 
-The software is made for Mac users only (**macOS 10.11(64-bit)** or newer is required). The software is so convenient that players can enjoy Sudoku at different level in their own PC. Besides, they will be released from annoying ads, bundled softwares, plug-ins, even log in and registration, for the interface of this game is clean and concise. By simply enjoying the swift, comfortable operation of SudokuMM, you are able to join our community and get our excellent after-sale services.  
+The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). The software is so convenient that players can enjoy Sudoku at different level in their own PC. Besides, they will be released from annoying ads, bundled softwares, plug-ins, even log in and registration, for the interface of this game is clean and concise. By simply enjoying the swift, comfortable operation of SudokuMM, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-SudokuMM runs on Mac only, MacOS 10.11(64-bit) or newer is required. The new version 4.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+SudokuMM runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 
 There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
