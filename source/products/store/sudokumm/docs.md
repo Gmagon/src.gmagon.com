@@ -17,7 +17,7 @@ Version 4.0
 
  ### **Preface**:
 
->Number puzzles first appeared in newspapers in the late 19th century in France, but  It was not a Sudoku because it contained double-digit numbers and required arithmetic rather than logic to solve, but it shared key characteristics. The modern Sudoku was first published in 1979 by a retired architect and freelance puzzle constructor. In 1984, The puzzle was introduced in Japan by Nikoli in the paper Monthly Nikolist, later it was called Sudoku, and rapidly spread to newspapers as a regular feature all over the world. 
+>Number puzzles first appeared in newspapers in the late 19th century in France, but it was not a Sudoku because it contained double-digit numbers and required arithmetic rather than logic to solve, but it shared key characteristics. The modern Sudoku was first published in 1979 by a retired architect and freelance puzzle constructor. In 1984, The puzzle was introduced in Japan by Nikoli in the paper Monthly Nikolist, later it was called Sudoku, and rapidly spread to newspapers as a regular feature all over the world. 
 
 
 
@@ -53,7 +53,7 @@ This section describes daily use guide to the SudokuMM clients. It instructs you
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
 <br>
-![](./images/screens/sudukumm_buy-1440x900.png) 
+![](./images/screens/sudukumm_buyonline_1440x900.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and then finish the whole purchase process.
 <br>

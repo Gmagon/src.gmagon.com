@@ -11,11 +11,14 @@ current: features
 - Timekeeping
 - degrees of difficult
 - Support autofill pencil
+- Support error check with one click
+- Easy to edit and pause
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
 - No registration and log in. 
-- Support remove all files
+- Restart game with one click
+
  
 
 
