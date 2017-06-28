@@ -19,8 +19,6 @@ Version 4.0
 
 >Number puzzles first appeared in newspapers in the late 19th century in France, but it was not a Sudoku because it contained double-digit numbers and required arithmetic rather than logic to solve, but it shared key characteristics. The modern Sudoku was first published in 1979 by a retired architect and freelance puzzle constructor. In 1984, The puzzle was introduced in Japan by Nikoli in the paper Monthly Nikolist, later it was called Sudoku, and rapidly spread to newspapers as a regular feature all over the world. 
 
-
-
 <br>
  ### **Introduction**:
 SudokuMM is an online game for classic Sudoku on Mac. It is a good news for Sudoku lovers for its convenience and simple operation. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company.

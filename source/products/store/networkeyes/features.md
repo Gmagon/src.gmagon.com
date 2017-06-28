@@ -1,5 +1,5 @@
 layout: app
-title: Features | Gmagon Gif
+title: Features | NetworkEyes
 subtitle: Features
 comments: false
 current: features

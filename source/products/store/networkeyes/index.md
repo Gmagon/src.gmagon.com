@@ -22,20 +22,18 @@ Learn more [about NetworkEyes](./features.html).
 <br>
 
 ## USE CASES: BUILT FOR YOU
- NetworkEyes aims to satisfy various requirements for different users. 
+ NetworkEyes aims to satisfy various requirements for different users. As an advanced monitoring tool, NetworkEyes is able to help users monitor their computer system, so as to increase the efficiency of your network. It is a powerful and widely-used network monitoring software. You should use NetworkEyes, if you would like to:  
 
-1. **Designers**: If a designer use GIF file in logo designing or else, he or she probably find that the GIF have rough edges and poor quality in Github. It is far beyond what they supposed before. While APNG not only solve the rough edges problems, but also save much room for its smaller size. APNG is an obvious choice for designers who search for high quality and smaller size. 
+● Increase profits by avoiding losses caused by undetected system failures.
 <br>
 ![](./images/screens/16445KL0-3.gif)
-(The elephant in the left side is GIF format， APNG is in the right.)
 <br>
-<br>
-1. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This tool is able to make their memes more transparent and clear.                                            
+● Reduce costs by buying bandwidth and hardware according to actual load.                                          
 <br>
 ![](./images/screens/giphy.gif)
 <br>
-1. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool.
+● Eliminate server performance problems and bandwidth bottlenecks.
 <br>
 ![](./images/screens/animation_1280.gif)
 <br>
-
+● Improve quality of service through being proactive.
