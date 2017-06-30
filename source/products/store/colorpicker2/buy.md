@@ -1,5 +1,6 @@
 layout: app
-title: Buy | Gmagon Gif
+title: Buy | ColorPicker2
+
 subtitle: BUY ONLINE
 comments: false
 current: buy
