@@ -39,7 +39,7 @@ There are two kind of install package in [DOWNLOAD](./download.html) page, you n
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/sudukumm_trail%20versio-1440x900.png) 
+![](./images/screens/networkeyes_trail_1440x900.png) 
 
 If you encounter any problems during or after installing NetworkEyes please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -57,10 +57,17 @@ This section describes daily use guide to the NetworkEyes clients. It instructs 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and then finish the whole purchase process.
 <br>
-![](./images/screens/sudukumm_onlinestore_1440x900.png) 
+![](./images/screens/networkeyes_onlinestore_1440x900.png) 
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
-![](./images/screens/sudukumm_license-1440x900.png)  
+![](./images/screens/networkeyes_license_1440x900.png)  
 <br>
+
+>When the NetworkEyes is running in your computer, it is only manifested as a tiny circle in the top right of the toolbar in your desktop. The change of colors of the circle will tell you the true condition of your network. When the circle turns green, it means your network connection is stable and normal. When the circle turn yellow, the network speed is slow. When it turns red, it means your network is not stable. In addition, other options can be choose by clicking.
+<br>
+![](./images/screens/networkeyes_option_1440x900.png)  
+<br>
+
+
 Hope the NetworkEyes will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 

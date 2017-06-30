@@ -15,9 +15,9 @@ current: changelog
   }
 </script>
 
-## v4.0
+## v3.19.0
 <script>
-  var releaseDate = '2017-06-27';
+  var releaseDate = '2017-06-28';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
 
@@ -26,7 +26,7 @@ current: changelog
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[DownloadNetworkEyes-v1.0.zip](http://www.filefactory.com/file/4ffr19r70fd3/NetworkEyes-4.0.zip)    | (~4.9MiB)
-[DownloadNetworkEyes-v4.0.dmg](http://www.filefactory.com/file/3xes7lxo1sa9/NetworkEyes-4.0.dmg)    | (~3.3MiB)
+[DownloadNetworkEyes-v3.19.zip](http://www.filefactory.com/file/1bhcm6k6nbkh/NetworkEyes-3.19.0.zip)    | (~431.9KB)
+[DownloadNetworkEyes-v3.19.dmg](http://www.filefactory.com/file/4gqn5uagoqkl/NetworkEyes-3.19.0.dmg)    | (~583.6KB)
 
 ---
