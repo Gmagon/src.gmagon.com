@@ -16,7 +16,7 @@ Learn more [about NetworkEyes](./features.html).
 <br>
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/gmagongif_intro_1440x900.png)
+![](./images/screens/networkeyes_800x500.jpg)
 
 <br>
 
@@ -25,14 +25,11 @@ Learn more [about NetworkEyes](./features.html).
 
 ● Increase profits by avoiding losses caused by undetected system failures.
 <br>
-![](./images/screens/16445KL0-3.gif)
-<br>
 ● Reduce costs by buying bandwidth and hardware according to actual load.                                          
-<br>
-![](./images/screens/giphy.gif)
 <br>
 ● Eliminate server performance problems and bandwidth bottlenecks.
 <br>
-![](./images/screens/animation_1280.gif)
-<br>
 ● Improve quality of service through being proactive.
+<br>
+
+![](./images/screens/networkeyes_1440x900.jpg)
