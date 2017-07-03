@@ -11,7 +11,17 @@
         - Convert
         - Image
         - APNG
- 
+
+    - name: NetworkEyes
+      appID: com.gmagon.app.macos.gmagongif
+      description: It is is a network monitoring tool for Mac OS.
+      link: /products/store/networkeyes/
+      preview: /products/store/networkeyes/
+      tags:
+        - network
+        - monitor
+        - bandwidth
+    
  
 - name: Games
   description: Games
