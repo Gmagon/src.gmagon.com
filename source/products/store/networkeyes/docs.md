@@ -29,7 +29,7 @@ The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is requ
 
 <br>
 ### **Installation**:
-NetworkEyes runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 3.19.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+NetworkEyes runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 3.19.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. 
 
 
 There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
@@ -47,7 +47,7 @@ If you encounter any problems during or after installing NetworkEyes please refe
 <br>
 ### **User Guide**:
 This section describes daily use guide to the NetworkEyes clients. It instructs you how to use the software in details after the installation finished.
-1. Firstly, you need to open the file and run it, the window of NetworkEyes will pop up in the desktop.  As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
+1. Firstly, you need to open the file and run it, the window of NetworkEyes will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
 <br>

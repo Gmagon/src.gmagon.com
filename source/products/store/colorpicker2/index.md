@@ -9,7 +9,7 @@ current: index
 ## OVERVIEW
 
 
-**ColorPicker2** is a minimum and streamlined converter that easily convert the GIF bitmap image format out there to the APNG format. This convenient tool is the first version of a series of ColorPicker2 products. The software can intelligently recognize Gif files or directory and transform them to APNG files quickly. Without log in and registration, or any plug-in, you can simply enjoy swift conversion experience anytime and everywhere. It is a thrilling news for you to hear that this amazing product is totally free for all users!
+**ColorPicker2** is a streamlined graphical user interface utility that helps users to select different colors they want and sometimes to create color schemes. It is a quick and simple job for users to identify the colors, save, edit and combine them into beautiful color combinations. ColorPicker2 fits into any budget and grows with your needs. Try the ColorPicker2 now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
 Learn more [about ColorPicker2](./features.html).
 
@@ -21,20 +21,15 @@ Learn more [about ColorPicker2](./features.html).
 <br>
 
 ## USE CASES: BUILT FOR YOU
- ColorPicker2 aims to satisfy various requirements for different users. The full name of GIF is the Graphics Interchange Format. It is a bitmap image format that is widely used on the World Wide Web. GIFs are suitable for sharp-edged line art (such as logos) with a limited number of colors. However, rough edges are likely to appear when applying GIF files because it doesn't support alpha transparency like PNG does. Though both files are lossless, APNG is smaller and have better quality which supports more colors and transparency. More browsers support APNG now, particularly iOS Safari and Mac Safari, Mozilla Firefox, Opera and Google chrome.
+ ColorPicker2 aims to satisfy various requirements for different users. The color picker is used to select and adjust color values. In graphic design and image editing, users typically choose colors via an interface with a visual representation of a color—organized with quasi-perceptually-relevant hue, lightness, and saturation dimensions (HLS) – instead of keying in alphanumeric text values. Because color appearance depends on comparison of neighboring colors, many interfaces attempt to clarify the relationships between colors.
 
-1. **Designers**: If a designer use GIF file in logo designing or else, he or she probably find that the GIF have rough edges and poor quality in Github. It is far beyond what they supposed before. While APNG not only solve the rough edges problems, but also save much room for its smaller size. APNG is an obvious choice for designers who search for high quality and smaller size. 
+1. **Webmasters and Designers**: This color picker is specially suitable for webmasters and designers. It is a color picker with few extra goodies. When you run the software, it provides you the Hex, UIColor, and NSColor values of that color. You can then use these values to reproduce the selected color in your favorite programs. ColorPicker2 will also show the current coordinates of your mouse pointer. This tool makes it easy to create, adjust, and experiment with custom colors for the web.
 <br>
 ![](./images/screens/16445KL0-3.gif)
-(The elephant in the left side is GIF format， APNG is in the right.)
 <br>
 <br>
-1. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This tool is able to make their memes more transparent and clear.                                            
+1. **Graphic Designers and Digital Artists**: Users can use the color picker by clicking and dragging your cursor inside the picker area to highlight a color or input the Hex, UIColor, and NSColor to serach for a particular color in the fields below the color swatch, then click the swatch to add it to your palette. After selecting a color, experiment with different harmonies by using the dropdown below the color picker.
 <br>
 ![](./images/screens/giphy.gif)
-<br>
-1. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool.
-<br>
-![](./images/screens/animation_1280.gif)
 <br>
 

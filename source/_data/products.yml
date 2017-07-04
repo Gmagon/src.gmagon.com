@@ -14,13 +14,24 @@
 
     - name: NetworkEyes
       appID: com.romanysoft.app.macos.NetworkEyes
-      description: It is is a network monitoring tool for Mac OS.
+      description: It is a network monitoring tool for Mac OS.
       link: /products/store/networkeyes/
       preview: /products/store/networkeyes/
       tags:
         - network
         - monitor
         - bandwidth
+
+    - name: ColorPicker2
+      appID: com.romanysoft.app.macos.ColorPicker2
+      description: It is a graphical user interface utility for users to select colors
+      link: /products/store/colorpicker2/
+      preview: /products/store/colorpicker2/
+      tags:
+        - color
+        - picker
+        - design
+        - graphic
     
  
 - name: Games
