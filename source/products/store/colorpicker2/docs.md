@@ -31,9 +31,7 @@ ColorPicker2 is an image format converter tool which tends to convert GIFs to AP
 ColorPicker2 runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.18.0 is released now in [DOWNLOAD](./download.html). 
 There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
-When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it.
-<br>
-![](./images/screens/gmagongif_intro_1440x900.png) 
+When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
 
 If you encounter any problems during or after installing ColorPicker2 please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -42,7 +40,7 @@ If you encounter any problems during or after installing ColorPicker2 please ref
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/networkeyes_trail_1440x900.png) 
+![](./images/screens/colorpicker_trailversion_1440x900.png) 
 
 If you encounter any problems during or after installing NetworkEyes please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 

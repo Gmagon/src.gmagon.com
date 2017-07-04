@@ -16,7 +16,7 @@ Learn more [about ColorPicker2](./features.html).
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-![](./images/screens/gmagongif_intro_1440x900.png)
+![](./images/screens/colopicker_interview_1440x900.png)
 
 <br>
 
@@ -25,11 +25,11 @@ Learn more [about ColorPicker2](./features.html).
 
 1. **Webmasters and Designers**: This color picker is specially suitable for webmasters and designers. It is a color picker with few extra goodies. When you run the software, it provides you the Hex, UIColor, and NSColor values of that color. You can then use these values to reproduce the selected color in your favorite programs. ColorPicker2 will also show the current coordinates of your mouse pointer. This tool makes it easy to create, adjust, and experiment with custom colors for the web.
 <br>
-![](./images/screens/16445KL0-3.gif)
+![](./images/screens/colorpicker_design_800x500.png)
 <br>
 <br>
 1. **Graphic Designers and Digital Artists**: Users can use the color picker by clicking and dragging your cursor inside the picker area to highlight a color or input the Hex, UIColor, and NSColor to serach for a particular color in the fields below the color swatch, then click the swatch to add it to your palette. After selecting a color, experiment with different harmonies by using the dropdown below the color picker.
 <br>
-![](./images/screens/giphy.gif)
+![](./images/screens/colorpicker_graphic_800x500.jpg)
 <br>
 
