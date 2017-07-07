@@ -34,6 +34,6 @@ EasyPing is used to check if the network is operating and also to see if network
 In such cases, users need to continuously check the accessibility of your web server and your connection quality, and get up-to-date information about the reachability of your website all day long. EasyPing offers cost-effective and reliable uptime and performance monitoring for your websites. With EasyPing you can monitor your website’s uptime, performance, and interactions for a better end-user-experience. In short, we wanted it to be a easy-to-use tool to help webmasters and web merchants everywhere optimize the performance of their websites.
 
 <br>
-![](./images/screens/colorpicker_graphic_800x500.jpg)
+![](./images/screens/easyping_1000x442.png)
 <br>
 

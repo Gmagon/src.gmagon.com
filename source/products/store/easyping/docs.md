@@ -54,7 +54,7 @@ This section describes daily use guide to the EasyPing clients. It instructs you
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
 <br>
-![](./images/screens/colorpicker_buyonline_1440x900.png) 
+![](./images/screens/easyping_buyonline_1440x900.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and then finish the whole purchase process.
 <br>
@@ -62,6 +62,6 @@ This section describes daily use guide to the EasyPing clients. It instructs you
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
-![](./images/screens/colorpicker_licensekey_1440x900.png)  
+![](./images/screens/easyping_licensekey_1440x900.png )  
 <br>
 Hope the EasyPing will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
