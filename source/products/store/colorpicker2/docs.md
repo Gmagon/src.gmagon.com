@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## ColorPicker2
-A GIF converter for **macOS**
+A color picking tool for **macOS**
 
 Version 4.18.0
 
@@ -24,7 +24,7 @@ Version 4.18.0
 <br>
 ### **Introduction**: 
 
-ColorPicker2 is an image format converter tool which tends to convert GIFs to APNG format. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of ColorPicker2, you are able to join our community and get our excellent after-sale services.  
+ColorPicker2 is a color picking tool that helps users to select different colors they want and sometimes to create color schemes. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of ColorPicker2, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:

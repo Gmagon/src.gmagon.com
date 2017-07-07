@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## EasyPing
-A GIF converter for **macOS**
+A ping utility tool for **macOS**
 
 Version 2.1
 
@@ -31,11 +31,9 @@ EasyPing is a software utility tha use the Internet Control Message Protocol (IC
 
 <br>
 ### **Installation**:
-EasyPing runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 2.1 is released now in [DOWNLOAD](./download.html). 
-There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+EasyPing runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 2.1 is released now in [DOWNLOAD](./download.html). There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
-
 If you encounter any problems during or after installing EasyPing please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
 **The trial version** for users to try out is also available in [DOWNLOAD](./download.html), and combined with the install package.
