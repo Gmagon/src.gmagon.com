@@ -1,5 +1,5 @@
 layout: app
-title: Frequently asked questions (FAQ) | ColorPicker2
+title: Frequently asked questions (FAQ) | EasyPing
 subtitle: Frequently asked questions (FAQ)
 comments: false
 current: faq
@@ -8,9 +8,9 @@ current: faq
 
 ## Installation & Upgrade
 
-### What are the system prerequisites of ColorPicker2?
+### What are the system prerequisites of EasyPing?
 - MacOS 10.7(64-bit) or newer is required.(last version which is compatible)
 - Admin privileges for the Installation
 
 
-### How to install ColorPicker2?
+### How to install EasyPing?

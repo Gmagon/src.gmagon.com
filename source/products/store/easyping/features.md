@@ -8,9 +8,10 @@ current: features
 ## FEATURES
 - Built for Mac users only
 - Fool-style operation
-- Support mouse drag-and-drop
-- Select colors from anywhere on your screen.
-- Colors panel stays visible, floating above all open applications and      windows.
+- Perform DNS Lookup of websites
+- Traceroute your website and network devices
+- Website Responsetime Monitoring
+- Tool monitors your network 24/7
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins

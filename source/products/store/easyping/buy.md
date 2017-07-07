@@ -7,7 +7,7 @@ comments: false
 current: buy
 ---
 
-## <strong>SUBSCRIPTION</strong>
+## <strong>BUY ONLINE</strong>
 ---
 
 ### Subscription From The Official App Store

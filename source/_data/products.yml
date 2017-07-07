@@ -32,6 +32,17 @@
         - picker
         - design
         - graphic
+
+    - name: EasyPing
+      appID: com.romanysoft.app.macos.EasyPing
+      description: It is a network tool to test whether a particular host is reachable across an IP network. 
+      link: /products/store/easyping/
+      preview: /products/store/easyping/
+      tags:
+        - ping
+        - network
+        - monitor
+        - connection
     
  
 - name: Games

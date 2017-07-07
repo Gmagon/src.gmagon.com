@@ -1,6 +1,6 @@
 layout: app
-title: ColorPicker2
-subtitle: ColorPicker2
+title: EasyPing
+subtitle: EasyPing
 comments: false
 current: index
 ---
@@ -9,26 +9,30 @@ current: index
 ## OVERVIEW
 
 
-**ColorPicker2** is a streamlined graphical user interface utility that helps users to select different colors they want and sometimes to create color schemes. It is a quick and simple job for users to identify the colors, save, edit and combine them into beautiful color combinations. ColorPicker2 fits into any budget and grows with your needs. Try the ColorPicker2 now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
+**EasyPing** is a network tool to test whether a particular host is reachable across an IP network. This network can be IPv4 or IPv6. It works by sending ICMP packets to the host and listening for ICMP replies. This tool estimates the round-trip time, detects any packet loss, and prints a statistical summary. Just type a domain name or an IP address (IPv4 and IPv6) and click the Go button. Try the EasyPing now and see how it can make your life easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
-Learn more [about ColorPicker2](./features.html).
+Learn more [about EasyPing](./features.html).
 
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-![](./images/screens/colopicker_interview_1440x900.png)
+![](./images/screens/easyping_intro_1440x900.png)
 
 <br>
 
 ## USE CASES: BUILT FOR YOU
- ColorPicker2 aims to satisfy various requirements for different users. The color picker is used to select and adjust color values. In graphic design and image editing, users typically choose colors via an interface with a visual representation of a color—organized with quasi-perceptually-relevant hue, lightness, and saturation dimensions (HLS) – instead of keying in alphanumeric text values. Because color appearance depends on comparison of neighboring colors, many interfaces attempt to clarify the relationships between colors.
+EasyPing is used to check if the network is operating and also to see if network connections are intact. EasyPing uses the Internet Control Message Protocol (ICMP)Echo function. A small packet is sent through the network to a particular IP address. This packet contains 64 bytes - 56 data bytes and 8 bytes of protocol reader information. The computer that sent the packet then waits and listens for a return packet. If the connections are good and the target computer is up, a good return packet will be received. You should use EasyPing, if you are:  
 
-1. **Webmasters and Designers**: This color picker is specially suitable for webmasters and designers. It is a color picker with few extra goodies. When you run the software, it provides you the Hex, UIColor, and NSColor values of that color and three levels of quality. You can then use these values to reproduce the selected color in your favorite programs. ColorPicker2 will also show the current coordinates of your mouse pointer. This tool makes it easy to create, adjust, and experiment with custom colors for the web.
-<br>
-![](./images/screens/colorpicker_design_800x500.png)
-<br>
-<br>
-1. **Graphic Designers and Digital Artists**: Users can use the color picker by clicking and dragging your cursor inside the picker area to highlight a color or input the Hex, UIColor, and NSColor to search for a particular color in the fields below the color swatch, then click the swatch to add it to your palette. After selecting a color, experiment with different harmonies by using the dropdown below the color picker.
+● Businessmen in Internet
+
+● Webmasters and developers
+
+● Network editors
+
+● Programmer
+
+In such cases, users need to continuously check the accessibility of your web server and your connection quality, and get up-to-date information about the reachability of your website all day long. EasyPing offers cost-effective and reliable uptime and performance monitoring for your websites. With EasyPing you can monitor your website’s uptime, performance, and interactions for a better end-user-experience. In short, we wanted it to be a easy-to-use tool to help webmasters and web merchants everywhere optimize the performance of their websites.
+
 <br>
 ![](./images/screens/colorpicker_graphic_800x500.jpg)
 <br>

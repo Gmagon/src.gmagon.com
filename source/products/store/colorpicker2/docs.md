@@ -19,7 +19,7 @@ Version 4.18.0
 
 >Design isn’t just a necessity for a select few industries anymore, either. It doesn’t matter if you’re a web design company yourself, or even a home repair contractor. Design is an integral part of your overall marketing strategy, and to ignore that fact is to do your business and yourself a disservice. High quality design work comes at a premium, and those numbers are only going up. 
 
-> fire up our tool and get a perfectly complementary color scheme in minutes. Give it a shot – we’re sure you’ll love the end result! If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company. ColorPicker2 helps designers to easily create, adjust and experiment with custom colors. You can
+> fire up our tool and get a perfectly complementary color scheme in minutes. Give it a shot – we’re sure you’ll love the end result! If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company. ColorPicker2 helps designers to easily create, adjust and experiment with custom colors. 
 
 <br>
 ### **Introduction**: 
