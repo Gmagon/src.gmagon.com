@@ -16,8 +16,7 @@ Learn more [about Gmagon Gif](./features.html).
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-<!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/gmagongif_intro_1440x900.png)
+![](./images/screens/gmagonif_intro.gif)
 
 <br>
 

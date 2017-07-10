@@ -16,7 +16,7 @@ Learn more [about SudokuMM ](./features.html).
 <br>
 
 
-![](./images/screens/sudoku-screen-1440x900.png)
+![](./images/screens/sudoku_interview.gif)
 
 <br>
 
