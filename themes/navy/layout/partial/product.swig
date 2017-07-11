@@ -1,6 +1,6 @@
 <li class="product on" data-refid="{{ category.name + '-' + product.appID }}">
   <div class="product-screenshot">
-    <img src="{{ url_for('products/screenshots/' + product.appID + '.png') }}" class="product-screenshot-img">
+    <img src="{{ url_for('products/screenshots/' + product.appID + '.' + product.thumbType) }}" class="product-screenshot-img">
     {% if product.preview %}
     <a href="{{ product.preview }}" class="product-preview-link"><i class="fa fa-eye"></i></a>
     {% endif %}

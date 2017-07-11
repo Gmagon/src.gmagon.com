@@ -3,6 +3,7 @@
   list:
     - name: Gmagon Gif
       appID: com.gmagon.app.macos.gmagongif
+      thumbType: gif
       description: It is designed to convert the Gif image format to APNG(.png)
       link: /products/store/gmagon_gif/
       preview: /products/store/gmagon_gif/
@@ -14,6 +15,7 @@
 
     - name: NetworkEyes
       appID: com.romanysoft.app.macos.NetworkEyes
+      thumbType: png
       description: It is a network monitoring tool for Mac OS.
       link: /products/store/networkeyes/
       preview: /products/store/networkeyes/
@@ -24,6 +26,7 @@
 
     - name: ColorPicker2
       appID: com.romanysoft.app.macos.ColorPicker2
+      thumbType: png
       description: It is a graphical user interface utility for users to select colors
       link: /products/store/colorpicker2/
       preview: /products/store/colorpicker2/
@@ -35,6 +38,7 @@
 
     - name: EasyPing
       appID: com.romanysoft.app.macos.EasyPing
+      thumbType: gif
       description: It is a network tool to test whether a particular host is reachable across an IP network. 
       link: /products/store/easyping/
       preview: /products/store/easyping/
@@ -50,6 +54,7 @@
   list:
     - name: SudokuMM
       appID: com.romanysoft.app.macos.game.SudokuMM
+      thumbType: gif
       description: Enjoy a clear and classic Sudoku game online with your Mac.
       link: /products/store/sudokumm/
       preview: /products/store/sudokumm/
@@ -62,6 +67,7 @@
   list:
     - name: TryToMP3
       appID: com.romanysoft.app.macos.TryToMp3
+      thumbType: png
       description: It's easy to convert other formats to MP3(.mp3)
       link: /products/store/trytomp3/
       preview: /products/store/trytomp3/
@@ -72,6 +78,7 @@
 
     - name: TryToAAC
       appID: com.romanysoft.app.macos.TryToAAC
+      thumbType: png
       description: It's easy to convert other formats to AAC(.aac)
       link: /products/store/trytoaac/
       preview: /products/store/trytoaac/
@@ -82,6 +89,7 @@
 
     - name: TryToWMA
       appID: com.romanysoft.app.macos.TryToWMA
+      thumbType: png
       description: It's easy to convert other formats to WMA(.wma)
       link: /products/store/trytowma/
       preview: /products/store/trytowma/
@@ -92,6 +100,7 @@
 
     - name: TryToFLAC
       appID: com.romanysoft.app.macos.TryToFLAC
+      thumbType: png
       description: It's easy to convert other formats to FLAC(.flac)
       link: /products/store/trytoflac/
       preview: /products/store/trytoflac/
@@ -103,6 +112,7 @@
  
     - name: TryToAMR
       appID: com.romanysoft.app.macos.TryToAMR
+      thumbType: png
       description: It's easy to convert other formats to AMR(.amr)
       link: /products/store/trytoamr/
       preview: /products/store/trytoamr/
