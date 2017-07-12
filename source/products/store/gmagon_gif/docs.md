@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## Gmagon Gif
-A GIF converter for **macOS**
+A GIF converter and gallery for **macOS**
 
 Version 1.0
 

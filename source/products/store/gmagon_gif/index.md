@@ -9,7 +9,7 @@ current: index
 ## OVERVIEW
 
 
-**Gmagon Gif** is a minimum and streamlined converter that easily convert the GIF bitmap image format out there to the APNG format. This convenient tool is the first version of a series of Gmagon GIF products. The software can intelligently recognize Gif files or directory and transform them to APNG files quickly. Without log in and registration, or any plug-in, you can simply enjoy swift conversion experience anytime and everywhere. It is a thrilling news for you to hear that this amazing product is totally free for all users!
+**Gmagon Gif** is a minimum and streamlined converter that easily convert the GIF bitmap image format out there to the APNG format. In addition, it is also a multifunctional GIF tool including GIF gallery.This convenient tool is the first version of a series of Gmagon GIF products. The software can intelligently recognize Gif files or directory and transform them to APNG files quickly. Without log in and registration, or any plug-in, you can simply enjoy swift conversion experience anytime and everywhere. It is a thrilling news for you to hear that this amazing product is totally free for all users!
 
 Learn more [about Gmagon Gif](./features.html).
 
@@ -26,7 +26,7 @@ Learn more [about Gmagon Gif](./features.html).
 1. **Designers**: If a designer use GIF file in logo designing or else, he or she probably find that the GIF have rough edges and poor quality in Github. It is far beyond what they supposed before. While APNG not only solve the rough edges problems, but also save much room for its smaller size. APNG is an obvious choice for designers who search for high quality and smaller size. 
 <br>
 ![](./images/screens/16445KL0-3.gif)
-(The elephant in the left side is GIF format， APNG is in the right.)
+(The elephant in the left side is GIF format, APNG is in the right.)
 <br>
 <br>
 1. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This tool is able to make their memes more transparent and clear.                                            

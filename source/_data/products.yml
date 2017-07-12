@@ -4,7 +4,7 @@
     - name: Gmagon Gif
       appID: com.gmagon.app.macos.gmagongif
       thumbType: gif
-      description: It is designed to convert the Gif image format to APNG(.png)
+      description: It is a multifunctional GIF tool including converter and gallery. 
       link: /products/store/gmagon_gif/
       preview: /products/store/gmagon_gif/
       tags:
@@ -26,7 +26,7 @@
 
     - name: ColorPicker2
       appID: com.romanysoft.app.macos.ColorPicker2
-      thumbType: png
+      thumbType: gif
       description: It is a graphical user interface utility for users to select colors
       link: /products/store/colorpicker2/
       preview: /products/store/colorpicker2/
@@ -47,6 +47,18 @@
         - network
         - monitor
         - connection
+
+    - name: APNGToGifConverter
+      appID: com.gmagon.app.macos.apngtogifconverter
+      thumbType: gif
+      description: It is a minimum converter to convert APNG to GIF. 
+      link: /products/store/apngtogifconverter/
+      preview: /products/store/apngtogifconverter/
+      tags:
+        - Gif
+        - Convert
+        - Image
+        - APNG
     
  
 - name: Games

@@ -22,4 +22,4 @@ Coupon Code | Expiry Date
 ---
 
 ### Buy From The Apple App Store
-<a href="https://itunes.apple.com/us/app/trytoaac/id849508170?l=zh&ls=1&mt=12" target="_blank"><span class="cls-banner-start-link"> <i class="fa fa-apple fa-3x" aria-hidden="true"></i> <span> Buy Online from the Apple App Store </span><i class="fa fa-angle-double-right"></i></span> </a>
+<a href="https://itunes.apple.com/us/app/colorpicker2/id915810831?l=zh&ls=1&mt=12" target="_blank"><span class="cls-banner-start-link"> <i class="fa fa-apple fa-3x" aria-hidden="true"></i> <span> Buy Online from the Apple App Store </span><i class="fa fa-angle-double-right"></i></span> </a>
