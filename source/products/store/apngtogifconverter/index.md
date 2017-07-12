@@ -16,7 +16,7 @@ Learn more [about APNGToGifConverter](./features.html).
 <a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
 <br>
 
-![](./images/screens/colopicker_interview.gif)
+![](./images/screens/apngtogifconverter_interview_1440x900.gif)
 
 <br>
 
@@ -25,12 +25,10 @@ Learn more [about APNGToGifConverter](./features.html).
 
 
 1. **Webmasters and Designers**: As well as small file sizes, GIFs also support transparent backgrounds and therefore can help show a professional look to a website with an animation over a different background. Besides, they have relatively small file sizes; this means that they can be used easily online as they can load quicker and still have a good quality.
+![](./images/screens/apngtogifconverter_web.gif)
 <br>
-![](./images/screens/colorpicker_design_800x500.png)
+2. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This also ties in with the fact that using GIF files can entice different, younger audiences as the children may be amused by these animations.
+![](./images/screens/apngtogifconverter_memes.gif)
 <br>
-1.**Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This also ties in with the fact that using GIF files can entice different, younger audiences as the children may be amused by these animations.
-    
-<br>
-![](./images/screens/colorpicker_graphic_800x500.jpg)
-<br>
- **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool. Even for business, you can use GIFs to grab attention or show some personality in tweets, group chats and even emails. 
+ 3. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool. Even for business, you can use GIFs to grab attention or show some personality in tweets, group chats and even emails. 
+![](./images/screens/apngtogifconverter_animation.gif)
