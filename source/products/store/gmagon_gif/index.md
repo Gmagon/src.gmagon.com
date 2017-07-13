@@ -13,8 +13,7 @@ current: index
 
 Learn more [about Gmagon Gif](./features.html).
 
-<a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
-<br>
+[![](../../../asset/images/free-download.png)](./download.html)
 
 ![](./images/screens/gmagonif_intro.gif)
 

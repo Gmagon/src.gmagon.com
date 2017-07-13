@@ -10,10 +10,10 @@ current: index
 
 
 **SudokuMM** is a classic Sudoku game which is one of the most popular puzzle games of all time. It is a convenient and minimum tool designed for Sudoku fans all over the world. With SudokuMM, you can feel free to play Sudoku on your Mac whenever you want. There are four levels of difficulty for you to choose, you can easily find your suitable level to play with no worry about it's too difficult or too easy to play. Without log in and registration, or any plug-in, you can simply enjoy the excellent experience anytime and everywhere. Start a game now. Within no time Sudoku will be your favorite free online game.
+
 Learn more [about SudokuMM ](./features.html).
 
-<a href="./download.html"><span class="cls-banner-start-link" style="border: 2px solid; border-radius: 25px;"><i class="fa fa-download fa-3x" aria-hidden="true"></i> <span> Download </span></span></a>
-<br>
+[![](../../../asset/images/free-download.png)](./download.html)
 
 
 ![](./images/screens/sudoku_interview.gif)

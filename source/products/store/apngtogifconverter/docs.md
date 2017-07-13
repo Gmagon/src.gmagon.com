@@ -22,7 +22,8 @@ Version 3.0.0
 >Have you used GIFs to grab attention or show some personality in tweets, group chats and even emails?
 
 >Do you need to design and build a website with attracting contents?
-If you answer yes to one of these questions, then APNGToGifConverter is the best choice for you.
+
+If you answer yes to one of these questions, the APNGToGifConverter is the best choice for you.
 
 <br>
 ### **Introduction**: 
