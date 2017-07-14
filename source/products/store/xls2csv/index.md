@@ -29,10 +29,9 @@ Learn more [about XLS2csv](./features.html).
 A CSV is a comma separated values file which allows data to be saved in a table structured format. CSV files can be used with any spreadsheet program, such as Microsoft Excel, Open Office Calc, or Google Spreadsheets. They differ from other spreadsheet file types in that you can only have a single sheet in a file, they can not save cell, column, or row styling, and can not save formulas. In ecommerce, CSVs are used primarily for importing and exporting product, customer, and order information to and from your store:
 
 1. **Importing and Exporting Products**: Importing your products is the fastest way to create or update products in bulk. A product import involves having all of your product information in a CSV file, which can be edited as a spreadsheet. Upon import, your column headers will be matched with their corresponding product, and the product information will be updated accordingly. Importing products has a variety of uses, such as updating products, creating new products and options, etc. 
-![](./images/screens/XLS2csv_web.CSV)
 <br>
 2. **Importing Product Options**: Importing your options is an efficient way to handle the sometimes lengthy task of adding product options to each of your products. The following guide walks you through creating Product Options by importing a CSV file file. 
-![](./images/screens/XLS2csv_memes.CSV)
 <br>
- 3. **Importing Customers**: Importing your customers is the fastest way to add or update their information in bulk. A customer import involves having all of your customer information in a CSV file, which can be edited as a spreadsheet. Upon import, your column headers will be matched with their corresponding customer fields in BigCommerce, and the customer information will be updated accordingly.
-![](./images/screens/XLS2csv_animation.CSV)
+3. **Importing Customers**: Importing your customers is the fastest way to add or update their information in bulk. A customer import involves having all of your customer information in a CSV file, which can be edited as a spreadsheet. Upon import, your column headers will be matched with their corresponding customer fields in BigCommerce, and the customer information will be updated accordingly.
+<br>
+![](./images/screens/xls2csv_1440x900.jpg)

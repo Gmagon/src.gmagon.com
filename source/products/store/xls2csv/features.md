@@ -9,10 +9,10 @@ current: features
 - Built for Mac users only
 - Fool-style operation
 - Support after conversion, reveal file in finder
-- Support set background blend color
-- Support transparency threshold level
+- Conversion results can be previewed.
+- Support drag and drop files
 - Convert with one click
-- Compare file size
+- Support conversion in bulk in one time.
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
