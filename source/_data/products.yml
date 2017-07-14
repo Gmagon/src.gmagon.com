@@ -60,6 +60,17 @@
         - Image
         - APNG
     
+    - name: XLS2csv
+      appID: com.gmagon.app.macos.xls2csv
+      thumbType: gif
+      description: It is a file converter that converts the XLS format to the CSV. 
+      link: /products/store/xls2csv/
+      preview: /products/store/xls2csv/
+      tags:
+        - xls
+        - csv
+        - excel
+        - convert
  
 - name: Games
   description: Games

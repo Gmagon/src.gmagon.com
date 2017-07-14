@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | APNGToGifConverter
+title: Release Notes | XLS2csv
 
 subtitle: Release Notes
 comments: false
@@ -16,24 +16,22 @@ current: changelog
   }
 </script>
 
-## v.3.0.0
+## v.4.22
 <script>
-  var releaseDate = '2017-07-11';
+  var releaseDate = '2017-07-13';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
-
-### Fixed
-
-- Restore conversion engine.
 
 ### Update
 
 - Upgrade core API.
+- Logo redesi.gn
 
 ### Downloads
 
-[Download APNGToGifConverter-v3.0.0.zip](http://www.filefactory.com/file/62rhb8dovpdt/APNGToGifConverter-3.0.0.zip)    | (~3.4MiB)
+[Download XLS2csv-v4.22.zip](http://www.filefactory.com/file/3dfgqatr69s9/XLS2csv-4.22.zip)    | (~9.7MiB)
 
-[Download APNGToGifConverter-v3.0.0.dmg](http://www.filefactory.com/file/3moncfzxik2t/APNGToGifConverter-3.0.0.dmg)    | (~3.7MiB)
+[Download XLS2csv-v4.22.dmg](http://www.filefactory.com/file/5uvj6tuan1vv/XLS2csv-4.22.dmg )    | (~10.9MiB)
+
 
 ---
