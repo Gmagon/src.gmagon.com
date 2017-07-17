@@ -1,11 +1,13 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% endif %} {{ config.title }}</title>
   <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Copy from Apple.com website source code -->
   <meta name="robots" content="noodp" />
+  <meta name="keywords" content="{{ page.keywords }}" />
+  <meta name="description" content="{{ page.description }}" />
   <meta property="analytics-track" content="{{ config.title }} - Index/Tab" />
   <meta property="analytics-s-channel" content="homepage" />
   <meta property="og:title" content="{{ config.title }}" />
