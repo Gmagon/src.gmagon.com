@@ -42,7 +42,7 @@ If you encounter any problems during or after installing EasyPing please refer t
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/easyping_trailversion_1440x900.png) 
+![](./images/screens/easyping_trialversion_1440x900.png) 
 
 If you encounter any problems during or after installing NetworkEyes please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 

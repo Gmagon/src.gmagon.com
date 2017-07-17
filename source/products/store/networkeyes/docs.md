@@ -39,7 +39,7 @@ There are two kind of install package in [DOWNLOAD](./download.html) page, you n
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/networkeyes_trail_1440x900.png) 
+![](./images/screens/networkeyes_trialversion_1440x900.png) 
 
 If you encounter any problems during or after installing NetworkEyes please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 

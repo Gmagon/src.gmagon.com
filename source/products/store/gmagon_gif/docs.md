@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## Gmagon Gif
-A GIF converter and gallery for **macOS**
+A GIF to APNG converter and gallery for **macOS**
 
 Version 1.0
 
@@ -17,7 +17,7 @@ Version 1.0
 
  ### **Preface**:
 
->Do you like to use animated memes to express your emotion on your social network? Not only memes GIFs go viral in Internet, many blogs use GIFs as illustration so as to make the content more vivid and impressive. GIFs are suitable for sharp-edged line art with a limited number of colors, such as logos, graphics. It is also good for advertising, especially in the social networking, because it can show more information in the same time and easy to tell at a glance. Compared to GIF, animated PNG format is able to support alpha transparency, while lacking transparency leads to rough edges in display. APNG takes advantage of the format's lossless compression, which favors flat areas of uniform color with well defined edges.
+>Do you like to use animated memes to express your emotion on your social network? Not only memes GIFs go viral in Internet, many blogs use GIFs as illustration so as to make the content more vivid and impressive. GIFs are suitable for sharp-edged line art with a limited number of colors, such as logos, graphics. It is also good for advertising, especially in the social networking, because it can show more information in the same time and easy to tell at a glance. Compared to GIF, animated PNG format is able to support alpha transparency, while lacking transparency leads to rough edges in display. APNG takes advantage of the format's lossless compression, which favors flat areas of uniform color with well defined edges. The question is how to change GIF to APNG?
 
 Gmagon Gif is the first version of a series products that we produced for the convenience of GIF users, it only aims to the format conversion from GIF to APNG. The upcoming version will provide much more amazing functions and services for all users. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company.
 
@@ -25,7 +25,7 @@ Gmagon Gif is the first version of a series products that we produced for the co
  ### **Introduction**:
 GIF, which stands for Graphics Interchange Format, it is a bitmap image format. Since its inception, it comes into widespread usage on the World Wide Web due to its wide support and portability. APNG is also called animated PNG, it refers to Animated Portable Network Graphics which presents an extension to the Portable Network Graphics (PNG) specification. It allows for animated PNG files that work similarly to animated GIF files, while supporting 24-bit images and 8-bit transparency not available for GIFs.
 
-Gmagon Gif is an image format converter tool which tends to convert GIFs to APNG format. The software is made for Mac users only (**macOS 10.11(64-bit)** or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
+Gmagon Gif is an image format converter which tends to convert GIFs to APNG format. The software is made for Mac users only (**macOS 10.11(64-bit)** or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of Gmagon Gif, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
@@ -33,9 +33,7 @@ Gmagon Gif runs on Mac only, MacOS 10.11(64-bit) or newer is required. The new v
 
 There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
-When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it.
-<br>
-![](./images/screens/gmagongif_intro_1440x900.png) 
+When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
 
 If you encounter any problems during or after installing Gmagon Gif please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 

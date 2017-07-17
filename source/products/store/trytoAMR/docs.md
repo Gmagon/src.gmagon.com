@@ -42,7 +42,7 @@ There are three kinds of install package in DOWNLOAD page, you need to choose on
 
  You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/trytoamr_trail%20version_800x500.png) 
+![](./images/screens/trytoamr_trialversion_800x500.png) 
 
 If you encounter any problems during or after installing TryToAMR please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
