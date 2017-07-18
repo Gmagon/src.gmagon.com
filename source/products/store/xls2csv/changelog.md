@@ -25,7 +25,7 @@ current: changelog
 ### Update
 
 - Upgrade core API.
-- Logo redesi.gn
+- Logo redesign
 
 ### Downloads
 
