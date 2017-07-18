@@ -48,7 +48,7 @@ If you encounter any problems during or after installing XLS2csv please refer to
 
  You can click and download one of the files. When you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/xls2csv_trailversion_1440x900.png) 
+![](./images/screens/xls2csv_trialversion_1440x900.png) 
 
 If you encounter any problems during or after installing XLS2csv please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -68,6 +68,6 @@ This section describes daily use guide to the XLS2csv clients. It instructs you 
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
-![](./images/screens/XLS2csv_licensekey_1440x900.png)  
+![](./images/screens/xls2csv_licensekey_1440x900.png)  
 <br>
 Hope the XLS2csv will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
