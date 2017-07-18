@@ -31,7 +31,7 @@ Gmagon Gif is an image format converter which tends to convert GIFs to APNG form
 ### **Installation**:
 Gmagon Gif runs on Mac only, MacOS 10.11(64-bit) or newer is required. The new version 1.0 is released now in [DOWNLOAD](./download.html). The upcoming versions of Gmagon Gif is tend to complete other related services about GIFs. For it is a free product we offer for users, so users can feel free to download the software in our download page of the official website.
 
-There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
 

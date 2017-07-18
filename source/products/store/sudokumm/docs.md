@@ -30,7 +30,7 @@ The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is requ
 SudokuMM runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 
-There are two kind of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 **The trial version** for users to try out is also available in [DOWNLOAD](./download.html), and combined with the install package.
 
