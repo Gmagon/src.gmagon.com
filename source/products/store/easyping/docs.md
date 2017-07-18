@@ -27,7 +27,7 @@ If you have met such questions like that, you'd better consider EasyPing as your
 The Ping utility is a system administrator's tool that is used to see if a computer is operating and also to see if network connections are intact. Ping uses the Internet Control Message Protocol (ICMP) Echo function which is detailed in RFC 792. A small packet is sent through the network to a particular IP address.  The computer that sent the packet then waits and listens for a return packet. If the connections are good and the target computer is up, a good return packet will be received. 
 
 
-EasyPing is a software utility tha use the Internet Control Message Protocol (ICMP) to determine the availability and responsiveness of network hosts. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of EasyPing, you are able to join our community and get our excellent after-sale services.  
+EasyPing is a network utility tha use the Internet Control Message Protocol (ICMP) to determine the availability and responsiveness of network hosts. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of EasyPing, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
@@ -44,12 +44,12 @@ If you encounter any problems during or after installing EasyPing please refer t
 
 ![](./images/screens/easyping_trialversion_1440x900.png) 
 
-If you encounter any problems during or after installing NetworkEyes please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
+If you encounter any problems during or after installing EasyPing please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
 <br>
 ### **User Guide**:
 This section describes daily use guide to the EasyPing clients. It instructs you how to use the software in details after the installation finished.
-1. Firstly, you need to open the file and run it, the window of NetworkEyes will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
+1. Firstly, you need to open the file and run it, the window of EasyPing will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
 <br>

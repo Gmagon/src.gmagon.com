@@ -1,16 +1,16 @@
 layout: app
-title: NetworkEyes
+title: NetworkEyes-monitor network connections on Mac
 subtitle: NetworkEyes
 comments: false
 current: index
-keywords: 
-description: 
+keywords: network monitor for mac, network connect, networking, automatic monitoring tool, real-time monitoring tool on mac
+description: As a real-time network monitoring tool on Mac that automatically display network connections on Mac.
 ---
 
 
 ## OVERVIEW
 
-**NetworkEyes** is a network monitoring tool for Mac OS that displays network conditions in real-time. It is designed to help you to ensure that your computer systems are running smoothly and that no outages occur. Network monitoring is also important to increase the efficiency of your network by knowing bandwidth and resource consumption. NetworkEyes fits into any budget and grows with your needs. Try the NetworkEyes now and see how it can make your network more reliable and your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
+**NetworkEyes** is a network monitoring tool for Mac OS that displays network conditions in real-time. It is designed to help you to ensure that your computer network connections are running smoothly and that no outages occur. Network monitoring is also important to increase the efficiency of your network by knowing bandwidth and resource consumption. NetworkEyes fits into any budget and grows with your needs. Try the NetworkEyes now and see how it can make your network more reliable and your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
 Learn more [about NetworkEyes](./features.html).
 
@@ -22,7 +22,7 @@ Learn more [about NetworkEyes](./features.html).
 <br>
 
 ## USE CASES: BUILT FOR YOU
- NetworkEyes aims to satisfy various requirements for different users. As an advanced monitoring tool, NetworkEyes is able to help users monitor their computer system, so as to increase the efficiency of your network. It is a powerful and widely-used network monitoring software. You should use NetworkEyes, if you would like to:  
+ NetworkEyes aims to satisfy various requirements for different users. As an advanced and automatic monitoring tool, NetworkEyes is able to help users monitor their computer system, so as to increase the efficiency of your network. It is a powerful and widely-used network monitoring software for Mac. You should use NetworkEyes, if you would like to:  
 
 ● Increase profits by avoiding losses caused by undetected system failures.
 <br>

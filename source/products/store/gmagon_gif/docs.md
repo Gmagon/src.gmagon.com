@@ -44,7 +44,6 @@ This section describes daily use guide to the Gmagon Gif clients. It instructs y
 1. Firstly, you need to open the file and run it, the window of Gmagon Gif will pop up in the desktop. You can find the "Convert" in the "General" directory at the left side of the interface. Click the "Convert" button to enter the conversion interface, there are four steps to guide you how to use it.
 <br>
 ![](./images/screens/gmagongif_manuals1_1440x900.png) 
-
 <br>
 2. Secondly, we provide two ways for users to import their GIF files. On the one hand, you can import your GIF file once a time by clicking the first button on the left, or you can click the second button on the left to import a directory. On the other,you can directly drag a file or directory from your folder to the interface.
 <br>

@@ -1,17 +1,17 @@
 layout: app
-title: SudokuMM 
+title: SudokuMM-a classic Sudoku game on Mac
 subtitle: SudokuMM 
 comments: false
 current: index
-keywords: 
-description: 
+keywords: daily sudoku puzzles on mac, best sudoku game on mac, sudoku download for mac, brain training game, select a puzzle by difficult level
+description: SudokuMM is a easy-to-use tool to let users play Sudoku games conveniently and provide four difficult levels.
 ---
 
 
 ## OVERVIEW
 
 
-**SudokuMM** is a classic Sudoku game which is one of the most popular puzzle games of all time. It is a convenient and minimum tool designed for Sudoku fans all over the world. With SudokuMM, you can feel free to play Sudoku on your Mac whenever you want. There are four levels of difficulty for you to choose, you can easily find your suitable level to play with no worry about it's too difficult or too easy to play. Without log in and registration, or any plug-in, you can simply enjoy the excellent experience anytime and everywhere. Start a game now. Within no time Sudoku will be your favorite free online game.
+**SudokuMM** is a classic Sudoku game which is one of the most popular puzzle games of all time. It is a convenient and minimum tool designed for Sudoku fans all over the world. With SudokuMM, you can feel free to play Sudoku puzzle on your Mac anytime and everywhere. There are four levels of difficulty to choose, you can select a puzzle by different difficult level without worrying about it's too difficult or too easy to play. Without log in and registration, or any plug-in, you can simply enjoy the excellent experience anytime and everywhere. Start a game now. Within no time daily Sudoku will be your favorite game on Mac.
 
 Learn more [about SudokuMM ](./features.html).
 
@@ -25,7 +25,7 @@ Learn more [about SudokuMM ](./features.html).
 ## USE CASES: BUILT FOR YOU
 The popular Japanese puzzle game Sudoku is based on the logical placement of numbers. An online game of logic, Sudoku doesn’t require any calculation nor special math skills; all that is needed are brains and concentration. The goal of Sudoku is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9. Your job is to use logic to fill in the missing digits and complete the grid. As a logic puzzle, Sudoku is also an excellent brain game. If you play Sudoku daily, you will soon start to see improvements in your concentration and overall brain power. 
 
-1. **Students**: The game of Sudoku is designed to help keep certain parts of the brain active. The American Alzheimer’s Association has endorsed Sudoku as a “brain game”. Just like physical exercise, your mind need some exercise too. Playing sudoku actually exercises your brain extensively. As for students, their memory and logic could work side-by-side when you are playing Sudoku, and it will eventually improve their number skills.
+1. **Students**: The game of Sudoku is designed to help keep certain parts of the brain active. The American Alzheimer’s Association has endorsed Sudoku as a “brain training game”. Just like physical exercise, your mind need some exercise too. Playing sudoku actually exercises your brain extensively. As for students, their memory and logic could work side-by-side when you are playing Sudoku, and it will eventually improve their number skills.
 <br>
 ![](./images/screens/sudoku_index1_600x350.jpg)
 <br>

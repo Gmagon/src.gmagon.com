@@ -9,7 +9,7 @@ current: features
 - Built for Mac users only
 - Fool-style operation
 - Timekeeping
-- degrees of difficult
+- select a puzzle by difficult level
 - Support autofill pencil
 - Support error check with one click
 - Easy to edit and pause

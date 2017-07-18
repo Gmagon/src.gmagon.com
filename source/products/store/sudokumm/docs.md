@@ -21,9 +21,9 @@ Version 4.0
 
 <br>
  ### **Introduction**:
-SudokuMM is an online game for classic Sudoku on Mac. It is a good news for Sudoku lovers for its convenience and simple operation. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company.
+SudokuMM is the best puzzle game for users to play classic Sudoku on Mac. It is a good news for Sudoku lovers for its convenience and simple operation. If you are interested to know more about this product, and how the product can help you in your life, just read more below, and have a try, you can simply enjoy the excellent user experience delivered by our company.
 
-The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). The software is so convenient that players can enjoy Sudoku at different level in their own PC. Besides, they will be released from annoying ads, bundled softwares, plug-ins, even log in and registration, for the interface of this game is clean and concise. By simply enjoying the swift, comfortable operation of SudokuMM, you are able to join our community and get our excellent after-sale services.  
+The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). The software is so convenient that players can enjoy Sudoku at different level in their Mac. Besides, they will be released from annoying ads, bundled softwares, plug-ins, even log in and registration, for the interface of this game is clean and concise. By simply enjoying the swift, comfortable operation of SudokuMM, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:

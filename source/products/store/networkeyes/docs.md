@@ -17,7 +17,7 @@ Version 3.19.0
 
  ### **Preface**:
 
->Have you ever found that the logo of network connection is normal, but you still cannot open your wen page or send out your email. Does such situation makes you feel that your network is out of control sometimes? Maybe you can let NetworkEyes helps you to uncover the true situation of your computer and solve your problems at the same time. It is easy to install and apply in your network.
+>Have you ever found that the logo of network connection is normal, but you still cannot open your wen page or send out your email? Does such situation makes you feel that your network is out of control sometimes? Maybe you can let NetworkEyes helps you to uncover the true situation of your computer and solve your problems at the same time. It is easy to install and apply in your network.
 
 
 <br>
