@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## TryToFLAC
-An audio converter for Mac
+An FLAC audio converter for Mac
 
 Version 4.0
 
@@ -29,7 +29,7 @@ Version 4.0
  ### **Introduction**:
 FLAC, which stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning that audio is compressed in FLAC without any loss in quality. This is similar to how Zip works, except with FLAC you will get much better compression because it is designed specifically for audio, and you can play back compressed FLAC files in your favorite player just like you would an MP3 file, such as your home stereo, your car or your phones. This converter lets you also easily extract audio from video files in high quality.
 
-TryToFLAC is an audio converter tool which aims to convert various audio formats to the FLAC format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToFLAC and transfered as FLAC format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToFLAC, you are able to join our community and get our excellent after-sale services.  
+TryToFLAC is an FLAC audio converter tool which aims to convert various audio formats to the FLAC format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToFLAC and transfered as FLAC format. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToFLAC, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
