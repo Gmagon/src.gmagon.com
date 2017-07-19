@@ -1,9 +1,9 @@
 layout: app
-title: TryToAMR
+title: TryToAMR-a streamlined AMR audio file converter on Mac
 subtitle: TryToAMR
 comments: false
 current: index
-keywords: 
+keywords: amr converter on mac, amr converter software mac, mp3 to amr converter, mp4 to amr converter, convert flac to amr, convert mp3 to amr 
 description: 
 ---
 

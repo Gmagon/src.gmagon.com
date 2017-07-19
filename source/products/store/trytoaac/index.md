@@ -1,9 +1,9 @@
 layout: app
-title: TryToAAC-convert other audio formats to AAC on Mac
+title: TryToAAC-a streamlined AAC converter on Mac
 subtitle: TryToAAC
 comments: false
 current: index
-keywords: aac converter on mac, aac format converter software mac, mp3 to aac converter, mp4 to aac converter, flac to aac converter 
+keywords: aac converter on mac, aac converter software mac, mp3 to aac converter, mp4 to aac converter, convert flac to aac, convert mp3 to aac 
 description: TryToAAC is a minimum converter that easily convert various audio formats to AAC file.
 ---
 
@@ -11,7 +11,7 @@ description: TryToAAC is a minimum converter that easily convert various audio f
 ## OVERVIEW
 
 
-**TryToAAC** is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AAC format. The software can intelligently recognize an extensive number of audio formats and transform them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
+**TryToAAC** is a minimum and streamlined AAC converter that easily convert some of the most popular audio standards out there to the AAC format, for example, convert MP3 to AAC, MP4 to AAC, and FLAC to AAC, etc. It is designed for Mac users only. The software can intelligently recognize an extensive number of audio formats and convert them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
 Learn more [about TryToAAC](./features.html).
 
