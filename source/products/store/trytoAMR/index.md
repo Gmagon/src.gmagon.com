@@ -4,14 +4,14 @@ subtitle: TryToAMR
 comments: false
 current: index
 keywords: amr converter on mac, amr converter software mac, mp3 to amr converter, mp4 to amr converter, convert flac to amr, convert mp3 to amr 
-description: 
+description: TryToAMR is a minimum converter that easily convert various audio formats to AMR file.
 ---
 
 
 ## OVERVIEW
 
 
-**TryToAMR** is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the AMR format. The software can intelligently recognize an extensive number of audio formats and transform them to AMR files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
+**TryToAMR** is a minimum and streamlined AMR converter that easily convert some of the most popular audio standards out there to the AMR format, for example MP3 to AMR, MP4 to AMR, FLAC to AMR, etc. The software can intelligently recognize an extensive number of audio formats and transform them to AMR files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
 Learn more [about TryToAMR](./features.html).
 
@@ -22,9 +22,7 @@ Learn more [about TryToAMR](./features.html).
 
 <br>
 ## USE CASES: BUILT FOR YOU
-TryToAMR aims to satisfy various requirements for different users. 
-
-Through this converter, users are able to convert any other audio files to AMR format, and thus enjoy a better listening quality.
+TryToAMR aims to satisfy various requirements for different users. Through this converter, users are able to convert any other audio files to AMR format, and thus enjoy a better listening quality.
 
 1. **Users Who Willing to Store Spoken Audios**: If users have to store some important spoken audios or records, AMR codec would be an excellent choice for you. Besides, many modern mobile telephone handsets can store short audio recordings in the AMR format, and both free and proprietary programs exist to convert between this and other formats.
 <br>
@@ -35,7 +33,7 @@ Through this converter, users are able to convert any other audio files to AMR f
 <br>
 ![](./images/screens/trytoamr_mms_600x350.jpg)
 <br>
-1. **Users for mobile devices**: Most multimedias in mobile devices, especially audio and video players, are all support AMR. For example: windows media player, realone, AMR Player, StormPlayer, etc. 
+1. **Users for mobile devices**: Most multimedias in mobile devices, especially audio and video players, are all support AMR. For example: windows media player, Realone, AMR Player, StormPlayer, etc. 
 <br>
 ![](./images/screens/trytoamr_mobile%20device_600x350.jpg)
 <br>

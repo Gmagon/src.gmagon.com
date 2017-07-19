@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## TryToAMR
-An audio converter for Mac
+An AMR audio converter for Mac
 
 Version 4.0
 
@@ -29,11 +29,11 @@ Version 4.0
  ### **Introduction**:
 AMR, which stands for Adaptive Multi-Rate audio codec, is an audio compression format optimized for speech coding. AMR was adopted as the standard speech codec by 3GPP in October 1999 and is now widely used in GSM[4] and UMTS. AMR speech codec consists of a multi-rate narrowband speech codec that encodes narrowband (200–3400 Hz) signals at variable bit rates ranging from 4.75 to 12.2 kbit/s with toll quality speech starting at 7.4 kbit/s. It uses link adaptation to select from one of eight different bit rates based on link conditions.
 
-TryToAMR is an audio converter tool which aims to convert various audio formats to the AMR format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToAMR and transfered as AMR format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToAMR, you are able to join our community and get our excellent after-sale services.  
+TryToAMR is an audio converter tool which aims to convert various audio formats to the AMR format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the conversion result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToAMR and transfered as AMR format. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToAMR, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-TryToAMR runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+TryToAMR runs on Mac only, Mac OSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 There are three kinds of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
