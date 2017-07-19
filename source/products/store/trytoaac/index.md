@@ -1,5 +1,5 @@
 layout: app
-title: TryToAAC-a streamlined AAC converter on Mac
+title: TryToAAC-a streamlined AAC audio file converter on Mac
 subtitle: TryToAAC
 comments: false
 current: index

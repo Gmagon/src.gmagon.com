@@ -33,5 +33,5 @@ Learn more [about APNGToGifConverter](./features.html).
 2. **Memes Maker**: Memes are virally-transmitted cultural symbols. Memes can both be pictures and videos. Memes GIFs are popular all over the world in the Internet, and a large amount of netizen are likely to make their own unique memes. This also ties in with the fact that using GIF files can entice different, younger audiences as the children may be amused by these animations.
 ![](./images/screens/apngtogifconverter_memes.gif)
 <br>
- 3. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool. Even for business, you can use GIFs to grab attention or show some personality in tweets, group chats and even emails. 
+3. **Small Animations and Film Clips**: If you want to cut some episodes from an animation or a film and put them to other uses, APNG is tend to help users to enjoy the quick conversion experience delivered by our tool. Even for business, you can use GIFs to grab attention or show some personality in tweets, group chats and even emails. 
 ![](./images/screens/apngtogifconverter_animation.gif)
