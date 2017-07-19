@@ -102,7 +102,7 @@
     <Program_Type>Shareware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac OS X 10.6,Mac OS X 10.7,Mac OS X 10.8</Program_OS_Support>
+    <Program_OS_Support>Mac OS X 10.7,Mac OS X 10.8</Program_OS_Support>
     <Program_Language>English</Program_Language>
     <Program_Change_Info>Upgrade core API.
 Logo redesign.</Program_Change_Info>
@@ -158,6 +158,9 @@ Logo redesign.</Program_Change_Info>
     <Distribution_Permissions>The Trial version of my software can be freely distributed over the internet in an unchanged form.</Distribution_Permissions>
     <EULA>http://gmagon.com/end-user-license-agreement.html</EULA>
   </Permissions>
+  <ASBMPlannerID1stRound>1</ASBMPlannerID1stRound>
+  <ASBMPlannerID2ndRound>2</ASBMPlannerID2ndRound>
+  <Issues>11</Issues>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>
