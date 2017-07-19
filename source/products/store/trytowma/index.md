@@ -1,17 +1,17 @@
 layout: app
-title: TryToWMA
+title: TryToWMA-a streamlined WMA audio file converter on Mac
 subtitle: TryToWMA
 comments: false
 current: index
-keywords: 
-description: 
+keywords: wma converter on mac, convert to wma, wma converter download, mp4 to wma converter, wma music converter, convert mp4 to wma 
+description: TryToWMA is a minimum converter that easily convert various audio formats to WMA file.
 ---
 
 
 ## OVERVIEW
 
 
-**TryToWMA** is a minimum and streamlined tool that easily convert some of the most popular audio standards out there to the WMA format. The software can intelligently recognize an extensive number of audio formats and transform them to WMA files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
+**TryToWMA** is a minimum and streamlined WMA converter that easily convert some of the most popular audio standards out there to the WMA format, for example, to convert MP3 to WMA, MP4 to WMA, AAC to WMA, etc. The software can intelligently recognize an extensive number of audio formats and convert them to WMA files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
  
 Learn more [about TryToWMA](./features.html).
 

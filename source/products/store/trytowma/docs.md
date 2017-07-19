@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## TryToWMA
-An audio converter for Mac
+An WMA file converter for Mac
 
 Version 4.0
 
@@ -29,7 +29,7 @@ Version 4.0
 A lot of people have suffered the pain that you painstakingly downloaded some audio formats from the Internet, which turned out that they were unable to fit your players. Such situation could disappointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized and space-saving audio format, WMA still has its own superiority. 
 
 
-Windows Media Audio (WMA) is the name of a series of audio codes and their corresponding audio coding formats developed by Microsoft. TryToWMA is an audio converter tool which aims to convert various audio formats to the WMA format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). It is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToWMA and transfered as WMA format. The transformation process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToWMA, you are able to join our community and get our excellent after-sale services.  
+Windows Media Audio (WMA) is the name of a series of audio codes and their corresponding audio coding formats developed by Microsoft. TryToWMA is an WMA audio converter which aims to convert various audio formats to the WMA format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). It is so convenient that users can easily get the conversion result by simply clicking one button in it. Most audio formats in Internet can be intelligently recognized by TryToWMA and converted as WMA format. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToWMA, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:

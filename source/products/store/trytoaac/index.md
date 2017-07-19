@@ -23,7 +23,7 @@ Learn more [about TryToAAC](./features.html).
 <br>
 
 ## USE CASES: BUILT FOR YOU
-TryToAAC aims to satisfy various requirements for different users. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
+TryToAAC aims to satisfy various requirements for different users on Mac. Fans of Apple products must be familiar with AAC audio format, for Apple pioneered its development. Later, more and more devices support AAC format, and it is recognized as the successor of MP3. Besides, AAC enjoys its popularity in streaming TV and radio broadcast, because its high-quality and less bandwidth. Through this converter, users are able to convert any other audio files to AAC format, and thus enjoy a better listening quality.
 
 1. **Apple Fans**: Apple has long been the main supporter of AAC format. AAC has been used by iTunes store since its inception, and is currently used by Apple Music. It is also the native file format for iTunes. Compared to MP3, AAC is generally slightly smaller, and sounds slightly better. It is compatible with iPad, iPhone, Macbooks and of course, tiny iPod. It is undoubted that a true Apple fan favor AAC for their digital music.
 <br>
