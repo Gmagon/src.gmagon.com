@@ -36,6 +36,14 @@ feed:
   hub:
   content:
 
+# offline config passed to sw-precache.
+offline:
+  maximumFileSizeToCacheInBytes: 5242880
+  staticFileGlobs:
+  - public/**/*.{png,jpg,gif,svg,eot,ttf,woff,woff2}
+  stripPrefix: public
+  verbose: true
+
 # 集成主题样式处理
 theme: navy
 deploy:
