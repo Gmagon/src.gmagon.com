@@ -102,7 +102,7 @@
     <Program_Type>Shareware</Program_Type>
     <Program_Release_Status>Major Update</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
-    <Program_OS_Support>Mac OS X 10.7,Mac OS X 10.8</Program_OS_Support>
+    <Program_OS_Support>Mac OS X,Mac OS X 10.1,Mac OS X 10.2,Mac OS X 10.3,Mac OS X 10.4,Mac OS X 10.5,Mac OS X 10.6,Mac OS X 10.7,Mac OS X 10.8</Program_OS_Support>
     <Program_Language>English</Program_Language>
     <Program_Change_Info>Restored conversion engine.Upgraded core API.</Program_Change_Info>
     <Program_System_Requirements>Mac OS X 10.7(64-bit) or above is required.</Program_System_Requirements>
@@ -157,6 +157,9 @@
     <Distribution_Permissions>The Trial version of my software can be freely distributed over the internet in an unchanged form.</Distribution_Permissions>
     <EULA>http://gmagon.com/end-user-license-agreement.html</EULA>
   </Permissions>
+  <ASBMPlannerID1stRound>3</ASBMPlannerID1stRound>
+  <ASBMPlannerID2ndRound>4</ASBMPlannerID2ndRound>
+  <Issues>11</Issues>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>
@@ -175,7 +178,7 @@
       <Keywords>the best apng to gif converter for mac, convert apng to gif format on mac, mac apng to gif converter, create gif files from apng on mac</Keywords>
       <Char_Desc_45>Convert APNG to GIF format on Mac</Char_Desc_45>
       <Char_Desc_80>APNGToGifConverter - convert APNG to GIF format on Mac</Char_Desc_80>
-      <Char_Desc_250>XLS2csv is an easy-to-use XLS to CSV converter for Mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS.</Char_Desc_250>
+      <Char_Desc_250>As a good APNG to GIF Converter for Mac, APNGToGifConverter is your smart choice to convert APNG to PNG format on a Mac machine.</Char_Desc_250>
       <Char_Desc_450>APNGToGifConverter is the best APNG to GIF converter on Mac for you. It is easy to convert the APNG bitmap image format out there to the GIF format. The software can intelligently recognize APNG files or directory and change them to Gif files quickly.</Char_Desc_450>
       <Char_Desc_2000>APNGToGifConverter is the best APNG to GIF converter on Mac for you. It is easy to convert the APNG bitmap image format out there to the GIF format. The software can intelligently recognize APNG files or directory and change them to Gif files quickly. APNGToGifConverter fits into any budget and grows with your needs. Try the APNGToGifConverter now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!</Char_Desc_2000>
     </English>
