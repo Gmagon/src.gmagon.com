@@ -16,7 +16,7 @@ current: changelog
   }
 </script>
 
-## v.3.0.0
+## v.1.0.0
 <script>
   var releaseDate = '2017-07-11';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
@@ -32,8 +32,8 @@ current: changelog
 
 ### Downloads
 
-[Download APNGToGifConverter-v3.0.0.zip](http://www.filefactory.com/file/62rhb8dovpdt/APNGToGifConverter-3.0.0.zip)    | (~3.4MiB)
+[Download Gmagon CSS Maker-v1.0.0.zip](http://www.filefactory.com/file/3vujax9y07a5/Gmagon%20CSS%20Maker-1.0.0.zip)    | (~3.3MiB)
 
-[Download APNGToGifConverter-v3.0.0.dmg](http://www.filefactory.com/file/3moncfzxik2t/APNGToGifConverter-3.0.0.dmg)    | (~3.7MiB)
+[Download Gmagon CSS Maker-v1.0.0.dmg](http://www.filefactory.com/file/2afab3xgbln1/Gmagon-CSS-Maker-1.0.0.dmg)    | (~3.2MiB)
 
 ---
