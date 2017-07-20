@@ -28,6 +28,13 @@ highlight:
   line_number: true
 per_page: 0
 
+# Generate Atom 1.0 or RSS 2.0 feed.
+feed:
+  type: atom
+  path: atom.xml
+  limit: 50
+  hub:
+  content:
 
 # 集成主题样式处理
 theme: navy
@@ -37,7 +44,7 @@ deploy:
   branch: master
 
 stylus:
-  compress: false
+  compress: true
   sourcemaps:
     comment: true
     inline: true
