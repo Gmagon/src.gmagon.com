@@ -73,11 +73,11 @@
         - convert
 
     - name: Gmagon CSS Maker
-      appID: com.gmagon.app.macos.gmagoncssmaker
+      appID: com.gmagon.app.macos.gmagon_css_maker
       thumbType: gif
       description: It is a fabulous CSS designer on Mac 
-      link: /products/store/gmagoncssmaker/
-      preview: /products/store/gmagoncssmaker/
+      link: /products/store/gmagon_css_maker/
+      preview: /products/store/gmagon_css_maker/
       tags:
         - css
         - css generator
