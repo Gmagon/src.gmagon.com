@@ -43,7 +43,7 @@ If you encounter any problems during or after installing Gmagon CSS Maker please
 **The trial version** for users to try out is also available in [DOWNLOAD](./download.html), and combined with the install package.
 
 
- You can click and download one of the files. When you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store.
+ You can click and download one of the files. When you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software within 30 days. If you wanna to buy our product, then click "Buy" button to enter the online store.
 
 
 ![](./images/screens/Gmagon CSS Maker_trialversion_1440x900.png) 
@@ -73,4 +73,6 @@ Hope the Gmagon CSS Maker will help you enjoy a high-quality user experience and
 ### **Main Functions**:
 1. **Layers**: There many numerous layers for users to build, namely, the number of layers is numerous. 
 1. **Background**: Various options for users to change the background information of a default view, for example, horizontal and vertical position, size, top and bottom, repeat or no repeat. In addition, you can also import other image files into the interface to produce the accordingly CSS code.
-1. **Background**: 
+1. **Shadow**: There are Inner-Shadow, Out-Shadow, and also Text-Shadow for users to choose. You can make shadows inside and outside the graph which can be panned and zoomed. Colors of shadows can also be chose at will.
+1. **Text**: Double-clicking the graph, then a text window will pop up for you to input the text. Users can modify the text with Text-Stroke, Text-Shadow, Text-Bevel.
+1. **Viewport**: If you want to change the background of your graph, you can change the width, height and color in the Viewport.

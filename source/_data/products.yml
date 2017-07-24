@@ -71,6 +71,20 @@
         - csv
         - excel
         - convert
+
+    - name: Gmagon CSS Maker
+      appID: com.gmagon.app.macos.gmagoncssmaker
+      thumbType: gif
+      description: It is a fabulous CSS designer on Mac 
+      link: /products/store/gmagoncssmaker/
+      preview: /products/store/gmagoncssmaker/
+      tags:
+        - css
+        - css generator
+        - css designer
+        - web design
+
+        
  
 - name: Games
   description: Games
