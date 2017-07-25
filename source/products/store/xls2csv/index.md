@@ -3,7 +3,7 @@ title: XLS2csv - convert XLS files to CSV on Mac
 subtitle: XLS2csv
 comments: false
 current: index
-keywords: xls to csv converter for mac, convert excel files to csv on mac, convert xls to csv on mac, mac xls 2 csv converter, export xls to cs, batch convert xls to csv
+keywords: xls to csv converter for mac, convert excel files to csv on mac, convert xls to csv on mac, mac xls 2 csv converter, export xls to cs, batch convert xls to csv, convert excel to csv
 description: XLS2csv is an easy-to-use XLS to CSV converter for Mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. 
 ---
 

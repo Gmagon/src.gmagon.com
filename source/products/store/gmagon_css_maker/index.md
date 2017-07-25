@@ -19,7 +19,6 @@ Learn more [about Gmagon CSS Maker ](./features.html).
 <br>
 
 ![](./images/screens/gmagon_interview.gif)
-
 <br>
 
 ## USE CASES: BUILT FOR YOU

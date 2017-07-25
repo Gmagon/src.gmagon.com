@@ -65,14 +65,19 @@ This section describes daily use guide to the Gmagon CSS Maker clients. It instr
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>
-![](/images/screens/gmagoncssmaker_licensekey_1440x900.png)  
+![](./images/screens/gmagoncssmaker_licensekey_1440x900.png)  
 <br>
-Hope the Gmagon CSS Maker will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
 
+Hope the Gmagon CSS Maker will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
+<br>
 
 ### **Main Functions**:
 1. **Layers**: There many numerous layers for users to build, namely, the number of layers is numerous. 
+![](./images/screens/gmagoncssmaker_layers_1440x900.png)
+1. **Basic**: Three basic options for users to choose, width, height, and opacity.
+![](./images/screens/gmagoncssmaker_basic_1440x900.png)
 1. **Background**: Various options for users to change the background information of a default view, for example, horizontal and vertical position, size, top and bottom, repeat or no repeat. In addition, you can also import other image files into the interface to produce the accordingly CSS code.
+![](./images/screens/gmagoncssmaker_layers_1440x900.png)
 1. **Shadow**: There are Inner-Shadow, Out-Shadow, and also Text-Shadow for users to choose. You can make shadows inside and outside the graph which can be panned and zoomed. Colors of shadows can also be chose at will.
 1. **Text**: Double-clicking the graph, then a text window will pop up for you to input the text. Users can modify the text with Text-Stroke, Text-Shadow, Text-Bevel.
 1. **Viewport**: If you want to change the background of your graph, you can change the width, height and color in the Viewport.
