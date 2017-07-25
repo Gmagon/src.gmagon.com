@@ -15,7 +15,7 @@ description: As a good CSS maker for Mac, Gmagon CSS Maker is your smart choice 
 
 Learn more [about Gmagon CSS Maker ](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 <br>
 
 

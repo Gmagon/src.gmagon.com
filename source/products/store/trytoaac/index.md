@@ -15,7 +15,7 @@ description: TryToAAC is a minimum converter that easily convert various audio f
 
 Learn more [about TryToAAC](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <!-- ![](./images/screens/s2_953x525.png) -->
 ![](./images/screens/AAC_1440X834.png)

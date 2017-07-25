@@ -15,7 +15,7 @@ description: SudokuMM is a easy-to-use tool to let users play Sudoku games conve
 
 Learn more [about SudokuMM ](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 
 ![](./images/screens/sudoku_interview.gif)

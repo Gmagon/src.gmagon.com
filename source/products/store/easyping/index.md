@@ -15,7 +15,7 @@ description: EasyPing is a simple network test tool to check whether a particula
 
 Learn more [about EasyPing](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 
 ![](./images/screens/easyping_intro_1440x900.gif)

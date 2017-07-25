@@ -15,7 +15,7 @@ description: TryToMP3 is a minimum converter that easily convert various audio f
 
 Learn more [about TryToMP3](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <!-- ![](./images/screens/s2_953x525.png) -->
 ![](./images/screens/s2_664x374_op.png)
