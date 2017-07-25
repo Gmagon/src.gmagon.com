@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.8"
+    "version": "3.3.7"
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
@@ -22,7 +22,6 @@
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.2.1",
-    "hexo-tag-aplayer": "^2.0.1",
     "hexo-tag-echarts": "^1.0.0",
     "lodash": "^4.17.4",
     "lunr": "^0.6.0"
