@@ -18,7 +18,7 @@ Learn more [about Gmagon CSS Maker ](./features.html).
 [![](../../../asset/images/free-download.png)](./download.html)
 <br>
 
-![](./images/screens/gmagon_interview.gif)
+ 
 <br>
 
 ## USE CASES: BUILT FOR YOU
@@ -32,6 +32,7 @@ Gmagon CSS Maker can be used to define box, gradients, text shadows, box shadows
 ![](./images/screens/Gmagon CSS Maker _animation.gif)
 <br>
 4. **Entrepreneur**: Sometimes, a businessman need to frequently put up great web pages and small sites for new ideas, products, events, etc. in the course of running one's business. As coding dumdums, people all over the world will flock to the Gmagon CSS Maker in order to produce fabulous and stable sites without true coding skills.
+![](./images/screens/gmagoncssmaker_entrepreneur_500x300.png)
 <br> 
 1. **Graphic Designer**: A creative graphic designer is used to consider of ways around the limited design options to create the unique looks that he or she built for clients using the background image option.
 ![](./images/screens/Gmagon CSS Maker _memes.gif)
