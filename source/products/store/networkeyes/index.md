@@ -14,7 +14,7 @@ description: As a real-time network monitoring tool on Mac that automatically di
 
 Learn more [about NetworkEyes](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <!-- ![](./images/screens/s2_953x525.png) -->
 ![](./images/screens/networkeyes_800x500.jpg)

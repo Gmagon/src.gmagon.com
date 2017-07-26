@@ -15,7 +15,7 @@ description: TryToAMR is a minimum converter that easily convert various audio f
 
 Learn more [about TryToAMR](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <!-- ![](./images/screens/s2_953x525.png) -->
 ![](./images/screens/trytoamr_screen_overview_1440x900.png)

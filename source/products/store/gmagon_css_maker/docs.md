@@ -56,23 +56,36 @@ This section describes daily use guide to the Gmagon CSS Maker clients. It instr
 1. Firstly, you need to open the file and run it, an interface will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
-<br>
 ![](./images/screens/gmagoncssmaker_buyonline_1440x900.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and then finish the whole purchase process.
-<br>
 ![](./images/screens/gmagoncssmaker_onlinestore_1440x900.png) 
 <br>
 4. Finally, after you finished the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
+![](./images/screens/gmagoncssmaker_licensekey_1440x900.png)  
 <br>
-![](/images/screens/gmagoncssmaker_licensekey_1440x900.png)  
-<br>
-Hope the Gmagon CSS Maker will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
 
+Hope the Gmagon CSS Maker will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
+<br>
 
 ### **Main Functions**:
 1. **Layers**: There many numerous layers for users to build, namely, the number of layers is numerous. 
+![](./images/screens/gmagoncssmaker_layers_1440x900.png)
+<br>
+1. **Basic**: Three basic options for users to choose, width, height, and opacity.
+![](./images/screens/gmagoncssmaker_basic_1440x900.png)
+<br>
 1. **Background**: Various options for users to change the background information of a default view, for example, horizontal and vertical position, size, top and bottom, repeat or no repeat. In addition, you can also import other image files into the interface to produce the accordingly CSS code.
+![](./images/screens/gmagoncssmaker_background_1440x900.png)
+<br>
+1. **Border-Radius**: Top left and right radius, botton left and right radius can be changed by users.
+![](./images/screens/gmagoncssmaker_border_1440x900.png)
+<br>
 1. **Shadow**: There are Inner-Shadow, Out-Shadow, and also Text-Shadow for users to choose. You can make shadows inside and outside the graph which can be panned and zoomed. Colors of shadows can also be chose at will.
+![](./images/screens/gmagoncssmaker_shadow_1440x900.png)
+<br>
 1. **Text**: Double-clicking the graph, then a text window will pop up for you to input the text. Users can modify the text with Text-Stroke, Text-Shadow, Text-Bevel.
+![](./images/screens/gmagoncssmaker_text_1440x900.png)
+<br>
 1. **Viewport**: If you want to change the background of your graph, you can change the width, height and color in the Viewport.
+![](./images/screens/gmagoncssmaker_viewport_1440x900.png)

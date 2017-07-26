@@ -15,7 +15,7 @@ description: As a good APNG to GIF Converter for Mac, APNGToGifConverter is your
 
 Learn more [about APNGToGifConverter](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <br>
 

@@ -15,7 +15,7 @@ description: TryToWMA is a minimum converter that easily convert various audio f
  
 Learn more [about TryToWMA](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 ![](./images/screens/trytowma_screen_1_1440x900.png)
 
