@@ -23,4 +23,4 @@ Step 3: Click “Convert all” button to start. Once the conversion is complete
 That’s all. Hope this XLS to CSV converter app for Apple helps those who are looking for an easy solution to handle XLS files on Mac OS X.
 
 Also read
-<a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html"><u>How to convert XLS to CSV on a Mac?</u></a>
+<a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" "target=_blank"><u>How to convert XLS to CSV on a Mac?</u></a>
