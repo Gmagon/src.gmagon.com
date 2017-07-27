@@ -1,3 +1,5 @@
+
+layout: guide
 title: How to convert XLS to CSV on a Mac?  
 keywords: convert excel from .xls to .csv for Mac, process XLS to CSV conversion on Mac, Mac XLS to CSV Converter, shift excel XLS files to CSV, XLS to CSV converter for Mac
 description: This tutorial explains how to process XLS to CSV conversion on Mac via using a simple and helpful XLS to CSV Converter for Mac. 
@@ -9,7 +11,7 @@ If you need to convert excel files from .xls format to .csv for use on Mac OS X,
 <strong><em>How can I convert excel .xls files to .csv format on a Mac? </strong>
 “I wish to convert all my .xls files to .csv on my new iMac. Is there a way to do this in batch mode? Can anyone kindly recommend a solution if you know? Thanks in advance.”</em>
 
-To be able to shift excel XLS files to CSV format, all you need is a workable XLS to CSV Converter for Mac. XLS2csv is such a program. With XLS2csv installed, you are able to batch convert .xls files to .csv keeping all special characters and foreign symbols intact.
+To be able to shift excel XLS files to CSV format, all you need is a workable <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="noopener">XLS to CSV Converter for Mac</a>. XLS2csv is such a program. With XLS2csv installed, you are able to batch convert .xls files to .csv keeping all special characters and foreign symbols intact.
 <h2>How to convert XLS to CSV on Mac via using XLS2csv?</h2>
 Follow these steps:
 
@@ -26,3 +28,7 @@ Follow these steps:
 Once the conversion is complete, you can click “Output directory” to find the exported .csv files.
 
 Hope this tutorial helps those who are in search of a way to convert XLS files to CSV format on Macintosh computers.
+
+Also read
+<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="noopener">Mac batch convert XLS to CSV</a>
+<a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
