@@ -5,4 +5,31 @@ description: This is the best solution dedicated to helping beginners quickly in
 ---
 
 
-In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so a easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. Gmagon CSS Maker-a 
+In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so a easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. [Gmagon CSS Maker](https://gmagon.com/products/store/gmagon_css_maker/index.html)-a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look without writing a code.
+
+>Generating text styling with CSS is one of the powerful functions of Gmagon CSS Maker. It provides style sheet with options that you need, like text size, color, font, text-stroke, text-shadow, and text-bevel,etc. Once you click a style sheet, you will get the text preview automatically, then get the corresponding CSS code. It is such a simple and great way to create and chnage the text style in the procession of coding. If you are interested in our product, you can see more details in [here](https://gmagon.com/products/store/gmagon_css_maker/index.html).
+
+
+<br>
+
+## what is CSS text?
+ This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties. The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored "Try it Yourself" link.
+
+
+## How to insert text with CSS on Mac?
+1. You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64-bit)** or newer is required):
+
+<a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
+
+
+https://gmagon.com/products/store/gmagon_css_maker/index.html
+
+2. Run the Gmagon CSS Maker on your Mac, click "Continue" to open it. Double click the graph and input your text.
+![](img/css-maker-text.png)
+
+3. Click the "Text" sheet, you can choose the size, position, font, style and transformation of the text.
+![](img/css-maker-textsheet.png)
+
+4. In "Text-Shadow" sheet, you can make your text be blur, and pan its shadow, and change its color as you wish.
+![](img/css-maker-textshadow.png)
+![](img/css-maker-text.png)
