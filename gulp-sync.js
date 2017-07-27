@@ -2,7 +2,7 @@
 'use strict';
 
 var gulp = require('gulp');
-var gutil = require('gulp-util');
+// var gutil = require('gulp-util');
 var fileSync = require('gulp-file-sync');
 var git = require('gulp-git');
 var gulpSequence = require('gulp-sequence');
@@ -19,15 +19,9 @@ var enable_clean_or_revert = true
 
 gulp.task('sync:git:reset', function(cb){
   if (enable_clean_or_revert) {
-    // var cmd = 'git revert HEAD'
-    // exec(cmd, {cwd:g_sync_dir, maxBuffer:200*1024}, function(err, stdout, stderr){
-    //   if (err) throw err;
-    //   gutil.log(stdout, stderr)
-    //   cb()
-    // })
     git.reset('HEAD', {cwd:g_sync_dir, quiet:false, args:'--hard'}, function(err){
       if (err) throw err;
-      cb (err)
+      cb ()
     })
   }else {
     cb()
@@ -36,9 +30,9 @@ gulp.task('sync:git:reset', function(cb){
 
 gulp.task('sync:git:clean', ['sync:git:reset'],  function(cb){
   if (enable_clean_or_revert) {
-    git.clean({cwd:g_sync_dir, quiet:false}, function(err){
+    git.clean({cwd:g_sync_dir, quiet:false, args:'-f'}, function(err){
       if (err) throw err;
-      cb (err)
+      cb ()
     })
   }else {
     cb()
