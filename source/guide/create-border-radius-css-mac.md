@@ -10,7 +10,7 @@ Learn to code CSS is a comprehensive and hard job if you are a beginner. Fortuna
 <strong>What is border radius?</strong>
 The border-radius CSS property allows Web authors to define how rounded border corners are. The curve of each corner is defined using one or two radii, defining its shape: circle or ellipse.
 <h2>How to create border radius CSS code on Mac through Gmagon CSS Maker?</h2>
-First of all, free download and install Gmagon CSS Maker on your Apple machine<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html">
+First of all, free download and install Gmagon CSS Maker on your Apple machine<a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">
 <img title="gmagon css maker on mac" src="https://gmagon.com/asset/images/free-download.png" alt="create border radius CSS code on Mac" /> </a>
 <strong>Note:</strong>
 - Gmagon CSS Maker runs on Mac only, Mac OS X 10.7(64-bit) or above is required.
