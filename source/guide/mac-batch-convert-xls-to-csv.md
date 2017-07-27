@@ -1,3 +1,4 @@
+layout: guide
 title: Mac batch convert XLS to CSV 
 keywords: batch convert XLS files to CSV format on Mac, XLS to CSV Converter for Mac, complete XLS to CSV conversion on Mac , Excel format converter for Mac, convert XLS files to CSV on Mac in batch
 description: On some occasions, Mac users need to batch convert XLS files to CSV format on Mac for use in other program. That’s where an XLS to CSV Converter for Mac comes in.
