@@ -15,5 +15,3 @@ Coupon Code | Expiry Date
 ------ | -------
 ![](../../../asset/images/coupon.png) **GMAG-NHSF-IYVF** | ~ 2017.11.24
 
----
-[![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/apngtogifconverter/id840199992?l=zh&ls=1&mt=12)

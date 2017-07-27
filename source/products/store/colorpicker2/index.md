@@ -15,7 +15,7 @@ description: ColorPicker2 is a simple color picking tool to identify, edit and c
 
 Learn more [about ColorPicker2](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 
 ![](./images/screens/colopicker_interview.gif)

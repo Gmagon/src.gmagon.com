@@ -17,7 +17,7 @@ XLS2csv converter fits into any budget and grows with your needs. Try the XLS2cs
 
 Learn more [about XLS2csv](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <br>
 

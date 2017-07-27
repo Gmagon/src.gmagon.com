@@ -15,7 +15,7 @@ description: TryToFLAC is a minimum converter that easily convert various audio 
 
 Learn more [about TryToFLAC](./features.html).
 
-[![](../../../asset/images/free-download.png)](./download.html)
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 ![](./images/screens/trytoflac_overview_1440x900.png)
 <br>
