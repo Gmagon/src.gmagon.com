@@ -20,7 +20,7 @@ gulp.task('sync:git:pull', function(cb){
   })
 })
 
-gulp.task('sync:files', ['sync:git:pull'], function(){
+gulp.task('sync:files', ['sync:git:pull'], function(cb){
    if (enable_sync_files) {
     fileSync('public', g_sync_dir, {
       ignore: ignoreFils
