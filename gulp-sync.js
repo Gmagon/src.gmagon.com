@@ -25,6 +25,7 @@ gulp.task('sync:files', ['sync:git:pull'], function(){
     fileSync('public', g_sync_dir, {
       ignore: ignoreFils
     })
+    cb()
    }else {
      cb()
    }
