@@ -17,20 +17,24 @@ var enable_sync_files = true
 var enable_clean_or_revert = true
 
 
-gulp.task('sync:git:revert', function(cb){
+gulp.task('sync:git:reset', function(cb){
   if (enable_clean_or_revert) {
-    var cmd = 'git revert HEAD'
-    exec(cmd, {cwd:g_sync_dir, maxBuffer:200*1024}, function(err, stdout, stderr){
+    // var cmd = 'git revert HEAD'
+    // exec(cmd, {cwd:g_sync_dir, maxBuffer:200*1024}, function(err, stdout, stderr){
+    //   if (err) throw err;
+    //   gutil.log(stdout, stderr)
+    //   cb()
+    // })
+    git.reset({cwd:g_sync_dir, quiet:false}, function(err){
       if (err) throw err;
-      gutil.log(stdout, stderr)
-      cb()
+      cb (err)
     })
   }else {
     cb()
   }
 })
 
-gulp.task('sync:git:clean', ['sync:git:revert'],  function(cb){
+gulp.task('sync:git:clean', ['sync:git:reset'],  function(cb){
   if (enable_clean_or_revert) {
     git.clean({cwd:g_sync_dir, quiet:false}, function(err){
       if (err) throw err;
