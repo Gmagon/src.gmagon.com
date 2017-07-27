@@ -18,6 +18,7 @@ Learn more [about Gmagon CSS Maker ](./features.html).
 [![](../../../asset/images/free-download.png)](./download.html)
 <br>
 
+![](./images/screens/gmagon_interview.gif)
 
 ## USE CASES: BUILT FOR YOU
 Gmagon CSS Maker can be used to define box, gradients, text shadows, box shadows, transforms, transitions and rotations by adjusting a few sliders. The result can be previewed flexibly in preview panel before output. The CSS designer will help you create modern CSS code to cut and paste into your stylesheet. In short, Gmagon CSS Maker aims to save your time and upgrade your working efficiency with web on Mac. Not only Gmagon CSS Maker is tailor-made for professional web designers, web masters, and designers, but also fit for the very demand of novices of HTML CSS, for who are not masters in coding can use it easily and quickly without remember the whole code. 
@@ -29,8 +30,7 @@ Gmagon CSS Maker can be used to define box, gradients, text shadows, box shadows
 3. **Novice of HTML CSS**: For a website building novice, is too difficult to remember all the code of all elements. The Gmagon CSS Maker will release them from complex coding skills, and allow them to build stylish and attractive websites with no hassles at all. It enables them to create websites in mere few minutes, and it is solid and stable.
 ![](./images/screens/gmagoncssmaker_cssnovice_500x300.jpg)
 <br>
-4. **Entrepreneur**: Sometimes, a businessman need to frequently put up great web pages and small sites for new ideas, products, events, etc. in the course of running one's business. As coding dumdums, people all over the world will flock to the Gmagon CSS Maker in order to produce fabulous and stable sites without true coding skills.
-1. 
+4. **Entrepreneur**: Sometimes, a businessman need to frequently put up great web pages and small sites for new ideas, products, events, etc. in the course of running one's business. As coding dumdums, people all over the world will flock to the Gmagon CSS Maker in order to produce fabulous and stable sites without true coding skills 
 ![](./images/screens/gmagoncssmaker_entrepreneur_500x300.png)
 <br> 
 1. **Graphic Designer**: A creative graphic designer is used to consider of ways around the limited design options to create the unique looks that he or she built for clients using the background image option.
