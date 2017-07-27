@@ -25,7 +25,7 @@ gulp.task('sync:git:reset', function(cb){
     //   gutil.log(stdout, stderr)
     //   cb()
     // })
-    git.reset({cwd:g_sync_dir, quiet:false}, function(err){
+    git.reset('HEAD', {cwd:g_sync_dir, quiet:false, args:'--hard'}, function(err){
       if (err) throw err;
       cb (err)
     })
