@@ -13,7 +13,7 @@ XLS2csv can intelligently recognize an XLS file and convert it to CSV format qui
 <h2>How to convert XLS to CSV on Mac without having Excel installed?</h2>
 Here’s what you need
 XLS2csv
-<a href="https://gmagon.com/products/store/xls2csv/"> <img src="https://gmagon.com/asset/images/free-download.png" alt="convert xls to csv on mac without excel installing" /> </a>
+<a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="noopener"> <img src="https://gmagon.com/asset/images/free-download.png" alt="convert xls to csv on mac without excel installing" /> </a>
 <strong>Note</strong>: XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required.
 
 Free download, install and run XLS2csv on your Mac, then do as follows:
