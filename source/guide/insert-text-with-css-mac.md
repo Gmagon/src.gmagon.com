@@ -5,14 +5,14 @@ description: This is the best solution dedicated to helping beginners quickly in
 ---
 
 
-In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so a easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a>-a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look without writing a code.
+In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a>-a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look without writing a code.
 
->Generating text styling with CSS is one of the powerful functions of Gmagon CSS Maker. It provides style sheet with options that you need, like text size, color, font, text-stroke, text-shadow, and text-bevel,etc. Once you click a style sheet, you will get the text preview automatically, then get the corresponding CSS code. It is such a simple and great way to create and chnage the text style in the procession of coding. If you are interested in our product, you can see more details in <a href="https://gmagon.com/products/store/gmagon_css_maker/docs.html" target="_blank" rel="noopener">here</a>
+>Generating text styling with CSS is one of the powerful functions of Gmagon CSS Maker. It provides style sheet with options that you need, like text size, color, font, text-stroke, text-shadow, and text-bevel,etc. Once you click a style sheet, you will get the text preview automatically, then get the corresponding CSS code. It is such a simple and great way to create and change the text style in the procession of coding. If you are interested in our product, you can see more details in <a href="https://gmagon.com/products/store/gmagon_css_maker/docs.html" target="_blank" rel="noopener">here</a>
 
 <br>
 
 ## what is CSS text?
- This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties. The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored "Try it Yourself" link.
+Text and font properties in the Cascading Style Sheets serve to set the appearance of individual characters in a word or line of text, including text color, text size, font, shadow, bevel, etc.
 
 
 ## How to insert text with CSS on Mac?
