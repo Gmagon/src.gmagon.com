@@ -30,6 +30,15 @@ https://gmagon.com/products/store/gmagon_css_maker/index.html
 3. Click the "Text" sheet, you can choose the size, position, font, style and transformation of the text.
 ![](img/css-maker-textsheet.png)
 
-4. In "Text-Shadow" sheet, you can make your text be blur, and pan its shadow, and change its color as you wish.
+4. In "Text-Shadow" sheet, you can make your text be blur, pan its shadow vertically and horizontally, and change its color as you wish.
 ![](img/css-maker-textshadow.png)
-![](img/css-maker-text.png)
+
+5. When you want to add visual depth to your text, you need to use this text-bevel function. Increasing he height of bevel helps to create a 3-dimensional look to the face of your text.
+![](img/css-maker-textbevel.png)
+
+Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community. 
+
+
+
+Also read:
+[How to create border radius CSS code on Mac?](https://gmagon.com/guide/create-border-radius-css-mac.html)
