@@ -4,31 +4,31 @@
   <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- Copy from Apple.com website source code -->
   <meta name="robots" content="noodp" />
   <meta name="keywords" content="{{ page.keywords }}" />
   <meta name="description" content="{{ page.description }}" />
-  <meta property="og.keywords" content="{{ page.keywords }}" />
-  <meta property="og.description" content="{{ page.description }}" />
-  <meta property="analytics-track" content="{{ config.title }} - Index/Tab" />
-  <meta property="analytics-s-channel" content="homepage" />
-  <meta property="og:title" content="{{ config.title }}" />
-	<meta property="og:description" content="{{ config.description }}" />
-	<meta property="og:url" content="{{ config.url }}" />
-	<meta property="og:locale" content="{{ config.language }}" />
-	<meta property="og:image" content="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?201703170823" />
-	<meta property="og:type" content="website" />
-	<meta property="og:site_name" content="{{ config.title }}" />
-  <!-- End Copy from Apple.com website source code -->
 
+  <! -- Custom config og:image -->
+  {% if page.ogImage %}
+  <meta property="og:image" content="{{ relative_url(url_for(page.ogImage), config.root) || config.ogImage }}">
+  {% endif %}
+
+  <!-- Open Graph -->
+  {{ open_graph({
+    fb_admins: config.fb_admins,
+    twitter_site: config.twitter
+  }) }}
+  
   <!-- Canonical links -->
   <link rel="canonical" href="{{ url }}">
+
   <!-- Alternative links -->
   {% if page.layout == 'page' or page.layout == 'index' %}
     {% for lang in site.data.languages %}
       <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
     {% endfor %}
   {% endif %}
+
   <!-- Icon -->
   <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('icon/apple-touch-icon-57x57.png') }}">
   <link rel="apple-touch-icon" sizes="114x114" href="{{ url_for('icon/apple-touch-icon-114x114.png') }}">
@@ -45,41 +45,27 @@
   <link rel="icon" type="image/png" href="{{ url_for('icon/favicon-32x32.png') }}" sizes="32x32">
   <meta name="msapplication-TileColor" content="#2f83cd">
   <meta name="msapplication-TileImage" content="{{ url_for('icon/mstile-144x144.png') }}">
+
   <!-- CSS -->
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
   <!-- endbuild -->
 
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  
   <!-- jQuery -->
   {{ partial('jquery') }}
 
-  {# <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css"> #}
-
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
-
   <!-- ForPostLayout -->
   {% if page.layout == 'post' or page.layout == 'app' %}
-    {{ js('jssocials-1.4.0/jssocials.min.js') }}
-    {{ css('jssocials-1.4.0/jssocials.css') }}
-    {{ css('jssocials-1.4.0/jssocials-theme-flat.css') }}
-
     {# {{ css('js/mediaelement/mediaelementplayer.min') }} #}
     {# {{ js('js/mediaelement/mediaelement-and-player.min') }} #}
-
   {% endif %}
   <!-- endForPostLayout -->
 
-
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
-  <!-- Open Graph -->
-  {{ open_graph({
-    fb_admins: config.fb_admins,
-    twitter_site: config.twitter
-  }) }}
-  <!-- Google Analytics -->
-  {{ partial('google_analytics') }}
+
   <!-- Github Button -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>

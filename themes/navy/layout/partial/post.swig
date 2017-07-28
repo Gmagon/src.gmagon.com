@@ -14,4 +14,5 @@
   </div>
   {{ partial('partial/share') }}
   {{ partial('partial/comment') }}
+  {{ partial('partial/audio_support')}}
 </article>

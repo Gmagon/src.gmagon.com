@@ -1,4 +1,4 @@
-{% set page.title = 'News' %}
+
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">

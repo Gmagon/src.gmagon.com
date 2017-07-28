@@ -3,7 +3,7 @@
     <div class="inner">
         <h2 id="banner-app-title">{{ page.title }}</h2>
         <article class="article-container" itemscope itemtype="http://schema.org/Article">
-          <div class="article-inner">
+          <div class="article-inner gmagon-guide-page">
             <div class="article">
               <div class="inner">
                 <div class="article-content" itemprop="articleBody">
@@ -17,15 +17,13 @@
                 {{ partial('partial/comment') }}
               </div>
             </div>
-            {#
+            
             <aside id="article-toc" role="navigation">
               <div id="article-toc-inner">
-                <strong class="sidebar-title">{{ __('page.contents') }}</strong>
-                {{ toc(page.content, {list_number: false}) }}
-                <a href="#" id="article-toc-top">{{ __('page.back_to_top') }}</a>
+                {{ gen_slider_links(page.externalLinks, "gmagon-guide-page-item", {list_number: false}) }}
               </div>
             </aside>
-            #}
+            
           </div>
         </article>
         {{ partial('partial/sidebar') }}

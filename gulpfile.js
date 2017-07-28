@@ -39,7 +39,7 @@ gulp.task('screenshot:rev', function(){
 });
 
 gulp.task('screenshot:resize', ['screenshot:rev'], function(){
-  return gulp.src(dirs.screenshots + '/*.png')
+  return gulp.src([dirs.screenshots + '/*.png', dirs.screenshots + '/*.jpg'])
     .pipe($.responsive({
       '*.png': [
         {

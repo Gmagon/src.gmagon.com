@@ -3,10 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.8"
+    "version": "3.3.7"
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
+    "index": "hexo algolia",
     "sync": "npm run build && gulp --gulpfile ./gulp-sync.js",
     "self:publish": "gulp --gulpfile ./gulp-sync.js publish",
     "publish": "npm run self:publish && npm run sync",
@@ -20,7 +21,6 @@
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.2.0",
     "hexo-generator-sitemap": "^1.2.0",
-    "hexo-offline": "^0.2.0",
     "hexo-renderer-jade": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.3",

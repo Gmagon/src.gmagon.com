@@ -2,8 +2,15 @@ layout: guide
 title: How to create border radius CSS code on Mac?  
 keywords: generate border radius CSS code on Mac, create border radius style in CSS on a Mac, generate CSS code on your Mac, produce border radius CSS code on Mac
 description: This is a simple guide dedicated to helping beginners quickly generate border radius CSS code on Mac platform. 
----
 
+ogImage: img/border-radius.png
+
+externalLinks:
+- name: The best way to insert text using CSS code on Mac?
+  url: ./inset-text-with-css.html
+- name: Products
+  url:  https://gmagon.com/products/
+---
 
 Learn to code CSS is a comprehensive and hard job if you are a beginner. Fortunately, with Gmagon CSS Maker installed, it won’t be a problem to quickly generate CSS code on your Mac,even if you only have limited CSS knowledge. This tutorial works through how to produce border radius CSS code on Mac via using Gmagon CSS Maker.
 

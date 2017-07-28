@@ -83,6 +83,34 @@ hexo.extend.helper.register('doc_sidebar', function(className){
   return result;
 });
 
+hexo.extend.helper.register('gen_slider_links', function(links, className, options){
+   var self = this;
+   var result = '';
+   var contentTitle = "External Links"
+
+   if(!links) return result;
+
+   try{
+    result += '<strong class="sidebar-title">' + contentTitle + '</strong>';
+    result += '<ol class="toc ' + className + '">';
+    _.each(links, function(obj){
+      var name = obj.name;
+      var url = obj.url; 
+
+      var li_s = '\n<li class="toc-item toc-level-2 ' + className + '">';
+      var a = '<a class="toc-link ' + className + '" href="' + url + '" target="_blank" title="' + name +'" > <span class="toc-text">' + name + '</span></a>';
+      var li_e = '</li>';
+
+      result += li_s + a + li_e;
+    }) 
+    result += '</ol>';
+   }catch(e){
+     console.error(e)
+   }
+
+   return result;
+})
+
 hexo.extend.helper.register('header_menu', function(className){
   var menu = this.site.data.menu;
   var result = '';
