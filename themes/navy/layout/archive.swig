@@ -1,4 +1,15 @@
 
+<div class="class-content-wrap">
+  <div class="inner">
+    <div class="inner-wrap fill-bunting font-white">
+      <h2 id="banner-title">Our Blogs</h2>
+      <div id="banner-start">
+        <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank">Need help?</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div id="content-wrap">
   <div class="wrapper">
     <div class="inner">
@@ -14,6 +25,15 @@
           </article>
         {% endif %}
       {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="class-content-wrap">
+  <div class="inner">
+    <div class="inner-wrap landing-bunting">
+      <div class="intro-sub-content-wrap">
+      </div>
     </div>
   </div>
 </div>

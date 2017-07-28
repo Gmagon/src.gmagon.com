@@ -1,4 +1,4 @@
-<footer id="footer" class="wrapper">
+<footer id="footer" class="landing-bunting font-white">
   <div class="inner">
     <div id="footer-some-docs">
         <a href="/terms_conditions.html" class="footer-doc-link" >Terms & Conditions</a>

@@ -1,9 +1,9 @@
 <div class="class-content-wrap">
   <div class="inner">
-    <div class="inner-wrap">
+    <div class="inner-wrap fill-bunting font-white">
       <h2 id="banner-title">Welcome to Support Center</h2>
       <div id="banner-start">
-        <a id="banner-start-link" href="https://gitter.im/Gmagon/support" target="_blank">We're here to help.</a>
+        <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank">Need help?</a>
       </div>
     </div>
   </div>
@@ -16,7 +16,7 @@
 
 <div class="class-content-wrap">
   <div class="inner">
-    <div class="inner-wrap">
+    <div class="inner-wrap landing-bunting">
       <div class="intro-sub-content-wrap">
       </div>
     </div>

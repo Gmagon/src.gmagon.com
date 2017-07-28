@@ -1,0 +1,105 @@
+.btn
+    padding: 0 20px;
+    display: inline-block;
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 40px;
+    border: none;
+    box-sizing: border-box;
+    position: relative;
+    transition: background .2s, box-shadow .2s;
+    user-select: none;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    white-space: nowrap;
+    text-decoration: none;
+
+.btn-static-secondary 
+    border: none
+    color: #fff
+    background-image: linear-gradient(80deg, #00aeff, #3369e7)
+
+.btn-shadow
+    box-shadow: 0 2px 6px 0 rgba(51,105,231,0.4);
+
+/////////////////////
+.elevation1
+    margin: 0 15px;
+    vertical-align: top;
+    -ms-flex: 0 1 30%;
+    flex: 0 1 30%;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    will-change: transform, box-shadow
+    &:hover
+        transform: translateY(-5px) translateZ(0);
+        box-shadow: 0 16px 32px 0 rgba(62,57,107,0.28),0 0 0 transparent
+
+.fill-bunting 
+    background-color: #3E396B !important;
+
+.landing-bunting
+    background-image: linear-gradient(73deg, #3369E7, #00AEFF) !important;
+
+.font-white
+    color: white
+
+
+#banner
+  color: rgba(255, 255, 255, 0.8)
+  text-align: center
+
+#banner-title
+  padding-top: 20px
+  font-size: 36px
+  line-height: 1.15
+  font-weight: 300
+  font-family: font-title
+  @media mq-normal
+    padding-top: 100px
+    font-size: 50px
+
+#banner-app-title
+  padding-top: 20px
+  font-size: 32px
+  font-weight: bold
+  @media mq-normal
+    font-size: 32px
+
+#banner-start
+  text-align: center
+  padding: 40px 0
+  @media mq-normal
+    padding: 60px 0
+    font-size: 18px
+
+#banner-start-description
+  background: lighten(color-navy, 10%)
+  color: color-navy-font
+  font-family: font-mono
+  display: inline-block
+  padding: 15px 20px
+  &:before
+    content: ""
+    opacity: 0.5
+    padding-right: 10px
+
+#banner-start-command
+  background: lighten(color-navy, 10%)
+  font-family: font-mono
+  display: inline-block
+  padding: 15px 20px
+  &:before
+    content: "$"
+    opacity: 0.5
+    padding-right: 10px
+
+#banner-share
+  display: none
+  padding-bottom: 60px
+  @media mq-normal
+    display: block    

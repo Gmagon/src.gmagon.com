@@ -1,6 +1,6 @@
 <div class="class-content-wrap">
   <div class="inner">
-    <div class="inner-wrap">
+    <div class="inner-wrap fill-bunting font-white ">
       <img class="app-logo" src="./images/logo/logo_128x128.png">
       <h2 id="banner-app-title">{{ page.subtitle }}</h2>
       {# <div id="banner-start">
@@ -54,4 +54,13 @@
         {{ partial('partial/sidebar') }}
       </div>
     </div>
+</div>
+
+<div class="class-content-wrap">
+  <div class="inner">
+    <div class="inner-wrap landing-bunting">
+      <div class="intro-sub-content-wrap">
+      </div>
+    </div>
+  </div>
 </div>
