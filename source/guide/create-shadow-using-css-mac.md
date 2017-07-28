@@ -11,6 +11,7 @@ In this article, you will start your journey towards generating box-shadow with 
 You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64-bit)** or newer is required):
 
 <a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
+<br>
 
 ## How to generate **inner-shadow** with CSS on Mac? 
 1. **Blur**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter. The maximum value is one hundred.
@@ -24,6 +25,7 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
 ![](img/css-maker-innershadow-color.png)
+<br>
 
 ## How to generate **outer-shadow** with CSS on Mac?
 1. **Blur**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter, and the further out the shadow will extend.
