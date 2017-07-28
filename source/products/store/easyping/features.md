@@ -10,7 +10,7 @@ current: features
 - Fool-style operation
 - Perform DNS Lookup of websites
 - Traceroute your website and network devices
-- Website Responsetime Monitoring
+- Website Response time Monitoring
 - Tool monitors your network 24/7
 - After-sale services
 - Minimum and streamlined interface.

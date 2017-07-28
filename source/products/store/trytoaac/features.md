@@ -9,7 +9,7 @@ current: features
 - Built for Mac users only
 - Super-quick conversion
 - Fool-style operation
-- Support most popular audio format
+- Support most popular audio formats
 
 
 Format                      |        Support

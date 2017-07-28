@@ -11,7 +11,7 @@ current: features
 - Fool-style operation
 - Free charge
 - Support mouse drag-and-drop
-- Support convertion in bulk
+- Support conversion in bulk
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
