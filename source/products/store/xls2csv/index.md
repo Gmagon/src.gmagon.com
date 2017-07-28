@@ -23,7 +23,6 @@ Learn more [about XLS2csv](./features.html).
 
 ![](./images/screens/xls2csv_interview.gif)
 
-<br>
 
 ## USE CASES: BUILT FOR YOU
  XLS is an MS Excel workbook binary file, which holds information about all the worksheets in a workbook, and can also hold additionals like charts, images, etc. XLS files can only be read by applications that have been especially written to read their format, and can only be written in the same way. Pre-2007 versions of Excel use XLS as the primary format for saving files. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. It has been a very widely applied spreadsheet for these platforms 

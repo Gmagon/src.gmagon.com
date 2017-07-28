@@ -9,7 +9,7 @@ current: faq
 ## Installation & Upgrade
 
 ### What are the system prerequisites of Gmagon Gif?
-- MacOS 10.11(64-bit) or newer is required.(last version which is compatible)
+- Mac OS 10.11(64-bit) or newer is required.(last version which is compatible)
 - Admin privileges for the Installation
 
 
