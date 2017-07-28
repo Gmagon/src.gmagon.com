@@ -140,10 +140,17 @@ hexo.extend.helper.register('header_menu', function(className){
   var lang = this.page.lang;
   var isEnglish = lang === 'en';
 
+  var _curPage = pathFn.dirname(self.path);
+  if (_curPage === '.') {
+    _curPage = '/'
+  } else {
+    _curPage = '/' + _curPage + '/'
+  } 
+
+
   _.each(menu, function(path, title){
     if (!isEnglish && ~localizedPath.indexOf(title)) path = lang + path;
-
-    result += '<a href="' + self.url_for(path) + '" class="' + className + '-link">' + self.__('menu.' + title) + '</a>';
+    result += '<a href="' + self.url_for(path) + '" class="' + className + '-link ' + self.nav_link_active(_curPage, path)  +'">' + self.__('menu.' + title) + '</a>';
   });
 
   return result;
