@@ -12,6 +12,11 @@ function startsWith(str, start){
   return str.substring(0, start.length) === start;
 }
 
+function startWithNoraml(str) {
+  var fStr = str.toLowerCase()
+  return startsWith(fStr, "https://") || startsWith(fStr, "http://") || startsWith(fStr, "ftp://")
+}
+
 hexo.extend.helper.register('products_count', function(categoryList){
   var result = 0;
   _.each(categoryList, function(category){
@@ -83,10 +88,23 @@ hexo.extend.helper.register('doc_sidebar', function(className){
   return result;
 });
 
-hexo.extend.helper.register('gen_slider_links', function(links, className, options){
+hexo.extend.helper.register('site_url_for', function(in_path){
+  var site_url = '';
+  var self = this;
+  var baseUrl = pathFn.dirname(self.url);
+
+  if (!startWithNoraml(in_path)) {
+    site_url = baseUrl + self.url_for(in_path)
+  } else {
+    site_url = in_path
+  }
+  console.log(site_url)
+})
+
+hexo.extend.helper.register('gen_slider_links', function(section, links, className, options){
    var self = this;
    var result = '';
-   var contentTitle = "External Links"
+   var contentTitle = section || "External Links"
 
    if(!links) return result;
 
@@ -95,7 +113,11 @@ hexo.extend.helper.register('gen_slider_links', function(links, className, optio
     result += '<ol class="toc ' + className + '">';
     _.each(links, function(obj){
       var name = obj.name;
+
       var url = obj.url; 
+      if (!startWithNoraml(url)) {
+        url = self.url_for(url)
+      }
 
       var li_s = '\n<li class="toc-item toc-level-2 ' + className + '">';
       var a = '<a class="toc-link ' + className + '" href="' + url + '" target="_blank" title="' + name +'" > <span class="toc-text">' + name + '</span></a>';

@@ -10,7 +10,7 @@
 
   <! -- Custom config og:image -->
   {% if page.ogImage %}
-  <meta property="og:image" content="{{ relative_url(url_for(page.ogImage), config.root) || config.ogImage }}">
+  <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
   {% endif %}
 
   <!-- Open Graph -->
@@ -18,6 +18,9 @@
     fb_admins: config.fb_admins,
     twitter_site: config.twitter
   }) }}
+
+  <!-- algolia_config -->
+  {{ algolia_config() }}
   
   <!-- Canonical links -->
   <link rel="canonical" href="{{ url }}">
@@ -25,7 +28,7 @@
   <!-- Alternative links -->
   {% if page.layout == 'page' or page.layout == 'index' %}
     {% for lang in site.data.languages %}
-      <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
+  <link rel="alternative" hreflang="{{ loop.key }}" href="{{ canonical_url(loop.key) }}">
     {% endfor %}
   {% endif %}
 
@@ -65,6 +68,9 @@
 
   <!-- RSS -->
   {{ feed_tag('atom.xml') }}
+
+  <!-- algolia_search -->
+  {{ algolia_search() }}
 
   <!-- Github Button -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>

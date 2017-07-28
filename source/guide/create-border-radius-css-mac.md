@@ -5,6 +5,7 @@ description: This is a simple guide dedicated to helping beginners quickly gener
 
 ogImage: img/border-radius.png
 
+externalLinksTitle: Support Links
 externalLinks:
 - name: The best way to insert text using CSS code on Mac?
   url: ./inset-text-with-css.html

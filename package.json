@@ -7,16 +7,17 @@
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
-    "index": "hexo algolia",
+    "build:index": "export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
     "sync": "npm run build && gulp --gulpfile ./gulp-sync.js",
     "self:publish": "gulp --gulpfile ./gulp-sync.js publish",
     "publish": "npm run self:publish && npm run sync",
     "deploy0": "hexo deploy"
   },
   "dependencies": {
+    "algoliasearch": "^3.24.3",
     "cheerio": "^0.20.0",
     "hexo": "^3.3.8",
-    "hexo-algolia": "^0.1.1",
+    "hexo-algolia": "^1.1.0",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.2.0",

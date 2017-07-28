@@ -27,11 +27,16 @@ default_layout: post  # 预设布局
 post_asset_folder: true #启动 Asset 文件夹
 filename_case: 1 # 把文件名称转换为 (1) 小写或 (2) 大写	0
 per_page: 0
+pagination_dir: page
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
 
 highlight:
   enable: true
   line_number: true
-
 
 # Generate Atom 1.0 or RSS 2.0 feed.
 feed:
@@ -74,7 +79,7 @@ fb_admins: 432634277117208
 # 集成全文搜索功能第三方系统, 使用github账户绑定登录的。(lauer3912)
 algolia: 
     applicationID: 'YFVFXQYV4P'
-    apiKey: '20af765b47d39e7a9553b70faae038cd'
+    apiKey: 'ede94096e56eee547284bc9562eb740e'
     adminApiKey: '5c0391c091d14d9763d62a5b7d75f69f'
     indexName: 'gmagon_index'
 

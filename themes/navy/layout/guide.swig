@@ -20,7 +20,7 @@
             
             <aside id="article-toc" role="navigation">
               <div id="article-toc-inner">
-                {{ gen_slider_links(page.externalLinks, "gmagon-guide-page-item", {list_number: false}) }}
+                {{ gen_slider_links(page.externalLinksTitle, page.externalLinks, "gmagon-guide-page-item", {list_number: false}) }}
               </div>
             </aside>
             
