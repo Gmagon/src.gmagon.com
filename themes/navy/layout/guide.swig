@@ -1,7 +1,7 @@
 <div class="class-content-wrap">
   <div class="inner">
     <div class="inner-wrap fill-bunting font-white">
-      <h2 id="banner-title">Let's learn more ...</h2>
+      <h2 id="banner-title"> {{ page.title }} </h2>
       <div id="banner-start">
         <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank">Need help?</a>
       </div>
@@ -12,7 +12,6 @@
 <div class="class-content-wrap">
   <div class="wrapper">
     <div class="inner">
-        <h2 id="banner-app-title">{{ page.title }}</h2>
         <article class="article-container" itemscope itemtype="http://schema.org/Article">
           <div class="article-inner gmagon-guide-page">
             <div class="article">
