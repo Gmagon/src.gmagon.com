@@ -5,9 +5,9 @@ description: This is the best solution dedicated to helping beginners quickly in
 ---
 
 
-In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a>-a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look without writing a code.
+In this article, you will start your journey towards adding text styling with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="nofollow me noopener noreferrer" >Gmagon CSS Maker</a>-a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look without writing a code.
 
->Generating text styling with CSS is one of the powerful functions of Gmagon CSS Maker. It provides style sheet with options that you need, like text size, color, font, text-stroke, text-shadow, and text-bevel,etc. Once you click a style sheet, you will get the text preview automatically, then get the corresponding CSS code. It is such a simple and great way to create and change the text style in the procession of coding. If you are interested in our product, you can see more details in <a href="https://gmagon.com/products/store/gmagon_css_maker/docs.html" target="_blank" rel="noopener">here</a>
+>Generating text styling with CSS is one of the powerful functions of Gmagon CSS Maker. It provides style sheet with options that you need, like text size, color, font, text-stroke, text-shadow, and text-bevel,etc. Once you click a style sheet, you will get the text preview automatically, then get the corresponding CSS code. It is such a simple and great way to create and change the text style in the procession of coding. If you are interested in our product, you can see more details in <a href="https://gmagon.com/products/store/gmagon_css_maker/docs.html" target="_blank" rel="nofollow me noopener noreferrer" >here</a>
 
 <br>
 
@@ -18,7 +18,7 @@ Text and font properties in the Cascading Style Sheets serve to set the appearan
 ## How to insert text with CSS on Mac?
 1. You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64-bit)** or newer is required):
 
-<a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
+<a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../asset/images/free-download.png"> </a>
 
 
 2. Run the Gmagon CSS Maker on your Mac, click "Continue" to open it. Double click the graph and input your text.
@@ -33,12 +33,12 @@ Text and font properties in the Cascading Style Sheets serve to set the appearan
 5. When you want to add visual depth to your text, you need to use this text-bevel function. Increasing he height of bevel helps to create a 3-dimensional look to the face of your text.
 ![](img/css-maker-textbevel.png)
 
-Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community. 
+Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> to enter our community. 
 
 
 
 Also read:
-<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="noopener">Mac batch convert XLS to CSV</a>
-<a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="noopener">How to convert XLS to CSV on a Mac?</a>
-<a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
-<a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="noopener">Convert XLS to CSV on Mac without Excel installed.</a>
+<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
+<a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to convert XLS to CSV on a Mac?</a>
+<a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create border radius CSS code on Mac?</a>
+<a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="nofollow me noopener noreferrer" >Convert XLS to CSV on Mac without Excel installed.</a>

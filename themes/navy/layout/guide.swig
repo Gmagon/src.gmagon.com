@@ -3,7 +3,7 @@
     <div class="inner-wrap fill-bunting font-white">
       <h2 id="banner-title"> {{ page.title }} </h2>
       <div id="banner-start">
-        <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank">Need help?</a>
+        <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" ttarget="_blank" rel="nofollow me noopener noreferrer" >Need help?</a>
       </div>
     </div>
   </div>
