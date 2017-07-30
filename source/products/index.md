@@ -1,5 +1,5 @@
 layout: products
-title: All products | Gmagon
+title: All products
 data: products
 partial: product
 comments: false

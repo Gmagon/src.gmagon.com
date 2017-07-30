@@ -1,5 +1,5 @@
 layout: guide
-title: Let's learn more ... | Gmagon  
+title: Let's learn more ...
 keywords: text css generator on mac, add text with css on mac, create text using css, text css effects, text editor css mac, text css shadow, text css italic
 description: This is the best solution dedicated to helping beginners quickly insert text into pages using CSS on Mac. 
 ---
