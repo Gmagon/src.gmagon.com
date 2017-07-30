@@ -1,4 +1,5 @@
-<div class="class-content-wrap">
+<div class="hide-wrap-head-top"></div>
+<div class="class-content-wrap class-content-wrap-margin-auto">
   <div class="inner">
     <div class="inner-wrap fill-bunting font-white">
       <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>

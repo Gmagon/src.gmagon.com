@@ -1,4 +1,4 @@
 layout: support
-title: Support Center
+title: Support Center | Gmagon
 comments: false
 ---

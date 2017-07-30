@@ -5,6 +5,7 @@ logo-size = 50px
 #header
   position: relative
   padding: header-padding-normal 0
+  user-select: none
   @media print
     display: none
 
@@ -20,6 +21,8 @@ logo-size = 50px
   span
     font-family: font-title
     font-weight: bold
+    user-select: none
+    cursor: pointer;
 
 
 #logo
@@ -60,6 +63,12 @@ logo-size = 50px
 
 
 #header
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+  background: white
   .main-nav-link
     color: black
     &:hover
@@ -71,29 +80,6 @@ logo-size = 50px
     opacity: 1
     text-decoration-line: underline;
     text-decoration-style: wavy; 
-
-
-#search-input-wrap
-  display: none
-  padding-left: 6px
-  padding-bottom: 8px
-  border-bottom: 1px solid color-gray
-  &.on
-    display: inline-block
-
-#search-input-icon
-  color: color-navy-font
-  padding-right: 0.5em
-  display: inline-block
-  opacity: 0.7
-
-#search-input
-  background: none
-  font-size: inherit
-  font-family: font-title
-  color: color-navy-font
-  outline: none
-  -webkit-appearance: none
 
 #lang-select-wrap
   display: none

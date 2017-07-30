@@ -1,3 +1,4 @@
+<div class="hide-wrap-head-top"></div>
 <article class="article post" itemscope itemtype="http://schema.org/Article">
   <header class="article-header">
     {% if is_post() %}

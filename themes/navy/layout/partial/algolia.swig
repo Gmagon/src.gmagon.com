@@ -1,33 +1,21 @@
 {% if config.algolia %}
-<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-<script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch-theme-algolia.min.css">
 
 <script type="text/javascript">
-  $(document).ready(function(){
+(function(){
     document.getElementById('search-input-wrap').classList.add('on');
-
-    // add autocomplete
-    // see: https://github.com/algolia/autocomplete.js
-    var enableAutoComplete = true;
-    if (enableAutoComplete) {
-        var algolia_client = algoliasearch('{{config.algolia.applicationID}}', '{{config.algolia.apiKey}}');
-        var index = algolia_client.initIndex('{{config.algolia.indexName}}');
-        $('#search-input').autocomplete({ hint: false }, [
-            {
-            source: $.fn.autocomplete.sources.hits(index, { hitsPerPage: 5 }),
-            displayKey: 'title',
-            templates: {
-                suggestion: function(suggestion) {
-                return suggestion._highlightResult.title.value;
-                }
-            }
-            }
-        ]).on('autocomplete:selected', function(event, suggestion, dataset) {
-            console.log(suggestion, dataset);
-            window.open(suggestion.permalink)
-        });
+    window.AlgoliaConfig = {
+        appId: '{{config.algolia.applicationID}}',
+        apiKey: '{{config.algolia.apiKey}}',
+        indexName: '{{config.algolia.indexName}}',
+        urlSync: {}
     }
-
-  })
+})();
 </script>
+
+{{ js('js/search') }}
+
 {% endif %}
