@@ -8,7 +8,7 @@
   <meta name="keywords" content="{{ page.keywords }}" />
   <meta name="description" content="{{ page.description }}" />
 
-  <! -- Custom config og:image -->
+  <!-- Custom config og:image -->
   {% if page.ogImage %}
   <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
   {% endif %}
