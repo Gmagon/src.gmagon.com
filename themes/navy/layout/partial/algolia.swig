@@ -1,9 +1,5 @@
 {% if config.algolia %}
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch.min.css">
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch.min.js"></script>
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.0.2/dist/instantsearch-theme-algolia.min.css">
-
 <script type="text/javascript">
 (function(){
     document.getElementById('search-input-wrap').classList.add('on');
@@ -16,6 +12,9 @@
 })();
 </script>
 
+{{ css('js/instantsearch/instantsearch.min.css') }}
+{{ css('js/instantsearch/instantsearch-theme-algolia.min.css') }}
+{{ js('js/instantsearch/instantsearch.min.js') }}
 {{ js('js/search') }}
 
 {% endif %}
