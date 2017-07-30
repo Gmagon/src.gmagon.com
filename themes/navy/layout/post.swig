@@ -1,4 +1,3 @@
-<div class="hide-wrap-head-top"></div>
 <div class="class-content-wrap">
   <div class="wrapper">
     <div class="inner">

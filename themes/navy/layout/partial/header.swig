@@ -31,3 +31,4 @@
     </div>
   </div>  
 </header>
+<div class="hide-wrap-head-top"></div>

@@ -1,4 +1,3 @@
-<div class="hide-wrap-head-top"></div>
 <div class="class-content-wrap class-content-wrap-margin-auto">
   <div class="inner">
     <div class="inner-wrap fill-bunting font-white">
