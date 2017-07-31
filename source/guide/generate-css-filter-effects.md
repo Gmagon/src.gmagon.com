@@ -1,44 +1,47 @@
 layout: guide
 title: How to generate CSS filter effects on Mac?  
-keywords: css filter property on mac, css filter effects generator on mac, css filter explorer on mac, 
-description: This is the best tool dedicated to helping beginners quickly design box-shadow around using CSS on Mac. 
+keywords: css filter property on mac, css filter effects generator on mac, css filter explorer on mac, css filter blur on mac, css filter grayscale on mac, css filter sepia on mac, css filter saturate on mac, css filter support on mac
+description: This is the best tool dedicated to helping web authors quickly achieve varying visual effects with CSS code on Mac. 
 ---
 
-In this article, you will start your journey towards generating box-shadow with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. 
->*The box-shadow property* helps web designers to implement multiple drop shadows on box elements, no matter inside shadow or outside shadow, including values for size, color, blur, spread, offset. It enables users to cast a drop shadow from  the frame of almost any element. If a border-radius is specified on the element with a box shadow, the box shadow takes on the same rounded corners.
+In this article, you will start your journey towards generating filter effects with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. 
+>*The filter CSS property* helps web designers to apply graphical effects like blurring, color shifting, saturating, and contrasting, etc. It seems sort of like Photoshop filters for the browser. Filters are commonly used to adjust the rendering of images, backgrounds, and borders.
 
-<a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a> is an interactive tool allowing you to create box-shadows on Mac machine.
+<a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a> is a powerful tool allowing web designers to create interesting and varying visual efftecs on Mac machine.
 You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64-bit)** or newer is required):
 
 <a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
 <br>
 
-## How to generate **inner-shadow** with CSS on Mac? 
-1. **Blur**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter. The maximum value is one hundred.
+## How filter works?
+So what does a filter do exactly? When a browser loads a web page, styles, and perform layout need to be applied, so the web page can be rendered that there is something for visitors to look at. Just before the page is copied to the screen, filters start working. It takes s snapshot of the rendered page as a bitmap image, then perform some graphics magic on the pixels in the snapshot and then draw the result over the top of the original page image. Drawing a page with filters on it is time-consuming, but using them properly will have minimum impact on the speed of the site. Therefore, you are able to stack a number of filters one after the other to achieve all sorts of effects.
+
+
+
+## How to generate **filter effects** with CSS on Mac? 
+1. **Blur**: If you want a soft edge for your content, you can add a blur. This smudges all the colors together and spreads their effects, it is sort of like your eyes are out of focus. The ‘radius’ parameter affects how many pixels on the screen blend into each other, so a larger value will create more blur. Zero of course leaves the image unchanged.
 ![](img/css-maker-innershadow-blur.png)
 
-2. **Offset**: There are two values to set inner-shadow offset. Offset-x specifies the horizontal distance. The positive values place the shadow to the left of the box. While offset-y specifies the vertical distance, positive values place the shadow under the box.
+2. **Grayscale**: This filter gradually converts all the colors in our images to some shade of gray. The ‘amount’ applied controls how much gray conversion is applied. A value of 0% will have no effect on our images and a value of 100% will turn them completely grayscale. Negative values are not allowed.
 ![](img/css-maker-innershadow-offset.png)
 
-3. **Spread radius**: Positive values will expand the shadow, make it bigger. While negative values will make the shadow shrink. 
+3. **Sepia**: This gives the colors passed in a sepia tinge, looks like old photographs. The amount applied works in the same way as for the grayscale filter, that means 100% makes all the colors completely sepia toned and smaller values allow the effect to be applied in smaller proportions.
 ![](img/css-maker-textshadow.png)
 
-4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
+4. **Saturate**: Saturate effect makes the image look more vivid. It’s a cool effect that can make photos look like posters or cartoons. The value of amount defines the proportion of the conversion. A value of 100% leaves the input unchanged. Other values are linear multipliers on the effect. This effect makes images look pretty funky.
 ![](img/css-maker-innershadow-color.png)
+
+4. **Huerotate**: By shifting the colors around, Huerotate exerts much interesting results. If you can imagine a color spectrum going from red to violet around a color wheel, then this effect takes the original color on the wheel as input and rotates it by the angle parameter to produce the color on the wheel to which it rotated as the output color value. 
+
+4. **Brightness**: It just like brightness control in your computer screen. It adjusts the colors between completely black and the original color in proportion to the amount parameter. 
+4. **Contrast**: This effect will adjust the difference between the darkest and lightest parts of the input image. If you use 0% you end up with black just like with ‘brightness’, if you hit 100%, it is the original image again
+
+4. **Invert**: If you applied 100%, the output looks like a photo negative back from the old film days of cameras. Using values smaller than 100% will progressively apply the invert effect.
+
+4. **Opacity**: This filter can help your content looks semi-transparent. The 100% value is completely opaque, the output will be exactly the same as the original content. If the value is below 100%, the output image will become less opaque. While 0% meas the content will totally invisible.
 <br>
 
-## How to generate **outer-shadow** with CSS on Mac?
-1. **Blur**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter, and the further out the shadow will extend.
-![](img/css-maker-outershadow-blur.png)
 
-2. **Offset**: There are two values to set outer-shadow offset. Offset-x specifies the horizontal distance. The negative values place the shadow to the left of the box. While offset-y specifies the vertical distance, negative values place the shadow under the box.
-![](img/css-maker-outershadow-offset.png)
-
-3. **Spread radius**: Positive values will expand the shadow outside the box, make it bigger. While negative values will make the shadow shrink. 
-![](img/css-maker-outershadow-spread.png)
-
-4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
-![](img/css-maker-outershadow-color.png)
 
 Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community. 
 
