@@ -3,9 +3,11 @@
 var gulp = require('gulp');
 var $ = require('gulp-load-plugins')();
 var cssnano = require('cssnano');
+var imagemin = require('gulp-imagemin');
 
 var dirs = {
   public: 'public',
+  org_screenshots: 'public/products/screenshots',
   screenshots: 'public/build/screenshots'
 };
 
@@ -31,7 +33,7 @@ gulp.task('useref', ['screenshot'], function(){
 });
 
 gulp.task('screenshot:rev', function(){
-  return gulp.src('public/products/screenshots/*.png')
+  return gulp.src(dirs.org_screenshots + '/*')
     .pipe($.rev())
     .pipe(gulp.dest(dirs.screenshots))
     .pipe($.rev.manifest())
@@ -39,6 +41,15 @@ gulp.task('screenshot:rev', function(){
 });
 
 gulp.task('screenshot:resize', ['screenshot:rev'], function(){
+  return gulp.src([dirs.org_screenshots + '/*'])
+    .pipe(imagemin([
+      imagemin.gifsicle({interlaced: true}),
+      imagemin.jpegtran({progressive: true}),
+      imagemin.optipng({optimizationLevel: 5}),
+      imagemin.svgo({plugins: [{removeViewBox: true}]})
+    ]))
+    .pipe(gulp.dest(dirs.org_screenshots));
+  /**
   return gulp.src([dirs.screenshots + '/*.png', dirs.screenshots + '/*.jpg'])
     .pipe($.responsive({
       '*.png': [
@@ -55,6 +66,7 @@ gulp.task('screenshot:resize', ['screenshot:rev'], function(){
       ]
     }))
     .pipe(gulp.dest(dirs.screenshots));
+    **/
 });
 
 gulp.task('screenshot:revreplace', ['screenshot:rev'], function(){

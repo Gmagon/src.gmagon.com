@@ -3,7 +3,7 @@
     <ul id="mobile-nav-list">
       {{ header_menu('mobile-nav') }}
       {# <li class="mobile-nav-item">
-        <a href="https://github.com/{{ config.github }}" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+        <a href="https://github.com/{{ config.github }}" class="mobile-nav-link" rel="external" target="_blank" rel="nofollow me noopener noreferrer">GitHub</a>
       </li> #}
     </ul>
     {% if page.layout == 'page' %}

@@ -27,8 +27,5 @@
 <!-- endbuild -->
 {% endif %}
 
-<!-- Algolia -->
-{{ partial('algolia') }}
-
 <!-- Google Analytics -->
 {{ partial('google_analytics') }}

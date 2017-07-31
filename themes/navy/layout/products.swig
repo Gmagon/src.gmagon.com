@@ -1,9 +1,9 @@
-<div class="class-content-wrap">
+<div class="class-content-wrap class-content-wrap-margin-auto">
   <div class="inner">
-    <div class="inner-wrap">
+    <div class="inner-wrap fill-bunting font-white">
       <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>
       <div id="banner-start">
-        <a id="banner-start-link" href="https://gitter.im/Gmagon/support" target="_blank">We're here to help.</a>
+        <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer" >Need help?</a>
       </div>
     </div>
   </div>
@@ -13,14 +13,13 @@
   <div class="wrapper">
     <div class="inner">
       <header id="product-list-header">
-        <h3 id="product-list-title">{{ page.title }}</h3>
-        <input type="search" id="product-search-input" placeholder="Search">
+        <input type="search" id="product-search-input" class="elevation1" placeholder="Search the products">
         <div id="product-list-count">{{ products_count(site.data[page.data]) }} items</div>
       </header>
 
       <div id="product-list-show-area">
       {% for category in site.data[page.data] %}
-        <h3 class="product-list-category"> {{ category.name }} </h3>
+        <div class="product-list-category"> {{ category.name }} </div>
         <ul class="product-list">
           {% for product in category.list %}
             {{ partial('partial/' + page.partial, {product: product, category:category}) }}
@@ -34,7 +33,7 @@
 
 <div class="class-content-wrap">
   <div class="inner">
-    <div class="inner-wrap">
+    <div class="inner-wrap landing-bunting">
       <div class="intro-sub-content-wrap">
       </div>
     </div>

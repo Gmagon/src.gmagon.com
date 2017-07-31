@@ -1,5 +1,5 @@
 layout: guide
-title: Guide  
+title: Let's learn more ...
 keywords: text css generator on mac, add text with css on mac, create text using css, text css effects, text editor css mac, text css shadow, text css italic
 description: This is the best solution dedicated to helping beginners quickly insert text into pages using CSS on Mac. 
 ---
@@ -14,5 +14,5 @@ description: This is the best solution dedicated to helping beginners quickly in
 # Gmagon CSS Maker
 
 - [How to create border radius CSS code on Mac? ](./create-border-radius-css-mac.html)
-- [The best way to insert text using CSS code on Mac? ](./inset-text-with-css.html)
+- [The best way to insert text using CSS code on Mac? ](./insert-text-with-css-mac.html)
 - [How to create box-shadow with CSS on Mac](./create-shadow-using-css-mac.html)

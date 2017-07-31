@@ -2,7 +2,7 @@
 {{ css('jssocials-1.4.0/jssocials.css') }}
 {{ css('jssocials-1.4.0/jssocials-theme-flat.css') }}
 
-<div class="socials-share-btn">></div>
+<div class="socials-share-btn"></div>
 <script>
   if ($) {
     $(document).ready(function(){

@@ -1,6 +1,6 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>{% if page.title %} {{ page.title }} {% else %} {{ config.title }} {% endif %} </title>
+  <title>{% if page.title %} {{ page.title }} - {{ config.title }}  {% else %} {{ config.title }} {% endif %} </title>
   <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -8,7 +8,7 @@
   <meta name="keywords" content="{{ page.keywords }}" />
   <meta name="description" content="{{ page.description }}" />
 
-  <! -- Custom config og:image -->
+  <!-- Custom config og:image -->
   {% if page.ogImage %}
   <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
   {% endif %}

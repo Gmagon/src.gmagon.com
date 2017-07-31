@@ -11,10 +11,10 @@ If you need to convert excel files from .xls format to .csv for use on Mac OS X,
 <strong><em>How can I convert excel .xls files to .csv format on a Mac? </em></strong>
 “I wish to convert all my .xls files to .csv on my new iMac. Is there a way to do this in batch mode? Can anyone kindly recommend a solution if you know? Thanks in advance.”
 
-To be able to shift excel XLS files to CSV format, all you need is a workable <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="noopener">XLS to CSV Converter for Mac</a>. XLS2csv is such a program. With XLS2csv installed, you are able to batch convert .xls files to .csv keeping all special characters and foreign symbols intact.
+To be able to shift excel XLS files to CSV format, all you need is a workable <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >XLS to CSV Converter for Mac</a>. XLS2csv is such a program. With XLS2csv installed, you are able to batch convert .xls files to .csv keeping all special characters and foreign symbols intact.
 <h2>How to convert XLS to CSV on Mac via using XLS2csv?</h2>
 Follow these steps:
-Step 1: First of all, download and install XLS2csv on your Mac<a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="noopener">
+Step 1: First of all, download and install XLS2csv on your Mac<a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >
 <img src="https://gmagon.com/asset/images/free-download.png" alt="convert XLS files to CSV on Mac" />
 </a><b>Note:</b> XLS2csv runs on Mac only, MacOS 10.7(64-bit) or above is required.
 
@@ -28,5 +28,5 @@ Once the conversion is complete, you can click “Output directory” to find th
 Hope this tutorial helps those who are in search of a way to convert XLS files to CSV format on Macintosh computers.
 
 Also read
-<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="noopener">Mac batch convert XLS to CSV</a>
-<a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
+<a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
+<a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create border radius CSS code on Mac?</a>
