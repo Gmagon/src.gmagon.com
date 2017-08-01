@@ -20,10 +20,10 @@ So what does a filter do exactly? When a browser loads a web page, styles, and p
 
 ## How to generate **filter effects** with CSS on Mac? 
 1. **Blur**: If you want a soft edge for your content, you can add a blur. This smudges all the colors together and spreads their effects, it is sort of like your eyes are out of focus. The ‘radius’ parameter affects how many pixels on the screen blend into each other, so a larger value will create more blur. Zero of course leaves the image unchanged.
-![](img/css-maker-innershadow-blur.png)
+![](img/css-maker-filter-blur.png)
 
 2. **Grayscale**: This filter gradually converts all the colors in our images to some shade of gray. The ‘amount’ applied controls how much gray conversion is applied. A value of 0% will have no effect on our images and a value of 100% will turn them completely grayscale. Negative values are not allowed.
-![](img/css-maker-innershadow-offset.png)
+![](img/css-maker-filter-grayscale.png)
 
 3. **Sepia**: This gives the colors passed in a sepia tinge, looks like old photographs. The amount applied works in the same way as for the grayscale filter, that means 100% makes all the colors completely sepia toned and smaller values allow the effect to be applied in smaller proportions.
 ![](img/css-maker-textshadow.png)
@@ -32,15 +32,19 @@ So what does a filter do exactly? When a browser loads a web page, styles, and p
 ![](img/css-maker-innershadow-color.png)
 
 4. **Huerotate**: By shifting the colors around, Huerotate exerts much interesting results. If you can imagine a color spectrum going from red to violet around a color wheel, then this effect takes the original color on the wheel as input and rotates it by the angle parameter to produce the color on the wheel to which it rotated as the output color value. 
+![](img/css-maker-filter-huerotate.png)
 
 4. **Brightness**: It just like brightness control in your computer screen. It adjusts the colors between completely black and the original color in proportion to the amount parameter. 
+![](img/css-maker-filter-brightness.png)
 4. **Contrast**: This effect will adjust the difference between the darkest and lightest parts of the input image. If you use 0% you end up with black just like with ‘brightness’, if you hit 100%, it is the original image again
+![](img/css-maker-filter-contrast.png)
 
 4. **Invert**: If you applied 100%, the output looks like a photo negative back from the old film days of cameras. Using values smaller than 100% will progressively apply the invert effect.
+![](img/css-maker-filter-invert.png)
 
-4. **Opacity**: This filter can help your content looks semi-transparent. The 100% value is completely opaque, the output will be exactly the same as the original content. If the value is below 100%, the output image will become less opaque. While 0% meas the content will totally invisible.
+4. **Opacity**: This filter can help your content looks semi-transparent. The 100% value is completely opaque, the output will be exactly the same as the original content. If the value is below 100%, the output image will become less opaque. While 0% means the content will totally invisible.
+![](img/css-maker-filter-opacity.png)
 <br>
-
 
 
 Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community. 
@@ -49,6 +53,7 @@ Hope this article will solve your problems and make your life more convenient th
 
 Also read:
 <a href="https://gmagon.com/guide/insert-text-with-css-mac.html" target="_blank" rel="noopener">Insert text with CSS on Mac</a>
+<a href="https://gmagon.com/guide/create-shadow-using-css-mac.html" target="_blank" rel="noopener">Create-shadow-using-css-mac</a>
 <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="noopener">Mac batch convert XLS to CSV</a>
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="noopener">How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
