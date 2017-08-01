@@ -47,6 +47,12 @@ feed:
   hub:
   content:
 
+## -
+## 集成本地搜索‘
+search:
+  path: search.json
+  field: all
+
 # offline config passed to sw-precache.
 # offline:
 #   maximumFileSizeToCacheInBytes: 5242880
