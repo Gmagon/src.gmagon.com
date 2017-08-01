@@ -52,7 +52,7 @@ Hope this article will solve your problems and make your life more convenient th
 
 Also read:
 <a href="https://gmagon.com/guide/insert-text-with-css-mac.html" target="_blank" rel="noopener">Insert text with CSS on Mac</a>
-<a href="https://gmagon.com/guide/create-shadow-using-css-mac.html" target="_blank" rel="noopener">How to create shadow with css on mac</a>
+<a href="https://gmagon.com/guide/create-shadow-using-css-mac.html" target="_blank" rel="noopener">How to create shadow with css on Mac</a>
 <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="noopener">Mac batch convert XLS to CSV</a>
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="noopener">How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
