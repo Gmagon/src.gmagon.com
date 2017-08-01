@@ -1,6 +1,6 @@
 <div class="class-content-wrap class-content-wrap-margin-auto">
   <div class="inner">
-    <div class="inner-wrap fill-bunting font-white">
+    <div class="inner-wrap fill-bunting font-e3">
       <h2 id="banner-title">{{ __('products.solutions_description') }}</h2>
       <div id="banner-start">
         <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer" >Need help?</a>

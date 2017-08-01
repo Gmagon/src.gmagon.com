@@ -1,6 +1,6 @@
 <div class="class-content-wrap">
     <div class="inner width-100per">
-        <div class="inner-wrap fill-bunting font-white">
+        <div class="inner-wrap fill-bunting font-e3">
             <div class="searchbox-container">
                 <div class="input-group">
                     <input id="searchbox-q" type="text" class="form-control"><span class="input-group-btn"></span>
