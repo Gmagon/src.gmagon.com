@@ -12,7 +12,6 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 
 <a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
 <br>
-
 ## How filter works?
 So what does a filter do exactly? When a browser loads a web page, styles, and perform layout need to be applied, so the web page can be rendered that there is something for visitors to look at. Just before the page is copied to the screen, filters start working. It takes s snapshot of the rendered page as a bitmap image, then perform some graphics magic on the pixels in the snapshot and then draw the result over the top of the original page image. Drawing a page with filters on it is time-consuming, but using them properly will have minimum impact on the speed of the site. Therefore, you are able to stack a number of filters one after the other to achieve all sorts of effects.
 
@@ -26,10 +25,10 @@ So what does a filter do exactly? When a browser loads a web page, styles, and p
 ![](img/css-maker-filter-grayscale.png)
 
 3. **Sepia**: This gives the colors passed in a sepia tinge, looks like old photographs. The amount applied works in the same way as for the grayscale filter, that means 100% makes all the colors completely sepia toned and smaller values allow the effect to be applied in smaller proportions.
-![](img/css-maker-textshadow.png)
+![](img/css-maker-filter-sepia.png)
 
 4. **Saturate**: Saturate effect makes the image look more vivid. It’s a cool effect that can make photos look like posters or cartoons. The value of amount defines the proportion of the conversion. A value of 100% leaves the input unchanged. Other values are linear multipliers on the effect. This effect makes images look pretty funky.
-![](img/css-maker-innershadow-color.png)
+![](img/css-maker-filter-saturate.png)
 
 4. **Huerotate**: By shifting the colors around, Huerotate exerts much interesting results. If you can imagine a color spectrum going from red to violet around a color wheel, then this effect takes the original color on the wheel as input and rotates it by the angle parameter to produce the color on the wheel to which it rotated as the output color value. 
 ![](img/css-maker-filter-huerotate.png)
