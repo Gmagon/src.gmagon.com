@@ -16,3 +16,4 @@ description: This is the best solution dedicated to helping beginners quickly in
 - [How to create border radius CSS code on Mac? ](./create-border-radius-css-mac.html)
 - [The best way to insert text using CSS code on Mac? ](./insert-text-with-css-mac.html)
 - [How to create box-shadow with CSS on Mac](./create-shadow-using-css-mac.html)
+- [How to generate CSS filter effects on Mac?](./generate-css-filter-effects.html)

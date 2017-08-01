@@ -35,7 +35,7 @@ So what does a filter do exactly? When a browser loads a web page, styles, and p
 
 4. **Brightness**: It just like brightness control in your computer screen. It adjusts the colors between completely black and the original color in proportion to the amount parameter. 
 ![](img/css-maker-filter-brightness.png)
-4. **Contrast**: This effect will adjust the difference between the darkest and lightest parts of the input image. If you use 0% you end up with black just like with ‘brightness’, if you hit 100%, it is the original image again
+4. **Contrast**: This effect will adjust the difference between the darkest and lightest parts of the input image. If you use 0% you end up with black just like with ‘brightness’, if you hit 100%, it is the original image again.
 ![](img/css-maker-filter-contrast.png)
 
 4. **Invert**: If you applied 100%, the output looks like a photo negative back from the old film days of cameras. Using values smaller than 100% will progressively apply the invert effect.
