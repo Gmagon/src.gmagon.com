@@ -7,7 +7,7 @@
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
-    "build:index": "export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
+    "build:index": "npm run rfg && export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
     "rfg": "gulp --gulpfile ./gulp-sync.js set:gmagon.com",
     "sync:com": "npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.com",
     "sync:cn": "gulp --gulpfile ./gulp-sync.js set:gmagon.cn && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.cn",
@@ -29,6 +29,7 @@
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.2.0",
     "hexo-generator-sitemap": "^1.2.0",
+    "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-jade": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.3",
