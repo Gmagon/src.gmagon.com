@@ -1,0 +1,101 @@
+# 配置基础信息
+company: gmagon
+title: Gmagon Software Official Website - Fast, simple & powerful solutions for everyone.
+subtitle: "Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support."
+description: "Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support."
+author: Gmagon,Inc
+language: en
+timezone: UTC
+
+keywords: xls, gif, convert, software, macos, windows, linux
+ogImage: https://gmagon.com/products/store/gmagon_gif/images/screens/gmagonif_intro.gif
+
+# 配置网址
+url: https://gmagon.com
+root: /
+
+# 配置创建文章的形式
+permalink: blog/:year/:month/:day/:title/
+new_post_name: :year-:month-:day-:title.md # File name of new posts
+
+# 配置目录
+archive_dir: blog  # 归档文件夹
+category_dir: blog/category
+code_dir: downloads/code
+
+# 针对文章的特殊处理
+default_layout: post  # 预设布局
+post_asset_folder: true #启动 Asset 文件夹
+filename_case: 1 # 把文件名称转换为 (1) 小写或 (2) 大写	0
+per_page: 0
+pagination_dir: page
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+highlight:
+  enable: true
+  line_number: true
+
+# Generate Atom 1.0 or RSS 2.0 feed.
+feed:
+  type: atom
+  path: atom.xml
+  limit: 200
+  hub:
+  content:
+
+## -
+## 集成本地搜索‘
+search:
+  path: search.json
+  field: all
+
+# offline config passed to sw-precache.
+# offline:
+#   maximumFileSizeToCacheInBytes: 5242880
+#   staticFileGlobs:
+#   - public/**/*.{png,jpg,gif,svg,eot,ttf,woff,woff2}
+#   stripPrefix: public
+#   verbose: true
+
+# 集成主题样式处理
+theme: navy
+deploy:
+  type: git
+  repo: git@github.com:Gmagon/gmagon.com.git
+  branch: master
+
+stylus:
+  compress: true
+  sourcemaps:
+    comment: true
+    inline: true
+
+# 集成第三方评论系统
+disqus_shortname: gmagon
+
+# 集成Google分析系统
+google_analytics: UA-99314951-1
+
+# Gmagon官方FaceBook账号主页 https://www.facebook.com/432634277117208/photos/432654660448503/
+fb_admins: 432634277117208
+
+# 集成全文搜索功能第三方系统, 使用github账户绑定登录的。(lauer3912)
+algolia: 
+    applicationID: 'YFVFXQYV4P'
+    apiKey: 'ede94096e56eee547284bc9562eb740e'
+    adminApiKey: '5c0391c091d14d9763d62a5b7d75f69f'
+    indexName: 'gmagon_index'
+
+# 
+
+# 链接到社交媒体站点
+weibo: gmagon
+github: gmagon
+twitter: gmagonshare
+facebook: gmagonshare
+youtube: gmagonshare
+instagram: gmagonshare
