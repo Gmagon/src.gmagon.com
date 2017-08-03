@@ -24,7 +24,7 @@
     "algoliasearch": "^3.24.3",
     "cheerio": "^0.20.0",
     "hexo": "^3.3.8",
-    "hexo-algolia": "^1.1.0",
+    "hexo-algolia-gmagon": "git+https://github.com/LabsRS-Ref/hexo-algolia-gmagon.git",
     "hexo-deployer-git": "^0.1.0",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.2.0",
