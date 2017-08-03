@@ -7,10 +7,17 @@
   },
   "scripts": {
     "build": "hexo clean && hexo generate && gulp",
-    "build:index": "export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
-    "sync": "npm run build && gulp --gulpfile ./gulp-sync.js",
-    "self:publish": "gulp --gulpfile ./gulp-sync.js publish",
-    "publish": "npm run self:publish && npm run sync",
+    "build:index": "npm run rfg && export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
+    "rfg": "gulp --gulpfile ./gulp-sync.js set:gmagon.com",
+    "sync:com": "npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.com",
+    "sync:cn": "gulp --gulpfile ./gulp-sync.js set:gmagon.cn && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.cn",
+    "sync:co": "gulp --gulpfile ./gulp-sync.js set:gmagon.co && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.co",
+    "sync:org": "gulp --gulpfile ./gulp-sync.js set:gmagon.org && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.org",
+    "sync:net": "gulp --gulpfile ./gulp-sync.js set:gmagon.net && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.net",
+    "test:yaml": "gulp --gulpfile ./gulp-sync.js modify:_config.yml",
+    "sync": "npm run sync:com",
+    "publish": "npm run rfg && gulp --gulpfile ./gulp-sync.js sync:src.gmagon.com && npm run sync",
+    "publish:all": "npm run sync:cn && npm run sync:co && npm run sync:org && npm run sync:net && npm run publish",
     "deploy0": "hexo deploy"
   },
   "dependencies": {
@@ -22,6 +29,7 @@
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-feed": "^1.2.0",
     "hexo-generator-sitemap": "^1.2.0",
+    "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-jade": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
     "hexo-renderer-stylus": "^0.3.3",
@@ -46,6 +54,8 @@
     "gulp-sequence": "^0.4.6",
     "gulp-uglify": "^1.5.4",
     "gulp-unique-files": "^0.1.2",
-    "gulp-useref": "^2.1.0"
+    "gulp-useref": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "js-yaml": "^3.9.1"
   }
 }

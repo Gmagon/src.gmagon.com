@@ -15,31 +15,26 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 
 
 ## How to design buttons with CSS on Mac? 
-Step1: Open and run the <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a>, you can choose the background of your button as you wish by clicking the "Viewport" stylesheet, so that you can decide width and height, and color of background.
-![](img/css-maker-filter-blur.png)
+**Step 1**: Open and run the <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="noopener">Gmagon CSS Maker</a>, you can choose the background of your button as you wish by clicking the "Viewport" stylesheet, so that you can decide width, height, and color of background. If you do not need to change the background, leave it blank.
+![](img/css-maker-button-step1.png)
 
-Step2: Choose "Basic" information to change the width and height of the original content to make it suitable for the shape of a button. Besides, opacity is also for users to adjust.
-![](img/css-maker-filter-grayscale.png)
+**Step 2**: Choose "Basic" information to change the width and height of the original content to make it suitable for the shape of a button. Besides, opacity is also for users to adjust. 
+![](img/css-maker-button-step2.png)
 
-Step3: 
-![](img/css-maker-filter-sepia.png)
+**Step 3**: Match both the top and bottom colors of the content in the "Background" stylesheet. In addition, you can also import other images here.
+![](img/css-maker-button-step3.png)
 
-4. **Saturate**: Saturate effect makes the image look more vivid. It’s a cool effect that can make photos look like posters or cartoons. The value of amount defines the proportion of the conversion. A value of 100% leaves the input unchanged. Other values are linear multipliers on the effect. This effect makes images look pretty funky.
-![](img/css-maker-filter-saturate.png)
+**Step 4**: Choose "Bevel" effects to make the edge of the content blurrer, and you can also expend the blur part by increase its height. Then choose colors for highlight and shadow. The bevel effect will make your content looks more like three-dimensional objects.
+![](img/css-maker-button-step4.png)
 
-4. **Huerotate**: By shifting the colors around, Huerotate exerts much interesting results. If you can imagine a color spectrum going from red to violet around a color wheel, then this effect takes the original color on the wheel as input and rotates it by the angle parameter to produce the color on the wheel to which it rotated as the output color value. 
-![](img/css-maker-filter-huerotate.png)
+**Step 5**: Unfolding the "Border-Radius", you can cut every edge of four edges, top-left, top-right, bottom-left, and bottom-right, in order to make its shape more like a button. 
+![](img/css-maker-button-step5.png)
 
-4. **Brightness**: It just like brightness control in your computer screen. It adjusts the colors between completely black and the original color in proportion to the amount parameter. 
-![](img/css-maker-filter-brightness.png)
-4. **Contrast**: This effect will adjust the difference between the darkest and lightest parts of the input image. If you use 0% you end up with black just like with ‘brightness’, if you hit 100%, it is the original image again.
-![](img/css-maker-filter-contrast.png)
+**Step 6**: If you are willing to insert some texts into the button, double-click the content itself, then type words in the little window popping up. So you can change the text style as you wish through "Text", "Text-Shadow", and "Text-Bevel".
+![](img/css-maker-button-step6.png)
+**Step 7**: The button content can be decorated with more elements, for example, put outer-shadow on the button to makes it more vivid, or add a border around the button.  
+![](img/css-maker-button-step7.png)
 
-4. **Invert**: If you applied 100%, the output looks like a photo negative back from the old film days of cameras. Using values smaller than 100% will progressively apply the invert effect.
-![](img/css-maker-filter-invert.png)
-
-4. **Opacity**: This filter can help your content looks semi-transparent. The 100% value is completely opaque, the output will be exactly the same as the original content. If the value is below 100%, the output image will become less opaque. While 0% means the content will totally invisible.
-![](img/css-maker-filter-opacity.png)
 <br>
 
 
@@ -54,4 +49,4 @@ Also read:
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="noopener">How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="noopener">How to create border radius CSS code on Mac?</a>
 <a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="noopener">Convert XLS to CSV on Mac without Excel installed.</a>
-
+<a href="https://gmagon.com/guide/generate-css-filter-effects.html" target="_blank" rel="noopener">How to generate css filter effects?</a>
