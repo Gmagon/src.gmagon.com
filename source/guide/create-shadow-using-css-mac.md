@@ -42,8 +42,8 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 
 Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> to enter our community. 
 
-
-
+# black #
+## black ##
 Also read:
 <a href="https://gmagon.com/guide/insert-text-with-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >Insert text with CSS on Mac</a>
 <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
