@@ -32,9 +32,6 @@ tag_map: null
 highlight:
   enable: true
   line_number: false
-lazyload:
-  enable: true
-  onlypost: false
 feed:
   type: atom
   path: atom.xml
