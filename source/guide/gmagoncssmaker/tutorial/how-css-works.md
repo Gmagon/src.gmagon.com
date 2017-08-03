@@ -1,7 +1,7 @@
 layout: guide
 title: How CSS works? 
 keywords: how css works, css works together with html 
-description:How does CSS work? This article explains how CSS works together with HTML as a web page in the reader’s browser. 
+description: How does CSS work? This article explains how CSS works together with HTML as a web page in the reader’s browser. 
 ---
 
 Cascading Style Sheet (CSS) allows you to create great looking webpages, but how does it work? This article explains how CSS works together with HTML as a web page in the reader’s browser. 
@@ -24,6 +24,17 @@ Property is assigned to a selector in order to manipulate its style and Value is
 Each property - value pair within a rule must be separated by a semicolon, If there is only one property-value pair in the declaration, you do not need to end it with a semicolon.
 
 A simple example Applying CSS and HTML tags in an HTML page. 
-![](img/css-html-sample.png)
+
+```html
+<html>
+	<body>
+		 //css implementation
+		 <hr style="color:#FF0066;">
+		 
+		 // HTML implementation
+		 <hr color="#FF0066">
+	</body>
+</html>
+```
 
 In the next page, we will explain how to code CSS stylesheets quickly in an easy way even though you are a CSS beginner. 
