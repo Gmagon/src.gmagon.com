@@ -20,15 +20,15 @@ The box-shadow property helps web designers to implement multiple drop shadows o
 You can apply shadows to the inside of a box through various settings of blur, offset, spread radius, color,.
 
 1. **Blur radius**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter. The maximum value is one hundred.
-
+![](../../img/css-maker-innershadow-blur.png)
 2. **Offset**: There are two values to set inner-shadow offset. Offset-x specifies the horizontal distance. The positive values place the shadow to the left of the box. While offset-y specifies the vertical distance, positive values place the shadow under the box.
-![](img/css-maker-innershadow-offset.png)
+![](../../img/css-maker-innershadow-offset.png)
 
 3. **Spread radius**: Positive values will expand the shadow, make it bigger. While negative values will make the shadow shrink. 
-![](img/css-maker-textshadow.png)
+![](../../img/css-maker-textshadow.png)
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
-![](img/css-maker-innershadow-color.png)
+![](../../img/css-maker-innershadow-color.png)
 
 
 
@@ -59,4 +59,9 @@ In "Text-Shadow" sheet, you can make your text be blur, pan its shadow verticall
 <p><a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a></p>
 
 
+{% raw
+<link href="./css/shadow-css.css">
+%}
 
+
+<a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a>
