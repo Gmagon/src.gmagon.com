@@ -50,7 +50,11 @@ tag_map:
 
 highlight:
   enable: true
-  line_number: true
+  line_number: false
+
+lazyload:
+  enable: true 
+  onlypost: false
 
 # Generate Atom 1.0 or RSS 2.0 feed.
 feed:
