@@ -5,7 +5,7 @@ description: This is the best tool dedicated to helping beginners quickly design
 ---
 
 In this article, you will start your journey towards generating box-shadow with CSS code. It is not easy for novice to generator precise CSS code, so an easy-to-use and advanced CSS generator tool is necessary to let them get rid of routine coding. 
->*The box-shadow property* helps web designers to implement multiple drop shadows on box elements, no matter inside shadow or outside shadow, including values for size, color, blur, spread, offset. It enables users to cast a drop shadow from  the frame of almost any element. If a border-radius is specified on the element with a box shadow, the box shadow takes on the same rounded corners.
+>*The box-shadow property* helps web designers to implement multiple drop shadows on box elements, no matter inside shadow or outside shadow, including values for size, color, blur, spread, offset. It enables users to cast a drop shadow from the frame of almost any element. If a border-radius is specified on the element with a box shadow, the box shadow takes on the same rounded corners.
 
 <a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" rel="nofollow me noopener noreferrer" >Gmagon CSS Maker</a> is an interactive tool allowing you to create box-shadows on Mac machine.
 You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64-bit)** or newer is required):
@@ -50,3 +50,4 @@ Also read:
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create border radius CSS code on Mac?</a>
 <a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="nofollow me noopener noreferrer" >Convert XLS to CSV on Mac without Excel installed.</a>
+
