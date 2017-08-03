@@ -19,7 +19,7 @@ archive: 0
 category: 0
 tag: 0
 default_layout: post
-external_link: true
+external_link: false
 post_asset_folder: true
 auto_spacing: false
 multi_thread: true
