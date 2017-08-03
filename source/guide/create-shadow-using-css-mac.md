@@ -13,7 +13,7 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 <a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../asset/images/free-download.png"> </a>
 <br>
 
-## How to generate **inner-shadow** with CSS on Mac? 
+# How to generate **inner-shadow** with CSS on Mac? 
 1. **Blur**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter. The maximum value is one hundred.
 ![](img/css-maker-innershadow-blur.png)
 
