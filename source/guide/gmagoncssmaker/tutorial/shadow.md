@@ -4,7 +4,7 @@ keywords: css shadow, text shadow, box-shadow, css shadow inset, create css shad
 description: This CSS shadow elementary tutorial dedicate to helping beginners quickly design box and text shadow around using CSS, especially on Mac. 
 ---
 
-![](img/shadow.jpg)
+
 
 <br>
 In this tutorial we are going to learn how to use the *CSS shadow property* to create different effects with just CSS code. CSS supported to add shadow to text or elements.Shadow property has divided as follows:
@@ -34,34 +34,29 @@ You can apply shadows to the inside of a box through various settings of blur, o
 
 ### Outer-shadow
 1. **Blur radius**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter, and the further out the shadow will extend.
-![](img/css-maker-outershadow-blur.png)
+![](../../img/css-maker-outershadow-blur.png)
 
 2. **Offset**: There are two values to set outer-shadow offset. Offset-x specifies the horizontal distance. The negative values place the shadow to the left of the box. While offset-y specifies the vertical distance, negative values place the shadow under the box.
-![](img/css-maker-outershadow-offset.png)
+![](../../img/css-maker-outershadow-offset.png)
 
 3. **Spread radius**: Positive values will expand the shadow outside the box, make it bigger. While negative values will make the shadow shrink. 
-![](img/css-maker-outershadow-spread.png)
+![](../../img/css-maker-outershadow-spread.png)
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
-![](img/css-maker-outershadow-color.png)
+![](../../img/css-maker-outershadow-color.png)
 
 ### Text Shadow
-In "Text-Shadow" sheet, you can make your text be blur, pan its shadow vertically and horizontally, and change its color as you wish.
+We will leave the detail of the Text-shadow part to the next page of CSS Text.
+![](img/shadow.jpg)
+<br>
 
-1. **Blur**: The original value is zero which means no blur effects. The higher the number, the blurrer it will be. The original value is zero, 
+<p><a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" class="button padding20">Gmagon CSS Maker</a></p>
 
-2. **Offset**: Offset-x specifies the horizental movement of text shadow. The positive values place the shadow to the right of the text. Offset-y specifies the vertical movement of text shadow, the negative values place the shadow above the text.
-
-3. **Color**: You can choose the color of the shadow as you wish, but not text color.
-
-![](img/shadow-text.png)
-
-<p><a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a></p>
 
 
 {% raw %}
-<link rel="stylesheet" href="./css/page.shadow.css">
+<link rel="stylesheet" href="./css/page.common.css">
 {% endraw %}
 
 
-<a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a>
+
