@@ -15,7 +15,7 @@ In this tutorial we are going to learn how to use the *CSS shadow property* to c
 
 ## Box Shadow
 The box-shadow property helps web designers to implement multiple drop shadows on box elements, no matter inside shadow or outside shadow, including values for size, color, blur, spread, offset. It enables users to cast a drop shadow from the frame of almost any element. Used to add shadow effects to elements, following is the example to add shadow effects to element
-
+<br>
 ### Inner-Shadow
 You can apply shadows to the inside of a box through various settings of blur, offset, spread radius, color,.
 
@@ -25,12 +25,12 @@ You can apply shadows to the inside of a box through various settings of blur, o
 ![](../../img/css-maker-innershadow-offset.png)
 
 3. **Spread radius**: Positive values will expand the shadow, make it bigger. While negative values will make the shadow shrink. 
-![](../../img/css-maker-textshadow.png)
+![](../../img/css-maker-innershadow-spread.png)
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
 ![](../../img/css-maker-innershadow-color.png)
 
-
+<br>
 
 ### Outer-shadow
 1. **Blur radius**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter, and the further out the shadow will extend.
@@ -44,13 +44,14 @@ You can apply shadows to the inside of a box through various settings of blur, o
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
 ![](../../img/css-maker-outershadow-color.png)
+<br>
 
 ### Text Shadow
-We will leave the detail of the Text-shadow part to the next page of CSS Text.
+We will leave the detail of the Text-shadow part to the next page of [CSS Text](./text.html).
 ![](img/shadow.jpg)
 <br>
 
-<p><a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" class="button padding20">Gmagon CSS Maker</a></p>
+<p><a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try to make shadows</a></p>
 
 
 

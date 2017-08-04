@@ -21,7 +21,7 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 ![](img/css-maker-innershadow-offset.png)
 
 3. **Spread radius**: Positive values will expand the shadow, make it bigger. While negative values will make the shadow shrink. 
-![](img/css-maker-textshadow.png)
+![](img/css-maker-innershadow-spread.png)
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
 ![](img/css-maker-innershadow-color.png)

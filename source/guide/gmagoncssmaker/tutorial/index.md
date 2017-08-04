@@ -18,11 +18,11 @@ description: This is the best solution dedicated to helping beginners quickly in
 1. Bevel
 1. Border-Radius
 1. Border
-1. Shadow 
+1. [Shadow](./shadow.html) 
 	- Inner-Shadow
 	- Outer-Shadow
-1. Text 
-	- Text-Stroke
+1. [Text](./text.html) 
+	- Text-Basic Setting
 	- Text-Shadow
 	- Text-Bevel
 1. Transform 
