@@ -87,7 +87,7 @@ The following example shows a <font color=#c82829 size=3>div</font> element with
     background-color: powderblue;
 }
 
-In addition, if you are a pretty new CSS beginner, sure, it will take a lot of time if you write CSS code manually. Fortunately, a number of programs out there are doing it for you now. With Gmagon CSS Maker installed, anyone can write CSS code on Mac instantly even you know little about CSS knowledge. Here’s a quick guide on how to code height and width in CSS via using Gmagon CSS Maker without writing CSS code manually.  
+In addition, if you are a pretty new CSS beginner, sure, it will take a lot of time if you write CSS code manually. Fortunately, a number of programs out there are doing it for you now. With <a href="../../../products/store/gmagon_css_maker/" target="_blank" rel="nofollow me noopener noreferrer" >Gmagon CSS Maker</a> installed, anyone can write CSS code on Mac instantly even you know little about CSS knowledge. Here’s a quick guide on how to code height and width in CSS via using Gmagon CSS Maker without writing CSS code manually.  
 
 Follow these steps:
 Step 1: Run Gmagon CSS Maker on your Mac. 

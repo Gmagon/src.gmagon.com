@@ -38,3 +38,9 @@ A simple example Applying CSS and HTML tags in an HTML page.
 ```
 
 In the next page, we will explain how to code CSS stylesheets quickly in an easy way even though you are a CSS beginner. 
+
+<p><a href="../../../products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
+
+{% raw %}
+<link rel="stylesheet" href="./css/page.common.css">
+{% endraw %}
