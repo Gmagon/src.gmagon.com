@@ -34,16 +34,16 @@ You can apply shadows to the inside of a box through various settings of blur, o
 
 ### Outer-shadow
 1. **Blur radius**: The original value of the box is zero, the higher the number you set, the more blurred it will be, so the shadow becomes bigger and lighter, and the further out the shadow will extend.
-![](img/css-maker-outershadow-blur.png)
+![](../../img/css-maker-outershadow-blur.png)
 
 2. **Offset**: There are two values to set outer-shadow offset. Offset-x specifies the horizontal distance. The negative values place the shadow to the left of the box. While offset-y specifies the vertical distance, negative values place the shadow under the box.
-![](img/css-maker-outershadow-offset.png)
+![](../../img/css-maker-outershadow-offset.png)
 
 3. **Spread radius**: Positive values will expand the shadow outside the box, make it bigger. While negative values will make the shadow shrink. 
-![](img/css-maker-outershadow-spread.png)
+![](../../img/css-maker-outershadow-spread.png)
 
 4. **Color**: It takes any color value, like hex, named, rgba or hsla. The default color is black when the color value is omitted.
-![](img/css-maker-outershadow-color.png)
+![](../../img/css-maker-outershadow-color.png)
 
 ### Text Shadow
 In "Text-Shadow" sheet, you can make your text be blur, pan its shadow vertically and horizontally, and change its color as you wish.
@@ -56,12 +56,7 @@ In "Text-Shadow" sheet, you can make your text be blur, pan its shadow verticall
 
 ![](img/shadow-text.png)
 
-<p><a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a></p>
+<p><a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">Gmagon CSS Maker</a></p>
 
 
-{% raw
-<link href="./css/shadow-css.css">
-%}
 
-
-<a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">CSS Box Shadow Generator</a>
