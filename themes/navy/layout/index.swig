@@ -3,7 +3,7 @@
     <div class="inner-wrap fill-bunting font-e3">
       <h2 id="banner-title">{{ __('commondata.solutions_description') }}</h2>
       <div id="banner-start">
-        <a class="btn btn-static-secondary btn-shadow" href="products/">Welcome to Gmagon</a>
+        <a class="btn btn-static-secondary btn-shadow" href="products/">... Begin Again ...</a>
       </div>
     </div>
   </div>
