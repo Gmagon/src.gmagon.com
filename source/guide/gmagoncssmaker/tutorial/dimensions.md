@@ -7,6 +7,8 @@ description: Here we will show how to code CSS dimension properties. We will al
 
 Here we will show how to code CSS height and width dimension properties. Also, we will explain a way of composing CSS dimension style via using a simple CSS generator tool for Mac. 
 ## All CSS Dimension Properties
+
+{% raw %}
 <table class="w3-table-all notranslate">
   <tr>
     <th style="width:20%">Property</th>
@@ -37,6 +39,7 @@ Here we will show how to code CSS height and width dimension properties. Also, 
     <td>Sets the width of an element</td>
   </tr>
 </table>
+{% endraw %}
 
 ## Setting height and width
 The <font color=#c82829 size=3>height</font> and <font color=#c82829 size=3>width</font> properties are used to set the height and width of an element.
@@ -100,7 +103,8 @@ Step 3: When finished, click “CSS” icon to unfold generated CSS code and cli
 ![](img/copy-css-code.png)
 
 Hope this Mac CSS generator app helps code newbies who are looking for an easy way to generate CSS code on a Mac computer. 
-<p><a href="https://gmagon.com/products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
+
+<p><a href="../../../products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
 
 {% raw %}
 <link rel="stylesheet" href="./css/page.common.css">
