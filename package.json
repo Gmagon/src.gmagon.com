@@ -1,12 +1,13 @@
 {
   "name": "gmagon-official-website",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "hexo": {
     "version": "3.3.8"
   },
   "scripts": {
-    "build": "hexo clean && hexo generate && gulp",
+    "debug": "npm run rfg && hexo clean && hexo server",
+    "build": "npm run rfg && hexo clean && hexo generate && gulp",
     "build:index": "npm run rfg && export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
     "rfg": "gulp --gulpfile ./gulp-sync.js set:gmagon.com",
     "sync:com": "npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.com",
