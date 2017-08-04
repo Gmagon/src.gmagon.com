@@ -24,4 +24,8 @@ These are just a few reasons why we choose to use CSS. Although we have not gone
 
 In the <a href="./how-css-works.html" target="_blank" rel="nofollow me noopener noreferrer" >next page</a> we will take a closer look at how CSS works.
 
+<p><a href="../../../products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
 
+{% raw %}
+<link rel="stylesheet" href="./css/page.common.css">
+{% endraw %}

@@ -37,3 +37,8 @@ CSS is now a widely used standard in web design and you would be hard pressed to
 
 In the <a href="./why-use-css.html" target="_blank" rel="nofollow me noopener noreferrer"> next page </a>we will take a closer look at why use CSS.        
 
+<p><a href="../../../products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
+
+{% raw %}
+<link rel="stylesheet" href="./css/page.common.css">
+{% endraw %}
