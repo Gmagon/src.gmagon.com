@@ -2,7 +2,7 @@ layout: guide
 title: CSS-Shadow  
 keywords: css shadow, text shadow, box-shadow, css shadow inset, create css shadow, add css shadow, building css shadow, css elementary tutorial shadow, css shadow tutorial for beginners
 description: This CSS shadow elementary tutorial dedicate to helping beginners quickly design box and text shadow around using CSS, especially on Mac. 
-
+---
 
 ![](img/shadow.jpg)
 
@@ -59,4 +59,10 @@ In "Text-Shadow" sheet, you can make your text be blur, pan its shadow verticall
 <p><a href="http://coveloping.com/tools/css-box-shadow-generator" target="_blank" class="button">Gmagon CSS Maker</a></p>
 
 
+<<<<<<< HEAD
+=======
+{% raw %}
+<link rel="stylesheet" href="./css/page.shadow.css">
+{% endraw %}
+>>>>>>> 961fc556c3ff6af087a0ad88f468b9a49fdacf30
 

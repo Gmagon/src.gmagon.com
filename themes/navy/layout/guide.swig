@@ -1,7 +1,7 @@
-<div class="class-content-wrap">
+<div class="class-content-wrap gmagon-guide-page">
   <div class="inner">
     <div class="inner-wrap fill-bunting font-e3">
-      <h2 id="banner-title"> {{ page.title }} </h2>
+      <h2 id="banner-title" class="padding-0"> {{ page.title }} </h2>
       <div id="banner-start">
         <a class="btn btn-static-secondary btn-shadow" href="https://gitter.im/Gmagon/support" ttarget="_blank" rel="nofollow me noopener noreferrer" >Need help?</a>
       </div>

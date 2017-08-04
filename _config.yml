@@ -19,7 +19,7 @@ archive: 0
 category: 0
 tag: 0
 default_layout: post
-external_link: true
+external_link: false
 post_asset_folder: true
 auto_spacing: false
 multi_thread: true
@@ -31,7 +31,7 @@ category_map: null
 tag_map: null
 highlight:
   enable: true
-  line_number: true
+  line_number: false
 feed:
   type: atom
   path: atom.xml

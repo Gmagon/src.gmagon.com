@@ -35,7 +35,7 @@ tag: 0
 
 # 针对文章的特殊处理
 default_layout: post  # 预设布局
-external_link: true # Open external links in new tab
+external_link: false # Open external links in new tab
 post_asset_folder: true #启动 Asset 文件夹
 auto_spacing: false # Add spaces between asian characters and western characters
 multi_thread: true
@@ -50,7 +50,7 @@ tag_map:
 
 highlight:
   enable: true
-  line_number: true
+  line_number: false
 
 # Generate Atom 1.0 or RSS 2.0 feed.
 feed:
