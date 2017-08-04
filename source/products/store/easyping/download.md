@@ -6,17 +6,14 @@ product: EasyPing
 current: download
 ---
 
-## <strong>FREE DOWNLOAD</strong>
-
-#### <b>The current stable version is: 2.1</b>
+## Ver 2.2
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------
-[Download EasyPing-v2.1.zip](http://www.filefactory.com/file/2rjuou913fi3/EasyPing-2.1.zip)    | (~2.3MiB)
-[Download EasyPing-v2.1.dmg](http://www.filefactory.com/file/3gp8699968k7/EasyPing-2.1.dmg)    | (~2.7MiB)
+[EasyPing-v2.2.dmg](http://www.filefactory.com/file/27qgv14onf8t/EasyPing-2.2.dmg)    | (~2.89MiB)
 
 
----
+Older releases are available [here](./old-download.html).
 

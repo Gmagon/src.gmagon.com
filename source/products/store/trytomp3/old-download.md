@@ -1,7 +1,7 @@
 layout: app
 title: Older releases | TryToMP3
 subtitle: Older releases
-comments: false
+comments: true
 product: TryToMP3
 current: old-download
 ---

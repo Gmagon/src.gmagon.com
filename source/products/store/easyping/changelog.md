@@ -5,6 +5,7 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+{% raw %}
 <script>
   function DateDiff(sDate1){
       var  aDate,  oDate1,  oDate2,  iDays;
@@ -15,21 +16,31 @@ current: changelog
       return  iDays  
   }
 </script>
+{% endraw %}
 
-## v.2.1
+## Ver 2.2
+{% raw %}
+<script>
+  var releaseDate = '2017-08-04';
+  document.write("Released this version <strong>" + DateDiff(releaseDate) +  "</strong> days ago.  " + releaseDate)
+</script>
+{% endraw %}
+
+### `Changes`
+> Please upgrade as soon as possible
+
+1. **Upgrade the core ping engine.**
+1. **Fixed some bugs.**
+
+---
+
+## Ver 2.1
+{% raw %}
 <script>
   var releaseDate = '2017-07-06';
   document.write("Released this version " + DateDiff(releaseDate) +  " days ago.  " + releaseDate)
 </script>
+{% endraw %}
 
-
-### Downloads
-
-for macOS 64-bit OS | FileSize
------------------------------- | -------------------------
-[Download EasyPing-v2.1.zip](http://www.filefactory.com/file/2rjuou913fi3/EasyPing-2.1.zip)    | (~2.3MiB)
-[Download EasyPing-v2.1.dmg](http://www.filefactory.com/file/3gp8699968k7/EasyPing-2.1.dmg)    | (~2.7MiB)
-
-
-
----
+### `Changes`
+1. **Update ui **
