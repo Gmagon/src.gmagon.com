@@ -8,7 +8,7 @@
   "scripts": {
     "debug": "npm run rfg && hexo clean && hexo server",
     "build": "npm run rfg && hexo clean && hexo generate && gulp",
-    "build:index": "npm run rfg && export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
+    "index": "npm run rfg && export HEXO_ALGOLIA_INDEXING_KEY=ede94096e56eee547284bc9562eb740e && hexo algolia",
     "rfg": "gulp --gulpfile ./gulp-sync.js set:gmagon.com",
     "sync:com": "npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.com",
     "sync:cn": "gulp --gulpfile ./gulp-sync.js set:gmagon.cn && npm run build && gulp --gulpfile ./gulp-sync.js sync:gmagon.cn",
