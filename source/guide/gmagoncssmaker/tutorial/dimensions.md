@@ -88,7 +88,7 @@ In addition, if you are a pretty new CSS beginner, sure, it will take a lot of t
 
 Follow these steps:
 Step 1: Run Gmagon CSS Maker on your Mac. 
-![](img/css-maker-mac.png)
+![](/guide/img/css-maker-mac.png)
 
 Step 2: In Gmagon CSS Maker, there’s a rectangle that has already been drawn, you can switch to “Basic” option to change width and height of the element (rectangle) by dragging slider bars.   
 ![](img/width-height.png)
