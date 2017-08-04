@@ -12,7 +12,7 @@
   var GmagonUtils = {};
 
   GmagonUtils.$verNote = function(releaseDate){
-      var text = "Released this version <strong>" + DateDiff(releaseDate) +  "</strong> days ago. -  (" + releaseDate + ")";
+      var text = "Released this version " + DateDiff(releaseDate) +  " days ago. -  (" + releaseDate + ")";
       document.write(text)
   }
 
