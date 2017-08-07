@@ -7,7 +7,7 @@ description: The border-radius CSS property allows Web authors to define how rou
 The border-radius CSS property allows Web authors to define how rounded border corners are. The curve of each corner is defined using one or two radii, defining its shape: circle or ellipse. In this article, we explore how to code border-radius in CSS quickly and easily. 
 
 ### Example
-Add rounded borders to a <div> element:
+Add rounded borders to a div element:
 ```html
 div {
     border: 2px solid;
@@ -94,6 +94,7 @@ Three examples with rounded corners:
     height: 150px; 
 }
 ```
+
 
 For a CSS beginner, you may feel it’s hard and time-consuming to write border radius code in CSS manually. In this situation, we would recommend using <a href="../../../products/store/gmagon_css_maker/" target="_blank" rel="nofollow me noopener noreferrer" >Gmagon CSS Maker</a> to make things much easier. 
 ![](img/set-border-radius.png)
