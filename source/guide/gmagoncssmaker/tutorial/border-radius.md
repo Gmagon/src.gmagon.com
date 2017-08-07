@@ -30,16 +30,16 @@ However, you can specify each corner separately if you wish. Here are the rules:
 - **One value:** all four corners are rounded equally
 
 1. Four values - border-radius: 15px 50px 30px 5px: 
-![](img/bborder-radius-1.png)
+![](img/border-radius-1.png)
 
 2. Three values - border-radius: 15px 50px 30px:
-![](img/bborder-radius-2.png)
+![](img/border-radius-2.png)
 
 3. Two values - border-radius: 15px 50px:
-![](img/bborder-radius-3.png)
+![](img/border-radius-3.png)
 
 4. One value - border-radius: 50px - all four corners are rounded equally
-![](img/bborder-radius-4.png)
+![](img/border-radius-4.png)
 
 ### Example 1
 >border-radius:2em;
