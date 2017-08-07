@@ -68,7 +68,7 @@ body {
 }
 ```
 
-**4.background-position:** Specifies the position that the background should appear inside the element background.
+**4.background-position:** specifies the position that the background should appear inside the element background.
 
 ```html
 body { 

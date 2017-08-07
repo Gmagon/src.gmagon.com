@@ -8,14 +8,14 @@ description: This is the best solution dedicated to helping beginners quickly in
 > is a powerful and advanced `CSS2/CSS3` generator on Mac that allows you creating a nice look without writing a code. As a powerful and easy-to-use `CSS designer`, Gmagon CSS Maker minimizes your time and efforts spent on creating complex CSS styles. With this handy generator, you can easily create numerous graphic styles and immediately get your code or code of separate elements within seconds. Gmagon CSS Maker fits into any budget and grows with your needs. Try the Gmagon CSS Maker now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 > [![](../../../asset/images/free-download.png)](../../../products/store/gmagon_css_maker/download.html)
 
-## For CSS Beginer
+## CSS Beginner Tutorials
 
 1. [What is CSS?](./what-is-css.html) 
 1. [Why Use CSS?](./why-use-css.html) 
 1. [How CSS works?](./how-css-works.html) 
 1. [Dimensions](./dimensions.html)
-1. Background
-1. Bevel
+1. [Background](./background.html)
+1. [Bevel](./bevel.html)
 1. Border-Radius
 1. Border
 1. [Shadow](./shadow.html) 
