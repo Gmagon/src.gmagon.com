@@ -25,8 +25,8 @@ description: This is the best solution dedicated to helping beginners quickly in
 	- [Text-Basic Setting](./text.html)
 	- [Text-Shadow](./text.html#Text-Shadow)
 	- [Text-Bevel](./text.html#Text-Bevel)
-1. Transform 
-1. Filter 
+1. [Transform](./transform.html)
+1. [Filter](./filter.html) 
 1. Multi-Layer 
 1. Viewport 
 
