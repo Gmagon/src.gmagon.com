@@ -28,7 +28,9 @@ body {
 
 ## Background basics
 Background is made up of eight other properties:
-* background-color: sets a solid color for the background.
+
+**1.background-color:** sets a solid color for the background.
+
 Set the background-color of different elements: 
 
 ```html
@@ -45,15 +47,19 @@ p {
 }
 ```
 
-* background-image: Specifies a background image to appear in the background of the element. This can be a static file, or a generated gradient. 
+**2.background-image:** specifies a background image to appear in the background of the element. 
+
+This can be a static file, or a generated gradient. 
 Set a background-image for the <body> element:
 ```html
 body {
     background-image: url("paper.gif");
     background-color: #cccccc;
 }
+```
 
-* background-repeat: specifies whether the background should be repeated (tiled) or not.
+**3.background-repeat:** specifies whether the background should be repeated (tiled) or not.
+
 Repeat a background-image only vertically:
 ```html
 body {
@@ -62,7 +68,8 @@ body {
 }
 ```
 
-* background-position: Specifies the position that the background should appear inside the element background.
+**4.background-position:** Specifies the position that the background should appear inside the element background.
+
 ```html
 body { 
     background-image: url('smiley.gif');
@@ -71,7 +78,8 @@ body { 
     background-position: center; 
 }
 ```
-* background-size: allows a background image to be resized dynamically.
+**5.background-size:** allows a background image to be resized dynamically.
+
 Specify the size of a background image:
 ```html
 div {
@@ -81,7 +89,8 @@ div {
 }
 ```
 
-* background-attachment:specifies the behavior of an element's background when its content scrolls, e.g. does it scroll with the content, or is it fixed?
+**6.background-attachment:** specifies the behavior of an element's background when its content scrolls, e.g. does it scroll with the content, or is it fixed?
+
 How to specify a fixed background-image:
 ```html
 body { 
@@ -91,7 +100,8 @@ body { 
 }
 ```
 
-* background-origin: defines where to paint the background: across the whole element, inside the border, or inside the padding.
+**7.background-origin:** defines where to paint the background: across the whole element, inside the border, or inside the padding.
+
 Let the background image start from the upper left corner of the content:
 ```html
 #example1 {
@@ -101,7 +111,8 @@ Let the background image start from the upper left corner of the content:
     background-origin: content-box;
 }
 ```
-* background-clip: controls how far a background image or color extends beyond an element's padding or content.
+
+**8.background-clip:** controls how far a background image or color extends beyond an element's padding or content.
 Specify the painting area of the background:
 ```html
 div {
@@ -112,7 +123,7 @@ div {
 }
 ```
 For those who are feeling difficult to code CSS style manually, <a href="../../../products/store/gmagon_css_maker/" target="_blank" rel="nofollow me noopener noreferrer" >Gmagon CSS Maker</a> is what you need. It helps you create a nice look web page on Mac platform without writing a code. Let's explore how Gmagon CSS Maker works. 
-![](/img/css-background.png)
+![](img/css-background.png)
 
 <p><a href="../../../products/store/gmagon_css_maker/" target="_blank" class="button padding20">Try Gmagon CSS Maker</a></p>
 
