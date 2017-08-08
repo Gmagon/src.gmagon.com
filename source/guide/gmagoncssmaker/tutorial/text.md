@@ -59,3 +59,5 @@ Bevels are shading and artificial shadows that emulate the appearance of a 3-dim
 {% raw %}
 <link rel="stylesheet" href="./css/page.common.css">
 {% endraw %}
+
+In the next page, we will start explore [CSS-Transform](./transform.html).

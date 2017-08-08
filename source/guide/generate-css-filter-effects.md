@@ -12,7 +12,8 @@ You can download and install Gmagon CSS Maker on you Mac machine(**macOS 10.7(64
 
 <a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="noopener"> <img src="../asset/images/free-download.png"> </a>
 <br>
-## How filter works?
+
+## How does filter works?
 So what does a filter do exactly? When a browser loads a web page, styles, and perform layout need to be applied, so the web page can be rendered that there is something for visitors to look at. Just before the page is copied to the screen, filters start working. It takes s snapshot of the rendered page as a bitmap image, then perform some graphics magic on the pixels in the snapshot and then draw the result over the top of the original page image. Drawing a page with filters on it is time-consuming, but using them properly will have minimum impact on the speed of the site. Therefore, you are able to stack a number of filters one after the other to achieve all sorts of effects.
 
 
