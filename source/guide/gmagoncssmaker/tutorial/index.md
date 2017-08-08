@@ -17,7 +17,7 @@ description: This is the best solution dedicated to helping beginners quickly in
 1. [Background](./background.html)
 1. [Bevel](./bevel.html)
 1. [Border-Radius](./border-radius.html)
-1. Border
+1. [Border](./border.html)
 1. [Shadow](./shadow.html) 
 	- [Inner-Shadow](./shadow.html#Inner-Shadow)
 	- [Outer-Shadow](./shadow.html#Outer-shadow)
