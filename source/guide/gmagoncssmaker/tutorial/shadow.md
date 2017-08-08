@@ -59,5 +59,9 @@ We will leave the detail of the Text-shadow part to the next page of [CSS Text](
 <link rel="stylesheet" href="./css/page.common.css">
 {% endraw %}
 
+Hopefully the above has given you an insight into the wonderful world of CSS shadows.
+
+In the next page, we will start to explore [CSS-Text](./text.html).
+
 
 

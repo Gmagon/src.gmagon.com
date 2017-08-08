@@ -1,6 +1,6 @@
 layout: guide
 title: CSS-Filter?  
-keywords: css filter property on mac, css filter effects generator on mac, css filter explorer on mac, css filter blur on mac, css filter grayscale on mac, css filter sepia on mac, css filter saturate on mac, css filter support on mac
+keywords: css filter property on mac, css filter effects generator on mac, css filter explorer on mac, css filter blur on mac, css filter grayscale on mac, css filter sepia on mac, css filter saturate on mac, css filter support on mac, css filter tutorial
 description: This is the best tool dedicated to helping web authors quickly achieve varying visual effects with CSS code on Mac. 
 ---
 
@@ -60,5 +60,7 @@ This filter can help your content looks semi-transparent. The 100% value is comp
 {% endraw %}
 
 
-Hope this article will solve your problems and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community. 
+Hopefully the above has given you an insight into the wonderful world of CSS filter. We'd like to receive and answer any question from you, if you are willing to communicate with us, you can join in <a href="https://gitter.im/Gmagon/support" target="_blank"> <strong>Support Center</strong> </a> to enter our community.
+ 
+In the next page, we will start to explore [CSS-Multilayers](./multi-layer.html).
 

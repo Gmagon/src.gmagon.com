@@ -4,7 +4,7 @@ keywords: css transform, css transform property, css transform scale, css transf
 description: What is CSS transform? How does it works? This CSS transform elementary tutorial dedicate to helping beginners quickly make various transformation effects using CSS on Mac. 
 ---
 In this tutorial journey of transformation, we will concentrate on transforming properties with CSS code. The CSS transform property allows you to visually manipulate an element by skewing, rotating, or scaling. Using it, elements can be translated, rotated, scaled, and skewed.
-<br>
+
 {% raw %}
 <h2 id="Browser_compatibility" class="highlight-spanned"><span class="highlight-span">Browser compatibility</span><a href="/en-US/docs/Web/CSS/transform$edit#Browser_compatibility" class="" rel="nofollow, noindex"><i aria-hidden="true" class="icon-pencil"></i><span></span></a></h2>
 <div class="htab">
@@ -108,4 +108,4 @@ SkewX and SkewY transform functions tilt an element one way or the other. Rememb
 {% endraw %}
 
 
-In the next page, we will start explore [CSS-Filter](./filter.html).
+In the next page, we will start to explore [CSS-Filter](./filter.html).
