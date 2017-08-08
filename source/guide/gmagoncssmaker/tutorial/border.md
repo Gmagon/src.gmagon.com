@@ -206,8 +206,7 @@ p {
 Result:
 <p style="border:5px solid red;padding:2px">Some text</p>
 You can also specify all the individual border properties for just one side:
-
-## Left Border
+<h2> Left Border </h2>
 ```html
 p {
     border-left: 6px solid red;
