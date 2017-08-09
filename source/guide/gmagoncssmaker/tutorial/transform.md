@@ -107,5 +107,6 @@ SkewX and SkewY transform functions tilt an element one way or the other. Rememb
 <link rel="stylesheet" href="./css/page.common.css">
 {% endraw %}
 
+Hopefully the above has given you an insight into the wonderful world of CSS transform.
 
 In the next page, we will start to explore [CSS-Filter](./filter.html).
