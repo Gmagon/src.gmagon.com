@@ -64,7 +64,7 @@ This section describes daily use guide to the XLS2csv clients. It instructs you 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and finish the whole purchase process.
 <br>
-![](./images/screens/xls2csv_onlinestore_1440x900.png) 
+![](./images/screens/xls2csv_onlinestore_720x400.png) 
 <br>
 4. Finally, after you finish the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 <br>

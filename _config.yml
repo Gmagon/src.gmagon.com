@@ -1,12 +1,9 @@
 company: gmagon
-title: 'Gmagon Software Official Website - Fast, simple & powerful solutions for everyone.'
-subtitle: 'Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support.'
-description: 'Gmagon Software Official Website - Fast, simple & powerful solutions for everyone and more. Visit the site to learn, buy, and get support.'
+title: Gmagon Software - handy and professional Mac apps.
 author: 'Gmagon,Inc'
 language: en
 timezone: UTC
-keywords: 'xls, gif, convert, software, macos, windows, linux'
-ogImage: 'https://gmagon.com/products/store/gmagon_gif/images/screens/gmagonif_intro.gif'
+ogImage: 'https://gmagon.com/logo.png'
 url: 'https://gmagon.com'
 root: /
 tag_dir: tags
