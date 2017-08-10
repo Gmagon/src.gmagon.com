@@ -1,12 +1,12 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>{% if page.title %} {{ page.title }} | {{ config.title }} | {{ config.author }} {% else %} {{ config.title }} {% endif %} </title>
+  <title>{% if page.title %} {{ page.title }} - {{ config.title }}  {% else %} {{ config.title }} {% endif %} </title>
   <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta name="robots" content="noodp" />
   <meta name="keywords" content="{{ page.keywords || page.title }}" />
-  <meta name="description" content="{{ page.description || page.title }} |  {{ config.title }}" />
+  <meta name="description" content="{{ page.description || page.title }}" />
 
 
   <!-- Custom config og:image -->
@@ -18,10 +18,10 @@
   {{  
 
   open_graph({
-    title: page.title + ' | ' +  config.title,
+    title: page.title + ' - ' +  config.title,
     type: "apps",
-    site_name: page.title + ' | ' +  config.title,
-    description: page.description || page.title + ' | ' + config.title,
+    site_name: page.title + ' - ' +  config.title,
+    description: page.description || page.title + ' - ' + config.title,
     fb_admins: config.fb_admins,
     twitter_site: config.twitter
   }) 
