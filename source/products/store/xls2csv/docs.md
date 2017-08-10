@@ -10,7 +10,7 @@ current: docs
 ## XLS2csv
 An APNG converter tool for **macOS**
 
-Version 4.22
+Version 5.0
 
 
 <br>
@@ -35,7 +35,7 @@ XLS2csv is an image format converter which tends to convert XLS to CSV format. T
 
 <br>
 ### **Installation**:
-XLS2csv runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.22 is released now in [DOWNLOAD](./download.html). 
+XLS2csv runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 5.0 is released now in [DOWNLOAD](./download.html). 
 
 There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 

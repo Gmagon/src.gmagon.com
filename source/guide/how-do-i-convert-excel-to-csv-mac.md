@@ -1,6 +1,6 @@
 layout: guide
-title: How do I convert Excel files to CSV and export Excel files to CSV format on Mac OS X?  
-keywords: convert excel files to csv on mac automatically, convert excel files to csv format on mac, convert excel file to csv using batch script on mac, export excel file to csv format on mac, excel export sheet to csv on mac, how to convert excel file to csv without opening on mac, convert excel from .xls to .csv for Mac, process XLS to CSV conversion on Mac, Mac XLS to CSV Converter, shift excel XLS files to CSV, XLS to CSV converter for Mac
+title: How do I convert Excel files to CSV on Mac OS X?  
+keywords: convert excel files to csv on mac automatically, convert excel files to csv format on mac, export excel file to csv format on mac, excel export sheet to csv on mac, convert excel from .xls to .csv for Mac, Mac XLS to CSV Converter on mac, shift excel XLS files to CSV
 description: This tutorial explains how to process Excel files to CSV conversion on Mac via using a simple and helpful XLS to CSV Converter for Mac. 
 ---
 ## What is CSV
@@ -13,7 +13,7 @@ In this tutorial, we will try to investigate quick and efficient ways to how to 
 
 **Importing Product Options**: Importing your options is an efficient way to handle the sometimes lengthy task of adding product options to each of your products. The following guide walks you through creating Product Options by importing a CSV file file. 
 
-**Importing Customers**: Importing your customers is the fastest way to add or update their information in bulk. A customer import involves having all of your customer information in a CSV file, which can be edited as a spreadsheet. Upon import, your column headers will be matched with their corresponding customer fields in BigCommerce, and the customer information will be updated accordingly.
+**Importing Customers**: Importing your customers is the fastest way to add or update their information in bulk. A customer import involves having all of your customer information in a CSV file, which can be edited as a spreadsheet. Upon import, your column headers will be matched with their corresponding customer fields, and the customer information will be updated accordingly.
 <br>
 ## How to convert Excel file to CSV
 If you need to convert an Excel file to some other application e.g. to the Outlook Address book or Access database, you can convert your Excel worksheet to CSV first and then import a .csv file in another program. Below you will find the step-by-step instructions to export an Excel workbook to the CSV format by <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >XLS2csv</a>-an image format converter which tends to convert XLS to CSV format and it is only fit for Mac machine. 
