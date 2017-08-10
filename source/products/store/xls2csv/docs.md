@@ -48,7 +48,7 @@ If you encounter any problems during or after installing XLS2csv please refer to
 
  You can click and download one of the files. When you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
-![](./images/screens/xls2csv_trialversion_1440x900.png) 
+![](./images/screens/xls2csv_trialversion_720x470.png) 
 
 If you encounter any problems during or after installing XLS2csv please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
@@ -60,7 +60,7 @@ This section describes daily use guide to the XLS2csv clients. It instructs you 
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who is willing to buy from the Gmagon official App store. 
 <br>
-![](./images/screens/xls2csv_buyonline_1440x900.png) 
+![](./images/screens/xls2csv_buyonline_720x400.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and finish the whole purchase process.
 <br>
