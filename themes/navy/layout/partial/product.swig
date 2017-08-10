@@ -3,7 +3,7 @@
   <a href="{{ product.preview }}" target="_blank" rel="nofollow me noopener noreferrer" >
   {% endif %}
   <div class="product-screenshot">
-    <img src="{{ url_for('products/screenshots/' + product.appID + '.' + product.thumbType) }}" class="product-screenshot-img">
+    <img src="{{ url_for('.' + product.link + 'images/logo/logo_128x128.png') }}" class="product-screenshot-img">
   </div>
     {% if product.preview %}
   </a>

@@ -10,6 +10,7 @@ description: Gmagon Gif is the best GIF to APNG converter for Mac. It helps user
 
 ## OVERVIEW
 
+![](./images/screens/gmagonif_intro.gif)
 
 **Gmagon Gif** is a minimum and streamlined converter that easily converts the GIF format out there to APNG format on Mac. In addition, it is also a multifunctional GIF tool including GIF gallery in its more advanced version. This GIF to APNG converter is the first version of a series of Gmagon GIF products for Mac. The software can intelligently recognize Gif files or directory and transform them to animated PNG files quickly. Without log in and registration, or any plug-in, you can simply enjoy swift conversion experience anytime and everywhere. It is a thrilling news for you to hear that this amazing mac gif to apng converter is free for all users!
 
@@ -17,7 +18,7 @@ Learn more [about Gmagon Gif](./features.html).
 
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
-![](./images/screens/gmagonif_intro.gif)
+
 
 <br>
 

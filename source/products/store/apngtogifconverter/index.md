@@ -10,6 +10,7 @@ description: As a good APNG to GIF Converter for Mac, APNGToGifConverter is your
 
 ## OVERVIEW
 
+![](./images/screens/apngtogifconverter_interview_1440x900.gif)
 
 **APNGToGifConverter** is the best APNG to GIF converter on Mac for you. It is easy to convert the APNG bitmap image format out there to the GIF format. The software can intelligently recognize APNG files or directory and change them to Gif files quickly. APNGToGifConverter fits into any budget and grows with your needs. Try the APNGToGifConverter now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
@@ -18,8 +19,6 @@ Learn more [about APNGToGifConverter](./features.html).
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <br>
-
-![](./images/screens/apngtogifconverter_interview_1440x900.gif)
 
 <br>
 
