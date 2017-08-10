@@ -12,6 +12,7 @@ description: This is the best solution dedicated to helping beginners quickly in
 - [How to convert XLS to CSV on a Mac? ](./convert-xls-to-csv-on-mac.html)
 - [Mac batch convert XLS to CSV on Mac](./mac-batch-convert-xls-to-csv.html)
 - [How do I convert Excel to CSV on Mac?](./how-do-i-convert-excel-to-csv-mac.html)
+- [Can I batch convert XLS/XLSX to CSV in Mac?](can-i-batch-convert-xls-to-csv-mac)
 
 ---
 
