@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <meta name="robots" content="noodp" />
-  <meta name="keywords" content="{% if page.keywords %} {{ page.keywords }} {% else %} {{ page.title }} {% endif %}" />
-  <meta name="description" content="{% if page.description %} {{ page.description }}  {% else %} {{ page.title }} {% endif %}" />
+  <meta name="keywords" content="{{ page.keywords || page.title }}" />
+  <meta name="description" content="{{ page.description || page.title }} |  {{ config.title }}" />
+
 
   <!-- Custom config og:image -->
   {% if page.ogImage %}
@@ -14,10 +15,17 @@
   {% endif %}
 
   <!-- Open Graph -->
-  {{ open_graph({
+  {{  
+
+  open_graph({
+    title: page.title + ' | ' +  config.title,
+    type: "apps",
+    site_name: page.title + ' | ' +  config.title,
+    description: page.description || page.title + ' | ' + config.title,
     fb_admins: config.fb_admins,
     twitter_site: config.twitter
-  }) }}
+  }) 
+  }}
 
   <!-- algolia_config -->
   {{ algolia_config() }}
