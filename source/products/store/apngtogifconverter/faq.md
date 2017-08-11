@@ -1,10 +1,10 @@
 layout: app
-title: Frequently asked questions (FAQ) | APNGToGifConverter
+title: APNGToGifConverter FAQs
 subtitle: Frequently asked questions (FAQ)
 comments: false
 current: faq
 ---
 
-### What are the system prerequisites of APNGToGifConverter?
+### What are the system requirements of APNGToGifConverter?
 - MacOS 10.7(64-bit) or newer is required.
 - Admin privileges for the Installation

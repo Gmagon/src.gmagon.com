@@ -1,5 +1,5 @@
 layout: app
-title: Free Download |SudokuMM
+title: Free Download SudokuMM
 subtitle: Free Download
 comments: false
 product: SudokuMM

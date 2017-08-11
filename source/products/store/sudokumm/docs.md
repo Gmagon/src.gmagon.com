@@ -1,5 +1,5 @@
 layout: app
-title: Manual | SudokuMM
+title: SudokuMM User Manual
 subtitle: Documentation
 comments: false
 product: SudokuMM
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## SudokuMM
-An online Sudoku game for **macOS**
+An online Sudoku game for Mac OS X
 
 Version 4.0
 

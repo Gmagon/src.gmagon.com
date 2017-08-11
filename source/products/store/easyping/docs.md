@@ -1,5 +1,5 @@
 layout: app
-title: Manual | EasyPing
+title: EasyPing User Manual
 subtitle: Documentation
 comments: false
 product: EasyPing
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## EasyPing
-A ping utility tool for **macOS**
+A little ping utility for Mac OS X. 
 
 Version 2.2
 

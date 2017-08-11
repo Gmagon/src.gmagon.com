@@ -1,5 +1,5 @@
 layout: app
-title: Free Download |NetworkEyes
+title: Free Download NetworkEyes
 subtitle: Free Download
 comments: false
 product: NetworkEyes

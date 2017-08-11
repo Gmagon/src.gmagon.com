@@ -1,5 +1,5 @@
 layout: app
-title: Buy | EasyPing
+title: Buy EasyPing
 
 
 subtitle: BUY ONLINE

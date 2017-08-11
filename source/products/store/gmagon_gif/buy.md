@@ -1,5 +1,5 @@
 layout: app
-title: Buy | Gmagon Gif
+title: Buy Gmagon Gif
 subtitle: BUY ONLINE
 comments: false
 current: buy

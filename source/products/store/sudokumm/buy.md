@@ -1,5 +1,5 @@
 layout: app
-title: Buy | SudokuMM
+title: Buy SudokuMM
 subtitle: BUY ONLINE
 comments: false
 current: buy

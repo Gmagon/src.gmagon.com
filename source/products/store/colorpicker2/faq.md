@@ -5,6 +5,6 @@ comments: false
 current: faq
 ---
 
-### What are the system prerequisites of ColorPicker2?
+### What are the system requirements of ColorPicker2?
 - MacOS 10.7(64-bit) or newer is required.
 - Admin privileges for the Installation
