@@ -1,6 +1,6 @@
 layout: guide
 title: How to create box-shadow with CSS on Mac?  
-keywords: box-shadow generator on mac, box-shadow inset on mac, box-shadow on mac, box-shadow opacity mac, box-shadow color mac, box-shadow css mac, box-shadow all sides, box-shadow top, box-shadow bottom, create a box shadow, add a box shadow in css, building a shadow box
+keywords: box-shadow generator on mac, box-shadow inset on mac, box-shadow on mac, box-shadow opacity mac, box-shadow color mac, box-shadow css mac, box-shadow top, create a box shadow, add a box shadow in css, building a shadow box
 description: This is the best tool dedicated to helping beginners quickly design box-shadow around using CSS on Mac. 
 ---
 
