@@ -1,5 +1,5 @@
 layout: app
-title: Manual | TryToWMA
+title: TryToWMA User Manual
 subtitle: Documentation
 comments: false
 product: TryToWMA

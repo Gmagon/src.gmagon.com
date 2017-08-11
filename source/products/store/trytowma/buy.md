@@ -1,5 +1,5 @@
 layout: app
-title: Buy | TryToWMA
+title: Buy TryToWMA
 subtitle: BUY ONLINE
 comments: false
 current: buy

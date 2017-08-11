@@ -1,5 +1,5 @@
 layout: app
-title: Manual | TryToAAC
+title: TryToAAC User Manual
 subtitle: Documentation
 comments: false
 product: TryToAAC

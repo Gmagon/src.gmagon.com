@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToAAC
+title: Download TryToAAC
 subtitle: Download
 comments: false
 product: TryToAAC

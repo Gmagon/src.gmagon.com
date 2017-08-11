@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToFLAC
+title: Download TryToFLAC
 subtitle: Download
 comments: false
 product: TryToFLAC

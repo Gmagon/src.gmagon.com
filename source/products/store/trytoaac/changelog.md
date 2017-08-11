@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | TryToAAC
+title: TryToAAC Release Notes
 subtitle: Release Notes
 comments: false
 current: changelog

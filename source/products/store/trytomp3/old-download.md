@@ -1,5 +1,5 @@
 layout: app
-title: Older releases | TryToMP3
+title: TryToMP3 Older releases
 subtitle: Older releases
 comments: true
 product: TryToMP3

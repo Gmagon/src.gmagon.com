@@ -3,8 +3,8 @@ title: TryToAMR-a streamlined AMR audio file converter on Mac
 subtitle: TryToAMR
 comments: false
 current: index
-keywords: amr converter on mac, amr converter software mac, mp3 to amr converter, mp4 to amr converter, convert flac to amr, convert mp3 to amr 
-description: TryToAMR is a minimum converter that easily convert various audio formats to AMR file.
+keywords: amr converter on mac, amr converter software mac, mp3 to amr converter mac, mac mp4 to amr converter, convert flac to amr on mac, convert mp3 to amr on mac
+description: TryToAMR is a minimum converter that easily convert various audio formats to AMR file on Mac.
 ---
 
 

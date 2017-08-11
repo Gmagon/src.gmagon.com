@@ -1,5 +1,5 @@
 layout: app
-title: Manual | TryToAMR
+title: TryToAMR User Manual
 subtitle: Documentation
 comments: false
 product: TryToAMR

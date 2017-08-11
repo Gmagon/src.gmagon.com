@@ -3,8 +3,8 @@ title: TryToFLAC-a streamlined FLAC audio file converter on Mac
 subtitle: TryToFLAC
 comments: false
 current: index
-keywords:  flac converter on mac, flac converter software mac, mp3 to flac converter, mp4 to flac converter, convert amr to flac, convert mp3 to flac 
-description: TryToFLAC is a minimum converter that easily convert various audio formats to FLAC file.
+keywords:  flac converter on mac, flac converter software mac, mp3 to flac converter mac, mp4 to flac converter mac, convert amr to flac mac, convert mp3 to flac mac
+description: TryToFLAC is a minimum converter that easily convert various audio formats to FLAC file on Mac.
 ---
 
 

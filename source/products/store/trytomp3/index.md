@@ -3,8 +3,8 @@ title: TryToMP3-a streamlined MP3 audio file converter on Mac
 subtitle: TryToMP3
 comments: false
 current: index
-keywords: mp3 converter on mac, convert to mp3, mp3 converter download, mp4 to mp3 converter, mp3 music converter, convert mp4 to mp3 
-description: TryToMP3 is a minimum converter that easily convert various audio formats to MP3 file.
+keywords: mp3 converter on mac, convert to mp3 on mac, mac mp3 converter download, mp4 to mp3 converter mac, mac mp3 music converter, convert mp4 to mp3 on mac
+description: TryToMP3 is a minimum converter that easily converts various audio formats to MP3 file on Mac. 
 ---
 
 

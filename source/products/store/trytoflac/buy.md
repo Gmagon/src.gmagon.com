@@ -1,5 +1,5 @@
 layout: app
-title: Buy | TryToFLAC
+title: Buy TryToFLAC
 subtitle: BUY ONLINE
 comments: false
 current: buy
