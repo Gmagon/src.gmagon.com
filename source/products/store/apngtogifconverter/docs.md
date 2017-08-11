@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## APNGToGifConverter
-An APNG to GIF converter for **macOS**
+An APNG to GIF converter for Mac OS X users
 
 Version 3.0.0
 

@@ -1,5 +1,5 @@
 layout: app
-title: Free Download | Gmagon CSS Maker 
+title: Free Download Gmagon CSS Maker 
 
 subtitle: Free Download
 comments: false

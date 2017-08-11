@@ -1,5 +1,5 @@
 layout: app
-title: Features | ColorPicker2
+title: ColorPicker2 Key Features
 subtitle: Features
 comments: false
 current: features
@@ -15,8 +15,6 @@ current: features
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
-- No registration and log in. 
-
  
 
 

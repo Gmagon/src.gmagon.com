@@ -1,16 +1,11 @@
 layout: app
-title: Frequently asked questions (FAQ) | Gmagon CSS Maker
+title: Gmagon CSS Maker FAQ
 subtitle: Frequently asked questions (FAQ)
 comments: false
 current: faq
 ---
 
-
-## Installation & Upgrade
-
 ### What are the system prerequisites of Gmagon CSS Maker?
-- MacOS 10.7(64-bit) or newer is required.(last version which is compatible)
+- MacOS 10.7(64-bit) or newer is required.
 - Admin privileges for the Installation
 
-
-### How to install Gmagon CSS Maker?
