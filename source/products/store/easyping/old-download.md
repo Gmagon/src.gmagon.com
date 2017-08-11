@@ -1,5 +1,5 @@
 layout: app
-title: Older releases | EasyPing
+title: EasyPing Older Releases 
 subtitle: Older releases
 comments: true
 product: EasyPing

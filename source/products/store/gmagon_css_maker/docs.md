@@ -1,5 +1,5 @@
 layout: app
-title: Manual | Gmagon CSS Maker
+title: Gmagon CSS Maker User Manual
 subtitle: Documentation
 comments: false
 product: Gmagon CSS Maker
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## Gmagon CSS Maker
-An easy-to-use CSS generator for **macOS**
+An easy-to-use CSS generator for Mac OS X
 
 Version 1.0.0
 

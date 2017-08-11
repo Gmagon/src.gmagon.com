@@ -3,10 +3,9 @@ title: NetworkEyes-monitor network connections on Mac
 subtitle: NetworkEyes
 comments: false
 current: index
-keywords: network monitor for mac, network connect, networking, automatic monitoring tool, real-time monitoring tool on mac
+keywords: network monitor for mac, mac network connection monitor, networking, automatic monitoring tool, real-time monitoring tool on mac
 description: As a real-time network monitoring tool on Mac that automatically display network connections on Mac.
 ---
-
 
 ## OVERVIEW
 

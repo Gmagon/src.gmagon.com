@@ -1,5 +1,5 @@
 layout: app
-title: Features | Gmagon Gif
+title: Gmagon Gif Key Features
 subtitle: Features
 comments: false
 current: features
@@ -7,16 +7,14 @@ current: features
 
 ## FEATURES
 - Built for Mac users only
-- Super-quick conversion
+- Super-fast conversion
 - Fool-style operation
-- Free charge
-- Support mouse drag-and-drop
+- Support drag-and-drop files
 - Support conversion in bulk
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
-- No registration and log in. 
-- Support remove all files
+- Support removing all files
  
 
 

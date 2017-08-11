@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes |NetworkEyes
+title: NetworkEyes Release Notes
 subtitle: Release Notes
 comments: false
 current: changelog

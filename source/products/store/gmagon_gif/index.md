@@ -3,10 +3,9 @@ title: Gmagon Gif - convert GIF to animated PNG on Mac
 subtitle: Gmagon Gif
 comments: false
 current: index
-keywords: convert gif to apng on mac, mac gif to apng converter, gif to animated png converter for mac, gif to apng converter on mac, change gif to apng
+keywords: convert gif to apng on mac, mac gif to apng converter, gif to animated png converter for mac, gif to apng converter on mac, change gif to apng mac
 description: Gmagon Gif is the best GIF to APNG converter for Mac. It helps users convert GIF files to animated PNG on Mac easily with very good quality. 
 ---
-
 
 ## OVERVIEW
 

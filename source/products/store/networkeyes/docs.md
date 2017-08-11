@@ -1,5 +1,5 @@
 layout: app
-title: Manual | NetworkEyes
+title: NetworkEyes User Manual
 subtitle: Documentation
 comments: false
 product: NetworkEyes
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## NetworkEyes
-An advanced monitoring tool for **macOS**
+An advanced network monitoring tool for Apple Mac OS X. 
 
 Version 3.19.0
 

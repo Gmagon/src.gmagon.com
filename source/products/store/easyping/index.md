@@ -3,10 +3,9 @@ title: EasyPing-check the network connection of a particular website on Mac.
 subtitle: EasyPing
 comments: false
 current: index
-keywords: ping test on mac, ping tool for mac, network utility, network scanning tool
+keywords: ping test on mac, ping tool for mac, mac network utility, network scanning tool on mac
 description: EasyPing is a simple network test tool to check whether a particular host is operating.
 ---
-
 
 ## OVERVIEW
 

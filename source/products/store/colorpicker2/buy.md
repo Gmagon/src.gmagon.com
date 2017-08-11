@@ -1,5 +1,5 @@
 layout: app
-title: Buy | ColorPicker2
+title: Buy ColorPicker2
 
 subtitle: BUY ONLINE
 comments: false

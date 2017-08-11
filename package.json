@@ -18,7 +18,8 @@
     "test:yaml": "gulp --gulpfile ./gulp-sync.js modify:_config.yml",
     "sync": "npm run sync:com",
     "publish": "npm run rfg && gulp --gulpfile ./gulp-sync.js sync:src.gmagon.com && npm run sync",
-    "publish:all": "npm run sync:cn && npm run sync:co && npm run sync:org && npm run sync:net && npm run publish",
+    "publish:others": "npm run sync:cn && npm run sync:co && npm run sync:org && npm run sync:net",
+    "publish:all": "npm run publish:others && npm run publish",
     "deploy0": "hexo deploy"
   },
   "dependencies": {
