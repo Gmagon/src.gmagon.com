@@ -1,5 +1,5 @@
 layout: app
-title: Free Download | APNGToGifConverter
+title: Free Download APNGToGifConverter
 
 subtitle: Free Download
 comments: false

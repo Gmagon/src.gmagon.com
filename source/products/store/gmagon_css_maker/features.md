@@ -20,7 +20,6 @@ current: features
 - After-sale services
 - Minimum and streamlined interface.
 - No ads and plug-ins
-- No registration and log in 
 
  
 

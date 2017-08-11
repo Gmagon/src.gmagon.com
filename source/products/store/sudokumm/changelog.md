@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes |SudokuMM
+title: SudokuMM Release Notes
 subtitle: Release Notes
 comments: false
 current: changelog

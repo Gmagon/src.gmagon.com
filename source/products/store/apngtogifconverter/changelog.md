@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | APNGToGifConverter
+title: APNGToGifConverter Release Notes
 
 subtitle: Release Notes
 comments: false

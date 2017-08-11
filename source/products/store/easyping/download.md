@@ -1,5 +1,5 @@
 layout: app
-title: Free Download | EasyPing
+title: Free Download EasyPing
 subtitle: Free Download
 comments: false
 product: EasyPing

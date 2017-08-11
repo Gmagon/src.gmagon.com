@@ -1,5 +1,5 @@
 layout: app
-title: Buy | APNGToGifConverter
+title: Buy APNGToGifConverter
 
 subtitle: BUY ONLINE
 comments: false

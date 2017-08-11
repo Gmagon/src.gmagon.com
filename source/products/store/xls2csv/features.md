@@ -6,7 +6,7 @@ current: features
 ---
 
 ## FEATURES
-- Convert .xls/.xlsx to .csv on Mac
+- Convert .xls to .csv on Mac
 - Support drag and drop files
 - Convert all with one click
 - Support batch conversion

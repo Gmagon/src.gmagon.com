@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | Gmagon CSS Maker 
+title: Gmagon CSS Maker Release Notes
 
 subtitle: Release Notes
 comments: false

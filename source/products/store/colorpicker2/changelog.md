@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | ColorPicker2
+title: ColorPicker2 Release Notes
 
 subtitle: Release Notes
 comments: false

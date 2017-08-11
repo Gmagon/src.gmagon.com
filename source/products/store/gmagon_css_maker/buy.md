@@ -1,5 +1,5 @@
 layout: app
-title: Buy | Gmagon CSS Maker 
+title: Buy Gmagon CSS Maker 
 
 subtitle: BUY ONLINE
 comments: false

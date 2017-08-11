@@ -1,5 +1,5 @@
 layout: app
-title: Buy | NetworkEyes
+title: Buy NetworkEyes
 subtitle: BUY ONLINE
 comments: false
 current: buy

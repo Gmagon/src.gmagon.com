@@ -1,5 +1,5 @@
 layout: app
-title: Free Download | ColorPicker2
+title: Free Download ColorPicker2
 subtitle: Free Download
 comments: false
 product: ColorPicker2

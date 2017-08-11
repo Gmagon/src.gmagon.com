@@ -1,5 +1,5 @@
 layout: app
-title: Manual | ColorPicker2
+title: ColorPicker2 User Manual
 subtitle: Documentation
 comments: false
 product: ColorPicker2
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## ColorPicker2
-A color picking tool for **macOS**
+A color picking tool for Mac OS X
 
 Version 4.18.0
 

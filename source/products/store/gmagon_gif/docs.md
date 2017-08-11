@@ -1,5 +1,5 @@
 layout: app
-title: Manual | Gmagon Gif
+title: Gmagon Gif User Manual
 subtitle: Documentation
 comments: false
 product: Gmagon Gif
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## Gmagon Gif
-A GIF to APNG converter and gallery for **macOS**
+A GIF to APNG converter and gallery for Mac OS X. 
 
 Version 1.0
 
