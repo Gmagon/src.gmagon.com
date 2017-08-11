@@ -1,6 +1,10 @@
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>{% if page.title %} {{ page.title }} - {{ config.title }}  {% else %} {{ config.title }} {% endif %} </title>
+{% if page.noWithConfigTitle %}
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ config.title }}{% endif %}</title>
+{% else %}
+  <title>{% if page.title %}{{ page.title }} - {{ config.title }}{% else %}{{ config.title }}{% endif %}</title>
+{% endif %}
   <meta http-equiv="X-UA-Compatible" content="IE=8; IE=9; IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -8,16 +12,14 @@
   <meta name="keywords" content="{{ page.keywords || page.title }}" />
   <meta name="description" content="{{ page.description || page.title }}" />
 
-
   <!-- Custom config og:image -->
-  {% if page.ogImage %}
+{% if page.ogImage %}
   <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
-  {% endif %}
+{% endif %}
 
   <!-- Open Graph -->
-  {{  
-
-  open_graph({
+{{  
+open_graph({
     title: page.title + ' - ' +  config.title,
     type: "apps",
     site_name: page.title + ' - ' +  config.title,
@@ -25,7 +27,7 @@
     fb_admins: config.fb_admins,
     twitter_site: config.twitter
   }) 
-  }}
+}}
 
   <!-- algolia_config -->
   {{ algolia_config() }}
