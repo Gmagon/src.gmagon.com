@@ -1,5 +1,5 @@
 layout: app
-title: Features | Gmagon Gif
+title: Gmagon Gif Key Features
 subtitle: Features
 comments: false
 current: features

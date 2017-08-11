@@ -1,5 +1,5 @@
 layout: app
-title: Manual | APNGToGifConverter
+title: APNGToGifConverter User Manual
 subtitle: Documentation
 comments: false
 product: APNGToGifConverter
