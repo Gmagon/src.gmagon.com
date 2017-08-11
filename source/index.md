@@ -22,25 +22,27 @@ recommend_products:
       description: A fast and simple tool to convert APNG files to GIFs.  
 
 intro_feature_list:
-    - name: Minimalism
+    - name: Our Software Solutions
       icon: fa fa-bolt
       link:
-      description: Gmagon aims to provide amazing simple and powerful solutions for you.
+      description: We deliver simple, innovative, reliable and high-value Mac desktop applications throughout a wide range of fields. 
 
-    - name: On-line Support
+    - name: Our Attitude 
       icon: fa fa-users
       link: /support
-      description: Gmagon aims to provide amazing simple and powerful solutions for you.
+      description: We keep close to what our customers need, and develop customer-centric software solutions for Mac OS X users. 
 
-    - name: Sustained Innovation 
+
+    - name: Our Team
       icon: fa fa-space-shuttle
       link:
-      description: To help you solve problems once for all, various updated solutions are provided by our experts.
+      description: We have an enthusiastic, professional and reliable team. We efficiently integrate cross-disciplinary talents with a well-defined development process. 
 
-    - name: More Solutions
+
+    - name: Why Choose Us?
       icon: fa fa-cubes
       link: /products
-      description: Various solutions are recommended by our core technical team, you can feel free to try it.
+      description: Intuitive and stable programs; 100% clean and secure; 30-day money back guarantee; 24/7 online customer support. 
 ---
 
 <div class="class-content-wrap">
