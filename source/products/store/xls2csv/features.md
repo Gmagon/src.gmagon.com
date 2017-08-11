@@ -1,22 +1,24 @@
 layout: app
-title: Features | XLS2csv
+title: XLS2csv Key Features 
 subtitle: Features
 comments: false
 current: features
 ---
 
 ## FEATURES
+- Convert .xls/.xlsx to .csv on Mac
+- Support drag and drop files
+- Convert all with one click
+- Support batch conversion
 - Built for Mac users only
 - Fool-style operation
-- Support after conversion, reveal file in finder
-- Conversion results can be previewed.
-- Support drag and drop files
-- Convert with one click
-- Support conversion in bulk in one time.
+- Support preview before conversion
+- Show up generated file in finder after conversion
 - After-sale services
-- Minimum and streamlined interface.
+- Intuitive interface and fast conversion speed
 - No ads and plug-ins
-- No registration and log in 
+- The free trial version will stop working after 30 days
+
 
  
 

@@ -1,5 +1,5 @@
 layout: app
-title: Buy | XLS2csv
+title: Buy XLS2csv
 
 subtitle: BUY ONLINE
 comments: false

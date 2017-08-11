@@ -1,5 +1,5 @@
 layout: app
-title: Free Download | XLS2csv
+title: Free Download XLS2csv
 
 subtitle: Free Download
 comments: false

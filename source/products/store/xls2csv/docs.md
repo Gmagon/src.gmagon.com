@@ -1,5 +1,5 @@
 layout: app
-title: Manual | XLS2csv
+title: XLS2csv User Manual
 subtitle: Documentation
 comments: false
 product: XLS2csv
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## XLS2csv
-An APNG converter tool for **macOS**
+Excel XLS/XLSX files to CSV Converter app for Mac OS X
 
 Version 5.0
 

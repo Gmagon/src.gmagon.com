@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | XLS2csv
+title: XLS2csv Release Notes
 
 subtitle: Release Notes
 comments: false

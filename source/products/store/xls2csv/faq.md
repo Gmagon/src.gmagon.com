@@ -1,5 +1,5 @@
 layout: app
-title: Frequently asked questions (FAQ) | XLS2csv
+title: XLS2csv Frequently asked questions
 subtitle: Frequently asked questions (FAQ)
 comments: false
 current: faq
