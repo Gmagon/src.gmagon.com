@@ -10,6 +10,7 @@ description: TryToAMR is a minimum converter that easily convert various audio f
 
 ## OVERVIEW
 
+![](./images/screens/trytoamr_screen_overview_1440x900.png)
 
 **TryToAMR** is a minimum and streamlined AMR converter that easily convert some of the most popular audio standards out there to the AMR format, for example MP3 to AMR, MP4 to AMR, FLAC to AMR, etc. The software can intelligently recognize an extensive number of audio formats and transform them to AMR files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
@@ -18,7 +19,7 @@ Learn more [about TryToAMR](./features.html).
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 <!-- ![](./images/screens/s2_953x525.png) -->
-![](./images/screens/trytoamr_screen_overview_1440x900.png)
+
 
 <br>
 ## USE CASES: BUILT FOR YOU

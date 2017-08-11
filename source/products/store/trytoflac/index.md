@@ -10,6 +10,7 @@ description: TryToFLAC is a minimum converter that easily convert various audio 
 
 ## OVERVIEW
 
+![](./images/screens/trytoflac_overview_1440x900.png)
 
 **TryToFLAC** is a minimum and streamlined FLAC converter that easily convert some of the most popular audio standards out there to the FLAC format, for example, convert MP3 to FLAC, MP4 to FLAC, WMA to FLAC, etc. The software can intelligently recognize an extensive number of audio formats and convert them to FLAC files quickly, and also let you easily extract audio from video files in high quality. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
@@ -17,7 +18,7 @@ Learn more [about TryToFLAC](./features.html).
 
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
-![](./images/screens/trytoflac_overview_1440x900.png)
+
 <br>
 ## USE CASES: BUILT FOR YOU
 TryToFLAC aims to satisfy various requirements for different users. FLAC is a free lossless compressed audio format that offers bit-perfect copies of CDs but at half the size. It is similar to MP3, but possesses much higher audio quality. For music buffs, music sound quality is of great importance. As a lossless audio codec, FLAC is able to provide you a better listening experience. For home stereo users, many brands and devices support the FLAC format. For people who like enjoying music in their cars, FLAC also is supported by some car audios. Portable devices, such as MP3-players, MP4-players, mobile phones have adopted FLAC audio format. This converter lets you also easily extract audio from video files in high quality.

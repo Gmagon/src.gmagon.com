@@ -10,6 +10,7 @@ description: ColorPicker2 is a simple color picking tool to identify, edit and c
 
 ## OVERVIEW
 
+![](./images/screens/colopicker_interview.gif)
 
 **ColorPicker2** is a streamlined graphical user interface utility that helps users to pick different colors they want and sometimes to create color schemes. It is a quick and simple job for users to identify the colors, save, edit and combine them into beautiful color combinations. In short, ColorPicker2 is a distinct color picker tool or eyedropper that helps users to pick colors from images or screen on Mac. Try the ColorPicker2 now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
@@ -18,7 +19,7 @@ Learn more [about ColorPicker2](./features.html).
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 
 
-![](./images/screens/colopicker_interview.gif)
+
 
 <br>
 
