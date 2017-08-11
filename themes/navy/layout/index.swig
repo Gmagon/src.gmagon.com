@@ -12,9 +12,7 @@
 <div class="class-content-wrap">
   <div class="wrapper">
     <div class="inner">
-      <div id="intro-page-content">
-        {{ page.content }}
-      </div>
+    {{ page.content }}
     </div>
   </div>
 </div>
