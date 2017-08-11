@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToWMA
+title: Download TryToWMA
 subtitle: Download
 comments: false
 product: TryToWMA

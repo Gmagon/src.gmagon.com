@@ -1,5 +1,5 @@
 layout: app
-title: Features | TryToAAC
+title: TryToAAC Key Features
 subtitle: Features
 comments: false
 current: features

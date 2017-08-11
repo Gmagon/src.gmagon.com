@@ -1,5 +1,5 @@
 layout: app
-title: Frequently asked questions (FAQ) | TryToMP3
+title: TryToMP3 FAQs
 subtitle: Frequently asked questions (FAQ)
 comments: false
 current: faq

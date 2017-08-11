@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToMP3
+title: Download TryToMP3
 subtitle: Download
 comments: false
 product: TryToMP3

@@ -1,5 +1,5 @@
 layout: app
-title: Features | TryToAMR
+title: TryToAMR Key Features
 subtitle: Features
 comments: false
 current: features

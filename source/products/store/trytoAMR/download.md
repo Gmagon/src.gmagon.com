@@ -1,5 +1,5 @@
 layout: app
-title: Download | TryToAMR
+title: Download TryToAMR 
 subtitle: Download
 comments: false
 product: TryToAMR

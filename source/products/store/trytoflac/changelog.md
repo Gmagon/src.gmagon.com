@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | TryToFLAC
+title: TryToFLAC Release Notes
 subtitle: Release Notes
 comments: false
 current: changelog

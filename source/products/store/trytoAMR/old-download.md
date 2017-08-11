@@ -1,5 +1,5 @@
 layout: app
-title: Older releases | TryToAMR
+title: TryToAMR Older Releases
 subtitle: Older releases
 comments: false
 product: TryToAMR

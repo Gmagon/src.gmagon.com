@@ -3,10 +3,9 @@ title: TryToWMA-a streamlined WMA audio file converter on Mac
 subtitle: TryToWMA
 comments: false
 current: index
-keywords: wma converter on mac, convert to wma, wma converter download, mp4 to wma converter, wma music converter, convert mp4 to wma 
-description: TryToWMA is a minimum converter that easily convert various audio formats to WMA file.
+keywords: wma converter on mac, convert to wma mac, mac wma converter download, mp4 to wma converter mac, mac wma music converter, convert mp4 to wma on mac
+description: TryToWMA is a minimum converter that easily converts various audio formats to WMA files on Mac.
 ---
-
 
 ## OVERVIEW
 

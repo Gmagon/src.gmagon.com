@@ -1,5 +1,5 @@
 layout: app
-title: Buy | TryToAMR
+title: Buy TryToAMR
 subtitle: BUY ONLINE
 comments: false
 current: buy

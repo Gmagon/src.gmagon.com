@@ -1,5 +1,5 @@
 layout: app
-title: Manual | TryToMP3
+title: TryToMP3 User Manual
 subtitle: Documentation
 comments: false
 product: TryToMP3

@@ -1,5 +1,5 @@
 layout: app
-title: Buy | TryToAAC
+title: Buy TryToAAC
 subtitle: BUY ONLINE
 comments: false
 current: buy

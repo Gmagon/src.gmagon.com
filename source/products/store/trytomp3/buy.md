@@ -1,5 +1,5 @@
 layout: app
-title: Buy | TryToMP3
+title: Buy TryToMP3
 subtitle: BUY ONLINE
 comments: false
 current: buy

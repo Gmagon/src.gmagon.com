@@ -1,5 +1,5 @@
 layout: app
-title: Manual | TryToFLAC
+title: TryToFLAC User Manual
 subtitle: Documentation
 comments: false
 product: TryToFLAC
@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## TryToFLAC
-An FLAC audio converter for Mac
+A FLAC audio converter for Mac
 
 Version 4.0
 

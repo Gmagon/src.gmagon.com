@@ -1,5 +1,5 @@
 layout: app
-title: Older releases | TryToAAC
+title: TryToAAC Older Releases
 subtitle: Older releases
 comments: false
 product: TryToAAC

@@ -1,5 +1,5 @@
 layout: app
-title: Release Notes | TryToMP3
+title: TryToMP3 Release Notes
 subtitle: Release Notes
 comments: false
 current: changelog

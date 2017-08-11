@@ -1,5 +1,5 @@
 layout: app
-title: Features | TryToMP3
+title: TryToMP3 Key Features
 subtitle: Features
 comments: false
 current: features
