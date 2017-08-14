@@ -13,7 +13,8 @@ description: Find Gmagon Software how-to guides on this page.
 - [How do I convert Excel to CSV on Mac?](./how-do-i-convert-excel-to-csv-mac.html)
 - [Can I batch convert XLS/XLSX to CSV in Mac?](can-i-batch-convert-xls-to-csv-mac)
 - [How to convert a .xlsx file to .csv on Mac?](./how-to-convert-a-xlsx-file-to-csv-on-mac.html)
-
+- [XLSX to CSV Converter for Mac (bulk conversion supported)](./xlsx-to-csv-converter-for-max.html)
+- [How to convert Excel spreadsheets to UTF-8 or UTF-16 CSV on Mac?)](./how-to-convert-excel-to-utf-8-or-16-csv-mac.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
