@@ -3,8 +3,8 @@ title: XLS2csv - convert XLS files to CSV on Mac
 subtitle: XLS2csv
 comments: false
 current: index
-keywords: xls to csv converter for mac, convert excel files to csv on mac, convert xls to csv on mac, mac xls 2 csv converter, export xls to cs, batch convert xls to csv, convert excel to csv
-description: XLS2csv is an easy-to-use XLS to CSV converter for Mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. 
+keywords: xls/xlsx to csv converter for mac, convert excel files to csv on mac, excel files to csv converter mac, mac xls 2 csv converter, export xls/xlsx to csv 
+description: XLS2csv is an easy-to-use Excel XLS/XLSX to CSV converter for Mac. It helps users to batch convert XLS/XLSX files to CSV format on Mac OS X. 
 ---
 
 
@@ -12,7 +12,7 @@ description: XLS2csv is an easy-to-use XLS to CSV converter for Mac. It helps th
 
 ![](./images/screens/xls2csv.gif)
 <br>
-**XLS2csv** is an easy-to-use file converter that easily converts the XLS format (excel files) out there to the CSV on Mac, namely, it is an XLS to CSV converter for mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. The software can intelligently recognize an XLS file and convert them to CSV files quickly. In addition, batch convert from xls to csv is also supported here. Users are allowed to drag and drop a file or directory to the interface of XLS2csv, and preview the conversion results before the conversion finished. By clicking Setting button, users can set up their preferable language of the tool. Besides, there are Feedback, FAQ and Help choices for users' convenience in case any problems occurred during users' experience.
+**XLS2csv** is an easy-to-use file converter that easily converts Excel files out there to CSV format on Mac, namely, it is an XLS to CSV converter for Mac. It helps those who are looking for a handy app to convert XLS files to CSV format on Mac OS X. The software can intelligently recognize an XLS file and convert it to CSV format quickly. In addition, batch conversion from xls to csv is also supported here. Users are allowed to drag and drop a file or directory to the interface of XLS2csv, and preview the loaded Excel speadsheets before the conversion. By clicking Setting button, users can set up their preferable language of the tool. Besides, there are Feedback, FAQ and Help choices for users' convenience in case any problems occurred during users' experience.
 
 XLS2csv converter fits into any budget and grows with your needs. Try the XLS2csv now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
