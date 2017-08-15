@@ -1,6 +1,6 @@
 layout: guide
 title: XLSX to CSV Converter for Mac (bulk conversion supported)  
-keywords: xlsx to csv converter mac, xlsx to csv converter free download mac, bulk convert xlsx files to csv on mac, convert csv from .xls for Mac,  convert xlsx to csv batch file
+keywords: xlsx to csv converter mac, xlsx to csv converter free download mac, bulk convert xlsx files to csv on mac, convert csv from .xls for Mac, convert xlsx to csv batch file
 description: How to convert XLSX files to CSV on Mac ? Using a simple and helpful XLS to CSV Converter can help Mac users solve the problem. 
 ---
 

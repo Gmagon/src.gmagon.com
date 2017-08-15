@@ -18,23 +18,24 @@ You can feel free to download the XLS2csv
 Here are simple steps of how to use XLS2csv after installation:
 1. Import your Excel file or a batch of files into this converter by clicking.
 ![](img/xls-howdoi-1.png)
-
+<br>
 2.  Set your output directory to put your output in the right file.
 ![](img/xls-howdoi-2.png)
-
+<br>
 3.  If you want to preview the convert effects, you can see it clearly and also change its coding to CSV UTF-8, UCS-2BE, etc.
 ![](img/xls-howdoi-3.png)
-
+<br>
 4. The final step is to click the convert button, you can choose to convert one file at once or convert all files at one click.
 ![](img/xls-howdoi-4.png)
-
+<br>
 The XLS2csv can be largely helpful if you require complicated file conversion jobs done regularly. By saving and recalling a conversion job file, XLS2csv quickly remembers all the file conversion tasks and their details. 
 
-Hopefully the above has given you an insight into the wonderful world of CSS multi-layers.
-
+Hopefully the above has given you an insight into the wonderful world of Excel spreadsheet.
+<br>
 Also read
 <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create border radius CSS code on Mac?</a>
 <a href="https://gmagon.com/guide/how-do-i-convert-excel-to-csv-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How do I convert Excel to CSV on Mac?</a>
 <a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="nofollow me noopener noreferrer" >Convert XLS to CSV on Mac without Excel installed</a>
+<a href="https://gmagon.com/guide/how-to-create-utf-8-csv-from-xls-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create UTF-8/UTF-16 CSV from XLS/XLSX on Mac?</a>
