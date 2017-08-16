@@ -1,7 +1,7 @@
 layout: guide
 title: Bulk convert xls/xlsx to csv on Mac platform  
-keywords: xlsx to csv converter mac, xlsx to csv converter free download mac, bulk convert xlsx files to csv on mac, convert csv from .xls for Mac, convert xlsx to csv batch file
-description: How to convert XLSX files to CSV on Mac ? Using a simple and helpful XLS to CSV Converter can help Mac users solve the problem. 
+keywords: convert excel to csv in bulk on mac, convert multiple sheets excel to csv on mac, batch convert excel to csv mac, bulk convert xlsx files to csv on mac, batch script to convert excel to csv, convert xlsx to csv batch file, convert excel to csv in batch
+description: How to convert XLS or XLSX files to CSV in bulk on a Mac machine? Using a simple and helpful XLS to CSV Converter can help Mac users solve the problem. 
 ---
 
 
@@ -16,7 +16,7 @@ By far, Microsoft Excel is the most popular spreadsheet application used to stor
 
 ![](img/csv.png)CSV is an ideal format for the exchange of tabular data since it expresses it in form of textual data using delimiters, which are supported by various spreadsheet applications, or can easily be opened within simple text editors.
 <br>
-## How to convert XLS or XLSX to CSV on Mac?
+## How to convert XLS or XLSX to CSV in bulk on Mac?
 While in your Mac system, it is unable for you to install an Excel as Windows does. Besides, you cannot batch convert your XLS/XLSX batch files in Excel. If you need to manipulate XLS, XLSX, or CSV file data, <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >XLS2csv</a> converter comes in with many bells and whistles and special processes including:
 >* It is 10-20 times faster than using Excel.
 >* It also allows for the saving and restoring of complex 'conversion jobs'.

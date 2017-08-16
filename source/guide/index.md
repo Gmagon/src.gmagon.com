@@ -17,6 +17,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [How to convert Excel spreadsheets to UTF-8 or UTF-16 CSV on Mac?](./how-to-convert-excel-to-utf-8-or-16-csv-mac.html)
 - [How to create UTF-8 CSV files from XLS/XLSX on Mac?](./how-to-create-utf-8-csv-from-xls-mac.html)
 - [Bulk convert xls/xlsx to csv on Mac platform](./bulk-convert-xls-to-csv-mac.html)
+- [How to batch convert Excel spreadsheets to CSV on Mac?](./how-to-batch-convert-excel-spreadsheets-to-csv-mac.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
