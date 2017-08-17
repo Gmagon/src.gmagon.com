@@ -11,7 +11,7 @@ current: buy
 
 Coupon Code | Expiry Date
 ------ | -------
-![](../../../asset/images/coupon.png) **GMAG-OKX3-LPAX** | ~ 2017.10.08
+![](../../../asset/images/coupon.png) **GMAG-OF6E-OIFX** | ~ 2017.10.08
 
 ---
 [![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/trytoflac/id849621133?l=zh&ls=1&mt=12)
