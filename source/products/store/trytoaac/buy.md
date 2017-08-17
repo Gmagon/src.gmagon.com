@@ -12,7 +12,7 @@ current: buy
 
 Coupon Code | Expiry Date
 ------ | -------
-![](../../../asset/images/coupon.png) **GMAG-PDQG-CHKD** | ~ 2017.10.01
+![](../../../asset/images/coupon.png) **GMAG-4LAQ-DHAH** | ~ 2017.10.01
 
 ---
 [![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/trytoaac/id849508170?l=zh&ls=1&mt=12)
