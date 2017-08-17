@@ -43,7 +43,7 @@ Fortunately, you can try this easy-to-use converter-<a href="https://gmagon.com/
 <br>
 Hopefully the above has given you an insight into the wonderful world of XLS2csv. Now download it and give it a try.
 
-<a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../asset/images/free-download.png"> </a>
+<a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" ><img src="https://gmagon.com/asset/images/free-download.png" /></a>
 
 
 

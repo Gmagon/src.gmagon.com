@@ -45,7 +45,7 @@ Fortunately, you can have an easy-to-use converter-<a href="https://gmagon.com/p
 
 <br>
 **What's more, if you have more than one Excel files to be converted to CSV format,   XLS2csv is able to let you quickly convert multiple XLSX files to CSV format in one go. Now download it and give it a try.**
-<a href="../products/store/gmagon_css_maker/download.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../asset/images/free-download.png"> </a>
+<a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" ><img src="https://gmagon.com/asset/images/free-download.png" /></a>
 
 <br>
 Also read
