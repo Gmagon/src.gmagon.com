@@ -14,9 +14,12 @@ description: As a good CSS maker for Mac, Gmagon CSS Maker is your smart choice 
 
 **Gmagon CSS Maker** is a powerful and advanced CSS2/CSS3 generator on Mac that allows you creating a nice look webpage without writing a code. As a powerful and easy-to-use CSS generator for Mac, Gmagon CSS Maker minimizes your time and efforts spent on creating complex CSS styles. With this handy generator, you can easily create numerous graphic styles and immediately get your code or code of separate elements within seconds. Gmagon CSS Maker fits into any budget and grows with your needs. Try the Gmagon CSS Maker now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
-Learn more [about Gmagon CSS Maker ](./docs.html).
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$35.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
 <br>
 
 

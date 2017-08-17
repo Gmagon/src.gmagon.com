@@ -13,12 +13,11 @@ description: As a real-time network monitoring tool on Mac that automatically di
 
 **NetworkEyes** is a network monitoring tool for Mac OS that displays network conditions in real-time. It is designed to help you to ensure that your computer network connections are running smoothly and that no outages occur. Network monitoring is also important to increase the efficiency of your network by knowing bandwidth and resource consumption. NetworkEyes fits into any budget and grows with your needs. Try the NetworkEyes now and see how it can make your network more reliable and your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
-Learn more [about NetworkEyes](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
-
-<!-- ![](./images/screens/s2_953x525.png) -->
-
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$9.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 

@@ -13,12 +13,11 @@ description: TryToWMA is a minimum converter that easily converts various audio 
 
 **TryToWMA** is a minimum and streamlined WMA converter that easily convert some of the most popular audio standards out there to the WMA format, for example, to convert MP3 to WMA, MP4 to WMA, AAC to WMA, etc. The software can intelligently recognize an extensive number of audio formats and convert them to WMA files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
  
-Learn more [about TryToWMA](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
-
-
-
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$19.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 ## USE CASES: BUILT FOR YOU

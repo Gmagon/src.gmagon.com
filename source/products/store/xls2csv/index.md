@@ -16,9 +16,11 @@ description: XLS2csv is an easy-to-use Excel XLS/XLSX to CSV converter for Mac. 
 
 XLS2csv converter fits into any budget and grows with your needs. Try the XLS2csv now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
-Learn more [about XLS2csv](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$24.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 

@@ -14,12 +14,11 @@ description: SudokuMM is a easy-to-use tool to let users play Sudoku games conve
 
 **SudokuMM** is a classic Sudoku game which is one of the most popular puzzle games of all time. It is a convenient and minimum tool designed for Sudoku fans all over the world. With SudokuMM, you can feel free to play Sudoku puzzle on your Mac anytime and everywhere. There are four levels of difficulty to choose, you can select a puzzle by different difficult level without worrying about it's too difficult or too easy to play. Without log in and registration, or any plug-in, you can simply enjoy the excellent experience anytime and everywhere. Start a game now. Within no time daily Sudoku will be your favorite game on Mac.
 
-Learn more [about SudokuMM ](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
-
-
-
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$19.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 
