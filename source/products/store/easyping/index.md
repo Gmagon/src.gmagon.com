@@ -13,12 +13,11 @@ description: EasyPing is a simple network test tool to check whether a particula
 
 **EasyPing** is a network scanning tool for Mac users to test whether a particular host is reachable across an IP network. This network utility can be IPv4 or IPv6. It works by sending ICMP packets to the host and listening for ICMP replies. This tool estimates the round-trip time, detects any packet loss, and prints a statistical summary. Just type a domain name or an IP address (IPv4 and IPv6) and click the Go button. Try the EasyPing now and see how it can make your life easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
-Learn more [about EasyPing](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
-
-
-
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$15.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 

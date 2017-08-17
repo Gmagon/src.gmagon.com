@@ -13,12 +13,11 @@ description: TryToAAC is a minimum converter that easily convert various audio f
 
 **TryToAAC** is a minimum and streamlined AAC converter that easily convert some of the most popular audio standards out there to the AAC format, for example, convert MP3 to AAC, MP4 to AAC, and FLAC to AAC, etc. It is designed for Mac users only. The software can intelligently recognize an extensive number of audio formats and convert them to AAC files quickly, regardless of the model, manufacture, or operating system. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. It is a simple audio converter that helps you make tracks compatible with many devices. Just have a try.
 
-Learn more [about TryToAAC](./features.html).
-
-[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)
-
-<!-- ![](./images/screens/s2_953x525.png) -->
-
+<br>
+<div class="buy">
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$19.99<br />
+</span></h3>
+[![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
 <br>
 
