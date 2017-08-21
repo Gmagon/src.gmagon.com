@@ -44,7 +44,7 @@ In my game, an event is an object that captures info about a death, a boost, a c
 
 Bingo. I had memory piling up as well as an increasing amount of unnecessary for-loop passes. I inserted a line of code and voila!
 
-![](http://img0.tuicool.com/YzeQF3m.png!web)
+![](http://img0.tuicool.com/YzeQF3m.png)
 
 well i’ll be
 
