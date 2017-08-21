@@ -15,6 +15,7 @@
   <!-- Custom config og:image -->
 {% if page.ogImage %}
   <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
+  <meta name="twitter:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
 {% endif %}
 
   <!-- Open Graph -->
@@ -28,6 +29,12 @@ open_graph({
     twitter_site: config.twitter
   }) 
 }}
+<meat name="twitter:url" content="{{ url }}">
+{% if page.ogImage %}
+  <meta property="og:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
+  <meta name="twitter:image" content="{{ site_url_for(page.ogImage) || config.ogImage }}">
+{% endif %}
+
 
   <!-- algolia_config -->
   {{ algolia_config() }}
