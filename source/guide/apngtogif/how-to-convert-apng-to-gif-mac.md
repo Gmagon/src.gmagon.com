@@ -28,7 +28,7 @@ Here is a GIF animation that shows you how to use this powerful tool in a Mac ma
 <br>
 Hopefully the above has given you an insight into the wonderful world of APNGToGifConverter. Now download it and give it a try.
 
-<a href="../products/store/apngtogifconverter/download.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../../asset/images/free-download.png"> </a>
+<a href="../../../products/store/apngtogifconverter/index.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../../asset/images/free-download.png"> </a>
 
 <br>
 Also read
