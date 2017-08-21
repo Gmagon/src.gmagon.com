@@ -5,7 +5,7 @@ description: Find Gmagon Software how-to guides on this page.
 ---
 
 # [XLS2csv](../products/store/xls2csv/)  ![](../products/store/xls2csv/images/logo/logo_64x64.png)  
-> is an easy-to-use file converter that easily converts the `XLS format (excel files)` out there to the CSV on Mac, namely, it is an `XLS to CSV` converter for mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. The software can intelligently recognize an XLS file and convert them to CSV files quickly. In addition, batch convert from xls to csv is also supported here. Users are allowed to drag and drop a file or directory to the interface of XLS2csv, and preview the conversion results before the conversion finished. By clicking Setting button, users can set up their preferable language of the tool. Besides, there are Feedback, FAQ and Help choices for users’ convenience in case any problems occurred during users’ experience.
+> XLS2csv is an easy-to-use file converter that easily converts the `XLS format (excel files)` out there to the CSV on Mac, namely, it is an `XLS to CSV` converter for mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. The software can intelligently recognize an XLS file and convert them to CSV files quickly. In addition, batch convert from xls to csv is also supported here. Users are allowed to drag and drop a file or directory to the interface of XLS2csv, and preview the conversion results before the conversion finished. By clicking Setting button, users can set up their preferable language of the tool. Besides, there are Feedback, FAQ and Help choices for users’ convenience in case any problems occurred during users’ experience.
 
 - [Convert XLS to CSV on Mac without Excel installed ](./convert-xls-on-mac-without-excel.html)
 - [How to convert XLS to CSV on a Mac? ](./convert-xls-to-csv-on-mac.html)
@@ -21,7 +21,7 @@ description: Find Gmagon Software how-to guides on this page.
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
-> is a powerful and advanced `CSS2/CSS3` generator on Mac that allows you creating a nice look without writing a code. As a powerful and easy-to-use `CSS designer`, Gmagon CSS Maker minimizes your time and efforts spent on creating complex CSS styles. With this handy generator, you can easily create numerous graphic styles and immediately get your code or code of separate elements within seconds. Gmagon CSS Maker fits into any budget and grows with your needs. Try the Gmagon CSS Maker now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
+> Gmagon CSS Maker is a powerful and advanced `CSS2/CSS3` generator on Mac that allows you creating a nice look without writing a code. As a powerful and easy-to-use `CSS designer`, Gmagon CSS Maker minimizes your time and efforts spent on creating complex CSS styles. With this handy generator, you can easily create numerous graphic styles and immediately get your code or code of separate elements within seconds. Gmagon CSS Maker fits into any budget and grows with your needs. Try the Gmagon CSS Maker now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
 ### [CSS Beginner Tutorials](./gmagoncssmaker/tutorial/)
 
@@ -34,7 +34,8 @@ description: Find Gmagon Software how-to guides on this page.
 
 
 # [APNGToGifConverter](../products/store/apngtogifconverter/)  ![](../products/store/apngtogifconverter/images/logo/logo_64x64.png)
->is the best APNG to GIF converter for Mac. It is easy to convert the APNG bitmap image format out there to the GIF format. The software can intelligently recognize APNG files or directory and change them to Gif files quickly. APNGToGifConverter fits into any budget and grows with your needs. Try the APNGToGifConverter now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
+>APNGToGif is the best APNG to GIF converter for Mac. It is easy to convert the APNG bitmap image format out there to the GIF format. The software can intelligently recognize APNG files or directory and change them to Gif files quickly. APNGToGifConverter fits into any budget and grows with your needs. Try the APNGToGifConverter now and see how it can make your job easier. Everything you need is contained in one simple installer, no additional downloads or plug-ins are required. We make it simple for you, now and later!
 
 - [How to convert APNG to GIF on Mac? ](./apngtogif/how-to-convert-apng-to-gif-mac.html)
 - [APNG to GIF Converter for Mac ](./apngtogif/apng-to-gif-converter-for-mac.html)
+- [How to batch change APNG to GIF on macOS Sierra?  ](./apngtogif/batch-change-apng-to-gif-sierra.html)
