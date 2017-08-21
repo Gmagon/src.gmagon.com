@@ -99,6 +99,7 @@ hexo.extend.helper.register('site_url_for', function(in_path){
     site_url = in_path
   }
   console.log(site_url)
+  return site_url;
 })
 
 hexo.extend.helper.register('gen_slider_links', function(section, links, className, options){
