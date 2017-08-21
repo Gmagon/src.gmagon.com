@@ -1,5 +1,6 @@
 ---
 title: 'An Embarrassing Tale: Why my server could only handle 10 players'
+ogImage: http://img0.tuicool.com/YzeQF3m.png!web
 ---
 
 What might be even more embarrassing is that at one point I had convinced myself that 10 players per server was normal.
