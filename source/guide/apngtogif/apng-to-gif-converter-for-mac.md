@@ -20,7 +20,7 @@ The GIF was first developed by CompuServe in 1987 to and is widely used on the i
 ## How to convert APNG to GIF on Mac?
 Software requirement
 APNGToGifConverter
-<a href="../products/store/apngtogifconverter/index.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../../asset/images/free-download.png"> </a>
+<a href="../../../products/store/apngtogifconverter/index.html" target="_blank" rel="nofollow me noopener noreferrer" > <img src="../../asset/images/free-download.png"> </a>
 This program converts APNG animations into animated GIF format on Mac OS X 10.7(64-bit) or above, and provides flexible options for transparency threshold level and background blend color. 
 
 Learn how to make animated GIFs from APNG files on your Mac via using <a href="https://gmagon.com/products/store/apngtogifconverter/" target="_blank" rel="nofollow me noopener noreferrer" >APNG to GIF Converter for Mac</a>. 
