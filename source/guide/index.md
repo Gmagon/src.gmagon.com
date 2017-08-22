@@ -19,6 +19,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Bulk convert xls/xlsx to csv on Mac platform](./bulk-convert-xls-to-csv-mac.html)
 - [How to batch convert Excel spreadsheets to CSV on Mac?](./how-to-batch-convert-excel-spreadsheets-to-csv-mac.html)
 - [Export to CSV - exporting csv from xls files](./xls2csv/export-to-csv-from-xls.html)
+- [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](./xls2csv/csv-utf8.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
@@ -39,4 +40,4 @@ description: Find Gmagon Software how-to guides on this page.
 
 - [How to convert APNG to GIF on Mac? ](./apngtogif/how-to-convert-apng-to-gif-mac.html)
 - [APNG to GIF Converter for Mac ](./apngtogif/apng-to-gif-converter-for-mac.html)
-- [How to batch change APNG to GIF on macOS Sierra?  ](./apngtogif/batch-change-apng-to-gif-sierra.html)
+- [How to batch change APNG to GIF on macOS Sierra? ](./apngtogif/batch-change-apng-to-gif-sierra.html)
