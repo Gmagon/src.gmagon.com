@@ -7,7 +7,7 @@ description: This tutorial explains how to process XLS to CSV conversion on Mac 
 
 
 If you need to convert excel files from .xls format to .csv for use on Mac OS X, you may wish to read this tutorial. It explains how to process XLS to CSV conversion on Mac via using a simple and helpful Mac XLS to CSV Converter.
-
+<img src='../img/xls2csv.png' align='right' />
 <strong><em>How can I convert excel .xls files to .csv format on a Mac? </em></strong>
 “I wish to convert all my .xls files to .csv on my new iMac. Is there a way to do this in batch mode? Can anyone kindly recommend a solution if you know? Thanks in advance.”
 
