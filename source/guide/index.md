@@ -39,4 +39,5 @@ description: Find Gmagon Software how-to guides on this page.
 
 - [How to convert APNG to GIF on Mac? ](./apngtogif/how-to-convert-apng-to-gif-mac.html)
 - [APNG to GIF Converter for Mac ](./apngtogif/apng-to-gif-converter-for-mac.html)
-- [How to batch change APNG to GIF on macOS Sierra?  ](./apngtogif/batch-change-apng-to-gif-sierra.html)
+- [How to batch change APNG to GIF on macOS Sierra? ](./apngtogif/batch-change-apng-to-gif-sierra.html)
+- [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](./xls2csv/csv-utf8.html)
