@@ -28,7 +28,8 @@ current: changelog
 #### Add
 * Support XLSX files (Microsoft Excel, Apple Numbers, Open Offices Excel)
 * Support parsing section of data format conversion
-* Support WPS: 1. WPS [176] Fraction expression format [#\ ?/?].  
+* Support WPS: 
+               1. WPS [176] Fraction expression format [#\ ?/?].  
                2. WPS [177] Common string format [0_ ]
                3. WPS [178] Date time format [yyyy/m/d;@]
                4. WPS [179] Date time format [[$-409]h:mm:ss\ AM/PM;@]
