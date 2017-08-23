@@ -20,6 +20,8 @@ description: Find Gmagon Software how-to guides on this page.
 - [How to batch convert Excel spreadsheets to CSV on Mac?](./how-to-batch-convert-excel-spreadsheets-to-csv-mac.html)
 - [Export to CSV - exporting csv from xls files](./xls2csv/export-to-csv-from-xls.html)
 - [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](./xls2csv/csv-utf8.html)
+- [XLSX to CSV-Convert XLSX to CSV files correctly in few steps ](./xls2csv/xlsx-to-csv.html)
+- [CSV-encoding - How to get encoding CSV file.](./csv-encoding.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
