@@ -4,7 +4,7 @@ title: Android Oreo speeds up everything on your phone
 
 The latest chapter of the mobile war is in full swing. In conjunction with Monday's 2017 solar eclipse, Google revealed the official name of its latest mobile OS as Android Oreo. The update is undergoing carrier testing for Pixel \($599.99 at Amazon.com\) phones and the Nexus 5X and 6P, and should roll out "soon," according to Google. The Pixel C \($645.95 at Amazon.com\) and Nexus Player will also be compatible with the update. Select phones from Samsung, LG, Motorola, Essential, HTC, Huawei, Sony, Nokia, Kyocera and Sharp will either launch with or update to Oreo through the end of 2017.
 
-![](/assets/android-8-oreo.jpg)
+![](https://theleaker.com/wp-content/uploads/2017/08/oreo-696x383.jpg)
 
 The OS was first announced in May as Android O, during Google's annual I/O 2017 developer conference. It was there that the company gave a first taste of its forthcoming software for phones, tablets and Android TV.
 
