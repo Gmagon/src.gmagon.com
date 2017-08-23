@@ -2,7 +2,7 @@
 title: Zuckerberg vows to remove hate speech on Facebook
 ---
 
-![](http://img1.tuicool.com/ZZZ7Fru.jpg)
+![](http://img1.tuicool.com/ZZZ7Fru.jpg!web)
 
 Facebook CEO Mark Zuckerberg spoke up Wednesday about violent protests over the weekend in Charlottesville, Virginia.
 

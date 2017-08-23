@@ -4,7 +4,7 @@ title: How to Access Facebook Messenger’s Hidden Internal Menu
 
 The hidden internal menu in Facebook Messenger is used by developers at Facebook to modify some aspects of the application during testing. It normally cannot be opened by users because the hidden menu activity does not have a direct way to accessed within the app. However, if your device has root access then it’s possible to enter this internal menu to play around with some of the hidden development/debugging tools used by Facebook engineers. Previously, accessing the internal menu could be used to[disable the Messenger Day](https://www.xda-developers.com/disable-facebook-messenger-day-android/), though Facebook realized people were doing this and hence disabled the ability to turn off Messenger Day.
 
-![](http://img0.tuicool.com/Vju6rmZ.png)
+![](http://img0.tuicool.com/Vju6rmZ.png!web)
 
 Error message when attempting to disable Messenger Day in “MobileConfig”
 
