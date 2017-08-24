@@ -17,6 +17,7 @@ current: features
 - Built for Mac users only
 - Fool-style operation
 - Support preview before conversion
+- Support data extraction
 - Support various encoding and separator
 - Show up generated file in finder after conversion
 - After-sale services
