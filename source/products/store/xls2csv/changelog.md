@@ -10,20 +10,21 @@ current: changelog
 
 <script> GmagonUtils.$verNote('2017-08-23')</script>
 
+<br>
 ### XLS to CSV
 #### Revise
 * Memory overflow exception
 * The size of file parsing and bumper
-* the problem of default CSV field separator
-* delete the character of CSV field surrended by ""
+* The problem of default CSV field separator
+* Delete the character of CSV field surrended by ""
 
 #### Add
 * Support converting large XLS files
 
 #### Modification
-* generate the name of CSV file according to the number of Sheet.
+* Generate the name of CSV file according to the number of Sheet.
 
-
+<br>
 ### XLSX to CSV
 #### Add
 * Support XLSX files (Microsoft Excel, Apple Numbers, Open Offices Excel)
@@ -61,20 +62,20 @@ current: changelog
           company
 * Support table preview and data extraction
 * Support large XLSX files procession
-* generate the name of CSV file according to the number of Sheet.
+* Generate the name of CSV file according to the number of Sheet.
 
-
+<br>
 ### UI 
 #### Modification
 * Setting-adjust background of language interface
 * Adjust the Hover status of all buttons
 * Accurately locate output path after successfully converting XLS/XLSX files  
-
+<br>
 ### Core 
 Product core upgrade to Ver1.14
 
 
-
+<br>
 ### Downloads
 
 
