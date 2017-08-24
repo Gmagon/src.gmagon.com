@@ -55,7 +55,7 @@ Furthermore, Hootsuite has a number of team tools to help your team create conte
 
 [Sprout Social](https://sproutsocial.com/) is the complete social media management tool for social media agencies because you can use this premium social media management tool for multiple Twitter and Facebook accounts.  
   
-7. Crowd Booster  
+## 7. Crowd Booster  
 ![](http://img1.tuicool.com/eIBrUbR.png!web)  
 [Crowd Booster](http://crowdbooster.com/) is a social media analytics tool to help you optimize your social media marketing decisions. Instead of doing the analytics manually, get it automatically updated on a consistent basis. You can even create custom reports that can be useful for clients. Finally, use the reporting information to schedule Tweets for optimal times.
 
