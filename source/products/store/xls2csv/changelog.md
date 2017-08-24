@@ -70,6 +70,7 @@ current: changelog
 * Setting-adjust background of language interface
 * Adjust the Hover status of all buttons
 * Accurately locate output path after successfully converting XLS/XLSX files  
+
 <br>
 ### Core 
 Product core upgrade to Ver1.14
