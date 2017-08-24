@@ -80,12 +80,6 @@ Product core upgrade to Ver1.14
 ### Downloads
 
 
-[Download XLS2csv-v5.1.dmg](http://www.filefactory.com/file/4bsfcg1ev6hv/XLS2csv-5.1.dmg
-)    | (~10.5MiB)
+[Download XLS2csv-v5.1.dmg](http://www.filefactory.com/file/4bsfcg1ev6hv/XLS2csv-5.1.dmg)    | (~10.5MiB)
 ---
 
-
-### Old Download
-[Download XLS2csv-v5.0.dmg](http://www.filefactory.com/file/4bsfcg1ev6hv/XLS2csv-5.0.dmg
-)    | (~10.5MiB)
----
