@@ -38,7 +38,7 @@ current: changelog
                1. built-in format style of parsing date
                2. built-in format style of variable reference
                3. built-in format style of parsing fraction
-               4. built-in format style of parsing scientific counting             expression
+               4. built-in format style of parsing scientific counting         expression
                5. built-in format style of parsing percentage
                6. built-in format style of parsing time
                7. built-in format style of parsing currency        
@@ -60,7 +60,7 @@ current: changelog
           manager
           company
 * Support table preview and data extraction
-* Support processing large XLSX files
+* Support large XLSX files procession
 * generate the name of CSV file according to the number of Sheet.
 
 
@@ -71,9 +71,7 @@ current: changelog
 * Accurately locate output path after successfully converting XLS/XLSX files  
 
 ### Core 
-
-
-
+Product core upgrade to Ver1.14
 
 
 
