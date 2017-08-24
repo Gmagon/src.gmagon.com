@@ -6,7 +6,7 @@ Scope is an important, yet ambiguous concept in JavaScript. Used correctly, it a
 
 The simple definition of scope is_where_the compiler looks for variables and functions when it needs them. Sounds too easy to be true? Let's see what it's all about.![](https://developer.telerik.com/wp-content/uploads/2017/08/scope_js_header.jpg)
 
-## JavaScript Interpreter {#toc_1}
+## JavaScript Interpreter
 
 Before explaining what scope is, we need to talk about the JavaScript interpreter and how it affects the different scopes. When you execute your JavaScript code, the interpreter goes through the code twice.
 
@@ -59,7 +59,7 @@ For instance, the variable`pow`was declared in the function`bar`because this is 
 
 The function`bar`‘s parameter`wow`is also declared in the function scope. In fact, all function parameters are_implicitly_declared within the function scope, and this is why`console.log(wow)`on line 9 outputs`zoom`instead of`wow`.
 
-## Lexical Scope {#toc_2}
+## Lexical Scope
 
 Now that we've covered how the JavaScript interpreter works and made a brief introduction to hoisting, we can dig deeper into what scope is. Let's start with the lexical scope, which means compile-time scope. In other words,**the decision for what the scope is was actually made during compilation time**. For the purpose of this article, we'll ignore exceptions to this rule that occur specifically if the code uses`eval`or`with`, because we should not be using those in any case.
 
@@ -90,7 +90,7 @@ The output of the code above is_bar_instead of_foo_because the variable declarat
 
 Shadowing is a design pattern that can be useful if we want to mask certain variables and prevent them from being accessed in specific scopes. That said, I personally tend to avoid using it unless absolutely necessary because I believe that using the same variable names creates more confusion among teams and can sometimes cause developers to assume the variable has a different value than what it really has.
 
-### FUNCTION SCOPE {#toc_3}
+### FUNCTION SCOPE
 
 As we saw in the lexical scope, the interpreter declares a variable in its current scope, which means that a variable declared in a function is declared in the_function scope_. This scope is limited to the function itself and its children – other functions declared within this function.
 
@@ -108,7 +108,7 @@ console.log(convert(5));
 console.log(_conversionRate); // ReferenceError: _conversionRate is not defined
 ```
 
-### BLOCK SCOPE {#toc_4}
+### BLOCK SCOPE
 
 A_block scope_is similar to a_function scope_, but is limited to a_block_instead of a function.
 
@@ -165,7 +165,7 @@ As of ES6,`let`and`const`variables are attached implicitly to the current_block 
 
 `let`and`const`variables allow us to use the_principle of least disclosure_, which means that a variable should only be accessible in the smallest scope possible. Before ES6, developers often used to do this stylistically by declaring`var`s in IIFEs, but now we can functionally enforce this in ES6 through`let`and`const`. Some of the main benefits of this principle is to avoid bad access to variables and therefore reduce the possibility of bugs, and also to allow the garbage collector to clean these unused variables once we're out of the_block scope_.
 
-### IIFE {#toc_5}
+### IIFE
 
 An Immediately Invoked Function Expression \(IIFE\) is a very popular JavaScript pattern that allows a function to create a new_block scope_. IIFEs are simply_function expressions_that we invoke as soon as the interpreter runs through the function. Here's an example of an IIFE:
 
@@ -236,7 +236,7 @@ index: 3
 index: 4
 ```
 
-## Conclusion {#toc_6}
+## Conclusion
 
 There is a lot more we can discuss about scope in JavaScript, but I feel like this is a solid introduction to what scope is, the different types of scope, and how to use some design patterns to take advantage of this.
 
