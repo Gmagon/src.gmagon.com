@@ -20,7 +20,7 @@ current: changelog
 #### Add
 * Support converting large XLS files
 
-#### Update
+#### Modification
 * generate the name of CSV file according to the number of Sheet.
 
 
@@ -38,7 +38,7 @@ current: changelog
                1. built-in format style of parsing date
                2. built-in format style of variable reference
                3. built-in format style of parsing fraction
-               4. built-in format style of parsing scientific counting       expression
+               4. built-in format style of parsing scientific counting             expression
                5. built-in format style of parsing percentage
                6. built-in format style of parsing time
                7. built-in format style of parsing currency        
@@ -65,6 +65,10 @@ current: changelog
 
 
 ### UI 
+#### Modification
+* Setting-adjust background of language interface
+* Adjust the Hover status of all buttons
+* Accurately locate output path after successfully converting XLS/XLSX files  
 
 ### Core 
 
