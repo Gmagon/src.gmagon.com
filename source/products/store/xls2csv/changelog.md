@@ -39,7 +39,7 @@ current: changelog
                1. built-in format style of parsing date
                2. built-in format style of variable reference
                3. built-in format style of parsing fraction
-               4. built-in format style of parsing scientific counting         expression
+               4. built-in format style of parsing scientific counting expression
                5. built-in format style of parsing percentage
                6. built-in format style of parsing time
                7. built-in format style of parsing currency        
