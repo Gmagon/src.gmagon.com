@@ -8,7 +8,7 @@ current: docs
 
 # MANUAL
 ## XLS2csv
-Excel XLS/XLSX files to CSV Converter app for Mac OS X
+XLS/XLSX to CSV Converter app for Mac OS X
 
 Version 5.1
 
@@ -17,57 +17,50 @@ Version 5.1
 
  ### **Preface**:
 
->Are you thrive to improve your working efficiency?
+>Are you trying to improve your working efficiency?
 
->Have you need your XLS files be interpreted quickly?
+>Need to handle large XLS or XLSX files on you Mac?
 
->Do you need to make your data to be saved in a table structured format?
+>Want to change Excel spreadsheets into plain text CSV?
 
-If you answer yes to one of these questions, the XLS2csv is the best choice for you.
+If your answer is yes, XLS2csv is what you need.
 
 <br>
 ### **Introduction**: 
-XLS is a MS Excel workbook binary file, which holds information about all the worksheets in a workbook, comprising both content and formatting (number masking, colouring, conditional formatting, etc), and it can also hold additionals like charts, images, etc. XLS files can only be read by applications that have been especially written to read their format, and can only be written in the same way.
+XLS is the default file format for the 2003 version of Excel and older while XLSX for versions since 2007. XLS is based on BIFF (Binary Interchange File Format) and as such, the information is directly stored to a binary format. On the other hand, XLSX is based on the Office Open XML format, a file format that was derived from XML. The information in an XLSX file is stored in a text file that uses XML to define all its parameters.
 
-A CSV file is a way to collect the data from any table so that it can be conveyed as input to another table-oriented application such as a relational database application. Microsoft Excel, a leading spreadsheet or relational database application, can read CSV files. A CSV file is sometimes referred to as a flat file.
+CSV files hold plain text as a series of values (cells) separated by commas (,) in a series of lines (rows). You can actually open a CSV file in a text editor and read it yourself. Many applications are capable of reading CSV files, and many languages provide built-in functions that simplify reading/writing CSV format.
 
-XLS2csv is an image format converter which tends to convert XLS to CSV format. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). Users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of XLS2csv, you are able to join our community and get our excellent after-sale services.  
+XLS2csv is a file converter which tends to convert XLS/XLSX files to CSV format. With it installed, you can not only do file conversion but also join our community and get our excellent after-sale services. No annoying ads, bundled software and plug-ins will be added onto your Mac. 
 
 <br>
 ### **Installation**:
-XLS2csv runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 5.1 is released now in [DOWNLOAD](./download.html). 
+XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required. The new version 5.1 is now released on our [DOWNLOAD page](./download.html). You can choose to download the .zip or .dmg package. When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to use it. 
 
-There is a install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
-
-When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
-
-If you encounter any problems during or after installing XLS2csv please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
-
-**The trial version** for users to try out is also available in [DOWNLOAD](./download.html), and combined with the install package.
-
-
- You can click and download one of the files. When you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software thirty days. If you wanna to buy our product, then click "Buy" button to enter the online store. 
+ Once you run the software, a little window will pop up as below. If you choose to try it out, click "continue" button, you can try it for free 30 days. If you want to buy our product, click "Buy" button to enter the online store. 
 
 ![](./images/screens/xls2csv_trialversion_720x400.png) 
 
-If you encounter any problems during or after installing XLS2csv please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
+If you encounter any problems during or after installing XLS2csv, please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
 
 <br>
 ### **User Guide**:
-This section describes daily use guide to the XLS2csv clients. It instructs you how to use the software in details after the installation finished.
+This section instructs you how to purchase and run XLS2csv in detail. 
 
-1. Firstly, you need to open the file and run it, the window of XLS2csv will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have thirty days to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html)
+1. Firstly, run XLS2csv on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [BUY ONLINE](./buy.html).
 <br>
 2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who is willing to buy from the Gmagon official App store. 
-<br>
 ![](./images/screens/xls2csv_buyonline_720x400.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and finish the whole purchase process.
-<br>
 ![](./images/screens/xls2csv_onlinestore_720x400.png) 
 <br>
-4. Finally, after you finish the purchasing process of the product, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
-<br>
+4. Finally, after you finished the purchasing process, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
 ![](./images/screens/xls2csv_licensekey_720x400.png)  
-<br>
-Hope the XLS2csv will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
+
+Hope Gmagon XLS2csv will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
+
+**Learn more**
+- [How to convert XLS to CSV on a Mac? ](../../../guide/convert-xls-to-csv-on-mac.html)
+- [How to convert a .xlsx file to .csv on Mac?](../../../guide/how-to-convert-a-xlsx-file-to-csv-on-mac.html)
+- [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](../../../guide/xls2csv/csv-utf8.html)
