@@ -11,7 +11,7 @@ current: features
 
 
 - Support WPS format
-- Support large XLS/XLSX files procession
+- Support handling large XLS/XLSX files
 - Support built-in format
 - Support characters of Numbers
 ![](./images/screens/xls2csv5.1-feature2.png)
@@ -25,8 +25,8 @@ current: features
 - Fool-style operation
 - Support preview before conversion
 - Support data extraction
-- Support various encoding and separator
-- Show up generated file in finder after conversion
+- Support various encoding methods (e.g. UTF-8, UTF-16) and delimiters (e.g. semicolon, comma, tab)
+- Show up generated CSV files in finder after conversion
 ![](./images/screens/xls2csv5.1-feature4.png)
 - After-sale services
 - Intuitive interface and fast conversion speed

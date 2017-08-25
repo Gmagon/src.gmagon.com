@@ -17,3 +17,10 @@ Coupon Code | Expiry Date
 
 ---
 [![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/xls2csv/id865279629?l=zh&ls=1&mt=12)
+
+---
+[![](../../../asset/images/mac-update.jpg)](https://www.macupdate.com/app/mac/56828/xls2csv)
+
+---
+## Payment methods
+![](../../../asset/images/payment-types.png)

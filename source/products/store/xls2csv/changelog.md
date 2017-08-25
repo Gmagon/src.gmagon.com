@@ -6,7 +6,8 @@ comments: false
 current: changelog
 ---
 
-## Ver 5.1
+## Version 5.1 
+Release date: 2017-08-23
 
 <script> GmagonUtils.$verNote('2017-08-23')</script>
 ![](./images/screens/xls2csv5.1-1.png)
@@ -71,7 +72,12 @@ current: changelog
 
 <br>
 ### Core Engine part
-> Upgrade to Ver1.14
+> Upgraded to Ver1.14
+
+<br>
+### Version 5.0 (release date: 2017-07-23)
+- Upgraded core API.
+- Redesigned software logo.
 
 <br>
 ### Download
