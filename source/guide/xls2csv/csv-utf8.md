@@ -21,14 +21,18 @@ Gmagon XLS2csv
 Download, install and run Gmagon XLS2csv on your Mac, then follow the steps below to change XLS files to UTF-8 encoded CSV. 
 
 Step 1: Drag and drop or click “Import File” to load XLS files that you want to convert. This Excel XLS to CSV converter for Mac supports batch conversion, so you can load multiple XLS files to do conversion at a time. 
-![](../img/xls2csv-ui.png)
+![](../img/configuration600.png)
 
-Step 2: Set output path for exported UTF-8 CSV files. 
+Step 2: Go to Export Configuration Window and set UTF-8 as encoder 
+In “Export Configuration” Window, switch to “others” column and choose “UTF-8” as coding method. If you've loaded a number of excel files to do conversion, do remember clicking “Apply to All”. 
+![](../img/utf8.png)
 
-Step 3: Click “Convert all” button to start. Once the conversion is complete, you can get the exported .csv files in output folder. 
+Step 3: Set output directory for exported UTF-8 CSV files 
+
+Step 4: Click “Convert all” button to start converting Excel files to UTF-8 encoded CSV on a Mac 
+Once the conversion is complete, you can find the generated UTF-8 CSV files in the output directory. 
 
 Hope this helps those who are looking for an easy solution to convert Excel xls files to CSV with UTF-8 encoding. 
-
 
 Also read
 <a href="https://gmagon.com/guide/xls2csv/export-to-csv-from-xls.html
