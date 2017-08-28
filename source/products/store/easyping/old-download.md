@@ -8,7 +8,16 @@ current: old-download
 
 ## <strong>Older releases</strong>
 
-#### version: 2.1
+
+<br>
+#### Version 2.2
+for macOS 64-bit OS | FileSize
+------------------------------ | -------------------------
+[EasyPing-v2.2.dmg](http://www.filefactory.com/file/27qgv14onf8t/EasyPing-2.2.dmg)    | (~2.89MiB)
+
+<br>
+
+#### Version: 2.1
 
 For detailed info on what's new, read the [release notes](./changelog.html).
 

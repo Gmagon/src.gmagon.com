@@ -10,7 +10,7 @@ current: docs
 ## EasyPing
 A little ping utility for Mac OS X. 
 
-Version 2.2
+Version 2.3
 
 
 <br>
@@ -31,7 +31,7 @@ EasyPing is a network utility tha use the Internet Control Message Protocol (ICM
 
 <br>
 ### **Installation**:
-EasyPing runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 2.1 is released now in [DOWNLOAD](./download.html). There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
+EasyPing runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 2.3 is released now in [DOWNLOAD](./download.html). There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
 

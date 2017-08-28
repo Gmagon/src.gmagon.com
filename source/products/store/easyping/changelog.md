@@ -6,6 +6,12 @@ comments: false
 current: changelog
 ---
 
+## Ver 2.3
+<script> GmagonUtils.$verNote('2017-08-25')</script>
+- Upgrade the kernel.
+- Fixed out of memory exception.
+---
+
 ## Ver 2.2
 <script> GmagonUtils.$verNote('2017-08-04')</script>
 - Upgraded the core ping engine.
