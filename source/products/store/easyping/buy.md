@@ -18,5 +18,5 @@ Coupon Code | Expiry Date
 ![](../../../asset/images/coupon.png) **GMAG-2CDX-RTRA** | ~ 2017.11.06
 
 ---
-[![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/easyping-simple-and-practical/id741293580?l=zh&ls=1&mt=12)
+[![](../../../asset/images/mas-available.png)](https://itunes.apple.com/us/app/easyping-network-tool/id741293580?l=zh&ls=1&mt=12)
 

@@ -27,7 +27,7 @@ If you have met such questions like that, you'd better consider EasyPing as your
 The Ping utility is a system administrator's tool that is used to see if a computer is operating and also to see if network connections are intact. Ping uses the Internet Control Message Protocol (ICMP) Echo function which is detailed in RFC 792. A small packet is sent through the network to a particular IP address.  The computer that sent the packet then waits and listens for a return packet. If the connections are good and the target computer is up, a good return packet will be received. 
 
 
-EasyPing is a network utility tha use the Internet Control Message Protocol (ICMP) to determine the availability and responsiveness of network hosts. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of EasyPing, you are able to join our community and get our excellent after-sale services.  
+EasyPing is a network utility tha use the Internet Control Message Protocol (ICMP) to determine the availability and responsiveness of network hosts. The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is required). Users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of EasyPing, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
@@ -40,7 +40,7 @@ If you encounter any problems during or after installing EasyPing please refer t
 **The trial version** for users to try out is also available in [DOWNLOAD](./download.html), and combined with the install package.
 
 
- You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software three times. If you wanna to buy our product, then click "Buy" button to enter the online store. 
+ You can click and download one of the files. when you open and run the software, a little window will pop up. If you choose to try out, click "continue" button, you can freely try this software within thirty days. If you wanna to buy our product, then click "Buy" button to enter the online store. 
 
 ![](./images/screens/easyping_trialversion_1440x900.png) 
 

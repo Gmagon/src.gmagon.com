@@ -6,17 +6,20 @@ comments: false
 current: changelog
 ---
 
-## Ver 2.3
+## Ver 2.3 
+Release date: 2017-08-25
 <script> GmagonUtils.$verNote('2017-08-25')</script>
 - Upgrade the kernel.
-- Fixed out of memory exception.
+- Fixed the out of memory exception.
 ---
 
 ## Ver 2.2
+Release date: 2017-08-04
 <script> GmagonUtils.$verNote('2017-08-04')</script>
 - Upgraded the core ping engine.
 - Fixed some bugs.
 ---
 ## Ver 2.1
+Release date: 2017-07-06
 <script> GmagonUtils.$verNote('2017-07-06')</script>
 - Updated user interface.
