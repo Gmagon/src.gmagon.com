@@ -22,7 +22,7 @@ Compared to using Custom Elements directly, Stencil provides extra APIs that mak
 
 The developer experience is also tuned, and comes with live reload and a small dev server baked in to the compiler.
 
-### Why Stencil? {#why-stencil-}
+### Why Stencil? 
 
 Stencil was created by the [Ionic Framework](http://ionicframework.com/) team to help build faster, more capable components that worked across all major frameworks.
 
@@ -34,8 +34,7 @@ Web Components offered a solution to both problems, pushing more work to the bro
 
 However, Web Components by themselves weren't enough. Building fast web apps required innovations that were previously locked up inside of traditional web frameworks. Stencil was built to pull these features out of traditional frameworks and bring them to the fast emerging Web Component standard.
 
-### Browser support {#browser-support}
-
+### Browser support
 Web components, as of the V1 spec, are now cross browser. They are natively supported in Chrome and Safari and are coming to both Edge and Firefox. Stencil uses a dynamic loader to load the custom elements polyfill only on browsers that need it. With this polyfill Stencil's browser support is Chrome \(and all chrome based browsers\), Safari, Firefox, Edge, and IE11.
 
 Source: https://stenciljs.com/docs/intro

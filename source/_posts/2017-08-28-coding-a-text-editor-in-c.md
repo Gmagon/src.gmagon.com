@@ -2,7 +2,7 @@
 title: Coding a text editor in C
 ---
 
-# Background {#background}
+# Background 
 
 As a modern JavaScript developer, I have worked on numerous single page applications with various technology stacks. I know enough of those technologies to be productive. I learned the best practices and learned when to apply them. I tried to stay on the cutting-edge and adopt new programming patterns early. However, I was never confident to say that I understand`[insert state mangement library name here]`. I know how to use them but I did not know why to use them. Until I started to work on`viw`.
 
@@ -10,7 +10,7 @@ For those of you who have never heard of`viw`, make sure to check it out,[github
 
 In this blog post, I want to discuss the lessons I learnt from implementing`viw`and how are they related to modern front end development. I also want to briefly talk about the`Unidirectional UI`pattern.
 
-# Introduction {#introduction}
+# Introduction 
 
 It is all about working with constraints. In C, it is hard to find recipes for stuff that you want to do. Libraries and frameworks like Redux that force you to employ a particular design pattern simply do not exist. As a result, when I was working on`viw`, I was forced to make many seemingly trivial decisions on my own:`when do I trigger an update to the UI?`,`how should I categorize those functions?`,`how should I name this file?`. As I am adding more features to the project, I have to constantly refactor, change internal APIs and move stuff around.
 
@@ -24,7 +24,7 @@ Interestingly, as the project grows bigger and as I make more incremental adjust
 
 `viw`helped me understand what UI development is really about. It is not like programming a compiler which “simply” takes an input and spits out an output. When you are programming an UI, your app has to**react**to`events`. The events can be initiated from a user, a websocket subscription or a returning AJAX request. Then, according to the event as well as the current state of the UI, your app will produce a series of resulting effects to address the incoming event. In other words, UI programming is about**mapping incoming events to a series of effects**.
 
-# A Simple Example {#a-simple-example}
+# A Simple Example 
 
 Sounds confusing? Let’s walk through a concrete example.
 
