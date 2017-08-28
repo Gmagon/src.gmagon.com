@@ -21,7 +21,8 @@ description: Find Gmagon Software how-to guides on this page.
 - [Export to CSV - exporting csv from xls files](./xls2csv/export-to-csv-from-xls.html)
 - [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](./xls2csv/csv-utf8.html)
 - [XLSX to CSV-Convert XLSX to CSV files correctly in few steps ](./xls2csv/xlsx-to-csv.html)
-- [CSV-encoding - How to get encoding CSV file.](./csv-encoding.html)
+- [CSV-encoding - How to get encoding CSV file.](./xls2csv/csv-encoding.html)
+- [Big CSV - How to get large delimited CSV files.](./xls2csv/big-csv.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
