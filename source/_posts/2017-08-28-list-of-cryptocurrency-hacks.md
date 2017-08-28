@@ -8,7 +8,7 @@ There’s been quite a few large, high profile cryptocurrency hacks over the pas
 
 Here’s a list of some of the largest cryptocurrency hacks so far.
 
-# August 2010 - Bitcoin protocol hack, 184 billion Bitcoins created {#august-2010---bitcoin-protocol-hack-184-billion-bitcoins-created}
+# August 2010 - Bitcoin protocol hack, 184 billion Bitcoins created 
 
 On August 15th 2010, Jeff Garzik, a Bitcoin Core developer, noticed that someone was able to generate a 184 billion Bitcoin transaction in a single block. Bitcoin’s maximum supply is supposed to be capped at 21 million. Garzik[posted this revelation on bitcointalk](https://bitcointalk.org/index.php?topic=822.0).
 
@@ -18,7 +18,7 @@ The attacker was able to abuse a bug in the code used to check transactions befo
 
 Although no funds were lost during this attack, it was still a significant event for Bitcoin. The quick response by the devs to fix the bug and revert the attack instilled new confidence in the budding currency and demonstrated Bitcoin’s resiliency to malicious attacks.
 
-# March 2014 - Mt. Gox exchange hack with $473 million stolen {#march-2014---mt-gox-exchange-hack-with-473-million-stolen}
+# March 2014 - Mt. Gox exchange hack with $473 million stolen 
 
 The Mt. Gox hack is the largest cryptocurrency disaster to ever occur to this date. In total, $473 million worth of Bitcoin was stolen from the exchange. This theft occured over several years.
 
@@ -50,7 +50,7 @@ This, of course, resulted in a highly unsecure codebase. Competent software engi
 
 Investigations on the Mt. Gox case have been ongoing since it filed for bankruptcy in 2014 and recent revelations showed that the exchange was very likely targeted by Eurasian hackers with the stolen BTC laundered through another exchange, BTC-e. The owner and operator of BTC-e, Alexander Vinnik, was arrested in Athens on July 25th. Vinnik is accused of using BTC-e and Tradehill, another U.S.-based exchange he owned, to process funds “obtained” from Mt. Gox between 2011 and 2014. BTC-e is believed to have processed more than 300,000 bitcoins in transactions that can be traced to the theft.
 
-# January 2015 - Bitstamp exchange hack with $5.1 million stolen {#january-2015---bitstamp-exchange-hack-with-51-million-stolen}
+# January 2015 - Bitstamp exchange hack with $5.1 million stolen 
 
 Bitstamp suspended trading in January 2015 after one of its active operational Bitcoin storage wallets \(AKA hot wallets\) was compromised. The hackers made away with 19,000 Bitcoins which represent roughly $5,000,000 at the time.
 
@@ -60,7 +60,7 @@ Nevertheless, Bitstamp’s Bitcoin price still plummeted after news of the breac
 
 Investigations into the breach showed that many of Bitstamp’s employees were targeted in a weeks-long phishing attempt. Those behind the attack used Skype and email to communicate with employees and attempted to distribute files containing malware by appealing to their personal histories and interests. Bitstamp’s system became compromised after systems administrator Luka Kodric downloaded a file that he believed had been sent by a representative for an organization that was seeking his membership.
 
-# June 2016 - Decentralized Autonomous Organization \(DAO\) hack with $50 million stolen![](https://i.imgur.com/ppWQMoI.jpg)The DAO was an Ethereum project. Its goal was to codify the rules and decision-making apparatus of an orgnization, eliminating the need for documents and people in governing, creating a structure with decentralized control. {#june-2016---decentralized-autonomous-organization-dao-hack-with-50-million-stolen}
+# June 2016 - Decentralized Autonomous Organization \(DAO\) hack with $50 million stolen![](https://i.imgur.com/ppWQMoI.jpg)The DAO was an Ethereum project. Its goal was to codify the rules and decision-making apparatus of an orgnization, eliminating the need for documents and people in governing, creating a structure with decentralized control. 
 
 According to this CoinDesk[article](https://www.coindesk.com/understanding-dao-hack-journalists/), here’s how it works:
 
@@ -79,7 +79,7 @@ Although the hard fork managed to revert the attack and helped DAO investors rec
 
 Surprisingly, the legacy Ethereum chain post-hard-fork did not die out and continued to exist, eventually becoming known as Ethereum Classic. For some reason, Ethereum Classic was quickly listed on a few large cryptocurrency exchanges such as Poloniex. This cemented it as another serious altcoin and today, has a market cap of $1.4 billion.
 
-# July 2016 - Steemit.com hack with $85,000 stolen {#july-2016---steemitcom-hack-with-85000-stolen}
+# July 2016 - Steemit.com hack with $85,000 stolen 
 
 Steem is a social media blockchain where users get rewarded for creating or curating good content. Steemit.com is a website that hosts content posted on the Steem blockchain and it’s the original and most popular UI used to interact with the blockchain.
 
@@ -87,7 +87,7 @@ Users can have their accounts hosted on Steemit.com. Each account is associated 
 
 On July 2016, Steemit was attacked with around 260 accounts being compromised. In total, around $85,000 worth of Steem and Steem Dollars were stolen. This is the risk of having a centralized database store cryptocurrency wallets.
 
-# August 2016 - Bitfinex hack with $66 million stolen {#august-2016---bitfinex-hack-with-66-million-stolen}
+# August 2016 - Bitfinex hack with $66 million stolen 
 
 The Bitfinex hack was the second-biggest breach of a Bitcoin exchange platform at the time \(first place goes to Mt. Gox\). A total of 120,000 Bitcoin were stolen. This was worth about $72 million at the time. Bitfinex first announced the security breach on August 2, 2016.
 
@@ -97,7 +97,7 @@ In this setup, BitGo would act as an additional layer of security and verify any
 
 The details are murky on how the attackers managed to get BitGo to co-sign the transactions. BitGo has publicly confirmed that their own servers were not compromised. The rumour is that the system Bitfinex setup was broken such that BitGo would do whatever Bitfinex said to do with a user’s funds. As such, Bitfinex’s multisignature wallet system really only had a single point of failure - Bitfinex’s servers - and it’s really no different than simply using hot wallets.
 
-# July 2017 - CoinDash ICO hack with $7 million stolen {#july-2017---coindash-ico-hack-with-7-million-stolen}
+# July 2017 - CoinDash ICO hack with $7 million stolen 
 
 ![](https://i.imgur.com/v0G6PIN.jpg)
 
@@ -107,7 +107,7 @@ On July 19th, Parity issued a security warning on its website detailing the disc
 
 Fortunately, on release of this statement, a group of white hat hackers took it upon themselves to drain the funds of other multi-sig wallets belonging to other ICOs before the malicious hackers were able to get to them as well.
 
-# August 2017 - Enigma ICO hack with $500,000 stolen {#august-2017---enigma-ico-hack-with-500000-stolen}
+# August 2017 - Enigma ICO hack with $500,000 stolen 
 
 The Enigma ICO was hacked in a very different way from the CoinDash ICO. Enigma was started by a group of MIT graduates and the project was able to create a strong community of over 9,000 users who joined the project’s mailing list and Slack group.
 
