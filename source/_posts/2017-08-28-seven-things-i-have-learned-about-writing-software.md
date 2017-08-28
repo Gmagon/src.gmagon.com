@@ -1,5 +1,5 @@
 ---
-title: seven things I have learned about writing software
+title: Seven things I have learned about writing software
 ---
 
 ![](https://tctechcrunch2011.files.wordpress.com/2017/08/the-graduate.jpg?w=738)
