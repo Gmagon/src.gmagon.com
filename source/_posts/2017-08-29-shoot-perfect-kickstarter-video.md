@@ -13,7 +13,7 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 **A clean, well-composed, high-quality video will establish immediate credibility.**
 
-## Tips to Produce the Perfect Video Pitch: {#tips-to-produce-the-perfect-video-pitch}
+## Tips to Produce the Perfect Video Pitch: 
 
 ### 1. Choose Your Location Wisely {#choose-your-location-wisely}
 
@@ -31,7 +31,7 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 * Avoid empty rooms. Sound reverberates: A totally empty room will produce bad sound. Furniture and curtains help break up bouncing sound, so try to record in a furnished room.
 
-### 2. Camera Setup – Presenter Placement – Composition {#camera-setup--presenter-placement--composition}
+### 2. Camera Setup – Presenter Placement – Composition 
 
 * Always use a tripod, especially if you are using a smartphone or tablet. Keep the shot steady \(do not overuse zoom or pan\).
 
