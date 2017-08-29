@@ -15,7 +15,7 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 ## Tips to Produce the Perfect Video Pitch: 
 
-### 1. Choose Your Location Wisely {#choose-your-location-wisely}
+### 1. Choose Your Location Wisely
 
 * Shoot inside a building in a room carefully selected for sound and lighting \(more on these later\). Try not to shoot anything outdoors: a porch, balcony, terrace, park, etc. Noise and sudden light changes will be a constant challenge.
 
@@ -57,7 +57,7 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 ![](https://uploads.toptal.io/blog/image/123808/toptal-blog-image-1502776817590-6d409f4ec8aa33228402f58bbf5bbf46.gif)
 
-### 3. Lighting Setup {#lighting-setup}
+### 3. Lighting Setup
 
 * Position the presenter away from daylight coming in through a window, whether it’s behind them or to the side \(out of shot\). It’s very important to avoid having a window behind the presenter—it will be too bright and your presenter too dark. Remove any reflective objects from your frame: mirrors, shiny metals, glass, etc. Anything brighter than the person being recorded draws away the eye. It is a distraction and can potentially affect exposure and make the subject too dark. Small objects made of glass are OK.
 
@@ -79,7 +79,7 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 ![](https://uploads.toptal.io/blog/image/123812/toptal-blog-image-1502776864269-d513786ec54039fe6441883a1e1a9f57.jpg)
 
-### 4. Sound Recording {#sound-recording}
+### 4. Sound Recording
 
 * For clean sound, use a clip-on or lapel microphone \([http://www.wisegeek.com/what-is-a-lapel-microphone.htm](http://www.wisegeek.com/what-is-a-lapel-microphone.htm)\), or an external “shotgun” microphone placed close to the subject. Wear headphones to monitor what’s being recorded.
 
