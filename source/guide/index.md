@@ -25,6 +25,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Big CSV - How to get large delimited CSV files.](./xls2csv/big-csv.html)
 - [CSV-Separator - Determine the field separator of a CSV file.](./xls2csv/csv-separator.html)
 - [Batch CSV - How to deliver CSV files in batch?](./xls2csv/batch-csv.html)
+- [CSV files - What is a CSV file and how do I save my spreadsheet as one?](./xls2csv/csv-file.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
