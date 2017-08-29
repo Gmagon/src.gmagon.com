@@ -91,5 +91,5 @@ It is said, “you never get a second chance to make a first impression.” A hi
 
 * It will distort the sound if the presenter starts to speak much louder than they were previously. It’s OK to stop recording, lower the recording level and ask the presenter to start again. You can amplify quieter dialog later during editing if necessary, but distorted sound can’t be fixed.
 
-
+Source: https://www.toptal.com/designers/product-design/perfect-kickstarter-video-tips
 
