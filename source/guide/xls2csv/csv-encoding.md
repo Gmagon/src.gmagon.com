@@ -31,22 +31,22 @@ Fortunately, I have found the <a href="https://gmagon.com/products/store/xls2csv
 <br>
 ## How to create encoding CSV from XLS/XLSX by XLS2csv?
 **Step 1**: Import your Excel file or a batch of files into this converter by clicking.
-![](img/xls-howdoi-1.png)
+![](../img/xls-howdoi-1.png)
 <br>
 **Step 2**: Set your output directory to put your output in the right file.
-![](img/xls-howdoi-2.png)
+![](../img/xls-howdoi-2.png)
 <br>
 **Step 3**: If you want to preview the convert effects, you can see it clearly 
-![](img/xls-howdoi-3.png)
+![](../img/xls-howdoi-3.png)
 <br>
 **Step 4**: In the Preview interface, there are "Sheet" and "Others" options for you, here is the sheet select setting:
-![](img/xls-howdoi-3-1.png)
+![](../img/xls-howdoi-3-1.png)
 <br>
 **Step 5**: Clicking "others", you can easily find the coding set, then you can feel free to choose UTF-8 or UTF-16, or any other codings here. 
-![](img/utf-8.png)
+![](../img/utf-8.png)
 <br>
 **Step 6**: The final step is to click the convert button, you can choose to convert one file at once or convert all files at one go.
-![](img/xls-howdoi-4.png)
+![](../img/xls-howdoi-4.png)
 <br>
 Hopefully the above has given you an insight into the wonderful world of XLS2csv. Now download it and give it a try.
 
