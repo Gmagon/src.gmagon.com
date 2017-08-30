@@ -27,6 +27,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Batch CSV - How to deliver CSV files in batch?](./xls2csv/batch-csv.html)
 - [CSV files - What is a CSV file and how do I save my spreadsheet as one?](./xls2csv/csv-file.html)
 - [To CSV - how do I change a .xlsx to a .csv?](./xls2csv/change-xlsx-to-csv.html)
+- [xlsx2csv Converter-convert multiple xlsx files to csv](./xls2csv/xlsx-2-csv-converter.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)

@@ -33,7 +33,7 @@ Step 2: Set output path for exported CSV files
 
 Step 3: Click “Convert all” button to start. Once the conversion is complete, you can get the exported .csv files in output folder. 
 
-Hope this XLSX to CSV converter app helps those who are in search of a solution to export CSV text files from XLS files on a Mac computer. 
+Hope this XLSX to CSV converter app helps those who are in search of a solution to export CSV text files from XLSX files on a Mac computer. 
 
 Also read
  <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
