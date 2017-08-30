@@ -17,4 +17,16 @@
       <a href="https://www.instagram.com/{{ config.instagram }}" class="footer-link" target="_blank" rel="nofollow me noopener noreferrer" ><i class="fa fa-instagram"></i></a>
     </div>
   </div>
+
+  <div id="footer-security">
+       <p>
+          <img src="/asset/images/security/klogo.png">
+          <img src="/asset/images/security/mcafee.png">
+          <img src="/asset/images/security/cmmodo_scanned.png">
+          <img src="/asset/images/security/softonic_tested.png">
+          <img src="/asset/images/security/tested_by_sucuri.png">
+          <img src="/asset/images/security/norton.png">
+          <img src="/asset/images/security/eset_logo.png">
+       </p>
+    </div>
 </footer>
