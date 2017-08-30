@@ -3,12 +3,11 @@ title: To CSV - how do I change a .xlsx to a .csv?
 keywords: difference between XLSX and CSV, change a .xlsx file to CSV format on a Mac, change a .xlsx to a .csv, Mac XLSX to CSV converter 
 description: Learn a simple explanation of the difference between XLSX and CSV. And learn how to change a .xlsx file to CSV format on a Mac machine.  
 ---
-![](../img/excel-to-csv-icon-200.png)
-What’s the difference between XLSX and CSV? 
+## What’s the difference between XLSX and CSV? 
 A .xlsx is the typical file format for Excel, just as .docx for words. In a .xlsx you can save the formulas, graphs, pivots, etc in the file. Although Excel can read the fileformat and you can use formulas in it, you cannot save the formulas in the sheet. Excel will only save the result of the calculation.
 
 In addition, XLSX does not allow you to store macros, as a security precaution. If you need macros in the file you have to use the XLSM file format.
-
+![](../img/excel-to-csv-icon-200.png)
 A CSV is NOT a "spreadsheet" file format, but just a flat text file that uses a delimiter to separated the fields, e.g.
 Header_1,Header_2
 A,1
@@ -17,7 +16,7 @@ B,2
 CSV is a simple, industry standard file format for exporting text only data from one system to be imported into another system. The importing system can be Excel or a "true database".
 
 Where an Excel workbook can have more sheets, a CSV has only one sheet. When you open a .xlsx with a text editor you will see unreadable content, while a CSV is readable. 
-How do I change a .xlsx to a .csv? 
+## How do I change a .xlsx to a .csv? 
 If for some reason you need to convert XLSX files to CSV format on a Mac computer, you may give Gmagon XLS2csv a shot. Here’s how.
 
 First of all, download Gmagon XLS2csv 
