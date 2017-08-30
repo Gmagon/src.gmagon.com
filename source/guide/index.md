@@ -5,7 +5,9 @@ description: Find Gmagon Software how-to guides on this page.
 ---
 
 # [XLS2csv](../products/store/xls2csv/)  ![](../products/store/xls2csv/images/logo/logo_64x64.png)  
-> XLS2csv is an easy-to-use file converter that easily converts the `XLS format (excel files)` out there to the CSV on Mac, namely, it is an `XLS to CSV` converter for mac. It helps those who are looking for a gadget to convert XLS files to CSV format on Mac OS. The software can intelligently recognize an XLS file and convert them to CSV files quickly. In addition, batch convert from xls to csv is also supported here. Users are allowed to drag and drop a file or directory to the interface of XLS2csv, and preview the conversion results before the conversion finished. By clicking Setting button, users can set up their preferable language of the tool. Besides, there are Feedback, FAQ and Help choices for users’ convenience in case any problems occurred during users’ experience.
+> XLS2csv is a simple and intuitive XLS/XLSX to CSV Converter for Mac. It handles .xls/.xlsx files from Microsoft Excel, Apple Numbers, Open Offices Excel and converts them to .csv text file format on Mac platform.
+
+This Mac XLS2csv converter app can intelligently recognize large XLS/XLSX files as well as a group of XLS/XLSX files and batch convert them to CSV format quickly. Users are allowed to drag-and-drop a file or directory to the interface of XLS2csv, and preview the loaded Excel spreadsheets before conversion. Plus, you can customize delimiters in the CSV as comma, semicolon, space, tab, etc.
 
 - [Convert XLS to CSV on Mac without Excel installed ](./convert-xls-on-mac-without-excel.html)
 - [How to convert XLS to CSV on a Mac? ](./convert-xls-to-csv-on-mac.html)
