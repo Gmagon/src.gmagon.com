@@ -2,8 +2,8 @@
 title: Control Thy LED
 ---
 
-!
-[](http://img2.tuicool.com/6JRjye2.jpg!web)
+
+![](http://img2.tuicool.com/6JRjye2.jpg!web)
 
 In aprevious article, I discussed LEDs in general and their properties. In this write-up, I want to give some examples of driving LEDs and comparing a few of the most commonly used methods. There is no “one size fits all” but I will try and generalize as much as possible. The idea is to be able to effectively control the brightness of the LED and prolong their life while doing it. An efficient driver can make all the difference if you plan to deploy them for the long-haul. Let’s take a look at the problem and then discuss the solutions.
 
