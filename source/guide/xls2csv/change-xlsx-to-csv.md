@@ -3,6 +3,7 @@ title: To CSV - how do I change a .xlsx to a .csv?
 keywords: difference between XLSX and CSV, change a .xlsx file to CSV format on a Mac, change a .xlsx to a .csv, Mac XLSX to CSV converter 
 description: Learn a simple explanation of the difference between XLSX and CSV. And learn how to change a .xlsx file to CSV format on a Mac machine.  
 ---
+Learn a simple explanation of the difference between XLSX and CSV. And learn how to change a .xlsx file to CSV format on a Mac machine. 
 ## What’s the difference between XLSX and CSV? 
 A .xlsx is the typical file format for Excel, just as .docx for words. In a .xlsx you can save the formulas, graphs, pivots, etc in the file. Although Excel can read the fileformat and you can use formulas in it, you cannot save the formulas in the sheet. Excel will only save the result of the calculation.
 
