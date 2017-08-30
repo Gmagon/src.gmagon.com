@@ -1,3 +1,6 @@
+---
+title: Ultimate Solution to Python Virtual Environments
+---
 I
 love using the Command Line; it's my favourite part of programming. It wasn't always this way. I used to worry that the commands I entered would destory the delicate equilibrium where everything_just worked_. Would this be the`pip install`that ended it all?
 
