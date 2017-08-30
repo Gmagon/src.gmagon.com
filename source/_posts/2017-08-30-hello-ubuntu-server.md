@@ -3,7 +3,7 @@ title: Hello Ubuntu Server!
 ---
 
 
-[](http://img0.tuicool.com/jiUnIfz.png!web)
+![](http://img0.tuicool.com/jiUnIfz.png!web)
 
 ## Hello Ubuntu Server!
 
