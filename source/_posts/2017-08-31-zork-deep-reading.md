@@ -1,5 +1,5 @@
 ---
-title: Introduction of WhiteBear
+title: Zork Deep Reading
 ---
 
 This past weekend a screenshot went around Twitter \(my part of Twitter at least!\)
