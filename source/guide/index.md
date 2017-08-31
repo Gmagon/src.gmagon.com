@@ -29,6 +29,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [To CSV - how do I change a .xlsx to a .csv?](./xls2csv/change-xlsx-to-csv.html)
 - [xlsx2csv Converter-convert multiple xlsx files to csv](./xls2csv/xlsx-2-csv-converter.html)
 - [The newly released Gmagon XLS2csv 5.1](./xls2csv/newly-released-xls2csv-v5.1.html)
+- [Convert Excel files to comma delimited CSV on Mac](./xls2csv/convert-excel-files-to-comma-csv.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
