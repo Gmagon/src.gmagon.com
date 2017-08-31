@@ -3,7 +3,8 @@ title: How AI-based Image Recognition Tools Scour Social Media for Photos
 ---
 
 
-![](http://img0.tuicool.com/bEvMnm2.jpg!web)If a picture is worth a thousand words, social media users are speaking volumes. People now share more than[3.25 billion photos a day](http://www.kpcb.com/blog/2016-internet-trends-report)on the world’s biggest social platforms, including Facebook, Instagram and Snapchat. In 2012, that number was less than 500 million.
+![](http://img0.tuicool.com/bEvMnm2.jpg!web)
+If a picture is worth a thousand words, social media users are speaking volumes. People now share more than[3.25 billion photos a day](http://www.kpcb.com/blog/2016-internet-trends-report)on the world’s biggest social platforms, including Facebook, Instagram and Snapchat. In 2012, that number was less than 500 million.
 
 Data also shows that social media users gravitate toward visual content: Facebook users are[2.3 times more likely to engage with posts that have images](http://buzzsumo.com/blog/how-to-massively-boost-your-blog-traffic-with-these-5-awesome-image-stats/)than with those that don’t, and tweets with images receive[150 percent more retweets](https://blog.bufferapp.com/the-power-of-twitters-new-expanded-images-and-how-to-make-the-most-of-it)than those that are pure text.
 
