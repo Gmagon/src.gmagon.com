@@ -2,11 +2,12 @@
 title: Top 5 Skills You Need Before Transitioning To Applied AI
 ---
 
+![](http://img0.tuicool.com/AfUjA3Y.jpg!web)
+
 # Transitioning from Academic Machine Learning to AI in Industry
 
 Jeremy Karnowski and Emmanuel Ameisen, Insight AI
 
-![](http://img0.tuicool.com/AfUjA3Y.jpg!web)
 
 Richard Socher \(Chief Scientist at Salesforce\) chatting with Insight AI Fellows about the future of NLP research.
 
@@ -137,7 +138,7 @@ AI is an exciting, ever-changing field. The demand for Machine Learning Engineer
 : Hacker News is a social news website focusing on computer science, data science, and entrepreneurship. It is run by Y Combinator, a well-known startup incubator. Don’t be thrown off by the name! The original usage of the term “hacker” has nothing to do with cyber criminals, but rather someone who comes up with clever solutions to problems through their programming skills.
 * [Import AI](https://jack-clark.net/import-ai/)
 : Great newsletter by Jack Clark of OpenAI, that stays on top of most important advances in the field.
-* Insight Blog: We maintain a pretty active pace. Some posts in ourAI blog talk about differentpast projects, and can serve as good inspiration for interesting problems to tackle. We also regularly send AI content to our mailing list, sign up
+* Insight Blog: We maintain a pretty active pace. Some posts in our AI blog talk about different past projects, and can serve as good inspiration for interesting problems to tackle. We also regularly send AI content to our mailing list, sign up
 [here](http://insightdata.ai/notifications-list)
 .
 
