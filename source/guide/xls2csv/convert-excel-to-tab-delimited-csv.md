@@ -1,7 +1,7 @@
-layout: Convert Excel spreadsheets to tab delimited CSV
-title: Convert Excel files to comma delimited CSV on Mac    
+layout: guide
+title: Convert Excel spreadsheets to tab delimited CSV    
 keywords: convert Excel spreadsheets to tab delimited CSV, save an Excel spreadsheet as a tab delimited CSV, create tab delimited CSV files from Excel spreadsheets  
-description: We write this article to help those who are looking for a way to convert Excel spreadsheets to tab delimited CSV files.   
+description: We write this article to help those who are looking for a way to convert Excel spreadsheets to tab delimited CSV files. 
 ---
 We write this article to help those who are looking for a way to convert Excel spreadsheets to tab delimited CSV files. 
 ![](../img/excel-to-csv-mac.jpg)
