@@ -1,5 +1,4 @@
--
---
+---
 title: YouTube is undergoing a series of changes
 ---
 
