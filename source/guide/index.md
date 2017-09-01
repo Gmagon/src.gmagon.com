@@ -32,6 +32,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Convert Excel files to comma delimited CSV on Mac](./xls2csv/convert-excel-files-to-comma-csv.html)
 - [Convert Excel spreadsheets to tab delimited CSV](./xls2csv/convert-excel-to-tab-delimited-csv.html)
 - [What is Microsoft Excel and Why It is Important?](./xls2csv/excel.html)
+- [What Is An XLS File And How To Use It?](./xls2csv/xls.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)

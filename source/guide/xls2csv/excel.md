@@ -44,7 +44,7 @@ Gmagon XLS2csv
 Note: Gmagon XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required. 
 
 
-
+<br>
 Also read if you want to know more:
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to convert XLS to CSV on a Mac?</a>
 <a href="http://gmagon.com/guide/xls2csv/newly-released-xls2csv-v5.1.html" target="_blank" rel="nofollow me noopener noreferrer" >The newly released Gmagon XLS2csv 5.1</a>
