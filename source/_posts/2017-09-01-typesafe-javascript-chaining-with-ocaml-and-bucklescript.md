@@ -8,7 +8,7 @@ In my [previous article](https://medium.com/dailyjs/how-to-build-disruptive-ocam
 
 Today I’d like to continue on this path and show you the awesome`@@bs.send.pipe`binding attribute, which enables us to write concise OCaml code to interface with JavaScript libraries that have a chainable API.
 
-### Exhibit A: Express {#7f48}
+### Exhibit A: Express
 
 To interface with the [express](https://expressjs.com/) Node.js web framework, we may write the following bindings in`src/FFI/Express.ml`._\(NOTE: Remember to include`src/FFI`in the`sources`field of`bsconfig.json`!\)_
 
@@ -42,8 +42,7 @@ exports.app = app;
 
 Nice! We can run`node lib/js/src/index.js`and get ourselves a running express server.
 
-### The Chaining Express API {#4936}
-
+### The Chaining Express API
 Consider the type we wrote for the`Express.get`function:
 
 ```
@@ -65,7 +64,7 @@ This pattern is very common in JS, and works in the following way: instead of`ge
 
 That’s a lot to unpack, so let’s demonstrate how to get from A to B in code.
 
-#### Step 1: Take an app, return an app {#8486}
+#### Step 1: Take an app, return an app
 
 ```
 external get : app -> string -> (req -> res -> res) -> app = "" [@@bs.send]
@@ -108,7 +107,7 @@ See, once we smush together our`get`and`listen`calls, there’s no need for temp
 
 This may start to look a little LISP-y to you, and that’s fair — this syntax is not easier to read than our original example which specifies`app`multiple times. Let’s move on and see how we can clean up this code a little.
 
-#### Step 2: Some light plumbing, and a leak {#5a9f}
+#### Step 2: Some light plumbing, and a leak 
 
 As we start composing functions \(like we did by inlining`f`and`g`in the previous section\), we’ll start to see quite a bit of parentheses. Consider the following bit of code:
 
@@ -172,7 +171,7 @@ We would receive a type error because`price`would be used as the_first_argument 
 
 One way to fix this?**Just make`price`the first argument!**
 
-#### Step 3: Save the app for last {#d7e6}
+#### Step 3: Save the app for last 
 
 If we were to redefine`apply_discount`from`group -> price -> total`to`price -> group -> total`, we could then remove our parentheses entirely:
 
@@ -225,7 +224,7 @@ And voila! An`app`type makes it way from`express ()`, through the pipe and onto 
 Express().get("/", index).get("/about", about).listen(1337);
 ```
 
-#### Step 4: BuckleScript can do this for us {#9af5}
+#### Step 4: BuckleScript can do this for us 
 
 Defining a`function_`for every`function`you bind to JavaScript-land doesn’t sound all that exciting, though. Wouldn’t it be great if`get`and`listen`could work like that for us? Well they can!
 
@@ -270,7 +269,7 @@ listen 1337
 
 ![](https://cdn-images-1.medium.com/max/1600/1*4877k4Hq9dPdtmvg9hnGFA.jpeg)
 
-### Closing Thoughts {#7587}
+### Closing Thoughts
 
 Okay so that was a lot of words to tell you how`@@bs.send.pipe`works, but I hope this post gave you a bit of intuition for why it exists and why you may want to use it. With that, here a few more questions to ponder on:
 
