@@ -33,7 +33,7 @@
                                 {{ page.macos_offical_curPrices }}                                                            </strong> 
                          </p>
 							<a href="{{ page.macos_offical_buyUrl }}" class="orangeBtn-b
-                        " onclick="return false; ">Add to Cart</a> 
+                        " target="_blank" rel="nofollow me noopener noreferrer">Add to Cart</a> 
                     </div>
                     <div class="clear "></div>
                 </div>

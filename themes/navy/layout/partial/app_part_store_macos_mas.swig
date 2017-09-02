@@ -26,7 +26,7 @@
                                 {{ page.macos_mas_curPrices }}                                                            </strong> 
                          </p>
 							<a href="{{ page.macos_mas_buyUrl }}" class="orangeBtn-b
-                        " onclick="return false; ">App Store</a> 
+                        " target="_blank" rel="nofollow me noopener noreferrer" >App Store</a> 
                     </div>
                     <div class="clear "></div>
                 </div>
