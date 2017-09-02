@@ -16,7 +16,7 @@ description: ColorPicker2 is a simple color picking tool to identify, edit and c
 
 <br>
 <div class="buy">
-<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$14.99<br />
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$19.99<br />
 </span></h3>
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 

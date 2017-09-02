@@ -17,7 +17,7 @@ description: As a good APNG to GIF Converter for Mac, APNGToGifConverter is your
 
 <br>
 <div class="buy">
-<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$15.99<br />
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$19.99<br />
 </span></h3>
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 
