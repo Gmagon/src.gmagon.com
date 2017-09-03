@@ -63,10 +63,11 @@
     - name: XLS2csv
       appID: com.gmagon.app.macos.xls2csv
       thumbType: gif
-      description: It is a file converter that converts the XLS format to the CSV. 
+      description: It is a file converter that converts the XLS/XLSX format to CSV. 
       link: /products/store/xls2csv/
       preview: /products/store/xls2csv/
       tags:
+        - xlsx
         - xls
         - csv
         - excel
