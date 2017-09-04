@@ -2,7 +2,9 @@
 title: Popular Social Media 'Hacks'
 ---
 
-![](http://img1.tuicool.com/63yaMvu.png!web)An inevitability in the age of algorithms is that people are going to try and find ways to ‘hack’ them, to cheat the system, to get an advantage based on whatever tools they think they have available.
+![](http://img1.tuicool.com/63yaMvu.png!web)
+
+An inevitability in the age of algorithms is that people are going to try and find ways to ‘hack’ them, to cheat the system, to get an advantage based on whatever tools they think they have available.
 
 Of course, that approach makes sense – if you can get your business more exposure, why wouldn’t you? This is particularly true of platforms like Facebook, which now reaches2 billion people. If you knew a way to cheat Facebook’sNews Feed algorithm and boost your reach, you’d do it, especially since Facebook organic reach for Pages has[declined so significantly](http://www.socialmediatoday.com/social-business/new-study-finds-facebook-page-reach-has-declined-20-2017)in recent times.
 
