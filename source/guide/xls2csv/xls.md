@@ -21,7 +21,7 @@ Several free alternatives to Excel that can be used to both open and edit XLS fi
 **Note**: Saving XLS files this way using the Chrome extension forces them to be stored in the newer XLSX format.
 
 <br>
-## How To Convert an XLS Files?
+## How To Convert an XLS File?
 You can convert  XLS files to various formats, such as  CSV, PDF, XPS, XML, TXT, XLSX, PRN, etc. Here we mainly talked about how to convert XLS files to Csv format.
 
 If you don't have an XLS editor installed, or don't want to install one, using a document converter is another option. With Gmagon <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >XLS2csv</a> installed, it won’t be a problem to create tab delimited CSV files from Excel spreadsheets.
