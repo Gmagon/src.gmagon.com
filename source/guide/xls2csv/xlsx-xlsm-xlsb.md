@@ -5,7 +5,7 @@ description: What’s the difference between XLSX, XLSM and XLSB? Read this arti
 ---
 Microsoft Excel allows users saving spreadsheet in a variety of file formats with the extension XLSX, XLSM and XLSB. What’s the difference between XLSX, XLSM and XLSB? Read this article to find the answer. 
 ![](../img/xlsx-xlsm-xlsb.png)
-What’s the real difference between XLSX, XLSM and XLSB? 
+### What’s the real difference between XLSX, XLSM and XLSB? 
 XLSX and XLSM are the successors of the old XLS format. While the old XLS format has stored the data binary, XLSX and XLSM are internally using the XML format (Extensible Markup Language).
 
 The difference between XLSX and XLSM is that XLSX does not contain macros and in contract XLSM does. So, if you do not want to worry about any security settings, you can just choose the XLXS format for your spreadsheet. Macros are simply not stored when using the XLXS format.
