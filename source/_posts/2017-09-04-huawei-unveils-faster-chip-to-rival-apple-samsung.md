@@ -3,6 +3,7 @@ title: Huawei unveils faster phone chip to rival Apple and Samsung
 ---
 
 ![](https://gmagon.com/guide/img/huawei.png)
+FILE PHOTO: Visitors are seen at HUAWEI stand during the 2017 Mobile World Congress in Shanghai, China June 28, 2017. REUTERS/Stringer
 
 BERLIN \(Reuters\) - Huawei \[HWT.UL\] aims to use artificial intelligence-powered features such as instant image recognition to take on rivals Samsung and Apple when it launches its new flagship phone next month, a top executive said on Saturday.
 

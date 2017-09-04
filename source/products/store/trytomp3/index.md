@@ -1,18 +1,19 @@
 layout: app
-title: TryToMP3-a streamlined MP3 audio file converter on Mac
+title: TryToMP3-convert any video/audio files to MP3 on Mac
 subtitle: TryToMP3
 comments: false
 current: index
-keywords: mp3 converter on mac, convert to mp3 on mac, mac mp3 converter download, mp4 to mp3 converter mac, mac mp3 music converter, convert mp4 to mp3 on mac
-description: TryToMP3 is a minimum converter that easily converts various audio formats to MP3 file on Mac. 
+keywords: mp3 converter on mac, convert to mp3 on mac, any audio to mp3 converter mac, mac mp3 music converter, convert any video to mp3 on mac
+description: TryToMP3 helps users convert a set of video and audio files to MP3 format on Mac quickly and easily.  
 ---
-
 
 ## OVERVIEW
 
-![](./images/screens/s2_664x374_op.png)
+![](./images/screens/trytomp3.gif)
 
-**TryToMP3** is an MP3 music converter which runs on Mac. It aims to convert various audio formats to MP3 for Mac users, for example, to convert MP4 to MP3, WMA to MP3, AAC to MP3, etc. The software can intelligently recognize most audio formats and transform it to MP3 quickly. Without log in and registration, or any plug-in, you can enjoy simple, swift and free listening experience anytime and everywhere. Just try it!
+**TryToMP3** is a Mac MP3 music converter. It is capable of converting audio files in various formats to MP3 format, for example, converting AAC to MP3, converting FLAC to MP3, converting AC3 to MP3, converting M4A to MP3 and more. Plus, our app allows you to extrat an audio track from a video and save it as MP3. This feature is useful when you want to save a particular song from a movie or a music video. 
+
+This any video/audio to MP3 converter for Mac works with almost all video and audio formats and can convert multiple files simultaneously in a batch, saving them in the widely-accepted MP3 format. Just try it!
 
 <br>
 <div class="buy">
@@ -23,7 +24,7 @@ description: TryToMP3 is a minimum converter that easily converts various audio 
 <br>
 
 ## USE CASES: BUILT FOR YOU
-TryToMP3 delivers high-quality MP3 format designed for every kind of Mac users. Users for MP3-players are able to keep their devices without concerns. Avid movie goers get a well-content tool to aftertaste memorable movie lines. As a voice fetish, you can easily get your favorite voice from TryToMP3. Listening is a key to learn foreign languages, TryToMP3 will be a good helper for you to learn a new language.
+TryToMP3 delivers high-quality MP3 format designed for every kind of Mac users. MP3-player users are able to keep their devices without concerns. Avid movie goers get a well-content tool to aftertaste memorable movie lines. As a voice fetish, you can easily get your favorite voice from TryToMP3. Listening is a key to learn foreign languages, TryToMP3 will be a good helper for you to learn a new language.
 
 1. **MP3-player Users**: Heard the recent stories that MP3 has been killed? Wondered whether throw away the MP3-player you just bought last month or not?Please show mercy! Maybe it’s time for you to try this software to save MP3. At least, your MP3-player is not dead at all.<br>
 ![](./images/screens/Listening-to-music.small_-664x374.jpg)

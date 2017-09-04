@@ -4,6 +4,13 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## v4.1.0
+<script> GmagonUtils.$verNote('2017-09-04')</script>
+
+- Redesigned user interface. 
+- Supports batch conversion to MP3 format. 
+- A big upgrade on conversion engine. 
+- Upgraded to support about 2,000 audio and video formats. 
 
 ## v4.0
 <script> GmagonUtils.$verNote('2017-05-24')</script>
