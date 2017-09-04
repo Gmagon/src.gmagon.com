@@ -2,8 +2,7 @@
 title: The Tutorial of Printing Remainders Lists from A Mac
 ---
 
-!
-[](http://img1.tuicool.com/Iveeaur.jpg!web)
+![](http://img1.tuicool.com/Iveeaur.jpg!web)
 
 If you use the Reminders app on the Mac, you may wish to print out a reminders list, maybe it’s a grocery list or a checklist of things you need to do. Curiously, the Reminders app for Mac does not include the ability to print, however. So how do you print a reminders list from a Mac or reminders in iCloud?
 
