@@ -2,8 +2,8 @@
 title: What It's For Or How To Use Instagram's Archive Feature
 ---
 
-!
-[](http://img1.tuicool.com/3uMnYvI.png!web)
+
+![](http://img1.tuicool.com/3uMnYvI.png!web)
 
 Instagram released its Archive feature in June, but you might not know what it's for or how to use it.
 
