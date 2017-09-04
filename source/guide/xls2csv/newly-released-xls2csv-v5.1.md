@@ -15,6 +15,7 @@ Check a user guide below:
 
 Download a free trial of Gmagon XLS2csv 5.1
 <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" ><img src="https://gmagon.com/asset/images/free-download.png" /></a>
+Note: XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required. 
 
 Also read 
 <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
