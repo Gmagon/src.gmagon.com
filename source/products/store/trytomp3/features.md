@@ -5,152 +5,57 @@ comments: false
 current: features
 ---
 
-## FEATURES
+## Features
 
-- Built for Mac users only
-- Super-quick conversion
-- Fool-style operation
-- Support most popular audio formats
+1. Built for Mac users only
+1. Super-quick conversion
+1. Fool-style operation
+1. Support most popular audio formats
 
 
-Format                      |        Support
-----------------------------|------------------------------
-8SVX fibonacci | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-AAC+ | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-AAC | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-AC-3s | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM 4X Movie | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM CDROM XA | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Creative Technology | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts Maxis CDROM XS | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts R1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts R2 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts R3 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Electronic Arts XAS | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM G.722 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM G.726 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA AMV | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Electronic Arts EACS | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Electronic Arts SEAD | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Funcom | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA QuickTime | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Loki SDL MJPEG | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA WAV | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Westwood | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM ISS IMA | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Dialogic | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Duck DK3 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Duck DK4 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM IMA Radical | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Microsoft | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM MS IMA  | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Nintendo Gamecube AFC | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Nintendo Gamecube DTK | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Nintendo Gamecube THP | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM QT IMA | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM SEGA CRI ADX | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Shockwave Flash | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Sound Blaster Pro 2-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Sound Blaster Pro 2.6-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Sound Blaster Pro 4-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Westwood Studios IMA | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ADPCM Yamaha | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-AMR-NB | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-AMR-WB | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Amazing Studio PAF Audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Apple lossless audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ATRAC1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ATRAC3 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-ATRAC3+ | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Bink Audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-CELT | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Delphine Software International CIN audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Discworld II BMV Audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-COOK | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DCA (DTS Coherent Acoustics) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DPCM id RoQ | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DPCM Interplay | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DPCM Sierra Online | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DPCM Sol | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DPCM Xan | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DSP Group TrueSpeech | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-DV audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Enhanced AC-3 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-EVRC (Enhanced Variable Rate Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-FLAC (Free Lossless Audio Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-G.723.1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-G.729 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-GSM | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-GSM Microsoft variant | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-IAC (Indeo Audio Coder) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-iLBC (Internet Low Bitrate Codec) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-IMC (Intel Music Coder) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MACE (Macintosh Audio Compression/Expansion) 3:1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MACE (Macintosh Audio Compression/Expansion) 6:1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MLP (Meridian Lossless Packing) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Monkey’s Audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MP1 (MPEG audio layer 1) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MP2 (MPEG audio layer 2) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MP3 (MPEG audio layer 3) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-MPEG-4 Audio Lossless Coding (ALS) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Musepack SV7 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Musepack SV8 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Nellymoser Asao | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Opus | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM A-law | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM mu-law | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 8-bit planar | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 16-bit big-endian planar | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 16-bit little-endian planar | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 24-bit little-endian planar | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 32-bit little-endian planar | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM 32-bit floating point big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM 32-bit floating point little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM 64-bit floating point big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM 64-bit floating point little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM D-Cinema audio signed 24-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 8-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 16-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 16-bit little-endian  | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 24-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 24-bit little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 32-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 32-bit little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM signed 16/20/24-bit big-endian in MPEG-TS | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 8-bit | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 16-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 16-bit little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 24-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 24-bit little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 32-bit big-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM unsigned 32-bit little-endian | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-PCM Zork | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-QCELP / PureVoice | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-QDesign Music Codec 2 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-RealAudio 1.0 (14.4K) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-RealAudio 2.0 (28.8K) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-RealAudio 3.0 (dnet) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-RealAudio Lossless | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-RealAudio SIPR / ACELP.NET | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Shorten | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Sierra VMD audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Smacker audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-SMPTE 302M AES3 audio | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Sonic | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Sonic lossless | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Speex | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-TAK (Tom’s lossless Audio Kompressor) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-True Audio (TTA) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-TrueHD | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-TwinVQ (VQF flavor) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-VIMA | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Vorbis | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Voxware MetaSound | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-WavPack | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Westwood Audio (SND1) | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Windows Media Audio 1 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Windows Media Audio 2 | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Windows Media Audio Lossless | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Windows Media Audio Pro | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
-Windows Media Audio Voice | <i class="fa fa-check" style="color: green" aria-hidden="true"></i>
+## 1. Support some audio and sound file extension
+
+
+An **audio** file format is a container format for storing audio data on a computer system. There are many formats of audio and codecs, but they can be divided in three basic groups: uncompressed audio file formats, lossless compression audio formats and **lossy compression audio file formats**.
+
+> The most used and known uncompressed audio file format is PCM, which is usually stored as a .wav on Windows or as .aiff on MAC. **WAV** and **AIFF** are a flexible file formats designed to store more or less any combination of sampling rates or bitrates. This makes them suitable file formats for storing and archiving the original recording. CD-quality sound files in uncompressed PCM format are large in size - around 10 MB per minute.
+
+---
+
+> A lossless compressed format would require more processing for the same time recorded, but would be more efficient in terms of disk space used. Representative of lossless compressed format is FLAC (Free Lossless Audio Codec). FLAC file is an audio format similar to MP3, but lossless, meaning that the audio information is compressed in FLAC file without any loss in its audio quality. This is similar to how Zip works, except that with FLAC, you will get much better compression rate, because it is designed specifically for audio files.
+
+---
+
+> Lossy compression audio file formats are the most used audio formats in today's computers and other multimedia equipment. The best known of compressed audio formats is MP3 (MPEG-1 Audio Layer 3). MP3 file format, is a patented digital audio encoding format using a form of lossy data compression. It is a common audio format for consumer audio storage, as well as a de facto standard of digital audio compression for the transfer and playback of music on digital audio players.
+
+** Audio and sound file extesions **
+
+|Type                        |File extesions              |
+|----------------------------|----------------------------|
+|**Audio** | 'kit', 'kma', 'kmp', 'koz', 'kr1', 'kris', 'krx', 'krz', 'ksf', 'ksm', 'kss', 'kt2', 'kt3', 'ktp', 'kws', 'kxl', 'kxsfc', 'l', '$ri', 'la', 'laa', 'lam', 'latm', 'lbl', 'ldr', 'lds', 'liq', 'lm4', 'lme', 'lms', 'logic', 'logicx', 'loop', 'lpc', 'lpcm', 'lqt', 'ls3', 'lso', 'lthmb', '10', '16', '2', '2ch', '2sflib', '32', '3ga', '404', '669', '6cm', '7', '8cm', '8med', '8svx', '???', 'a2b', 'a2i', 'lvp', 'lwv', 'ly', 'm', 'm1a', 'm22', 'm2a', 'm2m', 'm2s', 'm3a', 'm3v', 'm4a', 'm4b', 'm4p', 'm4r', 'a2m', 'a2p', 'a2t', 'a2w', 'a3k', 'a3s', 'a52', 'aa', 'aa3', 'aac', 'aaf', 'aax', 'abc', 'abk', 'm5m', 'm5p', 'ma', 'ma1', 'abm', 'abs', 'ac1d', 'ac3', 'ac7', 'acd', 'ma1.mmf', 'ma2.mmf', 'mac', 'mad', 'map', 'maud', 'mbj', 'mcf', 'mcp', 'mct', 'md', 'acid', 'acm', 'acp', 'act', 'ad2', 'ad3', 'ad4', 'addoc', 'ade', 'adg', 'adl', 'adt', 'adts', 'mdc', 'mdi', 'mdl', 'mdt', 'mdx', 'mdz', 'med', 'mes', 'mf', 'mf3', 'mfb', 'mff', 'mfk', 'mg', 'mg1', 'mg2', 'afc', 'afi', 'afp', 'afs', 'agm', 'agr', 'ahx', 'aif', 'aifc', 'aiff', 'aifr', 'mg4', 'mg9', 'mgb', 'mgt', 'mgu', 'mgv', 'mia', 'mid', 'midi', 'minibank', 'minigsf', 'miniusf', 'mix', 'ais', 'ajp', 'ajz', 'akai', 'al', 'alac', 'alaw', 'alb', 'alc', 'all', 'alp', 'als', 'alw', 'amd', 'miz', 'mjf', 'mk1', 'mka', 'mkf', 'mkii', 'mkj', 'mkw', 'ml', 'mld', 'mlp', 'mls', 'mm4', 'mm8', 'mmf', 'mmlp', 'amf', 'amr', 'ams', 'amsproj', 'amxd', 'amz', 'ang', 'aob', 'aon', 'ap4', 'apc', 'ape', 'apex', 'apl', 'apu', 'architect', 'arf', 'aria', 'mmm', 'mmp', 'mmpz', 'mms', 'mo3', 'mod', 'mogg', 'moi', 'mon', 'mot', 'motbin', 'movie', 'mp+', 'mp1', 'ariax', 'arl', 'arp', 'arpx8', 'arr', 'ars', 'asc', 'ase', 'asf', 'ask', 'asnd', 'mp2', 'mp2a', 'mp3', 'mp3a', 'mp3g', 'mp3pro', 'mp3url', 'mp4a', 'mp4b', 'mpa', 'mpa2', 'mpc', 'ast', 'mpdp', 'mpega', 'mpg3', 'mpga', 'mpr', 'mps', 'mptm', 'mptmz', 'mpu', 'mpy', 'mpz', 'mp_', 'msa', 'msc', 'asvx', 'asx', 'asxml', 'at3', 'atak', 'atm', 'atn', 'atp', 'atrac', 'au', 'aud', 'mscx', 'mscz', 'mse', 'msq', 'mss', 'msv', 'mt2', 'mt9', 'mtd', 'mti', 'mtk', 'mtm', 'mtp', 'mts', 'mt_', 'audionote', 'auf', 'aup', 'aupreset', 'avastsounds', 'avr', 'avv', 'awb', 'axa', 'axe', 'ay', 'ayn', 'azx', 'b3p', 'mu3', 'mui', 'muk', 'mus', 'bam', 'band', 'bbz', 'bcs', 'bd', 'bel', 'bf', 'bgp', 'bjo', 'bmm', 'bmtp', 'bmu', 'bmw', 'bn', 'bn4', 'mus10', 'musx', 'mux', 'mv3', 'mwand', 'mwav', 'mwk', 'mws', 'mww', 'mx1', 'mx3', 'mx4', 'mx5', 'bnk', 'bonk', 'box', 'bpp', 'mx5template', 'mx6', 'mxc2', 'mxl', 'mxmf', 'mxtx', 'my', 'br25', 'br27', 'br28', 'br29', 'br3', 'br31', 'br32', 'br4', 'br48', 'br5', 'brr', 'brsar', 'myr', 'myv', 'mz', 'mzp', 'n3a', 'nabs', 'nak', 'narrative', 'nbkt', 'nbs', 'nch', 'nec', 'nfd_audio', 'nfm8', 'ngrr', 'brstm', 'bsi', 'btab', 'bun', 'bvf', 'bwf', 'bwg', 'bww', 'bz2', 'c01', 'ca3', 'caf', 'caff', 'cal', 'camelsounds', 'cap', 'cd', 'niff', 'nist', 'nki', 'nmf', 'nmsv', 'nmx', 'noktxt', 'note', 'npf', 'npr', 'nsa', 'nsf', 'nsfe', 'cda', 'cdda', 'cdfs', 'cdg', 'cdlx', 'cdo', 'cdr', 'cdsg', 'cdz', 'celp', 'cff', 'nsla', 'nsmp', 'nsp', 'nst', 'nsv', 'ntn', 'ntw', 'nvf', 'nwc', 'nwf', 'nwp', 'cfxr', 'chk', 'ckb', 'ckf', 'cks', 'cl3', 'clp', 'cmf', 'cmo', 'cmp', 'cms', 'cmx', 'cod', 'cop', 'copy', 'nxt', 'o01', 'obw', 'ocdf', 'oda', 'odd', 'ofr', 'ofs', 'oga', 'ogg', 'okt', 'olv', 'oma', 'omc', 'omf', 'omfi', 'omg', 'omx', 'cpa', 'cpt', 'crd', 'crossmedia', 'crv', 'cs3', 'csw', 'ct3', 'cts', 'cvs', 'cvsd', 'cvu', 'cwb', 'cwp', 'opus', 'orc', 'org', 'ors', 'osb', 'osp', 'ots', 'ott', 'out', 'ov0', 'ove', 'ovw', 'oxm', 'p', 'cwt', 'd', 'd00', 'd01', 'da', 'daap', 'dat', 'dau', 'daw', 'db', 'db7', 'dbm', 'dcf', 'dcm', 'dct', 'dda', 'dewf', 'df2', 'p16', 'paal', 'pac', 'paf', 'pat', 'patch', 'pbf', 'pc', 'pca', 'pcg', 'pch2', 'pcm', 'peak', 'pgm', 'dfc', 'dff', 'dfh', 'dfm', 'dig', 'djmusic', 'dkd', 'dkt', 'dlp', 'dls', 'dm', 'dm1', 'pgo', 'phr', 'ple', 'plm', 'plp', 'pls', 'plst', 'ply', 'pmd', 'pna', 'pno', 'ppc', 'ppcx', 'ppf', 'pre', 'prg', 'dma', 'dmc', 'dmf', 'dmkit', 'dmo', 'dmpatch', 'dmptrn', 'dmsa', 'dmse', 'dmu', 'dp3', 'dpdoc', 'pro4pl', 'pro5pl', 'ps', 'ps16', 'psb', 'psf', 'psf2', 'psflib', 'psi', 'psid', 'psion', 'psm', 'psmm', 'pst', 'psy', 'dpm', 'dqa', 'dr8', 'dra', 'drg', 'dro', 'pt3', 'ptb', 'ptcop', 'ptm', 'pttune', 'ptvoice', 'ptx', 'ptxt', 'puma', 'pvc', 'pw3', 'px1', 'drx', 'ds', 'ds2', 'dsd', 'dsf', 'dsm', 'dss', 'dtg', 'dtm', 'dts', 'dtshd', 'dva', 'dvc', 'dvf', 'dvw', 'pya', 'q1a', 'qam', 'qc-emod', 'qcp', 'dw', 'dwd', 'dwp', 'dx7', 'dy44', 'e2ev', 'e4b', 'ea', 'eac3', 'qsd', 'qsf', 'r', 'r36', 'r3a', 'r3p', 'ra', 'rad', 'ram', 'raw', 'rawa', 'rbdf', 'rbs', 'rc2', 'rcp', 'ear', 'ec3', 'ecelp7470', 'ecw', 'eda', 'ede', 'edk', 'edq', 'edv', 'edx', 'efa', 'efe', 'efk', 'efq', 'efs', 'efv', 'efx', 'rcy', 'rdl', 'rec', 'record', 'rel', 'repatch', 'rex', 'rf64', 'rfl', 'rfm', 'rg', 'rgp', 'rh', 'rhl', 'rhp', 'rif', 'ring', 'elastik', 'elist', 'elp', 'em2', 'emb', 'emd', 'emelody', 'emp', 'emu-sl', 'emy', 'en$', 'ens', 'eol', 'eop', 'epm', 'ept', 'eragesoundset', 'erg', 'rip', 'rix', 'rka', 'rkr', 'rma', 'rmf', 'rmi', 'rmid', 'rmj', 'rmm', 'rmp', 'rms', 'rmx', 'rng', 'rns', 'es', 'eseq', 'esps', 'esu', 'eta', 'etm', 'etv', 'etw', 'eui', 'evcs', 'evo', 'evrc', 'evx', 'evz', 'ewi', 'exb', 'rnx', 'ro3', 'rockwell', 'rockwell-2', 'rockwell-3', 'rockwell-4', 'rol', 'rpp', 'rsd', 'rsf', 'rsn', 'rso', 'rta', 'rti', 'rtm', 'rtttl', 'exl', 'exs', 'f2r', 'f32', 'f3r', 'f4a', 'f4b', 'f4p', 'f64', 'far', 'fc', 'fc13', 'fc14', 'fc4', 'fcm', 'fff', 'fla', 'flac', 'rx2', 's', 's2a', 's2b', 's3i', 's3m', 's3p', 's3z', 's48', 's7', 's98', 'sa1', 'flm', 'flp', 'fls', 'flt', 'fnf', 'fnk', 'fp3', 'fpt', 'fred', 'frg', 'fsb', 'fsc', 'fsm', 'fspro', 'fssd', 'fst', 'ftc', 'sa2', 'sab', 'sabl', 'sabs', 'sag', 'sagem', 'sam', 'sap', 'sar', 'sat', 'sb', 'sb0', 'sbg', 'sbi', 'sbk', 'sbm', 'fti', 'ftm', 'ftmx', 'fxm', 'fzb', 'fzf', 'fzv', 'g18', 'g36', 'g721', 'g723', 'g723-3', 'g723-5', 'g726', 'sc', 'sc2', 'sc4', 'sc68', 'sci', 'scm', 'sco', 'scr', 'scs11', 'sd', 'sd2', 'sd2f', 'sdat', 'g726-2', 'g726-3', 'g726-4', 'g726-5', 'gbproj', 'gbs', 'gdm', 'gi!', 'gig', 'gio', 'gkh', 'smfmf', 'sdc', 'sdf', 'sdii', 'sdir', 'sdirproj', 'sdk', 'sdp', 'sdr', 'sds', 'sdv', 'sdw', 'sdx', 'sep', 'seq', 'glue', 'gm', 'gmc', 'gog', 'gp4', 'gp5', 'gpbank', 'gpx', 'gro', 'grp', 'gsf', 'gsflib', 'smg', 'smp', 'smpx', 'ses', 'sesx', 'sf', 'sf2', 'sfark', 'sfd', 'sfi', 'sfil', 'sfk', 'sfl', 'sfr', 'sfs', 'sfw', 'gsm', 'gtp', 'gym', 'h2p', 'h2song', 'hco', 'hcom', 'hes', 'hh', 'hip', 'hma', 'hrt', 'hsb', 'hsc', 'hsp', 'htk', 'hvl', 'i3pack', 'sn', 'sn2', 'snc', 'snd', 'sndclipping', 'sndh', 'sndr', 'sndt', 'sng', 'snsf', 'so3', 'sfx', 'sfz', 'sg2', 'sg4', 'sgp', 'sgu', 'sgw', 'shn', 'sib', 'sj_', 'skm', 'slp', 'slx', 'sly', 'iaa', 'iaf', 'ibk', 'ics', 'id31', 'id32', 'idd', 'idf', 'iff', 'ikx', 'ima4', 'imelody', 'imf', 'ims', 'imw', 'ins', 'ipr', 'son', 'song', 'sonic', 'sop', 'sou', 'sox', 'spc', 'spd', 'spj', 'spl', 'spm', 'sppack', 'sps', 'spu', 'spx', 'sqt', 'sri', 'sm', 'smaf', 'smd', 'smf', 'is', 'isb', 'isma', 'iss', 'ist', 'it', 'iti', 'itls', 'its', 'itz', 'ivc', 'j8e', 'jam', 'jcb', 'srt', 'ss3', 'ssdl', 'sseq', 'ssf', 'ssm', 'sst', 'st', 'st3', 'stap', 'stem', 'stem.mp4', 'stm', 'stmp', 'jcp', 'jdf', 'jjc', 'jlw', 'jo', 'joy', 'jwl', 'k1s', 'k25', 'k26', 'kam', 'kar', 'kat', 'kfn', 'kft', 'kin', 'strd', 'struma', 'strume', 'sts', 'stx', 'sty', 'stz', 'sun', 'svd', 'svq', 'svx', 'sw', 'swa', 'swc', 'swd', 'sws', 'swv', 'sxt', 'syh', 'syn', 'syw', 'syx', 'sy_', 'tak', 'tf', 'tfe', 'tfmx', 'tfx', 'thd', 'thx', 'tjn', 'tjs', 'tks', 'tl', 'tm2', 'tm8', 'tn7', 'toc', 'tqd', 'trk', 'trm', 'tsh', 'tsi', 'tsl', 'tsp', 'tst', 'tta', 'ttx', 'tvd', 'tvn', 'twv', 'txt', 'txw', 'u', 'u255law', 'uax', 'ub', 'uds', 'udw', 'ulaw', 'ult', 'ulw', 'umx', 'uni', 'unic', 'userkit', 'usf', 'usflib', 'usr', 'ust', 'usv', 'uvd', 'uvn', 'uvo', 'uw', 'uwf', 'v8', 'vab', 'vag', 'val', 'vap', 'vb', 'vbk', 'vbs', 'vc', 'vc3', 'vce', 'vd', 'vdj', 'vdjsample', 'vem', 'vgm', 'vgz', 'vh', 'vic', 'vif', 'vig', 'vip', 'viv', 'vm', 'vm1', 'vmd', 'vmf', 'vmo', 'voc', 'voi', 'vos', 'vox', 'vox-6k', 'vox-8k', 'voxal', 'vp', 'vqf', 'vql', 'vrf', 'vsb', 'vsi', 'vsq', 'vsqx', 'vst', 'vtx', 'vwd', 'vy3', 'vy4', 'vyf', 'w01', 'w02', 'w03', 'w04', 'w05', 'w06', 'w07', 'w08', 'w09', 'w10', 'w2a', 'w2e', 'w2v', 'w2w', 'w3e', 'w4a', 'w64', 'w6e', 'w7a', 'w7e', 'w7v', 'w7w', 'w8e', 'w8v', 'w9e', 'w??', 'wa!', 'wa8', 'wand', 'waptt', 'wav', 'wavc', 'wave', 'wave64', 'wax', 'wbnk', 'weba', 'wem', 'wfb', 'wfd', 'wfp', 'wm', 'wma', 'wmn', 'wow', 'wpd', 'wpl', 'wpp', 'wproj', 'wrf', 'wrk', 'ws', 'wsq', 'wsr', 'wsx', 'wtpt', 'wus', 'wusiksnd', 'wut', 'wv', 'wvc', 'wve', 'wwf', 'wwu', 'wwv', 'wyz', 'x0v', 'x3a', 'x3v', 'x6v', 'xa', 'xad', 'xann', 'xbmml', 'xfs', 'xi', 'xiz', 'xkr', 'xm', 'xmf', 'xmi', 'xms', 'xmz', 'xp', 'xpak', 'xpf', 'xpk', 'xpl', 'xrns', 'xsb', 'xsm', 'xsml', 'xsz', 'xt', 'xvag', 'xwb', 'xwc', 'xwma', 'yadpcm', 'ym', 'ynx', 'ytif', 'z00', 'zab', 'zaf', 'zax', 'zdv', 'zel', 'zgr', 'zik', 'zmon', 'zvd', 'zvr', '_02' |
+
+
+
+## 2. Support some digital video and movie file extension
+
+File extensions used for **various multimedia** file types - movies, films, videos, animations and other file types related to digital video software, **video players** and digital video editing.
+Video and multimedia files represent a huge group of file types that contain digitally capturing, recording, processing, storing, transmitting, and reconstructing a sequence of still images representing scenes in motion, often together with an audio track (sound, music, etc.), which in essence means that a "video file" is but a container for all the multimedia data used during the playback.
+
+You can find hundreds of different video formats, but only some of them made a popular breakthrough and became standards in the industry (computers, multimedia equipment, cinemas, home theaters, portable players etc.).
+Some of the most used video file formats today are:
+**AVI** format still represent one of the most common video containers, although it is slowly surpassed by more modern formats. AVI is an abbreviation for Audio Video Interleave format and was originally developed by Microsoft based on Resource Interchange File Format (**RIFF**). Multimedia content can be compressed in a multitude of supported video or audio formats and some codecs may be even added to the container, but a few special exceptions. These include **(DivX, XVID, MP3, AAC)** codecs that must be installed in the operating system or supported by the used multimedia device (DVD player, portable player etc.).
+
+- **MPG (MPEG)**, a video format developed by Moving Picture Experts Group. MPEG is an ISO standard used by many multimedia devices (DVD players, Blu-RAY, portable players, computers).
+- **VOB**, a DVD Video object file. A .vob file is a container file that contains most of the movie data, including the video and audio streams, along with subtitles and any other DVD menu features. DVD uses the MPEG-2 compression.
+- **MP4**, a MPEG-4 multimedia file format based on ISO standard as defined by the MPEG-4 specification. It contains MPEG-4 encoded video and advanced audio coding (AAC)-encoded audio content. It also frequently uses h.264 or lately h.265 encoded videos. Nowadays it is perhaps one of the most commonly used multimedia format.
+- **M2TS**, a **Blu-Ray** MPEG-2 stream. The M2TS container format is based on the standard MPEG-2. Blu-ray are using transport streams, instead of DVD's program streams, to store video, audio, and other data. Used for high definition multimedia content.
+- **MOV**, QuickTime multimedia container format that can store one or more tracks of data such as video, audio, text, and effects. Used and known for ages by Mac users.
+- **3GP**, a standard for the creation, delivery and playback of multimedia over 3rd generation, high-speed wireless networks. You can mostly encounter 3GP multimedia files on mobile platforms.
+- **MKV**, a Matroska multimedia container based on an open standard format that can hold an unlimited number of video, audio, picture or subtitle tracks inside a single file.
+
+** Digital video and movie file extensions **
+
+|Type                        |File extesions              |
+|----------------------------|----------------------------|
+|**Video(Movie)** | 'sgvx', 'siv', 'sky', 'slc', 'smk', 'smpg', 'smv', 'snapfireshow', 'snd', 'sol', 'splash', 'sqz', 'ssif', 'ssm', 'ssw', 'st4', 'stj', 'stk', 'str', 'strg', 'stu', 'stx', 'svcd', 'svd', 'svi', 'swc', 'swf', 'swi', 'swz', 'tab', 'tda3mt', 'tdt2', 'tgv', 'theater', 'thp', 'tivo', 'tix', 'tmf', 'tmi', 'tms', 'tmv', 'tod', 'tp', 'tp0', 'tpd', 'trec', 'tridefmovie', 'trn', 'trp', 'trt', 'ts', 'ts4', 'tscproj', 'tsp', 'tstream', 'tts', 'tv', 'tvml', 'tvod', 'tvs', 'tvv', 'tx3g', 'ty', 'ub1', 'um4', 'urc', 'usm', 'uvcab', 'uvf', 'uvnts', 'uvs', 'uvseg', 'v', 'v264', 'vbc', 'vbs', 'vc1', 'vcd', 'vcl', 'vcm', 'vcp', 'vcpf', 'vcprj', 'vcr', 'vcs', 'vcv', 'vdf', 'vdm', 'vdr', 'veg', 'vem', 'vep', 'vep4', 'vf', 'vfo', 'vfw', 'vg', 'vg2', 'vghd', 'vgq', 'vgx', 'vgz', 'vid', 'video', 'viewlet', 'viv', 'vivo', 'vlab', 'vmlf', 'vmm', 'vob', 'vod', 'vp10', 'vp3', 'vp5', 'vp6', 'vp7', 'vp8', 'vp9', 'vpd', 'vpg', 'vpj', 'vprj', 'vproj', 'vro', 'vs2', 'vs4', 'vse', 'vtf', 'vvf', 'w32', 'w3d', 'webm', 'wfsp', 'wlmp', 'wm', 'wm3', 'wmmp', 'wmv', 'wmv3', 'wot', 'wpe', 'wsa', 'wsv', 'wsve', 'wtv', 'wve', 'wxp', 'xas', 'xavc', 'xba', 'xl', 'xlmv', 'xmm', 'xmv', 'xpv', 'xtodvd', 'xvid', 'xvw', 'xwmv', 'y4m', 'yify', 'yog', 'zeg', 'zrb', '$ts', '032', '261', '263', '264', '265', '26l', '3g2', '3gp', '3gp2', '3gpp', '3gpp2', '3gp_128x96', '3ivx', '3mm', '3p2', '44', '4xm', '603', '60d', '800', '890', 'aav', 'acw', 'adr', 'aec', 'am2', 'am5', 'am7', 'amc', 'amv', 'apz', 'aqt', 'arcut', 'arf', 'asdvdcrtproj', 'asf', 'ask', 'ast', 'asx', 'aut', 'avb', 'avc', 'avchd', 'avd', 'avf', 'avi', 'avr', 'avs', 'awlive', 'axm', 'badongo', 'bay', 'bbv', 'bdav', 'bdmv', 'bdt2', 'bdt3', 'bdtp', 'bik', 'bix', 'biz', 'bmc', 'bmk', 'bnk', 'box', 'bs4', 'bsf', 'bts', 'bu', 'bub', 'bup', 'buy', 'bvr', 'bvz', 'c2r', 'cak', 'cam', 'camproj', 'camrec', 'camthtr', 'camv', 'cavs', 'ccp', 'ccr', 'cct', 'cel', 'cin', 'cine', 'clk', 'cmmp', 'cmmtpl', 'cmproj', 'cmrec', 'cor', 'cpk', 'cpvc', 'crec', 'crv', 'ctd', 'cvc', 'cx3', 'd2v', 'd3v', 'daproj', 'dash', 'dat', 'dav', 'db2mov', 'dc8', 'dce', 'dcf', 'dcr', 'demo', 'demo4', 'dfv', 'dfxp', 'dgw', 'dif', 'dir', 'div', 'divx', 'djanimations', 'dlx', 'dmb', 'dmf', 'dmo', 'dmsd', 'dmsd3d', 'dmskm', 'dmsm', 'dmss', 'dmv', 'dmx', 'dof', 'doink-gs', 'dpd', 'dpg', 'drc', 'drt', 'dscf', 'dsf', 'dsm', 'dsy', 'dtcp-ip', 'dtv', 'dv', 'dv-avi', 'dv4', 'dv5', 'dvddata', 'dvdmedia', 'dvdrip', 'dvm', 'dvr', 'dvr-ms', 'dvsd', 'dvt', 'dvx', 'dwz', 'dxa', 'dxr', 'ecf', 'encm', 'epj', 'epm', 'es3', 'eti', 'etrg', 'ev2', 'eva', 'evo', 'exo', 'eye', 'ezp', 'eztv', 'f4v', 'fbr', 'fbz', 'fcm', 'fcp', 'fcproject', 'fcpxml', 'film', 'flc', 'flexolibrary', 'flh', 'fli', 'flic', 'fli_', 'flm', 'flux', 'flv', 'flvat', 'fm2', 'fmc', 'fmf', 'fmv', 'fpb', 'fr', 'fre', 'fsv', 'ftvx', 'fvt', 'g2m', 'g64', 'g64x', 'gdwx', 'gfp', 'gifv', 'gir', 'gmm', 'gmt', 'grasp', 'gtp', 'gts', 'gvi', 'gxf', 'h-263', 'h.263', 'h260', 'h261', 'h263', 'h263+', 'h264', 'h265', 'h3r', 'h4v', 'h64', 'hav', 'hbox', 'hdmov', 'hevc', 'hgd', 'hkm', 'hkv', 'hls', 'hlv', 'hm10', 'hmt', 'hmv', 'hnm', 'hq', 'hs', 'htd', 'htp', 'hup', 'ifv', 'iis', 'ilm', 'imovieproj', 'imovieproject', 'imovietrailer', 'ipr', 'ircp', 'irf', 'ismv', 'iva', 'ivf', 'ivm', 'ivr', 'ivs', 'ivu', 'izzy', 'jmf', 'jmm', 'jpf', 'jpv', 'jts', 'jtv', 'jvt', 'jyk', 'k3g', 'kava', 'kmv', 'kux', 'kwa', 'l3', 'l32', 'lrec', 'lrv', 'lsf', 'lsproj', 'lsx', 'lza', 'm-jpeg', 'm15', 'm1pg', 'm1s', 'm1v', 'm21', 'm2p', 'm2s', 'm2t', 'm2ts', 'm2v', 'm4e', 'm4f', 'm4s', 'm4u', 'm4v', 'm65', 'mbv', 'mcf', 'mcv', 'mep', 'mepx', 'met', 'mfp', 'mfv', 'mgv', 'mhg', 'mio', 'mj2', 'mjp', 'mjp2', 'mjpeg', 'mjpg', 'mk3d', 'mks', 'mkv', 'mkv3d', 'ml20', 'mmm', 'mmp', 'mmv', 'mnv', 'mod', 'moff', 'moo', 'moov', 'mov', 'movie', 'mp', 'mp21', 'mp2v', 'mp4', 'mp41', 'mp4;v=1', 'mp4v', 'mp7', 'mpb', 'mpcpl', 'mpe', 'mpeg', 'mpeg1', 'mpeg2', 'mpeg4', 'mpegps', 'mpg', 'mpg2', 'mpg4', 'mpgv', 'mpgx', 'mpj', 'mps', 'mpv', 'mpv2', 'mpv4', 'mqv', 'mrd', 'msh', 'mts', 'mts1', 'mtv', 'mv', 'mv1', 'mv2', 'mv4', 'mv85', 'mv93', 'mv95', 'mvc', 'mvd', 'mvf', 'mvp', 'mvr', 'mvv', 'mvw', 'mvy', 'mxf', 'mxm', 'mxv', 'mys', 'n3r', 'ncor', 'ncorx', 'nde', 'nfv', 'nmm', 'noa', 'npv', 'nut', 'nuv', 'nvavi', 'nvc', 'nvl', 'nxv', 'ogm', 'ogv', 'ogx', 'olproj', 'orv', 'osp', 'otrkey', 'p2', 'p64', 'pa', 'par', 'pds', 'pgmx', 'pmf', 'pmp', 'ppj', 'ppp', 'pproj', 'prel', 'pro', 'prproj', 'ps', 'pvr', 'px', 'pxm', 'pxv', 'pyv', 'qcif', 'qmx', 'qt', 'qtc', 'qtm', 'qtvr', 'qvt', 'r3d', 'rargb', 'ratdvd', 'ravi', 'rax', 'rca', 'rcproject', 'rcrec', 'rcut', 'rdg', 'rdt', 'rec', 'rec_part0', 'rec_part1', 'rec_part2', 'rec_part3', 'rf', 'rki', 'rm', 'rmd', 'rmvb', 'roq', 'rpl', 'rt4', 'rts', 'rtsl', 'rtsp', 'rtv', 'rum', 'rv', 'rv9', 'rvid', 'rvl', 'rvx', 's11', 's2e', 's4ud', 'san', 'sbs', 'sbsc', 'sbst', 'scc', 'sce', 'scm', 'scn', 'scr', 'scs', 'scx', 'sdr2', 'sdv', 'sec', 'seq', 'sfvidcap', 'sgv' |
+
