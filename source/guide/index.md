@@ -33,6 +33,8 @@ description: Find Gmagon Software how-to guides on this page.
 - [Convert Excel spreadsheets to tab delimited CSV](./xls2csv/convert-excel-to-tab-delimited-csv.html)
 - [What is Microsoft Excel and Why It is Important?](./xls2csv/excel.html)
 - [What Is An XLS File And How To Use It?](./xls2csv/xls.html)
+- [What is XLSX and how to transform XLSX to CSV?](./xls2csv/what-is-xlsx.html)
+- [What’s the real difference between XLSX, XLSM and XLSB? ](./xls2csv/xlsx-xlsm-xlsb.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
