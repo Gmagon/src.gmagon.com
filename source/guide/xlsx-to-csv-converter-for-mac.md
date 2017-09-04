@@ -5,7 +5,9 @@ description: How to convert XLSX files to CSV on Mac ? Using a simple and helpfu
 ---
 
 ## What is XLSX?
-![](img/xlsx.png)XLSX is a file with XLSX extension Microsoft Excel Open Format Spreadsheet file. It is based on XML spreadsheet file which created by Microsoft Excel version 2007 and younger. 
+![](img/xlsx.png)
+
+XLSX is a file with XLSX extension Microsoft Excel Open Format Spreadsheet file. It is based on XML spreadsheet file which created by Microsoft Excel version 2007 and younger. 
 
 XLSX files organize data in cells and then stored them in worksheet or workbooks (files that contain multiple worksheets). The cells are organized by rows and columns which contain formatting, math functions, styles, and more.
 
