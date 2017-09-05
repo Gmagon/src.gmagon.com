@@ -28,19 +28,16 @@ Version 4.1.0
  ### **Introduction**:
 A lot of people have suffered the pain that you painstakingly downloaded some audio files from the Internet, which turned out that they were unable to fit your players. Such situation could disappointed you, and destroy your plans of enjoying beautiful songs, wonderful voices, learning or whatever. As a widely recognized audio format, MP3 still has its own superiority, because it always fit with most popular players.
 
-TryToMP3 is an MP3 audio converter which aims to convert various audio and video files to the MP3 format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Almost all video and audio formats in Internet can be intelligently recognized by TryToMP3 and transfered as MP3 format. The transformation process in our product is simple and efficient, users are free from annoying ads, bundled softwares, and plug-ins. By simply enjoying the swift, comfortable operation of TryToMP3, you are able to join our community and get our excellent after-sale services.  
+TryToMP3 is an MP3 audio converter which aims to convert various audio and video files to the MP3 format. The software is made for Mac users only (Mac OS X 10.11 (64-bit) or above is required). The software is so convenient that users can easily finish format conversion in simple steps. Almost all video and audio formats can be intelligently recognized by TryToMP3 and converted to MP3 format. The transformation process in our product is simple and efficient, users are free from annoying ads, bundled softwares, and plug-ins. By simply enjoying the swift, comfortable operation of TryToMP3, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-TryToMP3 runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. The new version 4.1.0 is now released on our [DOWNLOAD page](./download.html). You can choose to download the .zip or .dmg package. When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to use it. 
+TryToMP3 runs on Mac only, MacOS X 10.11 (64-bit) or above is required. The new version 4.1.0 is now released on our [DOWNLOAD page](./download.html). You can choose to download the .zip or .dmg package. When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to use it. 
 
  Once you run the software, a little window will pop up as below. If you choose to try it out, click "continue" button, you can try it for free 30 days. If you want to buy our product, click "Buy" button to enter the online store. 
-
 ![](.\images\screens\trytomp3.png) 
 
-
 If you encounter any problems during or after installing TryToMP3 please refer to [Frequently Asked Questions (FAQ)](./faq.html) first.
-
 
 <br>
 ### **User Guide**:
@@ -48,7 +45,7 @@ This section instructs you how to purchase and run TryToMP3 in detail.
  
 1. Firstly, run TryToMP3 on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [BUY ONLINE](./buy.html).
 <br>
-2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. 
+2. Secondly, in the Purchase page, there are two options. You can choose to buy from our **Gmagon online store** or the Apple App store. 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
 ![](.\images\screens\coupon%20code_640x374.png)
