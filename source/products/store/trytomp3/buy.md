@@ -11,7 +11,7 @@ current: buy
 macos_buy_enable: true
 
 # macOS产品统一系统需求
-macos_systemRequirements: macOS 10.7/10.8/10.9/10.10/10.11/10.12
+macos_systemRequirements: macOS 10.11 or above 
 
 # macOS产品售价统一售价定义
 
