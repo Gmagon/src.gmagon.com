@@ -16,9 +16,10 @@ current: features
 
 An **audio** file format is a container format for storing audio data on a computer system. There are many formats of audio and codecs, but they can be divided in three basic groups: uncompressed audio file formats, lossless compression audio formats and **lossy compression audio file formats**.
 
-> The most used and known uncompressed audio file format is PCM, which is usually stored as a .wav on Windows or as .aiff on MAC. **WAV** and **AIFF** are a flexible file formats designed to store more or less any combination of sampling rates or bitrates. This makes them suitable file formats for storing and archiving the original recording. CD-quality sound files in uncompressed PCM format are large in size - around 10 MB per minute.
 ---
+> The most used and known uncompressed audio file format is PCM, which is usually stored as a .wav on Windows or as .aiff on MAC. **WAV** and **AIFF** are a flexible file formats designed to store more or less any combination of sampling rates or bitrates. This makes them suitable file formats for storing and archiving the original recording. CD-quality sound files in uncompressed PCM format are large in size - around 10 MB per minute.
 
+---
 > A lossless compressed format would require more processing for the same time recorded, but would be more efficient in terms of disk space used. Representative of lossless compressed format is FLAC (Free Lossless Audio Codec). FLAC file is an audio format similar to MP3, but lossless, meaning that the audio information is compressed in FLAC file without any loss in its audio quality. This is similar to how Zip works, except that with FLAC, you will get much better compression rate, because it is designed specifically for audio files.
 
 ---
