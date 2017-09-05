@@ -90,9 +90,6 @@ open_graph({
   <!-- algolia_search -->
   {{ algolia_search() }}
 
-  <!-- Github Button -->
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-
   <!-- Utils -->
 {{ js('js/utils') }}
 </head>
