@@ -53,10 +53,10 @@ This section instructs you how to purchase and run XLS2csv in detail.
 ![](./images/screens/purchase.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and finish the whole purchase process.
-![](./images/screens/xls2csv_onlinestore_720x400.png) 
+![](./images/screens/billing-info.png)  
 <br>
 4. Finally, after you finished the purchasing process, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
-![](./images/screens/billing-info.png)  
+![](./images/screens/xls2csv_licensekey_720x400.png)  
 
 Hope Gmagon XLS2csv will help you enjoy a high-quality user experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in <a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
 
@@ -64,3 +64,4 @@ Hope Gmagon XLS2csv will help you enjoy a high-quality user experience and make 
 - [How to convert XLS to CSV on a Mac? ](../../../guide/convert-xls-to-csv-on-mac.html)
 - [How to convert a .xlsx file to .csv on Mac?](../../../guide/how-to-convert-a-xlsx-file-to-csv-on-mac.html)
 - [CSV UTF8 - Excel XLS to CSV with UTF-8 encoding ](../../../guide/xls2csv/csv-utf8.html)
+
