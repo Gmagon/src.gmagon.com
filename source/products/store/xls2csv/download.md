@@ -1,27 +1,36 @@
-layout: app
-title: Free Download XLS2csv
+layout: app_downloads
+title: Download XLS2csv
 
-subtitle: Free Download
+subtitle: Download
 comments: false
 product: XLS2csv
-
 current: download
----
 
-## <strong>FREE DOWNLOAD</strong>
+## 配置下载链接
+# 版本号、发布时间，平台、版本
+downloads:
+  - version: 5.1.0
+    date: 2017-08-23 17:15
+    macos:
+      - name: XLS2csv-5.1.zip
+        size: 10.52MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://www.filefactory.com/file/29qg8m1099l3/XLS2csv-5.1.zip
 
-#### <b>The current stable version is: 5.1</b>
+      - name: XLS2csv-5.1.dmg
+        size: 10.74MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://www.filefactory.com/file/3erf0icxce6r/XLS2csv-5.1.dmg
+    windows:
+ 
+  - version: 5.0.0
+    date: 2017-07-23 11:15
+    macos:
+      - name: XLS2csv-5.0.dmg
+        size: 10.2MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://www.filefactory.com/file/3gadfe8pnhit/XLS2csv-5.0.dmg
 
-For detailed info on what's new, read the [release notes](./changelog.html).
-
-for macOS 64-bit OS | FileSize
------------------------------- | -------------------------
-[Download XLS2csv-v5.1.dmg](http://www.filefactory.com/file/3erf0icxce6r/XLS2csv-5.1.dmg)    | (~10.52MiB)
-[Download XLS2csv-5.1.zip](http://www.filefactory.com/file/29qg8m1099l3/XLS2csv-5.1.zip)    | (~10.74MiB)
----
-
-##### Old Download
-
-[Download XLS2csv-v5.0.dmg](http://www.filefactory.com/file/3gadfe8pnhit/XLS2csv-5.0.dmg)    | (~10.2MiB)
+    windows:
 
 ---

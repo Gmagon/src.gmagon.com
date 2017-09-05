@@ -7,11 +7,11 @@
                     For detailed info on <b>what's new</b>, read the <a href="./changelog.html">release notes</a>
                     </p>
                 </div>
-                {% for downloadObj in page.downloads %}
-                <h4>Ver {{ downloadObj.version }}</h4>
+                
                 <table class="app-download-table">
                         <thead>
                         <tr>
+                            <th>Version</th>
                             <th>Release name</th>
                             <th>OS</th>
                             <th>File size</th>
@@ -20,11 +20,18 @@
                         </tr>
                         </thead>
                         <tbody>
+                        {% for downloadObj in page.downloads %}
                         
-                            {% for item in downloadObj.macos  %}
+                            {% for i, item in downloadObj.macos  %}
                             <tr>
+                            {% if i == 0 %}
+                            <td class="app-download-version">Ver {{ downloadObj.version }}</td>
+                            {% else %}
+                            <td></td>
+                            {% endif %}
+                            
                             <td><a href="{{ item.url }}">{{ item.name }} </a></td>
-                            <td>macOS</td>
+                            <td><i class="fa fa-apple fa-2x" aria-hidden="true"></i> {{ item.os }}</td>
                             <td><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
                             {# <td>9999</td> #}
@@ -34,16 +41,16 @@
                             {% for item in downloadObj.windows  %}
                             <tr>
                             <td>{{ item.name }}</td>
-                            <td>windows</td>
+                            <td>{{ item.os }}</td>
                             <td>{{ item.size }}</td>
                             <td>{{ downloadObj.date }}</td>
                             {# <td>9999</td> #}
                             </tr>
                             {% endfor %}
-                           
+                        {% endfor %}   
                         </tbody>
                 </table>
-                {% endfor %} 
+                 
             </div>
         </div>
     </div>
