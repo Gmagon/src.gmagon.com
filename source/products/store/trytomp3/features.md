@@ -8,12 +8,12 @@ current: features
 ## Features
 
 1. Built for Mac users only
-1. Super-quick conversion
+1. Super-fast conversion speed
 1. Fool-style operation
-1. Support most popular audio formats
+1. Supports almost all audio and video formats as input
+1. Supports batch conversion 
 
-
-## 1. Support some audio and sound file extension
+## 1. Support a wide variety of audio and sound file extensions
 
 
 An **audio** file format is a container format for storing audio data on a computer system. There are many formats of audio and codecs, but they can be divided in three basic groups: uncompressed audio file formats, lossless compression audio formats and **lossy compression audio file formats**.
@@ -28,7 +28,7 @@ An **audio** file format is a container format for storing audio data on a compu
 
 > Lossy compression audio file formats are the most used audio formats in today's computers and other multimedia equipment. The best known of compressed audio formats is MP3 (MPEG-1 Audio Layer 3). MP3 file format, is a patented digital audio encoding format using a form of lossy data compression. It is a common audio format for consumer audio storage, as well as a de facto standard of digital audio compression for the transfer and playback of music on digital audio players.
 
-** Audio and sound file extesions **
+**Supported audio and sound file extesions**
 
 |Type                        |File extesions              |
 |----------------------------|----------------------------|
@@ -36,7 +36,7 @@ An **audio** file format is a container format for storing audio data on a compu
 
 
 
-## 2. Support some digital video and movie file extension
+## 2. Support a wide variety of digital video and movie file extensions
 
 File extensions used for **various multimedia** file types - movies, films, videos, animations and other file types related to digital video software, **video players** and digital video editing.
 Video and multimedia files represent a huge group of file types that contain digitally capturing, recording, processing, storing, transmitting, and reconstructing a sequence of still images representing scenes in motion, often together with an audio track (sound, music, etc.), which in essence means that a "video file" is but a container for all the multimedia data used during the playback.
@@ -52,8 +52,7 @@ Some of the most used video file formats today are:
 - **MOV**, QuickTime multimedia container format that can store one or more tracks of data such as video, audio, text, and effects. Used and known for ages by Mac users.
 - **3GP**, a standard for the creation, delivery and playback of multimedia over 3rd generation, high-speed wireless networks. You can mostly encounter 3GP multimedia files on mobile platforms.
 - **MKV**, a Matroska multimedia container based on an open standard format that can hold an unlimited number of video, audio, picture or subtitle tracks inside a single file.
-
-** Digital video and movie file extensions **
+**Supported digital video and movie file extensions**
 
 |Type                        |File extesions              |
 |----------------------------|----------------------------|
