@@ -38,11 +38,15 @@ description: Find Gmagon Software how-to guides on this page.
 ---
 
 # [TryToMP3](../products/store/trytomp3/)  ![](../products/store/trytomp3/images/logo/logo_64x64.png)  
-> TryToMP3 is a Mac MP3 music converter. It is capable of converting audio files in various formats to MP3 format, for example, converting AAC to MP3, converting FLAC to MP3, converting AC3 to MP3, converting M4A to MP3 and more. Plus, our app allows you to extrat an audio track from a video and save it as MP3. This feature is useful when you want to save a particular song from a movie or a music video.
 
-> This any video/audio to MP3 converter for Mac works with almost all video and audio formats and can convert multiple files simultaneously in a batch, saving them in the widely-accepted MP3 format.
+> TryToMP3 is a Mac MP3 music converter. It is capable of converting audio files in various formats to MP3 format, for example, converting AAC to MP3, converting FLAC to MP3, converting AC3 to MP3, converting M4A to MP3 and more. Plus, our app allows you to extrat an audio track from a video and save it as MP3. This feature is useful when you want to save a particular song from a movie or a music video. This any video/audio to MP3 converter for Mac works with almost all video and audio formats and can convert multiple files simultaneously in a batch, saving them in the widely-accepted MP3 format.
 
-- [Gmagon TryToMP3 4.1.0 has been released ](./trytomp3/trytomp3ver4.1.0.html)
+
+
+- [Gmagon TryToMP3 4.1.0 has been released  ](./trytomp3/trytomp3ver4.1.0.html)
+
+
+
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
