@@ -8,9 +8,6 @@ current: faq
 
 ## Installation & Upgrade
 
-### What are the system prerequisites of TryToMP3?
-- MacOSX 10.7  mac OS (64-bit) or newer is required.(last version which is compatible)
+### What are the system requirements of TryToMP3?
+- Mac OS X 10.11(64-bit) or above is required
 - Admin privileges for the Installation
-
-
-### How to install TryToMP3?

@@ -43,15 +43,15 @@ If you encounter any problems during or after installing TryToMP3 please refer t
 ### **User Guide**:
 This section instructs you how to purchase and run TryToMP3 in detail. 
  
-1. Firstly, run TryToMP3 on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [BUY ONLINE](./buy.html).
+1. Firstly, run TryToMP3 on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [purchase page](./buy.html).
 <br>
-2. Secondly, in the Purchase page, there are two options. You can choose to buy from our **Gmagon online store** or the Apple App store. 
+2. Secondly, in the Purchase page, there are two options. You can choose to buy from our Gmagon online store or the Apple App store. 
+![](.\images\screens\purchase.png)
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.
-![](.\images\screens\coupon%20code_640x374.png)
+![](.\images\screens\billing-info.png)
 <br>
 4. Finally, after you finished the purchasing process, you can get the **active code** from us. When you run the software, a registered window will pop up, then you need to copy and paste the active code in the **license key** text box, then click "register" button to finish the License Activation.
-<br>
 ![](.\images\screens\trytomp3licensekey.png)
 <br>
 Hope the TryToMP3 will help you enjoy a high-quality listening experience and make your life more convenient than ever. We'd like to receive and answer any question from you, if you are willing to communicate with us in<a href="https://gitter.im/Gmagon/support" target="_blank" rel="nofollow me noopener noreferrer"> <strong>Support Center</strong> </a> and join our community. We will strive to provide the best services we can offer with our customers. 
