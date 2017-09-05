@@ -76,3 +76,5 @@ A lot of apps[apply encryption by default](http://gizmodo.com/the-best-and-worst
 
 Finally, it’s important to remember that nothing keeps your devices 100 percent protected, not even encryption \(though it of course goes a long way towards doing that\)—don’t think because your phone or laptop is encrypted you can become complacent about[all the other precautions](http://fieldguide.gizmodo.com/12-security-tricks-to-stay-safe-online-1784690667)you need to put in place to stay safe.
 
+Source:  http://fieldguide.gizmodo.com/why-you-should-be-encrypting-your-devices-a
+
