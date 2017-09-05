@@ -44,7 +44,7 @@ description: Find Gmagon Software how-to guides on this page.
 
 
 - [Gmagon TryToMP3 4.1.0 has been released  ](./trytomp3/trytomp3ver4.1.0.html)
-
+- [How to extract an audio from a video to MP3 on Mac?   ](./trytomp3/extract-audio-to-mp3-mac.html)
 
 
 ---
