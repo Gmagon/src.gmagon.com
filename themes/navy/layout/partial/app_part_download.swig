@@ -34,7 +34,7 @@
                             <td><i class="fa fa-apple fa-2x" aria-hidden="true"></i> {{ item.os }}</td>
                             <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
-                            <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
+                            <td><a href="{{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
                             </tr>
                             {% endfor %}
 
@@ -44,7 +44,7 @@
                             <td>{{ item.os }}</td>
                             <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
-                            <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
+                            <td><a href="{{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
                             </tr>
                             {% endfor %}
                         {% endfor %}   
