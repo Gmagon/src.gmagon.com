@@ -30,9 +30,9 @@
                             <td></td>
                             {% endif %}
                             
-                            <td><a href="{{ item.url }}">{{ item.name }} </a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.name }} </a></td>
                             <td><i class="fa fa-apple fa-2x" aria-hidden="true"></i> {{ item.os }}</td>
-                            <td><a href="{{ item.url }}">{{ item.size }}</a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
                             <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
                             </tr>
@@ -40,9 +40,9 @@
 
                             {% for item in downloadObj.windows  %}
                             <tr>
-                            <td>{{ item.name }}</td>
+                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.name }} </a></td>
                             <td>{{ item.os }}</td>
-                            <td>{{ item.size }}</td>
+                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
                             <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
                             </tr>

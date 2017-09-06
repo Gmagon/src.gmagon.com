@@ -51,7 +51,7 @@ intro_feature_list:
     <section class="home-recommend-products">
         <div class="recommend-container">
         {% for product in recommend_products %}
-            <a href="{{ product.link }}" class="recommend-product-link">
+            <a href="{{ product.link }}" class="recommend-product-link on elevation1">
                 <div class="recommend-product-item">
                     <div class="product-item-image"><img src=" {{ product.link  }}/images/logo/logo_128x128.png"></div>
                     <div class="product-item-title"> {{ product.name }}</div>
@@ -91,4 +91,3 @@ intro_feature_list:
     <section class="home-recommend-reviews">
     </section>
 </div>
-

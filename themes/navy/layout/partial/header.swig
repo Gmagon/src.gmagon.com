@@ -8,7 +8,7 @@
       <nav id="main-nav">
         {{ header_menu('main-nav') }}
         <div id="search-input-wrap">
-          <a href="/search/" class="text-decoration-none">
+          <a href="/search/" class="text-decoration-none ">
             <div id="search-input-icon">
               <i class="fa fa-search"></i>
             </div>
