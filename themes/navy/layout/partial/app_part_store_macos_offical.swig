@@ -3,7 +3,9 @@
     <div class="store-buy-wrap">
         <div class="buy-main">
             <div class="text text-2">
-                <div class="proImg proImg-2">
+                <a href="{{ page.macos_offical_buyUrl }}" 
+                        target="_blank" rel="nofollow me noopener noreferrer">
+                <div class="proImg proImg-2 on elevation1">
                     <img src="{{ url_for('asset/images/apple_128x128.png') }}">
                     <ul class="rating bigRating">
                         <li class="on"></li>
@@ -13,6 +15,7 @@
                         <li class="half"></li>
                     </ul>
                 </div>
+                </a>
                 <div class="info">
                     <h1>{{ page.macos_offical_purchaseTitle }}</h1>
                     <ul class="dot mb20 font-bold">
