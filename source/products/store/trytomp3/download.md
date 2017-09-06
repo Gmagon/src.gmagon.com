@@ -12,15 +12,15 @@ downloads:
     date: 2017-09-04 14:15
     macos:
       - name: TryToMp3-4.1.0.zip
-        size: 27.24MiB
+        size: 27.2MiB
         os: macOS 10.11/10.12
-        url: http://www.filefactory.com/file/1ud6y9yptgnv/TryToMP3-4.1.0.zip
+        url: http://www.filefactory.com/file/2egzicxp2wfr/TryToMP3-4.1.0.zip
         lastWeekDownloadsMin: 5000
 
       - name: TryToMP3-4.1.0.dmg
-        size: 27.83MiB
+        size: 27.8MiB
         os: macOS 10.11/10.12
-        url: http://www.filefactory.com/file/3fq6p3x1bqed/TryToMP3-4.1.0.dmg
+        url: http://www.filefactory.com/file/26wqzwwsma1/TryToMP3-4.1.0.dmg
         lastWeekDownloadsMin: 4500
 
     windows:
