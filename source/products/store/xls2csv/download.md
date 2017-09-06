@@ -33,4 +33,18 @@ downloads:
 
     windows:
 
+  - version: 4.22.0
+    date: 2017-07-17 11:22
+    macos:
+      - name: XLS2csv-4.22.zip
+        size: 10.2MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://www.filefactory.com/file/2yfxt1z2zdkh/XLS2csv-4.22.zip
+
+      - name: XLS2csv-4.22.dmg
+        size: 8.9MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://www.filefactory.com/file/5fv7u561omq9/XLS2csv-4.22.dmg
+
+    windows:
 ---
