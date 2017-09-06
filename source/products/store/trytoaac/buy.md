@@ -42,6 +42,6 @@ macos_mas_maxPrices: $39.99
 macos_mas_curPrices: $35.99
 
 # 2.4 macOS AppStore产品购买链接
-macos_mas_buyUrl: https://itunes.apple.com/us/app/trytoaac/id849508170?l=zh&ls=1&mt=12
+macos_mas_buyUrl:
 
 ---

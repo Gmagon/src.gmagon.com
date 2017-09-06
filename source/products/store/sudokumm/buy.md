@@ -42,6 +42,6 @@ macos_mas_maxPrices: $79.99
 macos_mas_curPrices: $24.99
 
 # 2.4 macOS AppStore产品购买链接
-macos_mas_buyUrl: https://itunes.apple.com/us/app/sudokumm/id898159925?l=zh&ls=1&mt=12
+macos_mas_buyUrl:
 
 ---

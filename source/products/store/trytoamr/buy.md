@@ -42,6 +42,6 @@ macos_mas_maxPrices: $49.99
 macos_mas_curPrices: $19.99
 
 # 2.4 macOS AppStore产品购买链接
-macos_mas_buyUrl: https://itunes.apple.com/us/app/trytoamr/id849599370?l=zh&ls=1&mt=12
+macos_mas_buyUrl:
 
 ---
