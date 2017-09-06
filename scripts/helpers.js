@@ -247,6 +247,15 @@ hexo.extend.helper.register('lang_name', function(lang){
   return data.name || data;
 });
 
+hexo.extend.helper.register('random_download_count', function(min){
+  var minCount = parseInt(min);
+  if (minCount < 200)
+    minCount = 500
+  var min = Math.ceil(minCount);
+  var max = Math.floor(minCount*2);
+  return Math.floor(Math.random() * (max - min)) + min;
+})
+
 hexo.extend.helper.register('disqus_lang', function(){
   var lang = this.page.lang;
   var data = this.site.data.languages[lang];

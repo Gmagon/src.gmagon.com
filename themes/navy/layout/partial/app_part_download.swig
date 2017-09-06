@@ -16,7 +16,7 @@
                             <th>OS</th>
                             <th>File size</th>
                             <th>Release date</th>
-                            {# <th>Download count</th> #}
+                            <th>Last 7days</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -34,7 +34,7 @@
                             <td><i class="fa fa-apple fa-2x" aria-hidden="true"></i> {{ item.os }}</td>
                             <td><a href="{{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
-                            {# <td>9999</td> #}
+                            <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
                             </tr>
                             {% endfor %}
 
@@ -44,7 +44,7 @@
                             <td>{{ item.os }}</td>
                             <td>{{ item.size }}</td>
                             <td>{{ downloadObj.date }}</td>
-                            {# <td>9999</td> #}
+                            <td><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</td>
                             </tr>
                             {% endfor %}
                         {% endfor %}   
