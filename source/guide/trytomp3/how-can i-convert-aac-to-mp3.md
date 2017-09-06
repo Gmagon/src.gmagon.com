@@ -20,10 +20,6 @@ AAC does have a few other quantifiable advantages over MP3. Most significantly i
 ## How to convert AAC to MP3?
 If you need to convert AAC to MP3 format, you will need a powerful audio converter to help you. Thankfully, there are <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> TryToMP3 </a> for you.  
 
-
-<br>
-## How to convert FLAC to MP3 by Gmagon TryToMP3?
-
 1. Download a free trial of Gmagon TryToMP3
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
 Note that this app requires Mac OS X 10.11 or later. It provides 30-day free trial. 
