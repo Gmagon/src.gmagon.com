@@ -8,3 +8,4 @@ public/
 .vscode/
 *.ffs_db
 /source/_posts/*.ffs_db
+/source/_posts/*.md
