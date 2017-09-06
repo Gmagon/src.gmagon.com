@@ -1,5 +1,4 @@
--
---
+---
 title: Solaris to Linux Migration 2017
 ---
 
@@ -42,10 +41,8 @@ Nowadays, there are three built-in tracers that you should know about:
 
 Here's some output from my zfsdist tool, in bcc/BPF, which measures ZFS latency as a histogram on Linux:
 `# zfsdist`
-
 `Tracing ZFS operation latency... Hit Ctrl-C to end.
 ^C`
-
 `operation = 'read'
 usecs : count distribution
 0 -> 1 : 0 | |
