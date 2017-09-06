@@ -4,18 +4,19 @@ keywords: aac to mp3 converter, aac to mp3 mac, aac to mp3 audio converter mac, 
 description: Is it possible to convert AAC files to MP3 format on a Mac? If you are trying to figure out a way to do this, you are in the right place.   
 ---
 
+![](../img/aac.jpg)
 
 ##  What is AAC format?
 AAC is short for Advanced Audio Coding, it stands for advanced digital audio coding and has been promoted as the successor of mp3. Generally, AAC offers higher-quality sound than MP3 files at the same amount of disk space. It is also similar to MP3 but to a bigger degree, it is half the size of it and with better quality. Apple are the biggest users of this format and if you have an iPod or iPhone then you will have come across this format as it is iTunes default audio format. However, not all media players support AAC format. 
-
+<br>
 ## How AAC Works
 Like MP3, AAC is a lossy format, meaning that in order to compress CD-quality audio files into smaller files suitable for transmission over the Internet, some data that will not impact the listening experience of the file is removed. As a result of the compression, though, AAC files do not sound identical to CD-quality files.
 
 Like MP3s, the quality of an AAC file is measured based on its bit rate, rendered as kbps. Also like MP3, common bit rates for AAC files include 128 kbps, 192 kbps, and 256 kbps. 
-
+<br>
 ## AAC vs MP3
 AAC does have a few other quantifiable advantages over MP3. Most significantly it is capable of storing up to 48 channels of synchronous audio, compared to MP3's 2 channels. This makes it ideal for compressing surround sound mixes and other multi-channel material. Even though AAC is supposed to be improved and developed audio format in comparison with MP3, it should be admitted that MP3 is obviously more popular than AAC. Because MP3 audio format is supposed to be the most popular encoding format and it is still widespread.  
-
+<br>
 ## How to convert AAC to MP3?
 If you need to convert AAC to MP3 format, you will need a powerful audio converter to help you. Thankfully, there are <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> TryToMP3 </a> for you.  
 
