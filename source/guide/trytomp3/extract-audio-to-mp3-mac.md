@@ -6,7 +6,7 @@ description: Is it possible to extract an audio track from a video and save it a
 Is it possible to extract an audio track from a video and save it as MP3 on a Mac? If you are trying to figure out a way to do this, you are in the right place. This article explains how to convert videos files to mp3 format on Mac via using an easy-to-use MP3 music creator app. 
 ![](../img/logo_200x200.png)
 
-Gmagon TryToMP3 is versy useful when you want to save a particular song from a movie or a music video to MP3 format. Working well as an any video/audio to MP3 converter app for Mac, it features great ability to recognize a wide variety of file formats (actually, it can handle about 2,000 different audio and video files), and meanwhile converts them to the widely-accepted MP3 format in batch mode. 
+Gmagon TryToMP3 is very useful when you want to save a particular song from a movie or a music video to MP3 format. Working well as an any video/audio to MP3 converter app for Mac, it features great ability to recognize a wide variety of file formats (actually, it can handle about 2,000 different audio and video files), and meanwhile converts them to the widely-accepted MP3 format in batch mode. 
 
 The following guide explains how to extract an audio from a video to MP3 on Mac via using Gmagon TryToMP3. 
 
