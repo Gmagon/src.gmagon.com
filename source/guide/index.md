@@ -47,6 +47,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [How to extract an audio from a video to MP3 on Mac?](./trytomp3/extract-audio-to-mp3-mac.html)
 - [How can I convert FLAC to MP3?](./trytomp3/how-can-i-convert-flac-to-mp3.html)
 - [How can I convert AAC to MP3?](./trytomp3/how-can i-convert-aac-to-mp3.html)
+- [How can I convert WAV to MP3?](./trytomp3/how-can i-convert-wav-to-mp3.html)
 
 
 ---
