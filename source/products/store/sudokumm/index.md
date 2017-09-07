@@ -16,7 +16,7 @@ description: SudokuMM is a easy-to-use tool to let users play Sudoku games conve
 
 <br>
 <div class="buy">
-<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$24.99<br />
+<center><h3>Price: <span style="color: #f00; margin: 0 10px;">$4.99<br />
 </span></h3>
 [![](../../../asset/images/free-download.png)](./download.html) [![](../../../asset/images/buy-now.png)](./buy.html)</center>
 

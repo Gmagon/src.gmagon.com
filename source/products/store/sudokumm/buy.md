@@ -24,8 +24,8 @@ macos_offical_couponCode: GMAG-1KPT-NDEV
 macos_offical_couponDate: 2017.10.27
 
 # 1.3 macOS 官方产品售价定义
-macos_offical_maxPrices: $79.99
-macos_offical_curPrices: $19.99
+macos_offical_maxPrices: $29.99
+macos_offical_curPrices: $4.99
 
 # 1.4 macOS 官方产品购买链接
 macos_offical_buyUrl: https://shopper.mycommerce.com/checkout/cart/add/55399-54

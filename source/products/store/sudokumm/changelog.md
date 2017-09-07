@@ -4,12 +4,15 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## v4.1
+<script> GmagonUtils.$verNote('2017-09-07')</script>
+Low level SDK updated to Ver. 1.2.
 
 ## v4.0
 <script> GmagonUtils.$verNote('2017-06-27')</script>
 
 
-### Downloads
+### Older Downloads
 
 for macOS 64-bit OS | FileSize
 ------------------------------ | -------------------------

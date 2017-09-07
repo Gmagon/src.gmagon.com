@@ -45,7 +45,7 @@ This section instructs you how to purchase and run TryToMP3 in detail.
  
 1. Firstly, run TryToMP3 on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [purchase page](./buy.html).
 <br>
-2. Secondly, in the Purchase page, there are two options. You can choose to buy from our Gmagon online store or the Apple App store. 
+2. Secondly, in the Purchase page, there are two options. You can choose to buy from our Gmagon online store by clicking "Add to Cart". 
 ![](.\images\screens\purchase.png)
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, and choose your payment information.

@@ -10,7 +10,7 @@ current: docs
 ## SudokuMM
 An online Sudoku game for Mac OS X
 
-Version 4.0
+Version 4.1
 
 
 <br>
@@ -27,7 +27,7 @@ The software is made for Mac users only (**macOS 10.7(64-bit)** or newer is requ
 
 <br>
 ### **Installation**:
-SudokuMM runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.0 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+SudokuMM runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 4.1 is released now in [DOWNLOAD](./download.html).  Players can download the software in our download page of the official website. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 
 There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
@@ -49,7 +49,7 @@ This section describes daily use guide to the SudokuMM clients. It instructs you
 <br>
 
 <br>
-2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
+2. Secondly, in the BUY ONLINE page, you can choose to buy from our **official App store** by clicking "Add to Cart" 
 <br>
 ![](./images/screens/sudukumm_buyonline_1440x900.png) 
 <br>

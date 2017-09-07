@@ -53,7 +53,7 @@ If you encounter any problems during or after installing TryToAAC please refer t
 This section describes daily use guide to the TryToAAC client. It instructs you how to use the software in details after the installation finished.
 1. Firstly, you need to open the file and run it, the window of TryToAAC will pop up in the desktop. As what have mentioned before, if you want to try out this software first, click "continue" to use the trial version, you have three chances to try it freely. If you satisfied with our product,and decided to pay for it, please click the "Buy" button or directly come to our home page and enter the [BUY ONLINE](./buy.html).
 <br>
-2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** or the Apple App store. The good news is, we offer a **coupon code** below the purchase link for anyone who willing to buy from the Gmagon official App store. 
+2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our **official App store** by clicking "Add to Cart". 
 <br>
 ![](.\images\screens\buy online_800x450.png) 
 <br>

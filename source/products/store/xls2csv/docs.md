@@ -49,7 +49,7 @@ This section instructs you how to purchase and run XLS2csv in detail.
 
 1. Firstly, run XLS2csv on your desktop. As what have mentioned before, if you want to try it out, simply click "continue". The free trial version will stop working after 30 days. If you are satisfied with our product, and decide to pay for it, please click the "Buy" button or directly go to our [BUY ONLINE](./buy.html).
 <br>
-2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our Gmagon online store or the Apple App store. 
+2. Secondly, in the BUY ONLINE page, there are two optional purchase link for you, that is, you can choose to buy from our Gmagon online store by clicking "Add to Cart". 
 ![](./images/screens/purchase.png) 
 <br>
 3. Thirdly, in the Gmagon Online Store, you need to put the product in your cart, fill the Billing Information, choose your payment information, and finish the whole purchase process.
