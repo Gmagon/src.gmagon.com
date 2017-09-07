@@ -10,7 +10,7 @@ current: docs
 ## TryToAAC
 An AAC converter for Mac
 
-Version 4.0
+Version 4.1
 
 
 <br>
@@ -30,11 +30,11 @@ Version 4.0
 AAC, which stands for Advanced Audio Coding, is a type of digital audio file and has been promoted as the successor to the MP3. AAC generally offers higher-quality sound than an MP3 while using the same amount of disk space, or less. AAC has been widely used in Apple products for a long time, then a range of non-Apple devices, including Sony Walkman, Amazon Music, Unlimited, Nintento, Deezer, and mobile phones running Google's Android OS, etc. What's more, it is also popular in broadcasting and streaming TV. 
 
 
-TryToAAC is an audio converter tool which aims to convert various audio formats to the AAC format. The software is made for Mac users only (MacOSX 10.7 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet, such as MP3, MP4, WMA, FLAC can be intelligently recognized by TryToAAC and transfered as AAC format. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToAAC, you are able to join our community and get our excellent after-sale services.  
+TryToAAC is an audio converter tool which aims to convert various audio formats to the AAC format. The software is made for Mac users only (MacOSX 10.11 mac OS (64-bit) or newer is required). The software is so convenient that users can easily get the transformation result by simply clicking one button in it. Most audio formats in Internet, such as MP3, MP4, WMA, FLAC can be intelligently recognized by TryToAAC and transfered as AAC format. The conversion process in our product is simple and efficient, users will be released from annoying ads, bundled softwares, plug-ins, even log in and registration. By simply enjoying the swift, comfortable operation of TryToAAC, you are able to join our community and get our excellent after-sale services.  
 
 <br>
 ### **Installation**:
-TryToAAC runs on Mac only, MacOSX 10.7 mac OS (64-bit) or newer is required. A new version 4.0 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
+TryToAAC runs on Mac only, MacOSX 10.11 mac OS (64-bit) or newer is required. A new version 4.1 is updated recently. Older version is also provided in Older Releases in [DOWNLOAD](./download.html). 
 
 There are three kinds of install package in DOWNLOAD page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 

@@ -7,7 +7,7 @@ current: changelog
 ---
 ## Version 5.2
 Release date: 2017-09-07
->Low level SDK updated to 1.2 version. 
+>Low level SDK updated to Ver. 1.2. 
 
 
 <br>
