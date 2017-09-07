@@ -5,7 +5,12 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## Version 5.2
+Release date: 2017-09-07
+>Low level SDK updated to 1.2 version. 
 
+
+<br>
 ## Version 5.1 
 Release date: 2017-08-23
 
