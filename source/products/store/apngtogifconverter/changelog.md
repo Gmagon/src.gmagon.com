@@ -5,6 +5,9 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## v.3.1.0
+<script> GmagonUtils.$verNote('2017-09-07')</script>
+- Low level SDK updated to Ver. 1.2.
 
 ## v.3.0.0
 <script> GmagonUtils.$verNote('2017-07-11')</script>
