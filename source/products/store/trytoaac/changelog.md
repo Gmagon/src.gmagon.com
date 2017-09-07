@@ -6,6 +6,7 @@ current: changelog
 ---
 ## v4.1
 <script> GmagonUtils.$verNote('2017-09-06')</script>
+
 - Redesigned user interface. 
 - Supports batch conversion to AAC format. 
 - A big upgrade on conversion engine. 

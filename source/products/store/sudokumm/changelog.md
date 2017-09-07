@@ -6,7 +6,9 @@ current: changelog
 ---
 ## v4.1
 <script> GmagonUtils.$verNote('2017-09-07')</script>
+
 Low level SDK updated to Ver. 1.2.
+
 
 ## v4.0
 <script> GmagonUtils.$verNote('2017-06-27')</script>
