@@ -10,7 +10,7 @@ current: docs
 ## XLS2csv
 XLS/XLSX to CSV Converter app for Mac OS X
 
-Version 5.1
+Version 5.2
 
 
 <br>
@@ -35,7 +35,7 @@ XLS2csv is a file converter which tends to convert XLS/XLSX files to CSV format.
 
 <br>
 ### **Installation**:
-XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required. The new version 5.1 is now released on our [DOWNLOAD page](./download.html). You can choose to download the .zip or .dmg package. When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to use it. 
+XLS2csv runs on Mac only, Mac OS X 10.7(64-bit) or above is required. The new version 5.2 is now released on our [DOWNLOAD page](./download.html). You can choose to download the .zip or .dmg package. When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to use it. 
 
  Once you run the software, a little window will pop up as below. If you choose to try it out, click "continue" button, you can try it for free 30 days. If you want to buy our product, click "Buy" button to enter the online store. 
 
