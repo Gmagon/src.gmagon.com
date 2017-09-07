@@ -62,7 +62,7 @@ gulp.task('sync:files', ['sync:git:pull'], function(cb){
 
 gulp.task('sync:git:add', ['sync:files'], function(){
   return  gulp.src(g_sync_dir)
-    .pipe(git.add({cwd:g_sync_dir, quiet:false}))
+    .pipe(git.add({cwd:g_sync_dir, quiet:false, args:' -A '}))
 })
 
 gulp.task('sync:git:commit', ['sync:git:add'], function(){
