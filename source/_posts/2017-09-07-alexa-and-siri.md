@@ -2,7 +2,9 @@
 title: 'Alexa and Siri are vulnerable to ''silent,'' nefarious commands'
 ---
 
-![](https://cdn.macrumors.com/article-new/2017/03/siri-alexa-fight.jpg)The relatively simple technique is called DolphinAttack. Researchers first translated human voice commands into ultrasonic frequencies \(over 20,000 hz\). They then simply played them back from a regular smartphone equipped with an amplifier, ultrasonic transducer and battery -- less than $3 worth of parts.
+![](https://cdn.macrumors.com/article-new/2017/03/siri-alexa-fight.jpg)
+<br>
+The relatively simple technique is called DolphinAttack. Researchers first translated human voice commands into ultrasonic frequencies \(over 20,000 hz\). They then simply played them back from a regular smartphone equipped with an amplifier, ultrasonic transducer and battery -- less than $3 worth of parts.
 
 What makes the attack scary is the fact that it works on just about anything:Siri,Google Assistant, Samsung S Voice andAlexa, on devices like smartphones, iPads, MacBook and Nexus 7s, Amazon Echo and even an Audi Q3 -- 16 devices and seven system in total. What's worse, "the inaudible voice commands can be correctly interpreted by the SR \(speech recognition\) systems on all the tested hardware." Suffice to say, it works even if the attacker has no device access and the owner has taken the necessary security precautions.
 ![](http://img2.tuicool.com/NrMvAzq.jpg)
