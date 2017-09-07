@@ -15,13 +15,13 @@ downloads:
         size: 3.4MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/2h0pbkp9avub/APNGToGifConverter-3.1.zip
-        lastWeekDownloadsMin: 200
+        lastWeekDownloadsMin: 4000
 
       - name: APNGToGifConverter-3.1.dmg
         size: 4.0MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/1r9v4ly9xhnh/APNGToGifConverter-3.1.dmg
-        lastWeekDownloadsMin: 200
+        lastWeekDownloadsMin: 4000
 
     windows:
  

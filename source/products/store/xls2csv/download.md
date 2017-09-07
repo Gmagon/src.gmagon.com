@@ -16,13 +16,13 @@ downloads:
         size: 10.76MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/1wehdmvazof7/XLS2csv-5.2.zip
-        lastWeekDownloadsMin: 2000
+        lastWeekDownloadsMin: 6000
 
       - name: XLS2csv-5.2.dmg
         size: 10.5MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/6wdpifka0hdh/XLS2csv-5.2.dmg
-        lastWeekDownloadsMin: 1500
+        lastWeekDownloadsMin: 5000
     windows:
 
   - version: 5.1.0
