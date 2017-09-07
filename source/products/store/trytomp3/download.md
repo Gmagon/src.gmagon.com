@@ -1,6 +1,6 @@
 layout: app_downloads
 title: Free Download TryToMP3
-subtitle: Download
+subtitle: Download TryToMP3
 comments: true
 product: TryToMP3
 current: download

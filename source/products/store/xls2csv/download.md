@@ -1,7 +1,7 @@
 layout: app_downloads
 title: Download XLS2csv
 
-subtitle: Download
+subtitle: Download XLS2csv
 comments: true
 product: XLS2csv
 current: download

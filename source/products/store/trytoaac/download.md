@@ -1,6 +1,6 @@
 layout: app_downloads
 title: Free Download TryToAAC
-subtitle: Download
+subtitle: Download TryToAAC
 comments: true
 product: TryToAAC
 current: download
