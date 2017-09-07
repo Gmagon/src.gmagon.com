@@ -33,7 +33,7 @@ gulp.task('sync:git:reset', function(cb){
 
 gulp.task('sync:git:clean', ['sync:git:reset'],  function(cb){
   if (enable_clean_or_revert) {
-    git.clean({cwd:g_sync_dir, quiet:false, args:'-f'}, function(err){
+    git.clean({cwd:g_sync_dir, quiet:false, args:' -f '}, function(err){
       if (err) throw err;
       cb ()
     })
@@ -62,7 +62,7 @@ gulp.task('sync:files', ['sync:git:pull'], function(cb){
 
 gulp.task('sync:git:add', ['sync:files'], function(){
   return  gulp.src(g_sync_dir)
-    .pipe(git.add({cwd:g_sync_dir, quiet:false, args:' -A '}))
+    .pipe(git.add({cwd:g_sync_dir, quiet:false, args:' -A --ignore-errors '}))
 })
 
 gulp.task('sync:git:commit', ['sync:git:add'], function(){
