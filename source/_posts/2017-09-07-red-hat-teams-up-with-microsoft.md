@@ -1,6 +1,5 @@
 ---
-title: >-
-Red Hat teams up with Microsoft to bring Windows Server containers to OpenShift
+title: Red Hat teams up with Microsoft to bring Windows Server containers to OpenShift
 ---
 
 ![](https://tctechcrunch2011.files.wordpress.com/2017/08/gettyimages-806256400-1.jpg)
