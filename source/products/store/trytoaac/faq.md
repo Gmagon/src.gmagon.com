@@ -7,6 +7,6 @@ current: faq
 
 
 ### What are the system requirements of TryToAAC?
-- MacOSX 10.7  mac OS (64-bit) or newer is required.
+- MacOSX 10.11  mac OS (64-bit) or newer is required.
 - Admin privileges for the Installation. 
 
