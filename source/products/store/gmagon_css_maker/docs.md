@@ -10,7 +10,7 @@ current: docs
 ## Gmagon CSS Maker
 An easy-to-use CSS generator for Mac OS X
 
-Version 1.0.0
+Version 2.0.0
 
 
 <br>
@@ -33,7 +33,7 @@ Gmagon CSS Maker is a powerful and full-featured CSS2/CSS3 generator on Mac that
 
 <br>
 ### **Installation**:
-Gmagon CSS Maker runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 1.0.0 is released now in [DOWNLOAD](./download.html). 
+Gmagon CSS Maker runs on Mac only, MacOS 10.7(64-bit) or newer is required. The new version 2.0.0 is released now in [DOWNLOAD](./download.html). 
 There are two kinds of install package in [DOWNLOAD](./download.html) page, you need to choose one suitable package, click it and wait for the downloading. Then choose a suitable folder to put the software in and click "open" to run it.   
 
 When you open and run the software, the product interface will pop up. The following "User Guide" will instruct you how to operate it. 
