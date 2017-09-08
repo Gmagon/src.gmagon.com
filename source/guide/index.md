@@ -49,6 +49,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [How can I convert AAC to MP3?](./trytomp3/how-can i-convert-aac-to-mp3.html)
 - [How can I convert WAV to MP3?](./trytomp3/how-can-i-convert-wav-to-mp3.html)
 - [The easiest way to convert MKV to MP3 on a Mac](./trytomp3/convert-mkv-to-mp3-mac.html)
+- [Best MOV to MP3 converter-convert MOV to MP3 on Mac](./trytomp3/best-mov-to-mp3-converter.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)

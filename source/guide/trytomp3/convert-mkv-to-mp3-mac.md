@@ -30,10 +30,11 @@ Step 3: Click “Import files” or “Import directory” to add MKV video file
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.  
 ![](../img/steps.png) 
 
-With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> Gmagon TryToMP3 </a> installed on you Mac, you can easily extrat audio tracks from multiple MKV files and save them as MP3. Hope this helps.  
+With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> Gmagon TryToMP3 </a> installed on your Mac, you can easily extrat audio tracks from multiple MKV files and save them as MP3. Hope this helps.  
 
 Also read 
-<a href="https://gmagon.com/guide/trytomp3/trytomp3ver4.1.0.html" target="_blank" >Gmagon TryToMP3 4.1.0 has been released</a>
-<a href="https://gmagon.com/guide/trytomp3/extract-audio-to-mp3-mac.html" target="_blank" >How to extract an audio from a video to MP3 on Mac? </a>
 <a href="https://gmagon.com/guide/trytomp3/how-can-i-convert-flac-to-mp3.html" target="_blank" >How can I convert FLAC to MP3?</a>
 <a href="https://gmagon.com/guide/trytomp3/how-can%20i-convert-aac-to-mp3.html " target="_blank" >How can I convert AAC to MP3?</a>
+<a href="https://gmagon.com/guide/trytomp3/trytomp3ver4.1.0.html" target="_blank" >Gmagon TryToMP3 4.1.0 has been released</a>
+<a href="https://gmagon.com/guide/trytomp3/extract-audio-to-mp3-mac.html" target="_blank" >How to extract an audio from a video to MP3 on Mac? </a>
+
