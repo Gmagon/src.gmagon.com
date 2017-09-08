@@ -37,7 +37,7 @@ With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> he b
 
 Also read 
 <a href="https://gmagon.com/guide/trytomp3/how-can-i-convert-flac-to-mp3.html" target="_blank" >How can I convert FLAC to MP3?</a>
-<a href="https://gmagon.com/guide/trytomp3/how-can%20i-convert-aac-to-mp3.html " target="_blank" >How can I convert AAC to MP3?</a>
+<a href="https://gmagon.com/guide/trytomp3/how-can-i-convert-aac-to-mp3.html " target="_blank" >How can I convert AAC to MP3?</a>
 <a href="https://gmagon.com/guide/trytomp3/trytomp3ver4.1.0.html" target="_blank" >Gmagon TryToMP3 4.1.0 has been released</a>
 <a href="https://gmagon.com/guide/trytomp3/extract-audio-to-mp3-mac.html" target="_blank" >How to extract an audio from a video to MP3 on Mac? </a>
 

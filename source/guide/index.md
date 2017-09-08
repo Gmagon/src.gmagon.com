@@ -46,7 +46,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Gmagon TryToMP3 4.1.0 has been released](./trytomp3/trytomp3ver4.1.0.html)
 - [How to extract an audio from a video to MP3 on Mac?](./trytomp3/extract-audio-to-mp3-mac.html)
 - [How can I convert FLAC to MP3?](./trytomp3/how-can-i-convert-flac-to-mp3.html)
-- [How can I convert AAC to MP3?](./trytomp3/how-can i-convert-aac-to-mp3.html)
+- [How can I convert AAC to MP3?](./trytomp3/how-can-i-convert-aac-to-mp3)
 - [How can I convert WAV to MP3?](./trytomp3/how-can-i-convert-wav-to-mp3.html)
 - [The easiest way to convert MKV to MP3 on a Mac](./trytomp3/convert-mkv-to-mp3-mac.html)
 - [Best MOV to MP3 converter-convert MOV to MP3 on Mac](./trytomp3/best-mov-to-mp3-converter.html)
