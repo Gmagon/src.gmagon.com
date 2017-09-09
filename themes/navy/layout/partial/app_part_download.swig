@@ -13,7 +13,7 @@
                         <tr>
                             <th>Version</th>
                             <th>Release name</th>
-                            <th>OS</th>
+                            <th>OS System</th>
                             <th>File size</th>
                             <th>Release date</th>
                             <th>Last 7days</th>
@@ -30,21 +30,21 @@
                             <td></td>
                             {% endif %}
                             
-                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.name }} </a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}" title="Free download from {{ item.url }}">{{ item.name }} </a></td>
                             <td><i class="fa fa-apple fa-2x" aria-hidden="true"></i> {{ item.os }}</td>
-                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}" title="Free download from  {{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
-                            <td><a href="{{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
+                            <td><a href="{{ item.url }}" title="Free download from  {{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
                             </tr>
                             {% endfor %}
 
                             {% for item in downloadObj.windows  %}
                             <tr>
-                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.name }} </a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}" title="Free download from {{ item.url }}">{{ item.name }} </a></td>
                             <td>{{ item.os }}</td>
-                            <td class="on elevation1"><a href="{{ item.url }}">{{ item.size }}</a></td>
+                            <td class="on elevation1"><a href="{{ item.url }}" title="Free download from {{ item.url }}">{{ item.size }}</a></td>
                             <td>{{ downloadObj.date }}</td>
-                            <td><a href="{{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
+                            <td><a href="{{ item.url }}" title="Free download from {{ item.url }}"><i class="fa fa-download" aria-hidden="true"></i> {{ random_download_count(item.lastWeekDownloadsMin) }}</a></td>
                             </tr>
                             {% endfor %}
                         {% endfor %}   

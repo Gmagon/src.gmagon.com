@@ -15,6 +15,18 @@ downloads:
       - name: XLS2csv-5.2.zip
         size: 10.76MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/xls2csv/5.2/XLS2csv-5.2.zip
+        lastWeekDownloadsMin: 6000
+
+      - name: XLS2csv-5.2.dmg
+        size: 10.5MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/xls2csv/5.2/XLS2csv-5.2.dmg
+        lastWeekDownloadsMin: 5000
+
+      - name: XLS2csv-5.2.zip
+        size: 10.76MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/1wehdmvazof7/XLS2csv-5.2.zip
         lastWeekDownloadsMin: 6000
 

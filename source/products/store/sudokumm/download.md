@@ -14,6 +14,18 @@ downloads:
       - name: SudokuMM-4.1.0.zip
         size: 3.55MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/sudokumm/4.1/SudokuMM-4.1.zip
+        lastWeekDownloadsMin: 3800
+
+      - name: SudokuMM-4.1.0.dmg
+        size: 4.3MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/sudokumm/4.1/SudokuMM-4.1.dmg
+        lastWeekDownloadsMin: 1600
+
+      - name: SudokuMM-4.1.0.zip
+        size: 3.55MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/3z6ckomsrf09/SudokuMM-4.1.zip
         lastWeekDownloadsMin: 3800
 

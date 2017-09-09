@@ -14,6 +14,18 @@ downloads:
       - name: EasyPing-2.4.zip
         size: 2.2MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/easyping/2.4/EasyPing-2.4.zip
+        lastWeekDownloadsMin: 4000
+
+      - name: EasyPing-2.4.dmg
+        size: 2.9MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/easyping/2.4/EasyPing-2.4.dmg
+        lastWeekDownloadsMin: 3000
+
+      - name: EasyPing-2.4.zip
+        size: 2.2MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/1dl3e1w0ejkx/EasyPing-2.4.zip
         lastWeekDownloadsMin: 4000
 

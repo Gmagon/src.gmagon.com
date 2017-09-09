@@ -14,6 +14,18 @@ downloads:
       - name: TryToMp3-4.1.0.zip
         size: 27.2MiB
         os: macOS 10.11/10.12
+        url: http://downloads.gmagon.com/trytomp3/4.1/TryToMP3-4.1.0.zip
+        lastWeekDownloadsMin: 5000
+
+      - name: TryToMP3-4.1.0.dmg
+        size: 27.8MiB
+        os: macOS 10.11/10.12
+        url: http://downloads.gmagon.com/trytomp3/4.1/TryToMP3-4.1.0.dmg
+        lastWeekDownloadsMin: 4500
+
+      - name: TryToMp3-4.1.0.zip
+        size: 27.2MiB
+        os: macOS 10.11/10.12
         url: http://www.filefactory.com/file/2egzicxp2wfr/TryToMP3-4.1.0.zip
         lastWeekDownloadsMin: 5000
 

@@ -14,6 +14,18 @@ downloads:
       - name: GmagonCSSMaker-2.0.zip
         size: 3.4MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/gmagoncssmaker/2.0/Gmagon%20CSS%20Maker-2.0.zip
+        lastWeekDownloadsMin: 5000
+
+      - name: GmagonCSSMaker-2.0.dmg
+        size: 4.0MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
+        url: http://downloads.gmagon.com/gmagoncssmaker/2.0/Gmagon-CSS-Maker-2.0.dmg
+        lastWeekDownloadsMin: 4500
+
+      - name: GmagonCSSMaker-2.0.zip
+        size: 3.4MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12
         url: http://www.filefactory.com/file/33j4x9e2ge6d/Gmagon%20CSS%20Maker-2.0.zip
         lastWeekDownloadsMin: 5000
 
