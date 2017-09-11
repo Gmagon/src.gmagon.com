@@ -5,6 +5,7 @@ description: If you are looking for software programs that can extract MP3 audio
 ---
 ![](../img/mpg-to-mp3.jpg)
 
+<br>
 ## What is MPG?
 MPG is short for MPGing Picture Experts Group, it is a video format that combines MPEG-1 or MPEG-2 video formats as well as audio formats. MPG is designed to compress audio and video to formats that can be downloaded. MPGies with this extension are of lower sizes and greater quality, but quality differs from original VCR videos. This file format can run on Mac, Windows and other portable devices.
 ![](../img/mpg.png)
@@ -21,20 +22,20 @@ Featuring simple and intuitive interface, fast conversion speed, as well as grea
 Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try it out or click “Buy” to purchase it directly.
 ![](../img/trytomp3-1.png)
 
-
+<br>
 Step 2: After clicking “Continue”, switch to “Convert”, and the following interface will show up. 
 ![](../img/convert.png)
-
+<br>
 Step 3: Click “Import files” or “Import directory” to add MPG video files that you want to extract audio form.  
 ![](../img/trytomp3-2.png)
-
+<br>
 Step 4: Click “Output directory” to set output path. When ready, click “Convert” to start.
 ![](../img/trytomp3-3.png)
-
+<br>
 Step 5: When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files. 
 ![](../img/trytomp3-4.png)
 
-
+<br>
 With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best MPG to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple MPG files and save them as MP3. Hope this helps.  
 
 <br>
