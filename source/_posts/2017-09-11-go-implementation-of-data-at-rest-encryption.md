@@ -2,7 +2,9 @@
 title: Go implementation of Data At Rest Encryption
 ---
 
-![](http://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/How%20companies%20are%20using%20big%20data%20and%20analytics/How-companies-data-1536x1536-300_Standard.ashx?mw=605&car=211:119)
+!
+[](http://www.mckinsey.com/~/media/McKinsey/Business Functions/McKinsey Digital/Our Insights/How companies are using big data and analytics/How-companies-data-1536x1536-300_Standard.ashx?mw=605&car=211:119)
+
 ### Introduction
 
 Encrypting network traffic is becoming the default. There are standardized protocols like SSH and TLS as well as projects like Let’s Encrypt to protect data sent over the network. TLS for example takes a data stream, chunks the stream into messages and encrypts every message before sending it through the network. TLS ensures that each message is encrypted and authenticated to prevent an attacker from reading or modifying any data sent over a TLS connection.
@@ -45,100 +47,38 @@ Minio also provides a reference Go [implementation](https://github.com/minio/sio
 
 ```
 masterkey := []byte("my-secret-32-byte-master-enc-key")
-```
-
-```
 // this nonce must be unique (should generated randomly)
-
-
 // It must be remembered but needn't be secret.
-
-
 nonce := []byte{
-
-
 0, 1, 2, 3, 4, 5 ,6 ,7, 8, 9, 10, 11, 12, 13, 14, 15,
-
-
 }
-```
-
-```
 plaintext, err := os.Open("my-unencrypted-file")
-
-
 if err != nil {
-
-
 fmt.Printf("Failed open 'my-unencrypted-file': %v", err)
-
-
 return
-
-
 }
-
-
 defer plaintext.Close()
-```
-
-```
 ciphertext, err := os.Create("my-encrypted-file")
-
-
 if err != nil {
-
-
 fmt.Printf("Failed create 'my-encrypted-file': %v", err)
-
-
 return
-
-
 }
-
-
 defer ciphertext.Close()
-```
-
-```
 // derive an unique encryption key
-
-
 kdf := hmac.New(sha256.New, masterkey)
-
-
 kdf.Write(nonce)
-```
-
-```
 config := sio.Config {
-
-
 Key: kdf.Sum(nil),
-
-
 CipherSuites: []byte{sio.AES_256_GCM},
-
-
 }
-```
-
-```
 _, err = sio.Encrypt(ciphertext, plaintext, config)
-
-
 if err != nil {
-
-
 fmt.Printf("Failed to encrypt data: %v", err)
-
-
 return
-
-
 }
 ```
+
+
 
 Additional examples and the package documentation can be found at [godoc.org](https://godoc.org/github.com/minio/sio). Further if you want to play with the DARE format and en/decrypt data streams on your machine you can check out this [demo tool](https://github.com/aead/ee).
 
@@ -146,5 +86,5 @@ Additional examples and the package documentation can be found at [godoc.org](ht
 
 Minio will use DARE for server-side and client-side-encryption. This will give our users the ability to encrypt their data with client-side-encryption and decrypt the data with server-side-encryption or vice versa. We hope that DARE will be a useful solution not just for our users but also for the wider developer community. If you have any questions or suggestions join our [slack channel](https://minio.slack.com/). Feedback is always welcome!
 
-Source: https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6
+Source: [https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6](https://blog.minio.io/data-at-rest-encryption-done-right-7446c644ddb6)
 
