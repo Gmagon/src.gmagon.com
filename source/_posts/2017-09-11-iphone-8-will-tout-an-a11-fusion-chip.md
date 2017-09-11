@@ -1,5 +1,5 @@
 ---
-title: iPhone will tout an A11 Fusion chip with a six-core processor
+title: iPhone 8 will tout an A11 Fusion chip with a six-core processor
 ---
 
 Apple's iPhone 8 internal specs are outed by iOS 11 leak.
