@@ -8,7 +8,10 @@ description: If you are looking for software programs that can extract .mp3 audi
 
 <br>
 ## What is AVI?
-![](../img/Avi.png) AVI is short for Audio Video Interleave which stands for a file with  the AVI file extension is a commonly used file format developed by Microsoft for storing both video and audio data in a single file.
+
+![](../img/avi.jpeg) 
+
+AVI is short for Audio Video Interleave which stands for a file with  the AVI file extension is a commonly used file format developed by Microsoft for storing both video and audio data in a single file.
 
 The AVI format is based off of the Resource Interchange File Format (RIFF), a container format used to store multimedia data. AVI is typically less compressed than other, more popular formats like MOV and MPEG, meaning that an AVI file will be larger than the same file in one of those more compressed formats.
 
