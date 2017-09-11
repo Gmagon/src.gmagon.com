@@ -28,12 +28,12 @@ Step 2: After clicking “Continue”, switch to “Convert”, and the followin
 ![](../img/convert.png)
 <br>
 
-Step 3: Click “Import files” or “Import directory” to add MOV video files that you want to extract audio from.  
+Step 3: Click “Import files” or “Import directory” to add MOV video files that you want to extract audio form.  
 
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.  
 ![](../img/steps.png) 
 
-With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> he best MOV to MP3 converter</a> installed on your Mac, you can easily extrat audio tracks from multiple MOV files and save them as MP3. Hope this helps.  
+With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best MOV to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple MOV files and save them as MP3. Hope this helps.  
 
 Also read 
 <a href="https://gmagon.com/guide/trytomp3/how-can-i-convert-flac-to-mp3.html" target="_blank" >How can I convert FLAC to MP3?</a>
