@@ -6,9 +6,12 @@ description: If you wonder how to convert PCM to MP3 in high quality on Mac, you
 ![](../img/pcm.png)
 
 <br>
->Need to convert PCM, WAV, WMA, AAC, FLAC, OGG, or other audio formats to MP3? 
+>Need to convert PCM, WAV, WMA, AAC, FLAC, OGG, or other audio formats to MP3?
+
 >Fail to open PCM files with iTunes, QuickTime Player, Windows Media Player or any other audio player? 
+
 >Wish to play PCM on your portable devices like iPod, iPhone, iPad, Blackberry, Samsung, Android phones, etc.? 
+
 >Tried some audio converters, but they only works in converting MP3, AAC, OGG, and failed to convert PCM files?
 
 
