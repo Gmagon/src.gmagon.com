@@ -9,7 +9,7 @@ Founder and president of[Quore](https://www.quore.com/), a company that speciali
 
 Schaedle founded Quore in 2012 after identifying the need for a solution to revolutionize and streamline all aspects of hotel service operations. Raised in a family rooted in the hospitality industry, Schaedle’s hotel operations background -- combined with his advertising and graphic design expertise -- inspired him to create Quore and, in turn, a series of increasingly intuitive UIs.
 
-#### Condense and simplify
+#### Condense and Simplify
 
 Good UI design relies on strategic, intentional design decisions -- typography, color, and hierarchy -- to take the guesswork out of a decision path or process. "For example, when our designers were creating action buttons in a screen for a housekeeper doing a room cleaning, the housekeeper may have 10 possible actions to take, but we only displayed the most common actions, tucking the rest away into a menu of 'more options'," Schaedle says. Stripping down the interface to only show the most important actions is one way design can impact the user experience and remove the guesswork for the customers."
 

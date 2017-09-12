@@ -77,3 +77,4 @@ description: Find Gmagon Software how-to guides on this page.
 - [How to convert APNG to GIF on Mac? ](./apngtogif/how-to-convert-apng-to-gif-mac.html)
 - [APNG to GIF Converter for Mac ](./apngtogif/apng-to-gif-converter-for-mac.html)
 - [How to batch change APNG to GIF on macOS Sierra? ](./apngtogif/batch-change-apng-to-gif-sierra.html)
+- [convert-apng-to-gif-with-sufficient-resolution-and-color-depth ](./apngtogif/convert-apng-to-gif-with-sufficient-resolution-and-color-depth.html)
