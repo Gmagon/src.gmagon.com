@@ -5,6 +5,7 @@ description: If you wonder how to convert PCM to MP3 in high quality on Mac, you
 ---
 ![](../img/pcm.png)
 
+<br>
 >Need to convert PCM, WAV, WMA, AAC, FLAC, OGG, or other audio formats to MP3? 
 >Fail to open PCM files with iTunes, QuickTime Player, Windows Media Player or any other audio player? 
 >Wish to play PCM on your portable devices like iPod, iPhone, iPad, Blackberry, Samsung, Android phones, etc.? 
@@ -24,14 +25,14 @@ Because the first drawback of  PCM audio format is that it is incompatible with 
 
 
 <br>
-## What’s the best PCM to MP3 Converter for Mac
+## What’s the best PCM to MP3 converter for Mac
 Sometimes, you may have the desire to convert PCM to MP3 for playback on your Apple, Samsung, HTC, Sony or other devices, or burning to CD, etc. 
 
 Featuring simple and intuitive interface, fast conversion speed, as well as great ability to handle almost all audio/video formats, Gmagon TryToMP3 is positioned as one of the best PCM to MP3 Converter for Mac. Check a quick guide on how to convert PCM to MP3 on Mac via using this app. 
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
 
 <br>
-### How to convert PCM to MP3 on Mac?
+## How to convert PCM to MP3 on Mac?
 Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try it out or click “Buy” to purchase it directly.
 ![](../img/trytomp3-1.png)
 

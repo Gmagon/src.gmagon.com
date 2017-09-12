@@ -3,7 +3,7 @@ title: Best solutions to convert MKA to MP3 on Mac
 keywords: best MKA to MP3 converter Mac, extract MP3 audio from MKA, convert MKA to MP3 on Mac, best mac MKA to MP3 extractor 
 description: If you need to convert MKA to MP3 format on Mac, you may want find out the best MKA to MP3 Converter for Mac. 
 ---
-![](../img/mka.jpg)
+![](../img/mka.png)
 
 <br>
 Owning to your personal enjoyment or for professional projects, when you start downloading music files, you will need to make sure that all of the audio files are in a convenient format that is accessible from every device. As an example, in order to play on their smart phones, MP3 players, or even video game consoles, most people need their audio files to be MP3s. As conversion technology becomes more and more popular, users are now able to convert relatively any type of file into the file type that they need, including MKA to MP3.
@@ -26,7 +26,7 @@ Featuring simple and intuitive interface, fast conversion speed, as well as grea
 
 
 <br>
-### How to convert MKA to MP3 on Mac?
+## How to convert MKA to MP3 on Mac?
 Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try it out or click “Buy” to purchase it directly.
 ![](../img/trytomp3-1.png)
 
