@@ -1,8 +1,10 @@
 ---
-title: iOS 11 is putting logical control squarely back in the hands of users
+title: It’s got harder for cops to lift all the data off your iPhone X
 ---
 
-![](https://i.amz.mshcdn.com/ISoTPQIYUJmxwKzqPkvfOydFLwk=/950x534/filters:quality%2890%29/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F588440%2F280f367e-2081-4189-90c8-8b3d4b5672ed.jpg)The [iPhone X](http://mashable.com/2017/09/09/iphone-x-name-tenth-anniversary-iphone-leak/) is coming, and with it a shiny [new iOS](http://mashable.com/2017/09/10/apple-ios-11-leak-source/) for legions of Apple fans to excitedly pore over. One group that may not be so stoked on the update, however, is law enforcement. 
+![](https://www.techgindia.com/wp-content/uploads/2016/12/1366_2000-2-4.jpg)
+
+The [iPhone X](http://mashable.com/2017/09/09/iphone-x-name-tenth-anniversary-iphone-leak/) is coming, and with it a shiny [new iOS](http://mashable.com/2017/09/10/apple-ios-11-leak-source/) for legions of Apple fans to excitedly pore over. One group that may not be so stoked on the update, however, is law enforcement. 
 
 Two new features in the operating system will make it more difficult for investigators to access data on seized devices, and security experts are heralding it as an overdue change to how the data on our smartphones is protected — both from potential criminals and the cops.  
 
