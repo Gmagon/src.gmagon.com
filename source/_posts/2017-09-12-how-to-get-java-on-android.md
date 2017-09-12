@@ -1,7 +1,7 @@
 ---
 title: How to Get Java on Android?
 ---
-
+![](http://nerdsmagazine.com/wp-content/uploads/2013/06/Run-Android-Apps-and-Games-on-Android.jpg)
 Java is technically not supported on Android, meaning that you can't run JAR files or visit websites with Java content. Luckily there are a few ways around these restrictions, depending on what you want to do. If you want to run a JAR file on your phone, you will need to gain root access and then install an emulator. If you want to view websites with Java content, you will need to use a remote desktop solution to access the sites with a desktop browser. See Step 1 below to learn how to do both.
 
 ### Method1 Emulator
