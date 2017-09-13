@@ -23,12 +23,12 @@
   </RoboSoft>
   <Company_Info>
     <Company_Name>Gmagon</Company_Name>
-    <Address_1>No.501, Zhujiang South Road</Address_1>
+    <Address_1>25 Whiston Rd, London E2 8EX, UK</Address_1>
     <Address_2></Address_2>
-    <City_Town>Yushan town, Kunshan, Suzhou</City_Town>
-    <State_Province>Jiangsu</State_Province>
-    <Zip_Postal_Code>215300</Zip_Postal_Code>
-    <Country>China</Country>
+    <City_Town></City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Country>United Kingdom</Country>
     <Company_WebSite_URL>https://gmagon.com/</Company_WebSite_URL>
     <Contact_Info>
       <Contact_First_Name>Ian</Contact_First_Name>
@@ -89,9 +89,6 @@
   <PAD_Certification_Promotion>
     <Apply_For_Certification>N</Apply_For_Certification>
   </PAD_Certification_Promotion>
-  <Dynamic_PAD>
-    <Dynamic_Distributive>N</Dynamic_Distributive>
-  </Dynamic_PAD>
   <Program_Info>
     <Program_Target_Platform>OS X</Program_Target_Platform>
     <Program_Name>XLS2csv</Program_Name>
@@ -160,6 +157,9 @@
     <Distribution_Permissions>The Trial version of my software can be freely distributed over the internet in an unchanged form.</Distribution_Permissions>
     <EULA>http://gmagon.com/end-user-license-agreement.html</EULA>
   </Permissions>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+  </Dynamic_PAD>
   <AppStore>
     <AppStore_AppID></AppStore_AppID>
     <AppStore_Category></AppStore_Category>

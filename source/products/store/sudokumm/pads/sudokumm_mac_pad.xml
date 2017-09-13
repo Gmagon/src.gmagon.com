@@ -23,12 +23,12 @@
   </RoboSoft>
   <Company_Info>
     <Company_Name>Gmagon</Company_Name>
-    <Address_1>No.501, Zhujiang South Road</Address_1>
+    <Address_1>25 Whiston Rd, London E2 8EX, UK</Address_1>
     <Address_2></Address_2>
-    <City_Town>Yushan town, Kunshan, Suzhou</City_Town>
-    <State_Province>Jiangsu</State_Province>
-    <Zip_Postal_Code>215300</Zip_Postal_Code>
-    <Country>China</Country>
+    <City_Town></City_Town>
+    <State_Province></State_Province>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Country>United Kingdom</Country>
     <Company_WebSite_URL>https://gmagon.com/</Company_WebSite_URL>
     <Contact_Info>
       <Contact_First_Name>Ian</Contact_First_Name>
@@ -136,17 +136,6 @@
     <Includes_DirectX></Includes_DirectX>
     <GooglePlusProductPage></GooglePlusProductPage>
   </Program_Info>
-  <Dynamic_PAD>
-    <Dynamic_Distributive>N</Dynamic_Distributive>
-    <General>
-      <DP_Pad_Mask>SudokuMM_pad.xml</DP_Pad_Mask>
-      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
-      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
-      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
-      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
-      <DP_ControlPanel_Hosted>0D981DB3E5A0ACF1474295A0E3BBB8FA</DP_ControlPanel_Hosted>
-    </General>
-  </Dynamic_PAD>
   <Web_Info>
     <Application_URLs>
       <Application_Info_URL>https://gmagon.com/products/store/sudokumm/index.html</Application_Info_URL>
@@ -189,4 +178,15 @@
       <Char_Desc_2000>SudokuMM is a classic Sudoku game which is one of the most popular puzzle games of all time. It is a convenient and minimum tool designed for Sudoku fans all over the world. With SudokuMM, you can feel free to play Sudoku puzzle on your Mac anytime and everywhere. There are four levels of difficulty to choose, you can select a puzzle by different difficult level without worrying about it's too difficult or too easy to play. Without log in and registration, or any plug-in, you can simply enjoy the excellent experience anytime and everywhere. Start a game now. Within no time daily Sudoku will be your favorite game on Mac.</Char_Desc_2000>
     </English>
   </Program_Descriptions>
+  <Dynamic_PAD>
+    <Dynamic_Distributive>N</Dynamic_Distributive>
+    <General>
+      <DP_Pad_Mask>SudokuMM_pad.xml</DP_Pad_Mask>
+      <DP_Script_Base_URL>http://hosted.dynamicpad.org/</DP_Script_Base_URL>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_Distributive_Enabled>FALSE</DP_Distributive_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_ControlPanel_Hosted>0D981DB3E5A0ACF1474295A0E3BBB8FA</DP_ControlPanel_Hosted>
+    </General>
+  </Dynamic_PAD>
 </XML_DIZ_INFO>
