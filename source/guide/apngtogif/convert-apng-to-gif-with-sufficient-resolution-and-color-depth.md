@@ -1,5 +1,5 @@
 layout: guide
-title: convert-apng-to-gif-with-sufficient-resolution-and-color-depth
+title: Convert APNG to GIF with sufficient resolution and color depth
 keywords: convert animated PNG to GIF format on a Mac, APNG to GIF Converter for Mac, converting APNG files to GIF format on Mac OS X, convert APNG to GIF on Mac, make animated GIFs from APNG files on your Mac
 description: To be able to convert animated PNG to GIF format on a Mac, you will need an APNG to GIF Converter for Mac. 
 ---
