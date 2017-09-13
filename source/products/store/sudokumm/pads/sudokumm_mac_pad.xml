@@ -25,9 +25,9 @@
     <Company_Name>Gmagon</Company_Name>
     <Address_1>25 Whiston Rd, London E2 8EX, UK</Address_1>
     <Address_2></Address_2>
-    <City_Town></City_Town>
-    <State_Province></State_Province>
-    <Zip_Postal_Code></Zip_Postal_Code>
+    <City_Town>London</City_Town>
+    <State_Province>England</State_Province>
+    <Zip_Postal_Code>WC2N 5DU</Zip_Postal_Code>
     <Country>United Kingdom</Country>
     <Company_WebSite_URL>https://gmagon.com/</Company_WebSite_URL>
     <Contact_Info>
