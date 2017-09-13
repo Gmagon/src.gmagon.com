@@ -20,7 +20,7 @@ downloads:
       - name: TryToAAC-4.1.0.dmg
         size: 27.64MiB
         os: macOS 10.11/10.12
-        url: http://www.filefactory.com/trytoaac/4.1/TryToAAC-4.1.0.dmg
+        url: http://downloads.gmagon.com/trytoaac/4.1/TryToAAC-4.1.0.dmg
         lastWeekDownloadsMin: 2400
 
       - name: TryToAAC-4.1.0.zip
