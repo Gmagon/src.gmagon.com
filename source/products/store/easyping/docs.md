@@ -10,7 +10,7 @@ current: docs
 ## EasyPing
 A little ping utility for Mac OS X. 
 
-Version 2.3
+Version 2.4
 
 
 <br>
