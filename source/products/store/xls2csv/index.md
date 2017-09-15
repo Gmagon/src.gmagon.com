@@ -1,5 +1,5 @@
 layout: app
-title: XLS2csv - convert XLS files to CSV on Mac  
+title:  XLS2csv - convert Excel (.XLS/.XLSX) to CSV on Mac
 subtitle: XLS2csv
 comments: false
 current: index
