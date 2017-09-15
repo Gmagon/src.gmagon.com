@@ -56,6 +56,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Best solutions to convert AC3 to MP3 on Mac](./trytomp3/best-tool-to-convert-ac3-to-mp3.html)
 - [Best solutions to convert MKA to MP3 on Mac](./trytomp3/best-solutions-to-convert-mka-to-mp3.html)
 - [Best solutions to convert PCM to MP3 on Mac](./trytomp3/best-solutions-to-convert-pcm-to-mp3.html)
+- [Best solutions to convert VOB to MP3 on Mac](./trytomp3/best-solutions-to-convert-vob-to-mp3.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
