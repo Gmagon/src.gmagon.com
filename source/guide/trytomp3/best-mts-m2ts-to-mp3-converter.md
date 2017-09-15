@@ -15,7 +15,7 @@ MTS and M2TS are both file extensions for AVCHD, that is the HD digital video ca
 
 According to Wikipedia, they are slightly distinguishing. HD cameras record .mts but export as .m2ts. While the file extension of AVCHD video is MTS, if imported to computer, it will become M2TS. MTS is the format not collected by specific software, and will change into the video file with M2TS as the file extension after collection.
 <br>
-### Supported Devices
+>**Supported Devices**:
 M2TS files can also be played on Sony PlayStation 3s (PS3), Sony Bravia TVs, Western Digital WDTVs, Xtreamer media player, Amkette FlashTV HD Media Player and Panasonic Viera TVs supporting playback of AVCHD.
 
 Both MTS and M2TS files can be accepted by Windows Media Player, VLC, 5KPlayer, as well as Apple's Final Cut Pro by using the AVCHD plugin in the Log and Transfer window. 
