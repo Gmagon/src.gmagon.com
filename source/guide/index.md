@@ -58,6 +58,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Best solutions to convert PCM to MP3 on Mac](./trytomp3/best-solutions-to-convert-pcm-to-mp3.html)
 - [Best solutions to convert VOB to MP3 on Mac](./trytomp3/best-solutions-to-convert-vob-to-mp3.html)
 - [Best MTS/M2TS to MP3 converter on Mac](./trytomp3/best-mts-m2ts-to-mp3-converter.html)
+- [How to convert APE to MP3 on Mac?](./trytomp3/convert-ape-to-mp3-on-mac.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
