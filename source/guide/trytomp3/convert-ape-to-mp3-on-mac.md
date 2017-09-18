@@ -39,7 +39,7 @@ Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try
 Step 2: After clicking “Continue”, switch to “Convert”, and the following interface will show up. 
 ![](../img/convert.png)
 <br>
-Step 3: Click “Import files” or “Import directory” to add APE video files that you want to extract audio form.  
+Step 3: Click “Import files” or “Import directory” to add APE video files that you want to extract audio from.  
 ![](../img/trytomp3-2.png)
 <br>
 Step 4: Click “Output directory” to set output path. When ready, click “Convert” to start.

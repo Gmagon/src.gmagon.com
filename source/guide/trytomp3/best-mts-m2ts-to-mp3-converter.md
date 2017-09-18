@@ -24,7 +24,7 @@ Both MTS and M2TS files can be accepted by Windows Media Player, VLC, 5KPlayer, 
 When it comes to the internet world then above all doubts the mp3 format is a de facto standard that is in use for a very long period of time now and it makes sure that the files are not only played but they are also converted without any issue and problem. It is also to be noted that the mp3 format is in use since 1993 to make sure that the users are provided with the best services and the files are played in smooth and calm manner.
 <br>
 ## How to Convert MTS/M2TS to MP3 in Quick & Easy Steps
-Featuring simple and intuitive interface, fast conversion speed, as well as great ability to handle almost all audio/video formats, Gmagon TryToMP3 is positioned as one of the best VOB to MP3 Converter for Mac. Check a quick guide on how to convert VOB to MP3 on Mac via using this app. 
+Featuring simple and intuitive interface, fast conversion speed, as well as great ability to handle almost all audio/video formats, Gmagon TryToMP3 is positioned as one of the best MTS/M2TS to MP3 Converter for Mac. Check a quick guide on how to convert MTS/M2TS to MP3 on Mac via using this app. 
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
 
 Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try it out or click “Buy” to purchase it directly.
@@ -34,7 +34,7 @@ Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try
 Step 2: After clicking “Continue”, switch to “Convert”, and the following interface will show up. 
 ![](../img/convert.png)
 <br>
-Step 3: Click “Import files” or “Import directory” to add VOB video files that you want to extract audio form.  
+Step 3: Click “Import files” or “Import directory” to add video files that you want to extract audio from.  
 ![](../img/trytomp3-2.png)
 <br>
 Step 4: Click “Output directory” to set output path. When ready, click “Convert” to start.
@@ -44,7 +44,7 @@ Step 5: When the conversion is complete, click “Reveal in Folder” to find th
 ![](../img/trytomp3-4.png)
 
 <br>
-With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best VOB to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple VOB files and save them as MP3. Hope this helps.  
+With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best MTS/M2TS to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple .mts/.m2ts files and save them as MP3. Hope this helps.  
 
 <br>
 Also read 
