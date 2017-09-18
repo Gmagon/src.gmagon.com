@@ -10,7 +10,7 @@ MP3 files can be played by many types of devices such as Apple iPod, iPhone, iPa
 
 If you want to save a particular sone from a MKV movie to MP3 format, you can give Gmagon TryToMP3 a shot. This app allows you to extrat an audio track from a video and save it as MP3. Learn how to extract soundtracks from MKV to MP3 on Mac via using this app.
 
-How to convert MKV to MP3 on Mac? 
+### How to convert MKV to MP3 on Mac? 
 Here’s what you need
 Gmagon TryToMP3
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
