@@ -24,7 +24,7 @@ Step 1. Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try
 Step 2. After clicking “Continue”, switch to “Convert”, and the following interface will pop up. 
 ![](../img/convert.png)
 
-Step 3. Click “Import files” or “Import directory” to add audio files that you want to convert to MP3 format. More than convert audio to MP3, this app can also extract audio tracks from various videos and save them as MP3. 
+Step 3. Click “Import files” or “Import directory” to add audio files that you want to convert to MP3 format. More than converting audio to MP3, this app can also extract audio tracks from various videos and save them as MP3. 
 
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.  
 ![](../img/steps.png)
