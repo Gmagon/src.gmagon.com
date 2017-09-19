@@ -63,6 +63,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Extract soundtracks from MKV to MP3 on Mac](./trytomp3/extract-mkv-audio-to-mp3-mac.html)
 - [How do I convert APE to MP3 on Mac?](./trytomp3/convert-ape-to-mp3-mac.html)
 - [How can I convert OGGs to MP3 on Mac? ](./trytomp3/convert-ogg-to-mp3-mac.html)
+- [Mac AIFF to MP3 converter-convert AIFF to MP3 on Mac ](./trytomp3/mac-aiff-to-mp3-converter.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
