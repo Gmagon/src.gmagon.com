@@ -6,12 +6,10 @@ description: Learn what an OGG file is and how to convert OGGs to MP3 format on 
 Learn what an OGG file is and how to convert OGGs to MP3 format on Mac OS X. 
 
 ### What is an OGG file? 
-A file with the OGG file extension is an Ogg Vorbis Compressed Audio file used for holding audio data. OGG files can include artist and track information as well as metadata.
-
-Ogg is an open container format that is somewhat similar in nature to the MP3, VQF and AAC formats, unlike these formats the OGG file format is free and unpatented.
-![](../img/ogg-to-mp3-converter.jpg)
+A file with the OGG file extension is an Ogg Vorbis Compressed Audio file used for holding audio data. OGG files can include artist and track information as well as metadata. Ogg is an open container format that is somewhat similar in nature to the MP3, VQF and AAC formats, unlike these formats the OGG file format is free and unpatented.
 
 Did your Mac computer or mobile devices fail to open an OGG file? We explain how to convert your OGG files to the widely accepted MP3 format on a Mac machine. 
+![](../img/ogg-to-mp3-converter.jpg)
 
 ### How can I convert OGGs to MP3 on Mac? 
 There are a lot of shareware out there that does this conversion. If your concerns are ease of use, fast speed, good quality and batch conversion, then Gmagon TryToMP3 is your proper option. Learn how to encode OGGs to MP3 on Mac via using this OGG to MP3 converter for Mac. 
