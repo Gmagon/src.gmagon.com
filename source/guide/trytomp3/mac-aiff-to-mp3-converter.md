@@ -32,7 +32,7 @@ Step 3. Click “Import files” or “Import directory” to add audio files th
 Step 4. After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.   
 ![](../img/steps.png)
 
-That’s all. Hope this will help those who are looking for a software program to transcode AIFF files to MP3 on Mac. 
+That’s all. Hope this will help those who are looking for a software program to <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">transcode AIFF files to MP3 on Mac</a>. 
 
 Also read
 <a href="https://gmagon.com/guide/trytomp3/convert-ape-to-mp3-mac.html" target="_blank" >How do I convert APE to MP3 on Mac?</a>

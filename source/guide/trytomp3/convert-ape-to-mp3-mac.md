@@ -27,7 +27,7 @@ Step 3. Click “Import files” or “Import directory” to add audio files th
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.  
 ![](../img/steps.png)
 
-That’s all. Hope this will help those who are looking for a solution to encode APE files to MP3 on Mac. 
+That’s all. Hope this will help those who are looking for a solution to <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">encode APE files to MP3 on Mac</a>. 
 
 Also read
 <a href="https://gmagon.com/guide/trytomp3/convert-flv-to-mp3.html" target="_blank" >How to convert FLV to MP3 on Mac?</a>
