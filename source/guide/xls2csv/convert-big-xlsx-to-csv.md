@@ -22,7 +22,7 @@ Step 2: Set output path for exported CSV files
 
 Step 3: Click “Convert all” button to start. Once the conversion is complete, you can get the exported .csv files in output folder. 
 
-Hope this Mac XLSX2CSV converter app helps those who are looking for a solution to convert big XLSX files to CSV format on a Mac. 
+Hope this Mac XLSX2CSV converter app helps those who are looking for a solution to <a href="https://gmagon.com/products/store/xls2csv/" target="_blank" rel="nofollow me noopener noreferrer" >convert big XLSX files to CSV format on a Mac</a>. 
 
 Also read 
  <a href="https://gmagon.com/guide/mac-batch-convert-xls-to-csv.html" target="_blank" rel="nofollow me noopener noreferrer" >Mac batch convert XLS to CSV</a>
