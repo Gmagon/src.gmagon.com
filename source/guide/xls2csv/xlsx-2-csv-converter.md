@@ -29,5 +29,3 @@ Also read
 <a href="https://gmagon.com/guide/convert-xls-to-csv-on-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to convert XLS to CSV on a Mac?</a>
 <a href="https://gmagon.com/guide/create-border-radius-css-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create border radius CSS code on Mac?</a>
 <a href="https://gmagon.com/guide/how-do-i-convert-excel-to-csv-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How do I convert Excel to CSV on Mac?</a>
-<a href="https://gmagon.com/guide/convert-xls-on-mac-without-excel.html" target="_blank" rel="nofollow me noopener noreferrer" >Convert XLS to CSV on Mac without Excel installed</a>
-<a href="https://gmagon.com/guide/how-to-create-utf-8-csv-from-xls-mac.html" target="_blank" rel="nofollow me noopener noreferrer" >How to create UTF-8/UTF-16 CSV from XLS/XLSX on Mac?</a>

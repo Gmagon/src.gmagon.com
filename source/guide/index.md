@@ -35,6 +35,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [What Is An XLS File And How To Use It?](./xls2csv/xls.html)
 - [What is XLSX and how to transform XLSX to CSV?](./xls2csv/what-is-xlsx.html)
 - [What’s the real difference between XLSX, XLSM and XLSB?](./xls2csv/xlsx-xlsm-xlsb.html)
+- [How to convert big XLSX files to CSV format?](./xls2csv/convert-big-xlsx-to-csv.html)
 ---
 
 # [TryToMP3](../products/store/trytomp3/)  ![](../products/store/trytomp3/images/logo/logo_64x64.png)  
