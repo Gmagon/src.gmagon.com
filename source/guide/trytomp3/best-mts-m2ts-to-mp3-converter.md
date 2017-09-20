@@ -3,7 +3,7 @@ title: Best MTS/M2TS to MP3 converter on Mac
 keywords: best MTS/M2TS to MP3 converter Mac, extract MP3 audio from MTS/M2TS, convert MTS/M2TS to MP3 on Mac, best mac MTS/M2TS to MP3 extractor 
 description: If you want to know how to convert MTS/M2TS to MP3 in high quality on Mac, then you come to the right place. 
 ---
-
+If you want to know how to convert MTS/M2TS to MP3 in high quality on Mac, then you come to the right place. 
 ![](../img/mts.jpg)
 <br>
 

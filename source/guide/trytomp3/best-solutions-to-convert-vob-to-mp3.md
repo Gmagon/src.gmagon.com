@@ -3,6 +3,7 @@ title: Best solutions to convert VOB to MP3 on Mac
 keywords: best VOB to MP3 converter Mac, extract MP3 audio from VOB, convert VOB to MP3 on Mac, best mac VOB to MP3 extractor 
 description: Do you want to know how to convert VOB to MP3 in high quality on Mac, you can find the best solution here. 
 ---
+Do you want to know how to convert VOB to MP3 in high quality on Mac, you can find the best solution here. 
 ![](../img/vob.png)
 <br>
 

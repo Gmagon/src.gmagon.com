@@ -3,6 +3,7 @@ title: Best MPG to MP3 converter-convert MPG to MP3 on Mac
 keywords: best mpg to mp3 converter Mac, extract mp3 audio from mpg, convert mpg to mp3 on Mac, best mac mpg to mp3 extractor 
 description: If you are looking for software programs that can extract MP3 audio from MPG on Mac, you may wish to know what the best MPG to MP3 Converter for Mac is. 
 ---
+If you are looking for software programs that can extract MP3 audio from MPG on Mac, you may wish to know what the best MPG to MP3 Converter for Mac is. 
 ![](../img/mpg-to-mp3.jpg)
 
 <br>

@@ -1,9 +1,9 @@
 layout: guide
 title: Best solutions to convert AC3 to MP3 on Mac    
 keywords: best AC3 to MP3 converter Mac, extract MP3 audio from AC3, convert AC3 to MP3 on Mac, best mac AC3 to MP3 extractor 
-description: If you are looking for software programs that can extract MP3 audio from AC3 on Mac, you may wish to know what the best AC3 to MP3 Converter for Mac is. 
+description: Failed to open AC3 files? Convert them first! This article explains how to convert AC3 audio files to the widely supported MP3 format on Mac OS X platform. 
 ---
-
+Failed to open AC3 files? Convert them first! This article explains how to convert AC3 audio files to the widely supported MP3 format on Mac OS X platform. 
 ![](../img/convert_ac3_to_mp3.jpg)
 
 <br>
@@ -19,7 +19,7 @@ AC3 allows for separate audio to be defined for each of the 6 speakers in the st
 
 <br>
 ## What’s the best AC3 to MP3 Converter for Mac
-Sometimes, you may have the desire to convert AC3 to MP3 for playback on your Apple, Samsung, HTC, Sony or other devices, or burning to CD, etc. 
+Sometimes, you may have the request to convert AC3 to MP3 for playback on your Apple, Samsung, HTC, Sony or other devices, or burning to CD, etc. 
 
 Featuring simple and intuitive interface, fast conversion speed, as well as great ability to handle almost all audio/video formats, Gmagon TryToMP3 is positioned as one of the best AC3 to MP3 Converter for Mac. Check a quick guide on how to convert AC3 to MP3 on Mac via using this app. 
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
@@ -33,7 +33,7 @@ Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try
 Step 2: After clicking “Continue”, switch to “Convert”, and the following interface will show up. 
 ![](../img/convert.png)
 <br>
-Step 3: Click “Import files” or “Import directory” to add AC3 video files that you want to extract audio from.  
+Step 3: Click “Import files” or “Import directory” to add AC3 video files that you want to convert to mp3.  
 ![](../img/trytomp3-2.png)
 <br>
 Step 4: Click “Output directory” to set output path. When ready, click “Convert” to start.
@@ -43,7 +43,7 @@ Step 5: When the conversion is complete, click “Reveal in Folder” to find th
 ![](../img/trytomp3-4.png)
 
 <br>
-With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best AC3 to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple AC3 files and save them as MP3. Hope this helps.  
+With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best AC3 to MP3 converter</a> installed on your Mac, you can easily convert audio files from AC3 format to MP3 in batch mode. Hope this helps.  
 
 <br>
 Also read 

@@ -1,9 +1,9 @@
 layout: guide
 title: How to convert APE to MP3 on Mac?     
 keywords: Does anyone know a Mac app that extracts MP3 audio tracks from APE video files? 
-description: If you are willing to convert APE files to MP3 format, you are in the right place. 
+description: This post guides you through the process of encoding audio files from APE to MP3 on Mac. 
 ---
-
+If you are trying to figure out a way to convert APE files to MP3 format on Mac, you are in the right place. This post guides you through the process of encoding audio files from APE to MP3 on Mac. 
 ![](../img/ape.jpg)
 <br>
 >I have got some .ape format files. How to convert them to mp3 format? So I can add them to my iTunes.
@@ -39,7 +39,7 @@ Step 1: Install and run Gmagon TryToMP3 on your Mac. Click “Continue” to try
 Step 2: After clicking “Continue”, switch to “Convert”, and the following interface will show up. 
 ![](../img/convert.png)
 <br>
-Step 3: Click “Import files” or “Import directory” to add APE video files that you want to extract audio from.  
+Step 3: Click “Import files” or “Import directory” to add APE files that you want to convert to mp3.  
 ![](../img/trytomp3-2.png)
 <br>
 Step 4: Click “Output directory” to set output path. When ready, click “Convert” to start.
@@ -49,7 +49,7 @@ Step 5: When the conversion is complete, click “Reveal in Folder” to find th
 ![](../img/trytomp3-4.png)
 
 <br>
-With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best APE to MP3 converter</a> installed on your Mac, you can easily extract audio tracks from multiple APE files and save them as MP3. Hope this helps.  
+With <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> the best APE to MP3 converter</a> installed on your Mac, you can easily convert a set of APE files to MP3 in a batch. Hope this helps.  
 
 <br>
 Also read 
@@ -57,6 +57,4 @@ Also read
 <a href="https://gmagon.com/guide/trytomp3/best-mov-to-mp3-converter.html" target="_blank" >Best MOV to MP3 converter-convert MOV to MP3 on Mac</a>
 <a href="https://gmagon.com/guide/trytomp3/best-tool-to-convert-mpg-to-mp3.html" target="_blank" >Best MPG to MP3 converter-convert MPG to MP3 on Mac</a>
 <a href="https://gmagon.com/guide/trytomp3/best-tool-to-convert-avi-to-mp3.html" target="_blank" >Best .avi to .mp3 converter-convert .avi to .mp3 on Mac</a>
-<a href="https://gmagon.com/guide/trytomp3/best-tool-to-convert-ac3-to-mp3.html" target="_blank" >Best solutions to convert AC3 to MP3 on Mac</a>
-<a href="https://gmagon.com/guide/trytomp3/best-solutions-to-convert-mka-to-mp3.html" target="_blank" >Best solutions to convert MKA to MP3 on Mac</a>
 

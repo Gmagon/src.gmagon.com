@@ -3,6 +3,7 @@ title: Best .avi to .mp3 converter-convert .avi to .mp3 on Mac
 keywords: best .avi to .mp3 converter Mac, extract .mp3 audio from .avi, convert .avi to .mp3 on Mac, best mac .avi to .mp3 extractor 
 description: If you are looking for software programs that can extract .mp3 audio from .avi on Mac, you may wish to know what the best .avi to .mp3 Converter for Mac is. 
 ---
+If you are looking for software programs that can extract .mp3 audio from .avi on Mac, you may wish to know what the best .avi to .mp3 Converter for Mac is.
 ![](../img/avi-to-mp3.jpg)
 
 

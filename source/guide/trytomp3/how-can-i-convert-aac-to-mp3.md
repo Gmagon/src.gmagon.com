@@ -1,9 +1,9 @@
 layout: guide
-title: How can I convert AAC to MP3?    
+title: How can I convert AAC to MP3 on Mac?    
 keywords: aac to mp3 converter, aac to mp3 mac, aac to mp3 audio converter mac, convert a aac to mp3, change a aac to mp3, aac to mp3 batch, aac to mp3 conversion, aac to mp3 batch converter mac
-description: Is it possible to convert AAC files to MP3 format on a Mac? If you are trying to figure out a way to do this, you are in the right place.   
+description: This article aims to help those who are in search of a solution to convert AAC files to MP3 format on a Mac.    
 ---
-
+This article aims to help those who are in search of a solution to convert AAC files to MP3 format on a Mac. If it is what you are looking for, keep reading to learn more. 
 ![](../img/aac.jpg)
 
 ##  What is AAC format?
@@ -18,7 +18,7 @@ Like MP3s, the quality of an AAC file is measured based on its bit rate, rendere
 AAC does have a few other quantifiable advantages over MP3. Most significantly it is capable of storing up to 48 channels of synchronous audio, compared to MP3's 2 channels. This makes it ideal for compressing surround sound mixes and other multi-channel material. Even though AAC is supposed to be improved and developed audio format in comparison with MP3, it should be admitted that MP3 is obviously more popular than AAC. Because MP3 audio format is supposed to be the most popular encoding format and it is still widespread.  
 <br>
 ## How to convert AAC to MP3?
-If you need to convert AAC to MP3 format, you will need a powerful audio converter to help you. Thankfully, there are <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> TryToMP3 </a> for you.  
+If you need to convert AAC to MP3 format, you will need a powerful audio converter to help you. Thankfully, there is <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> TryToMP3 </a> for you.  
 
 1. Download a free trial of Gmagon TryToMP3
 <a href="https://gmagon.com/products/store/trytomp3/" target="_blank"> <img src="https://gmagon.com/asset/images/free-download.png"/></a>
@@ -32,7 +32,7 @@ Note that this app requires Mac OS X 10.11 or later. It provides 30-day free tri
 ![](../img/convert.png)
 <br>
 
-4. Click “Import files” or “Import directory” to add video files that you want to extract audio from. More than extrating audio from a video, this app can also convert various audio files to MP3 format. 
+4. Click “Import files” or “Import directory” to add AAC files that you want to convert to MP3. More than converting audio files to MP3, it can also extrat audio tracks from various video files and save them as MP3. 
 
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files. 
 
@@ -40,7 +40,7 @@ After files loaded, click “Output directory” to set output path. When ready,
 <br>
 
 
->As you can see above, with <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">Gmagon TryToMP3 installed</a>, you can easily extrat audio tracks from multiple video files and save them as MP3.  
+>As you can see above, with <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">Gmagon TryToMP3 installed</a>, you can easily convert AAC audio files to MP3 on your Mac.  
 
 <br>
 Also read
