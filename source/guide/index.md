@@ -68,6 +68,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [Mac AIFF to MP3 converter-convert AIFF to MP3 on Mac ](./trytomp3/mac-aiff-to-mp3-converter.html)
 - [AMR to MP3 - convert .amr to .mp3 on Mac ](./trytomp3/convert-amr-to-mp3-mac.html)
 - [How to convert large MOV to MP3 on Mac? ](./trytomp3/convert-large-mov-to-mp3-mac.html)
+- [How to convert quicktime audio to mp3 on Mac? ](./trytomp3/convert-qt-audio-to-mp3-mac.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)

@@ -5,8 +5,8 @@ description: If you are searching for a way to extract audio tracks from large M
 ---
 If you are searching for a way to extract audio tracks from large MOV movies to MP3 on a Mac computer, you may wish to read this article. It displays how to process large MOV to MP3 conversion on Mac via using a helpful converter app. 
 ![](../img/mov-to-mp3.jpg)
-How can I convert big MOV files to MP3 format on MacBook Pro? 
-“Hi, guys, I have some big .mov video files on my MacBook Pro that I would like to convert them from .mov to .mp3 as any other songs I have on iTunes. I dragged them to iTunes and I tried to convert them to mp3 but iTunes just keep giving me an error message so I guess iTunes has issues handling big MOV files. A bit annoying. How can I do it? If someone can give me a better idea to do it quickly, I would be deeply thankful. Thanks in advance.” 
+>**How can I convert big MOV files to MP3 format on MacBook Pro?**
+>“Hi, guys, I have some big .mov video files on my MacBook Pro that I would like to convert them from .mov to .mp3 as any other songs I have on iTunes. I dragged them to iTunes and I tried to convert them to mp3 but iTunes just keep giving me an error message so I guess iTunes has issues handling big MOV files. A bit annoying. How can I do it? If someone can give me a better idea to do it quickly, I would be deeply thankful. Thanks in advance.” 
 
 Use Gmagon TryToMP3. It lets you get big MOV movies to export as MP3 on Mac, best of all, it can work with batches, and it provides 30-day free trial. Learn how to convert big MOV to MP3 on Mac via using this app.
 ### How to extract audio from large MOV and save as MP3 on Mac? 
