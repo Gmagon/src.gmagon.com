@@ -25,7 +25,7 @@ Step 3. Click “Import files” or “Import directory” to add TS files that 
 After files loaded, click “Output directory” to set output path. When ready, click “Convert” to start. When the conversion is complete, click “Reveal in Folder” to find the generated MP3 files.
 ![](../img/steps.png)
 
-That’s the whole process of <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">transcoding TS files to MP3 format on Mac via using Gmagon TryToMP3</a>. Hope it helps. 
+That’s the whole process of transcoding TS files to MP3 format on Mac via using Gmagon <a href="https://gmagon.com/products/store/trytomp3/" target="_blank">TryToMP3</a>. Hope it helps. 
 
 Also read
 <a href="https://gmagon.com/guide/trytomp3/convert-opus-to-mp3-mac.html" target="_blank" >How to convert Opus to MP3 on Mac?</a>
