@@ -71,6 +71,7 @@ description: Find Gmagon Software how-to guides on this page.
 - [How to convert quicktime audio to mp3 on Mac? ](./trytomp3/convert-qt-audio-to-mp3-mac.html)
 - [How to convert Opus to MP3 on Mac? ](./trytomp3/convert-opus-to-mp3-mac.html)
 - [How to convert 3GA to MP3 on Mac? ](./trytomp3/convert-3ga-to-mp3-mac.html)
+- [How do I convert a .3gp file to .mp3 on Mac?](./trytomp3/convert-3gp-to-mp3-mac.html)
 ---
 
 # [Gmagon CSS Maker](../products/store/gmagon_css_maker/)  ![](../products/store/gmagon_css_maker/images/logo/logo_64x64.png)
