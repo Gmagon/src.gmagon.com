@@ -31,13 +31,5 @@
   </div>
 </div>
 
-<div class="class-content-wrap">
-  <div class="inner">
-    <div class="inner-wrap landing-bunting">
-      <div class="intro-sub-content-wrap">
-      </div>
-    </div>
-  </div>
-</div>
 
 <script>window.SEARCH_INDEX = {{ lunr_index(site.data[page.data], 'products') }}</script>

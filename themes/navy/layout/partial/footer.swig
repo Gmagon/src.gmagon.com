@@ -1,4 +1,4 @@
-<footer id="footer" class="landing-bunting font-e3">
+<footer id="footer" class="font-e3">
   <div class="inner">
     <div id="footer-some-docs">
         <a href="/terms_conditions.html" class="footer-doc-link" >Terms & Conditions</a>
