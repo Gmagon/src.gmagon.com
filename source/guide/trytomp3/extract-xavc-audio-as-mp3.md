@@ -1,8 +1,8 @@
 layout: guide
-title: Mac XAVC to MP3-extract audio from XAVC as MP3 on Mac   
+title: Mac XAVC to MP3-extract audio from XAVC as MP3 on Mac    
 keywords: extarct audio tracks from XAVC footage on a Mac, convert sound tracks in XAVC files to MP3, XAVC to MP3 Converter for Mac, acquire audio tracks from XAVC as MP3 on Mac
-description: This article tells how to convert sound tracks in XAVC files to MP3 format via using a helpful XAVC to MP3 Converter for Mac.     
---- 
+description: This article tells how to convert sound tracks in XAVC files to MP3 format via using a helpful XAVC to MP3 Converter for Mac.   
+---
 Attempting to extarct audio tracks from XAVC footage on a Mac? This article tells how to convert sound tracks in XAVC files to MP3 format via using a helpful XAVC to MP3 Converter for Mac. 
 ![](../img/xavc-to-mp3.jpg)
 
