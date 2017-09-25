@@ -1,4 +1,6 @@
 layout: support
 title: Gmagon Software Support Center
-comments: false
+bannerTitle: Contact Gmagon Support
+comments: true
 ---
+
