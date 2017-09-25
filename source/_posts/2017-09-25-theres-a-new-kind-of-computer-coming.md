@@ -2,7 +2,9 @@
 title: There's a new kind of computer coming
 ---
 
-![](http://img0.tuicool.com/UZzueim.jpg!web)Microsoft HoloLens, an augmented reality headset, is an early post-smartphone device. You interact with it by using its cameras and microphones instead of a touchscreen.TED
+![](http://img0.tuicool.com/UZzueim.jpg!web)
+
+Microsoft HoloLens, an augmented reality headset, is an early post-smartphone device. You interact with it by using its cameras and microphones instead of a touchscreen.TED
 
 It's the[dawn of a new kind of computer](http://www.businessinsider.com/death-of-the-smartphone-and-what-comes-after-2017-3). And a new kind of computer requires a new way to get stuff done. 
 
