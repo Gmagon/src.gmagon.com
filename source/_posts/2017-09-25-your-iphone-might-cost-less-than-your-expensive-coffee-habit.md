@@ -2,7 +2,8 @@
 title: Your iPhone might cost less than your expensive coffee habit
 ---
 
-![](http://img0.tuicool.com/7nqMbaF.png!web)The value you get for your phone almost certainly exceeds that of your cup of coffee.Mike Nudelman/Business Insider
+![](http://img0.tuicool.com/7nqMbaF.png!web)
+The value you get for your phone almost certainly exceeds that of your cup of coffee.Mike Nudelman/Business Insider
 
 Compared to your daily cup of coffee, your iPhone might seem like a big investment.
 
