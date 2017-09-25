@@ -9,6 +9,20 @@ current: download
 ## 配置下载链接
 # 版本号、发布时间，平台、版本
 downloads:
+  - version: 5.3.0
+    date: 2017-09-25 13:15
+    macos:
+      - name: XLS2csv-5.3.zip
+        size: 11MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12/10.13
+        url: http://downloads.gmagon.com/xls2csv/5.3/XLS2csv-5.3.zip
+        lastWeekDownloadsMin: 6000
+
+      - name: XLS2csv-5.3.dmg
+        size: 11.2MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12/10.13
+        url: http://downloads.gmagon.com/xls2csv/5.3/XLS2csv-5.3.dmg
+        lastWeekDownloadsMin: 5000
   - version: 5.2.0
     date: 2017-09-06 19:15
     macos:
