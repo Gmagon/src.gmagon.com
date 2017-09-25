@@ -5,10 +5,16 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## Version 5.3
+Release date: 2017-09-25
+* Updated base SDK to version 1.2.4
+* Added support for macOS 10.13
+* Optimized UI layout and app performance 
+
+<br>
 ## Version 5.2
 Release date: 2017-09-07
->Low level SDK updated to Ver. 1.2. 
-
+>Base SDK updated to Ver. 1.2. 
 
 <br>
 ## Version 5.1 
