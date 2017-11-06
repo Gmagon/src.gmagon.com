@@ -11,17 +11,17 @@ downloads:
   - version: 2.5.0
     date: 2017-11-06 10:02
     macos:
-      - name: EasyPing-2.5.zip
-        size: 2.3MiB
-        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12/10.13
-        url: http://downloads.gmagon.com/easyping/2.5/EasyPing-2.5.zip
-        lastWeekDownloadsMin: 4000
-
       - name: EasyPing-2.5.dmg
         size: 3.0MiB
         os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12/10.13
         url: http://downloads.gmagon.com/easyping/2.5/EasyPing-2.5.dmg
         lastWeekDownloadsMin: 3000
+      - name: EasyPing-2.5.zip
+        size: 2.3MiB
+        os: MacOSX10.7/10.8/10.9/10.10, macOS10.11/10.12/10.13
+        url: http://downloads.gmagon.com/easyping/2.5/EasyPing-2.5.zip
+        lastWeekDownloadsMin: 3000
+
 
   - version: 2.4.0
     date: 2017-09-08 11:52
