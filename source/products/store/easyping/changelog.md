@@ -5,6 +5,12 @@ subtitle: Release Notes
 comments: false
 current: changelog
 ---
+## Ver 2.5
+Release date: 2017-11-06
+<script> GmagonUtils.$verNote('2017-11-06')</script>
+- Use XCode 9.1 recompiled. 
+- Support macOS 10.13/10.13.1/10.13.2
+---
 
 ## Ver 2.4 
 Release date: 2017-09-07
